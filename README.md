@@ -9,7 +9,9 @@ MLS is one of the fastest growing sports leagues in the world, but there is no s
 
 ## Getting started
 
-There is not yet any data in this repository.
+There are two datasets availablue under the automated import:
+* **Teams** - a CSV, sourced from MLS fantasy, of all of the teams
+* **Players** - a CSV, sourced from MLS fantasy, of all of the players and their current status
 
 ## Roadmap
 

@@ -5,7 +5,9 @@ MLS data is an open-source repository of MLS data. It is a combination of origin
 Data is provided in CSV and JSON format and is largely denormalized for ease of use.
 
 ## Why MLS Data?
-MLS is one of the fastest growing sports leagues in the world, but there is no simple-to-use and open repository for it to reside.
+MLS is one of the fastest growing sports leagues in the world, but there is no simple-to-use and open repository for the enormous amounts of data it generates to reside.
+
+In addition to general interest, <a href="http://fantasy.mlssoccer.com">MLS Fantasy</a> is a popular and complex strategy game. This data is designed to be useful for players.
 
 ## Getting started
 

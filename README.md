@@ -7,7 +7,7 @@ Data is provided in CSV and JSON format and is largely denormalized for ease of 
 ## Why MLS Data?
 MLS is one of the fastest growing sports leagues in the world, but there is no simple-to-use and open repository for the enormous amounts of data it generates to reside.
 
-In addition to general interest, <a href="http://fantasy.mlssoccer.com">MLS Fantasy</a> is a popular and complex strategy game. This data is designed to be useful for players.
+In addition to general interest in the data from fans, <a href="http://fantasy.mlssoccer.com">MLS Fantasy</a> is a popular and complex strategy game that relies on statistics. This data is designed to be useful for players.
 
 ## Getting started
 

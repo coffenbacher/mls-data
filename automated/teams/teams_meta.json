@@ -1,1 +1,1 @@
-{"headers": "id,name,code,current_event_fixture,draw,form,loss,next_event_fixture,played,points,position,short_name,strength,team_division,unavailable,win", "rows": 20, "created": "03/06/15 19:40:21"}
+{"headers": "id,name,code,draw,form,loss,played,points,position,short_name,strength,team_division,unavailable,win", "created": "03/06/15 23:05:03", "rows": 20}

@@ -4100,16 +4100,16 @@
                         {
                             "children": null,
                             "class": "column-orphan",
-                            "href": "http://www.mlssoccer.com/mls-disciplinary-summary",
+                            "href": "http://www.mlssoccer.com/injuries",
                             "id": null,
-                            "title": "Disciplinary Report"
+                            "title": "Injury Report"
                         },
                         {
                             "children": null,
                             "class": "column-orphan",
-                            "href": "http://www.mlssoccer.com/injuries",
+                            "href": "http://www.mlssoccer.com/mls-disciplinary-summary",
                             "id": null,
-                            "title": "Injury Report"
+                            "title": "Disciplinary Report"
                         },
                         {
                             "children": null,
@@ -4284,9 +4284,9 @@
                         {
                             "children": null,
                             "class": null,
-                            "href": "http://www.mlssoccer.com/goldcup/2013",
+                            "href": "http://www.mlssoccer.com/goldcup/2015",
                             "id": null,
-                            "title": "Gold Cup 2013"
+                            "title": "Gold Cup 2015"
                         },
                         {
                             "children": null,
@@ -4455,21 +4455,21 @@
                         {
                             "children": null,
                             "class": null,
-                            "href": "http://www.mlssoccer.com/video/channel/world-cup",
+                            "href": "http://www.mlssoccer.com/video/channel/mls-now",
                             "id": null,
-                            "title": "World Cup"
+                            "title": "MLS Now"
                         },
                         {
                             "children": null,
                             "class": null,
-                            "href": "http://www.mlssoccer.com/gotw/2014",
+                            "href": "http://www.mlssoccer.com/gotw/2015",
                             "id": null,
                             "title": "AT&T Goal of the Week"
                         },
                         {
                             "children": null,
                             "class": null,
-                            "href": "http://www.mlssoccer.com/sotw/2014",
+                            "href": "http://www.mlssoccer.com/sotw/2015",
                             "id": null,
                             "title": "Save of the Week"
                         },
@@ -4497,16 +4497,16 @@
                         {
                             "children": null,
                             "class": null,
-                            "href": "http://www.mlssoccer.com/video/channel/anatomy-of-a-goal",
+                            "href": "http://www.mlssoccer.com/video/channel/on-the-field",
                             "id": null,
-                            "title": "Anatomy of a Goal"
+                            "title": "On the Field"
                         },
                         {
                             "children": null,
                             "class": null,
-                            "href": "http://www.mlssoccer.com/video/channel/between-the-lines",
+                            "href": "http://www.mlssoccer.com/video/channel/plays-of-the-night",
                             "id": null,
-                            "title": "Between the Lines"
+                            "title": "Plays of the Night"
                         },
                         {
                             "children": null,
@@ -4754,13 +4754,6 @@
                     "href": "http://www.mlsgearcanada.ca/",
                     "id": null,
                     "title": "MLS Gear Canada"
-                },
-                {
-                    "children": null,
-                    "class": "column-parent",
-                    "href": "http://mls.fanphotos.com",
-                    "id": null,
-                    "title": "MLS Photo Store"
                 }
             ],
             "href": "http://www.mlsstore.com",
@@ -8147,7 +8140,7 @@
             "secondNum": 28,
             "text": "Although we haven't scored yet, I'm pretty sure this is the best passing game the <a target=\"_blank\" href=\"//twitter.com/@SoundersFC\">@SoundersFC</a> have played in a while. <a target=\"_blank\" href=\"//twitter.com/search?q=%23SEAvTOR\">#SEAvTOR</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/460593024175570944/PL9SicxE_normal.jpeg"
+            "user_image": "http://pbs.twimg.com/profile_images/531316222256611328/64l-nGjs_normal.jpeg"
         },
         {
             "_type": "COMMENT",
@@ -9355,7 +9348,7 @@
             "secondNum": 11,
             "text": "2\u2019 - Looks like it\u2019ll be 18 vs. 18 as Defoe and Traore are matched up. Really interested to see Defoe in <a target=\"_blank\" href=\"//twitter.com/@MLS\">@MLS</a>.",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/461994758781427712/QTscZXpj_normal.jpeg"
+            "user_image": "http://pbs.twimg.com/profile_images/574678545030479872/pZzOa3cW_normal.jpeg"
         },
         {
             "_type": "INSTAGRAM",
@@ -9393,7 +9386,7 @@
             "secondNum": 41,
             "text": "Ozzie Alonso versus Michael Bradley is gonna be real sincere warfare. Worth yr money. <a target=\"_blank\" href=\"//twitter.com/search?q=%23SEAvTOR\">#SEAvTOR</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/531109742840537088/afZu6F4s_normal.jpeg"
+            "user_image": "http://pbs.twimg.com/profile_images/570742430870151168/Q4dOWEbp_normal.jpeg"
         },
         {
             "_type": "TWEET",
@@ -9745,7 +9738,7 @@
             "secondNum": 33,
             "text": "Scary thing is Toronto could be a lot better than they are right now. There's been a lot of easy midfield passes they've missed. <a target=\"_blank\" href=\"//twitter.com/search?q=%23TFC\">#TFC</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/517093570067836928/dsGj2UDk_normal.jpeg"
+            "user_image": "http://pbs.twimg.com/profile_images/567496945854590976/GfMC5A8P_normal.jpeg"
         },
         {
             "_type": "COMMENT",
@@ -10085,7 +10078,7 @@
             "secondNum": 10,
             "text": "I really hope Dempsey can get right by the World Cup. We can't have him out there trying to punch Germans below the belt, bruh <a target=\"_blank\" href=\"//twitter.com/search?q=%23SEAvTOR\">#SEAvTOR</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/548320677041041408/r_pyfaIX_normal.jpeg"
+            "user_image": "http://pbs.twimg.com/profile_images/570093771091632128/FL4veKjm_normal.jpeg"
         },
         {
             "_type": "COMMENT",
@@ -11907,7 +11900,7 @@
             "secondNum": 16,
             "text": "And dropping. RT <a target=\"_blank\" href=\"//twitter.com/@SoundersFC\">@SoundersFC</a>: Today's attendance: 38,441 <a target=\"_blank\" href=\"//twitter.com/search?q=%23SEAvTOR\">#SEAvTOR</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/572863913093558274/KeTkPFEk_normal.jpeg"
+            "user_image": "http://pbs.twimg.com/profile_images/578008380024877056/inDj1RUm_normal.jpeg"
         },
         {
             "_type": "TWEET",
@@ -11989,7 +11982,7 @@
             "secondNum": 30,
             "text": "I mean, if you're gonna spend the entire game being an ass, you gotta at least score to make up for all of that. <a target=\"_blank\" href=\"//twitter.com/search?q=%23SEAvTOR\">#SEAvTOR</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23Dempsey\">#Dempsey</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/548320677041041408/r_pyfaIX_normal.jpeg"
+            "user_image": "http://pbs.twimg.com/profile_images/570093771091632128/FL4veKjm_normal.jpeg"
         },
         {
             "_type": "TWEET",
@@ -12510,7 +12503,7 @@
             "secondNum": 22,
             "text": "<a target=\"_blank\" href=\"//twitter.com/search?q=%23TFC\">#TFC</a> look as if they\u2019ve fallen asleep over the last 10 minutes, and <a target=\"_blank\" href=\"//twitter.com/search?q=%23Sounders\">#Sounders</a> are turning the screw...",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/574227064837967873/9YfiJ39g_normal.png"
+            "user_image": "http://pbs.twimg.com/profile_images/577117580327919616/-Qb6Ztq0_normal.png"
         },
         {
             "_type": "TWEET",
@@ -12833,7 +12826,7 @@
             "secondNum": 24,
             "text": "<a target=\"_blank\" href=\"//twitter.com/search?q=%23MLS\">#MLS</a> Dempsey is awfully petulant these days. Jackson\u2019s challenge wasn\u2019t that bad but Deuce acts like it was attempted murder. <a target=\"_blank\" href=\"//twitter.com/search?q=%23sounders\">#sounders</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23tfc\">#tfc</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/574227064837967873/9YfiJ39g_normal.png"
+            "user_image": "http://pbs.twimg.com/profile_images/577117580327919616/-Qb6Ztq0_normal.png"
         },
         {
             "_type": "COMMENT",
@@ -13040,7 +13033,7 @@
             "secondNum": 40,
             "text": "81\u2019 - Foul called on Marshall after a deep FK comes in. He heads to Dempsey perfectly but the whistle blows. I dunno about that one.",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/461994758781427712/QTscZXpj_normal.jpeg"
+            "user_image": "http://pbs.twimg.com/profile_images/574678545030479872/pZzOa3cW_normal.jpeg"
         },
         {
             "_type": "TWEET",
@@ -13463,7 +13456,7 @@
             "secondNum": 0,
             "text": "90\u2019 - Three minutes of added time coming. One, two and three.",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/461994758781427712/QTscZXpj_normal.jpeg"
+            "user_image": "http://pbs.twimg.com/profile_images/574678545030479872/pZzOa3cW_normal.jpeg"
         },
         {
             "_type": "TWEET",
@@ -13666,7 +13659,7 @@
             "secondNum": 0,
             "text": "Is this real life? <a target=\"_blank\" href=\"//twitter.com/search?q=%23TFClive\">#TFClive</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/3045083325/6d2f49c38a01f9114079a937388771a8_normal.jpeg"
+            "user_image": "http://pbs.twimg.com/profile_images/532387277000167424/_nNKSXtE_normal.jpeg"
         },
         {
             "_type": "TWEET",

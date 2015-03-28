@@ -363,21 +363,21 @@
             "statistics": {
                 "accurate_cross": {
                     "statDesc": "Accurate Crosses",
-                    "statFH": 2,
+                    "statFH": 1,
                     "statSH": 1,
-                    "statValue": 3
+                    "statValue": 2
                 },
                 "accurate_cross_per": {
                     "statDesc": "Crossing Accuracy %",
                     "statFH": 0,
                     "statSH": 0,
-                    "statValue": 17
+                    "statValue": 12
                 },
                 "accurate_final_third_pass_per": {
                     "statDesc": "Final Third Passing Accuracy %",
                     "statFH": 0,
                     "statSH": 0,
-                    "statValue": 63
+                    "statValue": 62
                 },
                 "accurate_fwd_zone_pass": {
                     "statDesc": "Accurate Fwd Zn Passes",
@@ -393,9 +393,9 @@
                 },
                 "accurate_pass": {
                     "statDesc": "Accurate Pass",
-                    "statFH": 146,
-                    "statSH": 180,
-                    "statValue": 326
+                    "statFH": 148,
+                    "statSH": 181,
+                    "statValue": 329
                 },
                 "accurate_pass_per": {
                     "statDesc": "Passing Accuracy %",
@@ -460,8 +460,8 @@
                 "att_cmiss_right": {
                     "statDesc": "Shot Close Miss Right",
                     "statFH": 1,
-                    "statSH": 1,
-                    "statValue": 2
+                    "statSH": 0,
+                    "statValue": 1
                 },
                 "att_goal_high_centre": {
                     "statDesc": "Goal High Center",
@@ -520,8 +520,8 @@
                 "att_miss_high": {
                     "statDesc": "Shot Miss High",
                     "statFH": 0,
-                    "statSH": 1,
-                    "statValue": 1
+                    "statSH": 2,
+                    "statValue": 2
                 },
                 "att_miss_high_left": {
                     "statDesc": "Shot Miss High Left",
@@ -532,8 +532,8 @@
                 "att_miss_high_right": {
                     "statDesc": "Shot Miss High Right",
                     "statFH": 0,
-                    "statSH": 1,
-                    "statValue": 1
+                    "statSH": 0,
+                    "statValue": 0
                 },
                 "att_miss_left": {
                     "statDesc": "Shot Miss Left",
@@ -616,8 +616,8 @@
                 "att_sv_high_centre": {
                     "statDesc": "Save High Center",
                     "statFH": 0,
-                    "statSH": 1,
-                    "statValue": 1
+                    "statSH": 2,
+                    "statValue": 2
                 },
                 "att_sv_high_left": {
                     "statDesc": "Save High Left",
@@ -640,8 +640,8 @@
                 "att_sv_low_left": {
                     "statDesc": "Save Low Left",
                     "statFH": 1,
-                    "statSH": 1,
-                    "statValue": 2
+                    "statSH": 0,
+                    "statValue": 1
                 },
                 "att_sv_low_right": {
                     "statDesc": "Save Low Right",
@@ -652,14 +652,14 @@
                 "big_chance_created": {
                     "statDesc": "Big Chances Created",
                     "statFH": 0,
-                    "statSH": 0,
-                    "statValue": 0
+                    "statSH": 1,
+                    "statValue": 1
                 },
                 "big_chance_missed": {
                     "statDesc": "Big Chances Missed",
                     "statFH": 0,
-                    "statSH": 0,
-                    "statValue": 0
+                    "statSH": 1,
+                    "statValue": 1
                 },
                 "big_chance_scored": {
                     "statDesc": "Big Chances Scored",
@@ -682,21 +682,21 @@
                 },
                 "duel_lost": {
                     "statDesc": "Duels Lost",
-                    "statFH": 26,
-                    "statSH": 22,
-                    "statValue": 48
+                    "statFH": 31,
+                    "statSH": 25,
+                    "statValue": 56
                 },
                 "duel_won": {
                     "statDesc": "Duels Won",
                     "statFH": 21,
-                    "statSH": 28,
-                    "statValue": 49
+                    "statSH": 31,
+                    "statValue": 52
                 },
                 "duel_won_per": {
                     "statDesc": "Duels Won %",
                     "statFH": 0,
                     "statSH": 0,
-                    "statValue": 51
+                    "statValue": 48
                 },
                 "fk_foul_lost": {
                     "statDesc": "Fouls Committed",
@@ -743,20 +743,20 @@
                 "passes_left": {
                     "statDesc": "Left W Passes",
                     "statFH": 31,
-                    "statSH": 22,
-                    "statValue": 53
+                    "statSH": 20,
+                    "statValue": 51
                 },
                 "passes_right": {
                     "statDesc": "Right W Passes",
                     "statFH": 36,
-                    "statSH": 57,
-                    "statValue": 93
+                    "statSH": 58,
+                    "statValue": 94
                 },
                 "possession_percentage": {
                     "statDesc": "Possession",
-                    "statFH": 40.2,
-                    "statSH": 55.7,
-                    "statValue": 47.3
+                    "statFH": 40.3,
+                    "statSH": 56.1,
+                    "statValue": 47.5
                 },
                 "saves": {
                     "statDesc": "Saves",
@@ -779,43 +779,43 @@
                 "successful_final_third_passes": {
                     "statDesc": "Successful Final Third Passes",
                     "statFH": 35,
-                    "statSH": 54,
-                    "statValue": 89
+                    "statSH": 53,
+                    "statValue": 88
                 },
                 "total_back_zone_pass": {
                     "statDesc": "Back Zn Passes",
-                    "statFH": 79,
+                    "statFH": 80,
                     "statSH": 81,
-                    "statValue": 160
+                    "statValue": 161
                 },
                 "total_clearance": {
                     "statDesc": "Total Clearances",
                     "statFH": 18,
-                    "statSH": 13,
-                    "statValue": 31
+                    "statSH": 12,
+                    "statValue": 30
                 },
                 "total_cross": {
                     "statDesc": "Total Crosses",
-                    "statFH": 9,
+                    "statFH": 8,
                     "statSH": 9,
-                    "statValue": 18
+                    "statValue": 17
                 },
                 "total_cross_nocorner": {
                     "statDesc": "Open Play Crosses",
-                    "statFH": 6,
+                    "statFH": 5,
                     "statSH": 8,
-                    "statValue": 14
+                    "statValue": 13
                 },
                 "total_final_third_passes": {
                     "statDesc": "Total Final Third Passes",
-                    "statFH": 63,
-                    "statSH": 78,
+                    "statFH": 65,
+                    "statSH": 76,
                     "statValue": 141
                 },
                 "total_fwd_zone_pass": {
                     "statDesc": "Fwd Zn Passes",
-                    "statFH": 125,
-                    "statSH": 162,
+                    "statFH": 126,
+                    "statSH": 161,
                     "statValue": 287
                 },
                 "total_offside": {
@@ -826,9 +826,9 @@
                 },
                 "total_pass": {
                     "statDesc": "Total Pass",
-                    "statFH": 195,
-                    "statSH": 234,
-                    "statValue": 429
+                    "statFH": 198,
+                    "statSH": 233,
+                    "statValue": 431
                 },
                 "total_red_card": {
                     "statDesc": "Red Cards",
@@ -845,8 +845,8 @@
                 "total_tackle": {
                     "statDesc": "Total Tackles",
                     "statFH": 12,
-                    "statSH": 9,
-                    "statValue": 21
+                    "statSH": 10,
+                    "statValue": 22
                 },
                 "total_yel_card": {
                     "statDesc": "First Yellow Cards",
@@ -887,31 +887,31 @@
                     "statDesc": "Crossing Accuracy %",
                     "statFH": 0,
                     "statSH": 0,
-                    "statValue": 23
+                    "statValue": 20
                 },
                 "accurate_final_third_pass_per": {
                     "statDesc": "Final Third Passing Accuracy %",
                     "statFH": 0,
                     "statSH": 0,
-                    "statValue": 62
+                    "statValue": 63
                 },
                 "accurate_fwd_zone_pass": {
                     "statDesc": "Accurate Fwd Zn Passes",
                     "statFH": 118,
-                    "statSH": 80,
-                    "statValue": 198
+                    "statSH": 79,
+                    "statValue": 197
                 },
                 "accurate_fwd_zone_pass_per": {
                     "statDesc": "Attacking Half Passing Accuracy %",
                     "statFH": 0,
                     "statSH": 0,
-                    "statValue": 66
+                    "statValue": 67
                 },
                 "accurate_pass": {
                     "statDesc": "Accurate Pass",
                     "statFH": 250,
-                    "statSH": 130,
-                    "statValue": 380
+                    "statSH": 129,
+                    "statValue": 379
                 },
                 "accurate_pass_per": {
                     "statDesc": "Passing Accuracy %",
@@ -1000,8 +1000,8 @@
                 "att_goal_low_centre": {
                     "statDesc": "Goal Low Center",
                     "statFH": 0,
-                    "statSH": 0,
-                    "statValue": 0
+                    "statSH": 1,
+                    "statValue": 1
                 },
                 "att_goal_low_left": {
                     "statDesc": "Goal Low Left",
@@ -1012,8 +1012,8 @@
                 "att_goal_low_right": {
                     "statDesc": "Goal Low Right",
                     "statFH": 0,
-                    "statSH": 1,
-                    "statValue": 1
+                    "statSH": 0,
+                    "statValue": 0
                 },
                 "att_lg_centre": {
                     "statDesc": "Shot Center Outside Box (35+ yards)",
@@ -1199,20 +1199,20 @@
                 "duel_lost": {
                     "statDesc": "Duels Lost",
                     "statFH": 21,
-                    "statSH": 28,
-                    "statValue": 49
+                    "statSH": 31,
+                    "statValue": 52
                 },
                 "duel_won": {
                     "statDesc": "Duels Won",
-                    "statFH": 26,
-                    "statSH": 22,
-                    "statValue": 48
+                    "statFH": 31,
+                    "statSH": 25,
+                    "statValue": 56
                 },
                 "duel_won_per": {
                     "statDesc": "Duels Won %",
                     "statFH": 0,
                     "statSH": 0,
-                    "statValue": 49
+                    "statValue": 52
                 },
                 "fk_foul_lost": {
                     "statDesc": "Fouls Committed",
@@ -1264,15 +1264,15 @@
                 },
                 "passes_right": {
                     "statDesc": "Right W Passes",
-                    "statFH": 31,
-                    "statSH": 31,
-                    "statValue": 62
+                    "statFH": 33,
+                    "statSH": 28,
+                    "statValue": 61
                 },
                 "possession_percentage": {
                     "statDesc": "Possession",
-                    "statFH": 59.8,
-                    "statSH": 44.3,
-                    "statValue": 52.7
+                    "statFH": 59.7,
+                    "statSH": 43.9,
+                    "statValue": 52.5
                 },
                 "saves": {
                     "statDesc": "Saves",
@@ -1300,39 +1300,39 @@
                 },
                 "total_back_zone_pass": {
                     "statDesc": "Back Zn Passes",
-                    "statFH": 140,
-                    "statSH": 59,
-                    "statValue": 199
+                    "statFH": 141,
+                    "statSH": 61,
+                    "statValue": 202
                 },
                 "total_clearance": {
                     "statDesc": "Total Clearances",
-                    "statFH": 14,
-                    "statSH": 15,
-                    "statValue": 29
+                    "statFH": 15,
+                    "statSH": 17,
+                    "statValue": 32
                 },
                 "total_cross": {
                     "statDesc": "Total Crosses",
-                    "statFH": 6,
-                    "statSH": 7,
-                    "statValue": 13
+                    "statFH": 7,
+                    "statSH": 8,
+                    "statValue": 15
                 },
                 "total_cross_nocorner": {
                     "statDesc": "Open Play Crosses",
-                    "statFH": 4,
-                    "statSH": 5,
-                    "statValue": 9
+                    "statFH": 5,
+                    "statSH": 6,
+                    "statValue": 11
                 },
                 "total_final_third_passes": {
                     "statDesc": "Total Final Third Passes",
                     "statFH": 76,
-                    "statSH": 72,
-                    "statValue": 148
+                    "statSH": 69,
+                    "statValue": 145
                 },
                 "total_fwd_zone_pass": {
                     "statDesc": "Fwd Zn Passes",
-                    "statFH": 164,
-                    "statSH": 134,
-                    "statValue": 298
+                    "statFH": 165,
+                    "statSH": 128,
+                    "statValue": 293
                 },
                 "total_offside": {
                     "statDesc": "Offside",
@@ -1342,9 +1342,9 @@
                 },
                 "total_pass": {
                     "statDesc": "Total Pass",
-                    "statFH": 298,
-                    "statSH": 186,
-                    "statValue": 484
+                    "statFH": 299,
+                    "statSH": 181,
+                    "statValue": 480
                 },
                 "total_red_card": {
                     "statDesc": "Red Cards",
@@ -1360,9 +1360,9 @@
                 },
                 "total_tackle": {
                     "statDesc": "Total Tackles",
-                    "statFH": 12,
-                    "statSH": 13,
-                    "statValue": 25
+                    "statFH": 14,
+                    "statSH": 14,
+                    "statValue": 28
                 },
                 "total_yel_card": {
                     "statDesc": "First Yellow Cards",
@@ -1384,9 +1384,9 @@
                 },
                 "won_tackle": {
                     "statDesc": "Tackles Won",
-                    "statFH": 10,
+                    "statFH": 11,
                     "statSH": 10,
-                    "statValue": 20
+                    "statValue": 21
                 }
             }
         }
@@ -1407,14 +1407,14 @@
             "id": "1521512144",
             "period_id": 1,
             "qualifiers": {
-                "146": "88.2",
-                "147": "73.5",
+                "146": "89.3",
+                "147": "66.4",
                 "82": true
             },
             "team_id": 1616,
             "type_id": 15,
-            "x": "87.1",
-            "y": "74.7"
+            "x": "87.0",
+            "y": "69.0"
         },
         {
             "id": "1972622668",
@@ -1437,8 +1437,8 @@
             },
             "team_id": 1326,
             "type_id": 15,
-            "x": "87.5",
-            "y": "64.0"
+            "x": "85.3",
+            "y": "64.9"
         },
         {
             "id": "984772887",
@@ -1470,14 +1470,14 @@
             "id": "1717202841",
             "period_id": 1,
             "qualifiers": {
-                "102": "52.4",
+                "102": "53.2",
                 "146": "98.5",
                 "147": "51.6"
             },
             "team_id": 1616,
             "type_id": 15,
-            "x": "76.4",
-            "y": "64.9"
+            "x": "73.8",
+            "y": "65.8"
         },
         {
             "id": "2108610190",
@@ -1494,7 +1494,7 @@
             "id": "1417971486",
             "period_id": 1,
             "qualifiers": {
-                "102": "54.3",
+                "102": "53.9",
                 "146": "95.5",
                 "147": "49.6"
             },
@@ -1520,21 +1520,21 @@
             "id": "636341773",
             "period_id": 1,
             "qualifiers": {
-                "146": "81.8",
-                "147": "26.0",
+                "146": "81.4",
+                "147": "30.7",
                 "82": true
             },
             "team_id": 1616,
             "type_id": 15,
-            "x": "79.2",
-            "y": "23.3"
+            "x": "78.8",
+            "y": "27.4"
         },
         {
             "id": "590163671",
             "period_id": 1,
             "qualifiers": {
-                "146": "92.0",
-                "147": "40.6",
+                "146": "93.0",
+                "147": "40.4",
                 "82": true
             },
             "team_id": 1326,
@@ -1559,7 +1559,7 @@
             "id": "324904572",
             "period_id": 1,
             "qualifiers": {
-                "102": "61.3"
+                "102": "58.5"
             },
             "team_id": 1326,
             "type_id": 13,
@@ -1570,7 +1570,7 @@
             "id": "1662569676",
             "period_id": 1,
             "qualifiers": {
-                "102": "68.4"
+                "102": "61.6"
             },
             "team_id": 1326,
             "type_id": 13,
@@ -1581,8 +1581,8 @@
             "id": "256993415",
             "period_id": 2,
             "qualifiers": {
-                "146": "88.2",
-                "147": "62.6",
+                "146": "89.8",
+                "147": "54.7",
                 "82": true
             },
             "team_id": 1616,
@@ -1594,20 +1594,20 @@
             "id": "1067516333",
             "period_id": 2,
             "qualifiers": {
-                "102": "49.7"
+                "102": "46.9"
             },
             "team_id": 1326,
             "type_id": 13,
-            "x": "84.6",
-            "y": "53.4"
+            "x": "85.2",
+            "y": "57.5"
         },
         {
             "id": "472833202",
             "period_id": 2,
             "qualifiers": {
-                "102": "53.0",
-                "146": "99.3",
-                "147": "46.2"
+                "102": "50.1",
+                "146": "98.1",
+                "147": "43.9"
             },
             "team_id": 1616,
             "type_id": 15,
@@ -1618,18 +1618,18 @@
             "id": "142707736",
             "period_id": 2,
             "qualifiers": {
-                "102": "47.7"
+                "102": "51.0"
             },
             "team_id": 1326,
             "type_id": 16,
-            "x": "80.8",
-            "y": "69.1"
+            "x": "79.8",
+            "y": "73.4"
         },
         {
             "id": "614267776",
             "period_id": 2,
             "qualifiers": {
-                "102": "48.5"
+                "102": "47.5"
             },
             "team_id": 1326,
             "type_id": 14,
@@ -1644,8 +1644,8 @@
             },
             "team_id": 1616,
             "type_id": 13,
-            "x": "79.8",
-            "y": "31.2"
+            "x": "77.5",
+            "y": "33.0"
         },
         {
             "id": "1013907123",
@@ -1657,6 +1657,19 @@
             "type_id": 13,
             "x": "90.8",
             "y": "53.6"
+        },
+        {
+            "id": "2072705844",
+            "period_id": 2,
+            "qualifiers": {
+                "102": "38.7",
+                "146": "97.3",
+                "147": "43.9"
+            },
+            "team_id": 1616,
+            "type_id": 13,
+            "x": "87.7",
+            "y": "59.9"
         },
         {
             "id": "1035892706",
@@ -1673,23 +1686,10 @@
             "y": "44.5"
         },
         {
-            "id": "2072705844",
-            "period_id": 2,
-            "qualifiers": {
-                "102": "40.1",
-                "146": "99.3",
-                "147": "43.1"
-            },
-            "team_id": 1616,
-            "type_id": 13,
-            "x": "87.7",
-            "y": "59.9"
-        },
-        {
             "id": "370229471",
             "period_id": 2,
             "qualifiers": {
-                "102": "42.0"
+                "102": "47.9"
             },
             "team_id": 1616,
             "type_id": 13,
@@ -1700,7 +1700,7 @@
             "id": "95267792",
             "period_id": 2,
             "qualifiers": {
-                "102": "51.8",
+                "102": "50.1",
                 "146": "94.5",
                 "147": "40.6"
             },
@@ -1719,14 +1719,14 @@
             },
             "team_id": 1616,
             "type_id": 15,
-            "x": "83.8",
-            "y": "39.7"
+            "x": "84.9",
+            "y": "38.8"
         },
         {
             "id": "1108589506",
             "period_id": 2,
             "qualifiers": {
-                "102": "42.2"
+                "102": "39.9"
             },
             "team_id": 1616,
             "type_id": 13,
@@ -2225,7 +2225,7 @@
                     },
                     "nid": 211683,
                     "optaId": 153578,
-                    "position": "D",
+                    "position": "M-D",
                     "weight": 162
                 },
                 "179846": {
@@ -2425,7 +2425,7 @@
                         "date": "1989-09-15",
                         "state": "NJ"
                     },
-                    "headshot": "http://img.mlsdigital.net/www.mlssoccer.com/6/player/76219/{{width}}x{{height}}.jpg",
+                    "headshot": "http://img.mlsdigital.net/www.mlssoccer.com/6/player/76219/{{width}}x{{height}}.png",
                     "height": 69,
                     "id": 78018,
                     "jerseyNumber": 11,
@@ -3012,16 +3012,16 @@
                         {
                             "children": null,
                             "class": "column-orphan",
-                            "href": "http://www.mlssoccer.com/mls-disciplinary-summary",
+                            "href": "http://www.mlssoccer.com/injuries",
                             "id": null,
-                            "title": "Disciplinary Report"
+                            "title": "Injury Report"
                         },
                         {
                             "children": null,
                             "class": "column-orphan",
-                            "href": "http://www.mlssoccer.com/injuries",
+                            "href": "http://www.mlssoccer.com/mls-disciplinary-summary",
                             "id": null,
-                            "title": "Injury Report"
+                            "title": "Disciplinary Report"
                         },
                         {
                             "children": null,
@@ -3196,9 +3196,9 @@
                         {
                             "children": null,
                             "class": null,
-                            "href": "http://www.mlssoccer.com/goldcup/2013",
+                            "href": "http://www.mlssoccer.com/goldcup/2015",
                             "id": null,
-                            "title": "Gold Cup 2013"
+                            "title": "Gold Cup 2015"
                         },
                         {
                             "children": null,
@@ -3367,21 +3367,21 @@
                         {
                             "children": null,
                             "class": null,
-                            "href": "http://www.mlssoccer.com/video/channel/world-cup",
+                            "href": "http://www.mlssoccer.com/video/channel/mls-now",
                             "id": null,
-                            "title": "World Cup"
+                            "title": "MLS Now"
                         },
                         {
                             "children": null,
                             "class": null,
-                            "href": "http://www.mlssoccer.com/gotw/2014",
+                            "href": "http://www.mlssoccer.com/gotw/2015",
                             "id": null,
                             "title": "AT&T Goal of the Week"
                         },
                         {
                             "children": null,
                             "class": null,
-                            "href": "http://www.mlssoccer.com/sotw/2014",
+                            "href": "http://www.mlssoccer.com/sotw/2015",
                             "id": null,
                             "title": "Save of the Week"
                         },
@@ -3409,16 +3409,16 @@
                         {
                             "children": null,
                             "class": null,
-                            "href": "http://www.mlssoccer.com/video/channel/anatomy-of-a-goal",
+                            "href": "http://www.mlssoccer.com/video/channel/on-the-field",
                             "id": null,
-                            "title": "Anatomy of a Goal"
+                            "title": "On the Field"
                         },
                         {
                             "children": null,
                             "class": null,
-                            "href": "http://www.mlssoccer.com/video/channel/between-the-lines",
+                            "href": "http://www.mlssoccer.com/video/channel/plays-of-the-night",
                             "id": null,
-                            "title": "Between the Lines"
+                            "title": "Plays of the Night"
                         },
                         {
                             "children": null,
@@ -3666,13 +3666,6 @@
                     "href": "http://www.mlsgearcanada.ca/",
                     "id": null,
                     "title": "MLS Gear Canada"
-                },
-                {
-                    "children": null,
-                    "class": "column-parent",
-                    "href": "http://mls.fanphotos.com",
-                    "id": null,
-                    "title": "MLS Photo Store"
                 }
             ],
             "href": "http://www.mlsstore.com",
@@ -4892,64 +4885,64 @@
                 "interval": {
                     "15": {
                         "0-15": {
-                            "1326": 51.8,
-                            "1616": 48.2
+                            "1326": 52.5,
+                            "1616": 47.5
                         },
                         "16-30": {
-                            "1326": 61,
-                            "1616": 39
+                            "1326": 60.1,
+                            "1616": 39.9
                         },
                         "31-45": {
-                            "1326": 70.1,
-                            "1616": 29.9
+                            "1326": 69.9,
+                            "1616": 30.1
                         },
                         "46-60": {
-                            "1326": 46.6,
-                            "1616": 53.4
+                            "1326": 46.9,
+                            "1616": 53.1
                         },
                         "61-75": {
-                            "1326": 40.1,
-                            "1616": 59.9
+                            "1326": 39.3,
+                            "1616": 60.7
                         },
                         "76-90": {
-                            "1326": 44.5,
-                            "1616": 55.5
+                            "1326": 43.6,
+                            "1616": 56.4
                         }
                     },
                     "45": {
                         "0-45": {
-                            "1326": 60.2,
-                            "1616": 39.8
+                            "1326": 60.1,
+                            "1616": 39.9
                         },
                         "46-90": {
-                            "1326": 43.8,
-                            "1616": 56.2
+                            "1326": 43.3,
+                            "1616": 56.7
                         }
                     },
                     "5": {
                         "0-5": {
-                            "1326": 64.6,
-                            "1616": 35.4,
+                            "1326": 65,
+                            "1616": 35,
                             "interval": "0-5"
                         },
                         "11-15": {
-                            "1326": 39.2,
-                            "1616": 60.8,
+                            "1326": 40,
+                            "1616": 60,
                             "interval": "11-15"
                         },
                         "16-20": {
-                            "1326": 69.4,
-                            "1616": 30.6,
+                            "1326": 68.8,
+                            "1616": 31.2,
                             "interval": "16-20"
                         },
                         "21-25": {
-                            "1326": 37.7,
-                            "1616": 62.3,
+                            "1326": 36.4,
+                            "1616": 63.6,
                             "interval": "21-25"
                         },
                         "26-30": {
-                            "1326": 79.5,
-                            "1616": 20.5,
+                            "1326": 80,
+                            "1616": 20,
                             "interval": "26-30"
                         },
                         "31-35": {
@@ -4958,8 +4951,8 @@
                             "interval": "31-35"
                         },
                         "36-40": {
-                            "1326": 70,
-                            "1616": 30,
+                            "1326": 69.4,
+                            "1616": 30.6,
                             "interval": "36-40"
                         },
                         "41-45": {
@@ -4968,13 +4961,13 @@
                             "interval": "41-45"
                         },
                         "46-50": {
-                            "1326": 31.9,
-                            "1616": 68.1,
+                            "1326": 33.8,
+                            "1616": 66.2,
                             "interval": "46-50"
                         },
                         "51-55": {
-                            "1326": 71,
-                            "1616": 29,
+                            "1326": 70,
+                            "1616": 30,
                             "interval": "51-55"
                         },
                         "56-60": {
@@ -4983,28 +4976,28 @@
                             "interval": "56-60"
                         },
                         "6-10": {
-                            "1326": 50,
-                            "1616": 50,
+                            "1326": 51.1,
+                            "1616": 48.9,
                             "interval": "6-10"
                         },
                         "61-65": {
-                            "1326": 32.7,
-                            "1616": 67.3,
+                            "1326": 30.9,
+                            "1616": 69.1,
                             "interval": "61-65"
                         },
                         "66-70": {
-                            "1326": 65.6,
-                            "1616": 34.4,
+                            "1326": 69,
+                            "1616": 31,
                             "interval": "66-70"
                         },
                         "71-75": {
-                            "1326": 32.7,
-                            "1616": 67.3,
+                            "1326": 32.1,
+                            "1616": 67.9,
                             "interval": "71-75"
                         },
                         "76-80": {
-                            "1326": 24.1,
-                            "1616": 75.9,
+                            "1326": 19.2,
+                            "1616": 80.8,
                             "interval": "76-80"
                         },
                         "81-85": {
@@ -5013,44 +5006,44 @@
                             "interval": "81-85"
                         },
                         "86-90": {
-                            "1326": 40.5,
-                            "1616": 59.5,
+                            "1326": 39.7,
+                            "1616": 60.3,
                             "interval": "86-90"
                         }
                     }
                 },
                 "lastX": {},
                 "overall": {
-                    "1326": 52.6,
-                    "1616": 47.4
+                    "1326": 52.5,
+                    "1616": 47.5
                 }
             },
             "Territorial": {
                 "interval": {
                     "15": {
                         "0-15": {
-                            "1326": 48.7,
-                            "1616": 51.3
+                            "1326": 49.5,
+                            "1616": 50.5
                         },
                         "16-30": {
-                            "1326": 44.5,
-                            "1616": 55.5
+                            "1326": 43.9,
+                            "1616": 56.1
                         },
                         "31-45": {
-                            "1326": 51,
-                            "1616": 49
+                            "1326": 50.6,
+                            "1616": 49.4
                         },
                         "46-60": {
-                            "1326": 43.2,
-                            "1616": 56.8
+                            "1326": 41.5,
+                            "1616": 58.5
                         },
                         "61-75": {
-                            "1326": 40.8,
-                            "1616": 59.2
+                            "1326": 40.7,
+                            "1616": 59.3
                         },
                         "76-90": {
-                            "1326": 63.5,
-                            "1616": 36.5
+                            "1326": 63.2,
+                            "1616": 36.8
                         }
                     },
                     "45": {
@@ -5059,208 +5052,208 @@
                             "1616": 51.8
                         },
                         "46-90": {
-                            "1326": 48.9,
-                            "1616": 51.1
+                            "1326": 48.1,
+                            "1616": 51.9
                         }
                     },
                     "5": {
                         "0-5": {
-                            "1326": 49.4,
-                            "1616": 50.6
+                            "1326": 50,
+                            "1616": 50
                         },
                         "11-15": {
-                            "1326": 41.9,
-                            "1616": 58.1
+                            "1326": 42.7,
+                            "1616": 57.3
                         },
                         "16-20": {
-                            "1326": 38.8,
-                            "1616": 61.2
+                            "1326": 39.6,
+                            "1616": 60.4
                         },
                         "21-25": {
-                            "1326": 47.2,
-                            "1616": 52.8
+                            "1326": 45.5,
+                            "1616": 54.5
                         },
                         "26-30": {
-                            "1326": 47.7,
-                            "1616": 52.3
+                            "1326": 46.7,
+                            "1616": 53.3
                         },
                         "31-35": {
                             "1326": 41.2,
                             "1616": 58.8
                         },
                         "36-40": {
-                            "1326": 56,
-                            "1616": 44
+                            "1326": 55.1,
+                            "1616": 44.9
                         },
                         "41-45": {
                             "1326": 55.4,
                             "1616": 44.6
                         },
                         "46-50": {
-                            "1326": 26.4,
-                            "1616": 73.6
+                            "1326": 25.7,
+                            "1616": 74.3
                         },
                         "51-55": {
-                            "1326": 74.2,
-                            "1616": 25.8
+                            "1326": 73.3,
+                            "1616": 26.7
                         },
                         "56-60": {
-                            "1326": 48.8,
-                            "1616": 51.2
+                            "1326": 46.5,
+                            "1616": 53.5
                         },
                         "6-10": {
-                            "1326": 58.7,
-                            "1616": 41.3
+                            "1326": 59.6,
+                            "1616": 40.4
                         },
                         "61-65": {
-                            "1326": 41.8,
-                            "1616": 58.2
+                            "1326": 40,
+                            "1616": 60
                         },
                         "66-70": {
-                            "1326": 46.9,
-                            "1616": 53.1
-                        },
-                        "71-75": {
-                            "1326": 36.4,
-                            "1616": 63.6
-                        },
-                        "76-80": {
                             "1326": 51.7,
                             "1616": 48.3
+                        },
+                        "71-75": {
+                            "1326": 35.7,
+                            "1616": 64.3
+                        },
+                        "76-80": {
+                            "1326": 50,
+                            "1616": 50
                         },
                         "81-85": {
                             "1326": 89.7,
                             "1616": 10.3
                         },
                         "86-90": {
-                            "1326": 58.2,
-                            "1616": 41.8
+                            "1326": 57.7,
+                            "1616": 42.3
                         }
                     }
                 },
                 "lastX": {},
                 "overall": {
-                    "1326": 48.5,
-                    "1616": 51.5
+                    "1326": 48.2,
+                    "1616": 51.8
                 }
             },
             "TerritorialThird": {
                 "interval": {
                     "15": {
                         "0-15": {
-                            "1326": 29.1,
-                            "1616": 23.1
+                            "1326": 28.7,
+                            "1616": 24.3
                         },
                         "16-30": {
-                            "1326": 19.9,
-                            "1616": 20.5
+                            "1326": 19.6,
+                            "1616": 20.3
                         },
                         "31-45": {
-                            "1326": 25.5,
-                            "1616": 22.9
+                            "1326": 25.6,
+                            "1616": 22.4
                         },
                         "46-60": {
-                            "1326": 21.2,
-                            "1616": 20.5
+                            "1326": 22.4,
+                            "1616": 19.7
                         },
                         "61-75": {
-                            "1326": 31,
-                            "1616": 13.4
+                            "1326": 30.7,
+                            "1616": 13.6
                         },
                         "76-90": {
-                            "1326": 21.9,
-                            "1616": 35
+                            "1326": 21.8,
+                            "1616": 35.3
                         }
                     },
                     "45": {
                         "0-45": {
-                            "1326": 25.3,
-                            "1616": 22.3
+                            "1326": 25.1,
+                            "1616": 22.5
                         },
                         "46-90": {
-                            "1326": 24.7,
-                            "1616": 22.8
+                            "1326": 25,
+                            "1616": 22.6
                         }
                     },
                     "5": {
                         "0-5": {
-                            "1326": 32.9,
-                            "1616": 20.3
+                            "1326": 32.5,
+                            "1616": 21.2
                         },
                         "11-15": {
-                            "1326": 27,
-                            "1616": 23
+                            "1326": 26.7,
+                            "1616": 24
                         },
                         "16-20": {
-                            "1326": 24.5,
-                            "1616": 20.4
+                            "1326": 22.9,
+                            "1616": 20.8
                         },
                         "21-25": {
-                            "1326": 18.9,
-                            "1616": 11.3
+                            "1326": 20,
+                            "1616": 10.9
                         },
                         "26-30": {
-                            "1326": 15.9,
-                            "1616": 31.8
+                            "1326": 15.6,
+                            "1616": 31.1
                         },
                         "31-35": {
                             "1326": 27.5,
                             "1616": 21.6
                         },
                         "36-40": {
-                            "1326": 32,
-                            "1616": 24
+                            "1326": 32.7,
+                            "1616": 22.4
                         },
                         "41-45": {
                             "1326": 17.9,
                             "1616": 23.2
                         },
                         "46-50": {
-                            "1326": 26.4,
-                            "1616": 8.3
+                            "1326": 27,
+                            "1616": 8.1
                         },
                         "51-55": {
-                            "1326": 3.2,
-                            "1616": 38.7
+                            "1326": 3.3,
+                            "1616": 40
                         },
                         "56-60": {
-                            "1326": 25.6,
-                            "1616": 27.9
+                            "1326": 27.9,
+                            "1616": 25.6
                         },
                         "6-10": {
-                            "1326": 26.1,
-                            "1616": 28.3
+                            "1326": 25.5,
+                            "1616": 29.8
                         },
                         "61-65": {
                             "1326": 20,
                             "1616": 5.5
                         },
                         "66-70": {
-                            "1326": 31.2,
-                            "1616": 25
+                            "1326": 27.6,
+                            "1616": 27.6
                         },
                         "71-75": {
-                            "1326": 41.8,
-                            "1616": 14.5
+                            "1326": 42.9,
+                            "1616": 14.3
                         },
                         "76-80": {
-                            "1326": 37.9,
-                            "1616": 20.7
+                            "1326": 38.5,
+                            "1616": 19.2
                         },
                         "81-85": {
                             "1326": 3.4,
                             "1616": 62.1
                         },
                         "86-90": {
-                            "1326": 22.8,
-                            "1616": 30.4
+                            "1326": 23.1,
+                            "1616": 30.8
                         }
                     }
                 },
                 "lastX": {},
                 "overall": {
-                    "1326": 25,
-                    "1616": 22.5
+                    "1326": 25.1,
+                    "1616": 22.6
                 }
             },
             "away_team_id": 1616,
@@ -6470,7 +6463,7 @@
             "title": "DC United 1, Montreal Impact 0 | MLS Match Recap"
         }
     },
-    "sequence": 863,
+    "sequence": 871,
     "shootout": [],
     "timelineItems": [
         {
@@ -6674,7 +6667,7 @@
             "secondNum": 37,
             "text": "So far <a target=\"_blank\" href=\"//twitter.com/search?q=%23dcu\">#dcu</a> really look towards exposing <a target=\"_blank\" href=\"//twitter.com/search?q=%23imfc\">#imfc</a> on the left side. Reo-Coker really doing well to track Pontius though",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/3339126083/a08fdac82b9ad22001633c75ebc32b64_normal.jpeg"
+            "user_image": "http://pbs.twimg.com/profile_images/578271590871224320/gQpgjuWR_normal.jpeg"
         },
         {
             "_type": "TWEET",
@@ -6734,7 +6727,7 @@
             "comment": "Attempt blocked. Dilly Duka (Montreal Impact) right footed shot from the left side of the box is blocked. Assisted by Ignacio Piatti.",
             "extraTimeNum": 0,
             "id": "1521512144",
-            "last_modified": "2015-03-07 20:28:06",
+            "last_modified": "2015-03-09 02:15:00",
             "minuteNum": 15,
             "players": [
                 {
@@ -6806,7 +6799,7 @@
             "secondNum": 14,
             "text": "Duka v. Franklin is looking problematic so far for <a target=\"_blank\" href=\"//twitter.com/search?q=%23dcu\">#dcu</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/573932612328140800/cCXIuBk-_normal.jpeg"
+            "user_image": "http://pbs.twimg.com/profile_images/578546710185562112/qCYxCchK_normal.png"
         },
         {
             "_type": "TWEET",
@@ -6834,7 +6827,7 @@
             "secondNum": 58,
             "text": "Going to be interesting to see how both teams respond to playing a second match in such a short period of time <a target=\"_blank\" href=\"//twitter.com/search?q=%23dcu\">#dcu</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23imfc\">#imfc</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/3339126083/a08fdac82b9ad22001633c75ebc32b64_normal.jpeg"
+            "user_image": "http://pbs.twimg.com/profile_images/578271590871224320/gQpgjuWR_normal.jpeg"
         },
         {
             "_type": "COMMENT",
@@ -7118,7 +7111,7 @@
             "secondNum": 57,
             "text": "The highlight of this game so far is the pitch. Well done to the team who cleared it. <a target=\"_blank\" href=\"//twitter.com/search?q=%23dcu\">#dcu</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/495211402185809920/FhNy2Cky_normal.jpeg"
+            "user_image": "http://pbs.twimg.com/profile_images/574363907650809857/1PHPkwSM_normal.jpeg"
         },
         {
             "_type": "COMMENT",
@@ -7570,7 +7563,7 @@
             "comment": "Attempt blocked. Chris Rolfe (D.C. United) left footed shot from the left side of the box is blocked. Assisted by Chris Pontius.",
             "extraTimeNum": 0,
             "id": "154309291",
-            "last_modified": "2015-03-07 20:34:41",
+            "last_modified": "2015-03-09 02:41:34",
             "minuteNum": 26,
             "players": [
                 {
@@ -7648,7 +7641,7 @@
             "secondNum": 8,
             "text": "Arrieta and Rolfe really working on Reo-Coker and Ciman right now. They have the pace, but the <a target=\"_blank\" href=\"//twitter.com/search?q=%23imfc\">#imfc</a> duo have good positioning. <a target=\"_blank\" href=\"//twitter.com/search?q=%23dcu\">#dcu</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/3339126083/a08fdac82b9ad22001633c75ebc32b64_normal.jpeg"
+            "user_image": "http://pbs.twimg.com/profile_images/578271590871224320/gQpgjuWR_normal.jpeg"
         },
         {
             "_type": "TWEET",
@@ -7729,7 +7722,7 @@
             "comment": "Attempt blocked. Chris Korb (D.C. United) right footed shot from outside the box is blocked. Assisted by Chris Rolfe.",
             "extraTimeNum": 0,
             "id": "984772887",
-            "last_modified": "2015-03-07 20:40:15",
+            "last_modified": "2015-03-09 02:51:04",
             "minuteNum": 31,
             "players": [
                 {
@@ -7791,7 +7784,7 @@
             "secondNum": 11,
             "text": "<a target=\"_blank\" href=\"//twitter.com/search?q=%23imfc\">#imfc</a> at the center of the pitch...very stable, they do not give up too much space. <a target=\"_blank\" href=\"//twitter.com/search?q=%23dcu\">#dcu</a> really trying to push them out of position.",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/3339126083/a08fdac82b9ad22001633c75ebc32b64_normal.jpeg"
+            "user_image": "http://pbs.twimg.com/profile_images/578271590871224320/gQpgjuWR_normal.jpeg"
         },
         {
             "_type": "COMMENT",
@@ -7824,10 +7817,10 @@
         },
         {
             "_type": "COMMENT",
-            "comment": "Corner,  Montreal Impact. Conceded by Bobby Boswell.",
+            "comment": "Corner,  Montreal Impact. Conceded by Perry Kitchen.",
             "extraTimeNum": 0,
             "id": "880671249",
-            "last_modified": "2015-03-07 20:52:37",
+            "last_modified": "2015-03-09 02:59:22",
             "minuteNum": 33,
             "players": [
                 {
@@ -7836,7 +7829,7 @@
                         38,
                         51
                     ],
-                    "optaId": 41526
+                    "optaId": 95277
                 }
             ],
             "secondNum": 25,
@@ -7894,14 +7887,14 @@
             "secondNum": 57,
             "text": "I absolutely love the way <a target=\"_blank\" href=\"//twitter.com/@HassCamara6\">@HassCamara6</a> plays! What a beast!!! <a target=\"_blank\" href=\"//twitter.com/search?q=%23IMFC\">#IMFC</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/573870766053330944/beJlmXCU_normal.jpeg"
+            "user_image": "http://pbs.twimg.com/profile_images/575509848516878336/9To51qlk_normal.jpeg"
         },
         {
             "_type": "COMMENT",
             "comment": "Attempt saved. Donny Toia (Montreal Impact) left footed shot from outside the box is saved in the bottom left corner. Assisted by Justin Mapp.",
             "extraTimeNum": 0,
             "id": "1717202841",
-            "last_modified": "2015-03-07 20:43:25",
+            "last_modified": "2015-03-09 03:04:36",
             "minuteNum": 35,
             "players": [
                 {
@@ -8051,7 +8044,7 @@
             "comment": "Attempt saved. Chris Rolfe (D.C. United) right footed shot from the centre of the box is saved in the bottom left corner. Assisted by Nick DeLeon.",
             "extraTimeNum": 0,
             "id": "1417971486",
-            "last_modified": "2015-03-07 20:47:22",
+            "last_modified": "2015-03-09 03:15:51",
             "minuteNum": 39,
             "players": [
                 {
@@ -8169,7 +8162,7 @@
             "comment": "Attempt blocked. Justin Mapp (Montreal Impact) left footed shot from outside the box is blocked.",
             "extraTimeNum": 0,
             "id": "636341773",
-            "last_modified": "2015-03-07 20:51:36",
+            "last_modified": "2015-03-09 03:17:51",
             "minuteNum": 40,
             "players": [
                 {
@@ -8227,10 +8220,10 @@
         },
         {
             "_type": "COMMENT",
-            "comment": "Attempt blocked. Chris Pontius (D.C. United) right footed shot from the right side of the box is blocked. Assisted by Davy Arnaud.",
+            "comment": "Attempt blocked. Chris Pontius (D.C. United) left footed shot from the right side of the box is blocked. Assisted by Davy Arnaud.",
             "extraTimeNum": 0,
             "id": "590163671",
-            "last_modified": "2015-03-07 20:50:02",
+            "last_modified": "2015-03-09 03:21:57",
             "minuteNum": 41,
             "players": [
                 {
@@ -8244,8 +8237,8 @@
                 {
                     "clubOptaId": 1326,
                     "indices": [
-                        118,
-                        129
+                        117,
+                        128
                     ],
                     "optaId": 15560
                 }
@@ -8266,7 +8259,7 @@
             "secondNum": 34,
             "text": "Korb excellent touch on the outside <a target=\"_blank\" href=\"//twitter.com/search?q=%23dcu\">#dcu</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23imfc\">#imfc</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/3339126083/a08fdac82b9ad22001633c75ebc32b64_normal.jpeg"
+            "user_image": "http://pbs.twimg.com/profile_images/578271590871224320/gQpgjuWR_normal.jpeg"
         },
         {
             "_type": "TWEET",
@@ -8280,7 +8273,7 @@
             "secondNum": 36,
             "text": "We look solid so far today. <a target=\"_blank\" href=\"//twitter.com/search?q=%23DCU\">#DCU</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/549417654369648640/3WlLYKbU_normal.jpeg"
+            "user_image": "http://pbs.twimg.com/profile_images/580803518229024769/Qr6rFJ_3_normal.jpg"
         },
         {
             "_type": "TWEET",
@@ -8400,7 +8393,7 @@
             "comment": "Attempt missed. Chris Pontius (D.C. United) right footed shot from outside the box is high and wide to the left from a direct free kick.",
             "extraTimeNum": 0,
             "id": "324904572",
-            "last_modified": "2015-03-07 20:52:51",
+            "last_modified": "2015-03-09 03:27:25",
             "minuteNum": 44,
             "players": [
                 {
@@ -8443,6 +8436,35 @@
             "text": "Klopas : \"Nous devons repartir vers l'avant plus vite en transition\" <a target=\"_blank\" href=\"//twitter.com/search?q=%23IMFC\">#IMFC</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23RDS\">#RDS</a>",
             "toJSON": true,
             "user_image": "http://pbs.twimg.com/profile_images/536872452379652096/8bz87hbz_normal.jpeg"
+        },
+        {
+            "_type": "COMMENT",
+            "comment": "Attempt missed. Chris Rolfe (D.C. United) right footed shot from outside the box misses to the left. Assisted by Chris Pontius.",
+            "extraTimeNum": 0,
+            "id": "1662569676",
+            "last_modified": "2015-03-09 03:29:54",
+            "minuteNum": 45,
+            "players": [
+                {
+                    "clubOptaId": 1326,
+                    "indices": [
+                        16,
+                        27
+                    ],
+                    "optaId": 28094
+                },
+                {
+                    "clubOptaId": 1326,
+                    "indices": [
+                        113,
+                        126
+                    ],
+                    "optaId": 60152
+                }
+            ],
+            "secondNum": 0,
+            "time": "45'",
+            "type": "miss"
         },
         {
             "_type": "COMMENT",
@@ -8559,35 +8581,6 @@
             "text": "Termina la primera mitad en el RFK Stadium: <a href=\"http://t.co/Ktlbac3mJO\" target=\"_blank\">http://t.co/Ktlbac3mJO</a>  <a target=\"_blank\" href=\"//twitter.com/search?q=%23DCvMTL\">#DCvMTL</a> 0-0 <a href=\"http://t.co/KvpkQ91I2V\" target=\"_blank\">http://t.co/KvpkQ91I2V</a>",
             "toJSON": true,
             "user_image": "http://pbs.twimg.com/profile_images/550727275721670658/wc3ix_3R_normal.png"
-        },
-        {
-            "_type": "COMMENT",
-            "comment": "Attempt missed. Chris Rolfe (D.C. United) right footed shot from outside the box misses to the left. Assisted by Chris Pontius.",
-            "extraTimeNum": 1,
-            "id": "1662569676",
-            "last_modified": "2015-03-07 20:53:52",
-            "minuteNum": 45,
-            "players": [
-                {
-                    "clubOptaId": 1326,
-                    "indices": [
-                        16,
-                        27
-                    ],
-                    "optaId": 28094
-                },
-                {
-                    "clubOptaId": 1326,
-                    "indices": [
-                        113,
-                        126
-                    ],
-                    "optaId": 60152
-                }
-            ],
-            "secondNum": 3,
-            "time": "45'+1'",
-            "type": "miss"
         },
         {
             "_type": "COMMENT",
@@ -8865,7 +8858,7 @@
             "secondNum": 0,
             "text": "Considering <a target=\"_blank\" href=\"//twitter.com/search?q=%23DCU\">#DCU</a> is without Silva and Espindola, the half didn't go that badly. Still, the attack was hard to watch for much of the 45.",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/573932612328140800/cCXIuBk-_normal.jpeg"
+            "user_image": "http://pbs.twimg.com/profile_images/578546710185562112/qCYxCchK_normal.png"
         },
         {
             "_type": "TWEET",
@@ -9008,7 +9001,7 @@
             "comment": "Attempt blocked. Dilly Duka (Montreal Impact) right footed shot from outside the box is blocked.",
             "extraTimeNum": 0,
             "id": "256993415",
-            "last_modified": "2015-03-07 21:10:43",
+            "last_modified": "2015-03-09 03:33:57",
             "minuteNum": 46,
             "players": [
                 {
@@ -9141,7 +9134,7 @@
             "comment": "Corner,  D.C. United. Conceded by Donny Toia.",
             "extraTimeNum": 0,
             "id": "411497382",
-            "last_modified": "2015-03-07 21:14:24",
+            "last_modified": "2015-03-09 03:46:56",
             "minuteNum": 50,
             "players": [
                 {
@@ -9260,7 +9253,7 @@
             "comment": "Attempt missed. Chris Rolfe (D.C. United) header from the centre of the box is too high. Assisted by Chris Korb with a cross.",
             "extraTimeNum": 0,
             "id": "1067516333",
-            "last_modified": "2015-03-07 21:16:10",
+            "last_modified": "2015-03-09 03:48:57",
             "minuteNum": 52,
             "players": [
                 {
@@ -9280,7 +9273,7 @@
                     "optaId": 95253
                 }
             ],
-            "secondNum": 27,
+            "secondNum": 25,
             "time": "52'",
             "type": "miss"
         },
@@ -9540,10 +9533,10 @@
         },
         {
             "_type": "COMMENT",
-            "comment": "Attempt saved. Justin Mapp (Montreal Impact) right footed shot from the right side of the box is saved in the bottom left corner. Assisted by Nigel Reo-Coker.",
+            "comment": "Attempt saved. Justin Mapp (Montreal Impact) right footed shot from the right side of the box is saved in the top centre of the goal. Assisted by Nigel Reo-Coker.",
             "extraTimeNum": 0,
             "id": "472833202",
-            "last_modified": "2015-03-07 21:22:58",
+            "last_modified": "2015-03-09 04:04:41",
             "minuteNum": 58,
             "players": [
                 {
@@ -9557,8 +9550,8 @@
                 {
                     "clubOptaId": 1616,
                     "indices": [
-                        142,
-                        157
+                        146,
+                        161
                     ],
                     "optaId": 14668
                 }
@@ -9695,35 +9688,6 @@
             "user_image": "http://pbs.twimg.com/profile_images/568264325258018816/QzXnkicT_normal.jpeg"
         },
         {
-            "_type": "COMMENT",
-            "comment": "Attempt missed. Dilly Duka (Montreal Impact) right footed shot from outside the box is close, but misses to the right. Assisted by Justin Mapp.",
-            "extraTimeNum": 0,
-            "id": "1209243021",
-            "last_modified": "2015-03-07 20:14:17",
-            "minuteNum": 6,
-            "players": [
-                {
-                    "clubOptaId": 1616,
-                    "indices": [
-                        16,
-                        26
-                    ],
-                    "optaId": 78018
-                },
-                {
-                    "clubOptaId": 1616,
-                    "indices": [
-                        131,
-                        142
-                    ],
-                    "optaId": 15281
-                }
-            ],
-            "secondNum": 10,
-            "time": "6'",
-            "type": "miss"
-        },
-        {
             "_type": "TWEET",
             "created_at": "2015-03-07T20:13:54+00:00",
             "extraTimeNum": 0,
@@ -9750,6 +9714,35 @@
             "text": "ALLEZ IMPACT!!!! <a target=\"_blank\" href=\"//twitter.com/search?q=%23IMFC\">#IMFC</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23SeasonOpener2015\">#SeasonOpener2015</a>",
             "toJSON": true,
             "user_image": "http://pbs.twimg.com/profile_images/559834479385395200/b6jH93wJ_normal.jpeg"
+        },
+        {
+            "_type": "COMMENT",
+            "comment": "Attempt missed. Dilly Duka (Montreal Impact) right footed shot from outside the box is close, but misses to the right. Assisted by Justin Mapp.",
+            "extraTimeNum": 0,
+            "id": "1209243021",
+            "last_modified": "2015-03-09 01:42:25",
+            "minuteNum": 6,
+            "players": [
+                {
+                    "clubOptaId": 1616,
+                    "indices": [
+                        16,
+                        26
+                    ],
+                    "optaId": 78018
+                },
+                {
+                    "clubOptaId": 1616,
+                    "indices": [
+                        131,
+                        142
+                    ],
+                    "optaId": 15281
+                }
+            ],
+            "secondNum": 8,
+            "time": "6'",
+            "type": "miss"
         },
         {
             "_type": "TWEET",
@@ -9936,7 +9929,7 @@
             "comment": "Attempt missed. Calum Mallace (Montreal Impact) right footed shot from outside the box is too high. Assisted by Justin Mapp.",
             "extraTimeNum": 0,
             "id": "377153055",
-            "last_modified": "2015-03-07 21:25:04",
+            "last_modified": "2015-03-09 04:16:29",
             "minuteNum": 61,
             "players": [
                 {
@@ -9962,10 +9955,10 @@
         },
         {
             "_type": "COMMENT",
-            "comment": "Chris Pontius (D.C. United) hits the bar with a right footed shot from the centre of the box. Assisted by Jairo Arrieta.",
+            "comment": "Chris Pontius (D.C. United) hits the bar with a right footed shot from the centre of the box. Assisted by Jairo Arrieta with a through ball.",
             "extraTimeNum": 0,
             "id": "614267776",
-            "last_modified": "2015-03-07 21:26:04",
+            "last_modified": "2015-03-09 04:15:07",
             "minuteNum": 61,
             "players": [
                 {
@@ -10093,7 +10086,7 @@
             "comment": "Davy Arnaud (D.C. United) wins a free kick in the defensive half.",
             "extraTimeNum": 0,
             "id": "316746",
-            "last_modified": "2015-03-07 21:26:20",
+            "last_modified": "2015-03-09 04:18:15",
             "minuteNum": 63,
             "players": [
                 {
@@ -10114,7 +10107,7 @@
             "comment": "Foul by Nigel Reo-Coker (Montreal Impact).",
             "extraTimeNum": 0,
             "id": "912833783",
-            "last_modified": "2015-03-07 21:27:52",
+            "last_modified": "2015-03-09 04:18:17",
             "minuteNum": 63,
             "players": [
                 {
@@ -10361,7 +10354,7 @@
             "secondNum": 28,
             "text": "Surprisingly warm here at RFK... At least on the sunny side. <a target=\"_blank\" href=\"//twitter.com/search?q=%23dcu\">#dcu</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/573932612328140800/cCXIuBk-_normal.jpeg"
+            "user_image": "http://pbs.twimg.com/profile_images/578546710185562112/qCYxCchK_normal.png"
         },
         {
             "_type": "TWEET",
@@ -11117,7 +11110,7 @@
             "comment": "Attempt missed. Cameron Porter (Montreal Impact) right footed shot from the centre of the box misses to the left. Assisted by Hassoun Camara with a cross.",
             "extraTimeNum": 0,
             "id": "1013907123",
-            "last_modified": "2015-03-07 21:37:18",
+            "last_modified": "2015-03-09 04:37:15",
             "minuteNum": 73,
             "players": [
                 {
@@ -11137,7 +11130,7 @@
                     "optaId": 37846
                 }
             ],
-            "secondNum": 0,
+            "secondNum": 58,
             "time": "73'",
             "type": "miss"
         },
@@ -11302,10 +11295,31 @@
         },
         {
             "_type": "COMMENT",
-            "comment": "Attempt blocked. Hassoun Camara (Montreal Impact) left footed shot from the right side of the six yard box is blocked. Assisted by Laurent Ciman with a headed pass.",
+            "comment": "Attempt missed. Eric Alexander (Montreal Impact) right footed shot from the centre of the box misses to the right following a corner.",
+            "extraTimeNum": 0,
+            "id": "2072705844",
+            "last_modified": "2015-03-09 04:45:19",
+            "minuteNum": 76,
+            "players": [
+                {
+                    "clubOptaId": 1616,
+                    "indices": [
+                        16,
+                        30
+                    ],
+                    "optaId": 82518
+                }
+            ],
+            "secondNum": 20,
+            "time": "76'",
+            "type": "miss"
+        },
+        {
+            "_type": "COMMENT",
+            "comment": "Attempt blocked. Hassoun Camara (Montreal Impact) left footed shot from the right side of the six yard box is blocked. Assisted by Eric Alexander.",
             "extraTimeNum": 0,
             "id": "1035892706",
-            "last_modified": "2015-03-07 22:00:17",
+            "last_modified": "2015-03-09 04:46:49",
             "minuteNum": 76,
             "players": [
                 {
@@ -11320,44 +11334,15 @@
                     "clubOptaId": 1616,
                     "indices": [
                         131,
-                        144
+                        145
                     ],
-                    "optaId": 42584
+                    "optaId": 82518
                 }
             ],
-            "secondNum": 26,
+            "secondNum": 21,
             "time": "76'",
             "type": "attempt blocked",
             "videoId": 33403
-        },
-        {
-            "_type": "COMMENT",
-            "comment": "Attempt missed. Eric Alexander (Montreal Impact) right footed shot from the centre of the box misses to the right. Assisted by Laurent Ciman with a headed pass following a corner.",
-            "extraTimeNum": 0,
-            "id": "2072705844",
-            "last_modified": "2015-03-07 21:43:48",
-            "minuteNum": 76,
-            "players": [
-                {
-                    "clubOptaId": 1616,
-                    "indices": [
-                        16,
-                        30
-                    ],
-                    "optaId": 82518
-                },
-                {
-                    "clubOptaId": 1616,
-                    "indices": [
-                        127,
-                        140
-                    ],
-                    "optaId": 42584
-                }
-            ],
-            "secondNum": 28,
-            "time": "76'",
-            "type": "miss"
         },
         {
             "_type": "TWEET",
@@ -11406,7 +11391,7 @@
             "comment": "Cameron Porter (Montreal Impact) wins a free kick in the attacking half.",
             "extraTimeNum": 0,
             "id": "2041122",
-            "last_modified": "2015-03-07 21:39:54",
+            "last_modified": "2015-03-09 04:47:49",
             "minuteNum": 76,
             "players": [
                 {
@@ -11427,7 +11412,7 @@
             "comment": "Foul by Sean Franklin (D.C. United).",
             "extraTimeNum": 0,
             "id": "641486024",
-            "last_modified": "2015-03-07 21:39:54",
+            "last_modified": "2015-03-09 04:47:51",
             "minuteNum": 76,
             "players": [
                 {
@@ -11665,25 +11650,11 @@
             "user_image": "http://pbs.twimg.com/profile_images/550727275721670658/wc3ix_3R_normal.png"
         },
         {
-            "_type": "TWEET",
-            "created_at": "2015-03-07T21:42:56+00:00",
-            "extraTimeNum": 0,
-            "id": "574324377526755328",
-            "minuteNum": 80,
-            "name": "Kristin Sele",
-            "published_at": 1425764593240,
-            "screen_name": "pekhty",
-            "secondNum": 15,
-            "text": "Awesome to see Aguilar getting some minutes in today's <a target=\"_blank\" href=\"//twitter.com/search?q=%23DCvMTL\">#DCvMTL</a> game <a target=\"_blank\" href=\"//twitter.com/search?q=%23SacramentoProud\">#SacramentoProud</a>",
-            "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/530561254654742528/NlhNKieb_normal.jpeg"
-        },
-        {
             "_type": "COMMENT",
-            "comment": "Attempt missed. Hassoun Camara (Montreal Impact) right footed shot from outside the box is high and wide to the right. Assisted by Eric Alexander.",
+            "comment": "Attempt missed. Hassoun Camara (Montreal Impact) right footed shot from outside the box is too high. Assisted by Eric Alexander.",
             "extraTimeNum": 0,
             "id": "370229471",
-            "last_modified": "2015-03-07 21:43:35",
+            "last_modified": "2015-03-09 04:54:39",
             "minuteNum": 80,
             "players": [
                 {
@@ -11697,15 +11668,29 @@
                 {
                     "clubOptaId": 1616,
                     "indices": [
-                        131,
-                        145
+                        113,
+                        127
                     ],
                     "optaId": 82518
                 }
             ],
-            "secondNum": 16,
+            "secondNum": 13,
             "time": "80'",
             "type": "miss"
+        },
+        {
+            "_type": "TWEET",
+            "created_at": "2015-03-07T21:42:56+00:00",
+            "extraTimeNum": 0,
+            "id": "574324377526755328",
+            "minuteNum": 80,
+            "name": "Kristin Sele",
+            "published_at": 1425764593240,
+            "screen_name": "pekhty",
+            "secondNum": 15,
+            "text": "Awesome to see Aguilar getting some minutes in today's <a target=\"_blank\" href=\"//twitter.com/search?q=%23DCvMTL\">#DCvMTL</a> game <a target=\"_blank\" href=\"//twitter.com/search?q=%23SacramentoProud\">#SacramentoProud</a>",
+            "toJSON": true,
+            "user_image": "http://pbs.twimg.com/profile_images/530561254654742528/NlhNKieb_normal.jpeg"
         },
         {
             "_type": "TWEET",
@@ -11766,10 +11751,10 @@
         },
         {
             "_type": "COMMENT",
-            "comment": "Attempt saved. Justin Mapp (Montreal Impact) right footed shot from the centre of the box is saved in the centre of the goal. Assisted by Eric Alexander.",
+            "comment": "Attempt saved. Justin Mapp (Montreal Impact) right footed shot from the centre of the box is saved in the centre of the goal. Assisted by Eric Alexander with a through ball.",
             "extraTimeNum": 0,
             "id": "95267792",
-            "last_modified": "2015-03-07 21:48:38",
+            "last_modified": "2015-03-09 05:01:11",
             "minuteNum": 82,
             "players": [
                 {
@@ -12053,7 +12038,7 @@
             "comment": "Attempt blocked. Dominic Oduro (Montreal Impact) left footed shot from the centre of the box is blocked.",
             "extraTimeNum": 0,
             "id": "596846231",
-            "last_modified": "2015-03-07 21:51:12",
+            "last_modified": "2015-03-09 05:13:03",
             "minuteNum": 87,
             "players": [
                 {
@@ -12071,10 +12056,10 @@
         },
         {
             "_type": "COMMENT",
-            "comment": "Attempt missed. Dominic Oduro (Montreal Impact) left footed shot from the centre of the box is close, but misses to the right.",
+            "comment": "Attempt missed. Dominic Oduro (Montreal Impact) left footed shot from the centre of the box misses to the right.",
             "extraTimeNum": 0,
             "id": "1108589506",
-            "last_modified": "2015-03-07 21:52:11",
+            "last_modified": "2015-03-09 05:13:19",
             "minuteNum": 87,
             "players": [
                 {
@@ -12144,7 +12129,7 @@
             "secondNum": 56,
             "text": "Oduro has the best hair in <a target=\"_blank\" href=\"//twitter.com/@mls\">@mls</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23IMFC\">#IMFC</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/1798138670/2010-01-15_16-17-58.582_normal.jpg"
+            "user_image": "http://pbs.twimg.com/profile_images/576385939880206336/3EGsugp7_normal.jpeg"
         },
         {
             "_type": "TWEET",
@@ -12415,7 +12400,7 @@
             "secondNum": 0,
             "text": "Aguilar is a tank! <a target=\"_blank\" href=\"//twitter.com/search?q=%23DCvMTL\">#DCvMTL</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/567096397867257857/ynZO5sI5_normal.jpeg"
+            "user_image": "http://pbs.twimg.com/profile_images/574385461751382016/LCd2l7cb_normal.jpeg"
         },
         {
             "_type": "TWEET",
@@ -12436,7 +12421,7 @@
             "comment": "Attempt saved. Conor Doyle (D.C. United) right footed shot from a difficult angle on the right is saved in the bottom left corner. Assisted by Sean Franklin.",
             "extraTimeNum": 5,
             "id": "821848938",
-            "last_modified": "2015-03-07 21:59:05",
+            "last_modified": "2015-03-09 05:27:23",
             "minuteNum": 90,
             "players": [
                 {

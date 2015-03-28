@@ -3750,16 +3750,16 @@
                         {
                             "children": null,
                             "class": "column-orphan",
-                            "href": "http://www.mlssoccer.com/mls-disciplinary-summary",
+                            "href": "http://www.mlssoccer.com/injuries",
                             "id": null,
-                            "title": "Disciplinary Report"
+                            "title": "Injury Report"
                         },
                         {
                             "children": null,
                             "class": "column-orphan",
-                            "href": "http://www.mlssoccer.com/injuries",
+                            "href": "http://www.mlssoccer.com/mls-disciplinary-summary",
                             "id": null,
-                            "title": "Injury Report"
+                            "title": "Disciplinary Report"
                         },
                         {
                             "children": null,
@@ -3934,9 +3934,9 @@
                         {
                             "children": null,
                             "class": null,
-                            "href": "http://www.mlssoccer.com/goldcup/2013",
+                            "href": "http://www.mlssoccer.com/goldcup/2015",
                             "id": null,
-                            "title": "Gold Cup 2013"
+                            "title": "Gold Cup 2015"
                         },
                         {
                             "children": null,
@@ -4105,21 +4105,21 @@
                         {
                             "children": null,
                             "class": null,
-                            "href": "http://www.mlssoccer.com/video/channel/world-cup",
+                            "href": "http://www.mlssoccer.com/video/channel/mls-now",
                             "id": null,
-                            "title": "World Cup"
+                            "title": "MLS Now"
                         },
                         {
                             "children": null,
                             "class": null,
-                            "href": "http://www.mlssoccer.com/gotw/2014",
+                            "href": "http://www.mlssoccer.com/gotw/2015",
                             "id": null,
                             "title": "AT&T Goal of the Week"
                         },
                         {
                             "children": null,
                             "class": null,
-                            "href": "http://www.mlssoccer.com/sotw/2014",
+                            "href": "http://www.mlssoccer.com/sotw/2015",
                             "id": null,
                             "title": "Save of the Week"
                         },
@@ -4147,16 +4147,16 @@
                         {
                             "children": null,
                             "class": null,
-                            "href": "http://www.mlssoccer.com/video/channel/anatomy-of-a-goal",
+                            "href": "http://www.mlssoccer.com/video/channel/on-the-field",
                             "id": null,
-                            "title": "Anatomy of a Goal"
+                            "title": "On the Field"
                         },
                         {
                             "children": null,
                             "class": null,
-                            "href": "http://www.mlssoccer.com/video/channel/between-the-lines",
+                            "href": "http://www.mlssoccer.com/video/channel/plays-of-the-night",
                             "id": null,
-                            "title": "Between the Lines"
+                            "title": "Plays of the Night"
                         },
                         {
                             "children": null,
@@ -4404,13 +4404,6 @@
                     "href": "http://www.mlsgearcanada.ca/",
                     "id": null,
                     "title": "MLS Gear Canada"
-                },
-                {
-                    "children": null,
-                    "class": "column-parent",
-                    "href": "http://mls.fanphotos.com",
-                    "id": null,
-                    "title": "MLS Photo Store"
                 }
             ],
             "href": "http://www.mlsstore.com",
@@ -8187,7 +8180,7 @@
             "secondNum": 56,
             "text": "You guys are awesome. <a target=\"_blank\" href=\"//twitter.com/search?q=%23GoodPlayoffKarma\">#GoodPlayoffKarma</a> <a href=\"http://t.co/ky14Kjt7r1\" target=\"_blank\">http://t.co/ky14Kjt7r1</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/540568588650684416/HMrDsOuW_normal.jpeg"
+            "user_image": "http://pbs.twimg.com/profile_images/572424495382556672/iy5ShYhi_normal.jpeg"
         },
         {
             "_type": "TWEET",
@@ -8779,7 +8772,7 @@
             "secondNum": 48,
             "text": "Super stiff challenge in the box from Scott on Castillo. A pretty dangerous decision given <a target=\"_blank\" href=\"//twitter.com/search?q=%23MLS\">#MLS</a> refereeing of late. <a target=\"_blank\" href=\"//twitter.com/search?q=%23SEAvDAL\">#SEAvDAL</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23FCD\">#FCD</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/574227064837967873/9YfiJ39g_normal.png"
+            "user_image": "http://pbs.twimg.com/profile_images/577117580327919616/-Qb6Ztq0_normal.png"
         },
         {
             "_type": "INSTAGRAM",
@@ -8986,7 +8979,7 @@
             "secondNum": 24,
             "text": "I love Stefan Frei. But I can never help but think about how he's not Tim Howard. <a target=\"_blank\" href=\"//twitter.com/search?q=%23SEAvDAL\">#SEAvDAL</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/509673297697865728/gD_onsXq_normal.jpeg"
+            "user_image": "http://pbs.twimg.com/profile_images/567499134379515905/W_DTC2Lj_normal.jpeg"
         },
         {
             "_type": "COMMENT",
@@ -9165,7 +9158,7 @@
             "secondNum": 60,
             "text": "Fabian Castillo is so underrated as a playmaker. Nice moves to help Dallas gain control of possession. <a target=\"_blank\" href=\"//twitter.com/search?q=%23SEAvDAL\">#SEAvDAL</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/568172915414167554/JT9uyHp0_normal.jpeg"
+            "user_image": "http://pbs.twimg.com/profile_images/580507803904815104/EJ14oV0P_normal.jpg"
         },
         {
             "_type": "COMMENT",
@@ -9247,7 +9240,7 @@
             "secondNum": 36,
             "text": "Clever from Martins: knew he wasn't going to win the foot race, so he is able to create the contact with Hedges with the cut back. <a target=\"_blank\" href=\"//twitter.com/search?q=%23SEAvDAL\">#SEAvDAL</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/574227064837967873/9YfiJ39g_normal.png"
+            "user_image": "http://pbs.twimg.com/profile_images/577117580327919616/-Qb6Ztq0_normal.png"
         },
         {
             "_type": "COMMENT",
@@ -9466,7 +9459,7 @@
             "secondNum": 6,
             "text": "Michel is not only adept at converting PKs, he can also clear balls off the goal line. <a target=\"_blank\" href=\"//twitter.com/search?q=%23SEAvDAL\">#SEAvDAL</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/557462794132795392/QJoYGdEA_normal.jpeg"
+            "user_image": "http://pbs.twimg.com/profile_images/579868415613120512/h6qDmNSi_normal.jpg"
         },
         {
             "_type": "TWEET",
@@ -9536,7 +9529,7 @@
             "secondNum": 24,
             "text": "I feel like there have been a lot of missed opportunities for shots for the Sounders. <a target=\"_blank\" href=\"//twitter.com/search?q=%23SEAvDAL\">#SEAvDAL</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/536757688084856832/D5MPmUr9_normal.jpeg"
+            "user_image": "http://pbs.twimg.com/profile_images/575117423721893888/7oB7sE6V_normal.png"
         },
         {
             "_type": "TWEET",
@@ -9857,7 +9850,7 @@
             "secondNum": 57,
             "text": "4\u2019 - FCD now on the front foot but not really creating much. Sounders defending well as they do. <a target=\"_blank\" href=\"//twitter.com/search?q=%23SEAvDAL\">#SEAvDAL</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/461994758781427712/QTscZXpj_normal.jpeg"
+            "user_image": "http://pbs.twimg.com/profile_images/574678545030479872/pZzOa3cW_normal.jpeg"
         },
         {
             "_type": "TWEET",
@@ -9910,7 +9903,7 @@
             "secondNum": 18,
             "text": "Once ball goes past Michel, he doesnt track back hard enough. This space could be problematic. <a target=\"_blank\" href=\"//twitter.com/search?q=%23SEAvDAL\">#SEAvDAL</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23MLS\">#MLS</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/564220114480820224/QWwue5TR_normal.png"
+            "user_image": "http://pbs.twimg.com/profile_images/572538475909685248/OkLOfzPP_normal.jpeg"
         },
         {
             "_type": "COMMENT",
@@ -10166,7 +10159,7 @@
             "secondNum": 33,
             "text": "That last sequence btwn Martins &amp; Dempsey is why DMs must track back quickly &amp; close space. They can shred center backs 2v2. <a target=\"_blank\" href=\"//twitter.com/search?q=%23SEAvDAL\">#SEAvDAL</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23MLS\">#MLS</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/564220114480820224/QWwue5TR_normal.png"
+            "user_image": "http://pbs.twimg.com/profile_images/572538475909685248/OkLOfzPP_normal.jpeg"
         },
         {
             "_type": "COMMENT",
@@ -10324,7 +10317,7 @@
             "secondNum": 0,
             "text": "Castillo was electric. Needs to find right players in right spots once draws double/triple team, or be more clinical himself. <a target=\"_blank\" href=\"//twitter.com/search?q=%23SEAvDAL\">#SEAvDAL</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23MLS\">#MLS</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/564220114480820224/QWwue5TR_normal.png"
+            "user_image": "http://pbs.twimg.com/profile_images/572538475909685248/OkLOfzPP_normal.jpeg"
         },
         {
             "_type": "TWEET",
@@ -10574,7 +10567,7 @@
             "secondNum": 23,
             "text": "Oh come on, don't tell me you've NEVER snuck in a slice pizza in a zip-loc bag to a soccer game <a target=\"_blank\" href=\"//twitter.com/search?q=%23MLS\">#MLS</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23SEAvDAL\">#SEAvDAL</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/453597317501698048/GRhIxNPM_normal.png"
+            "user_image": "http://pbs.twimg.com/profile_images/581546722184146945/whKHm-XP_normal.png"
         },
         {
             "_type": "COMMENT",
@@ -10687,7 +10680,7 @@
             "secondNum": 5,
             "text": "I wonder if <a target=\"_blank\" href=\"//twitter.com/search?q=%23SoundersFC\">#SoundersFC</a> are intentionally playing narrow. They had to know <a target=\"_blank\" href=\"//twitter.com/search?q=%23FCDallas\">#FCDallas</a> were going to play wide with all their pace. <a target=\"_blank\" href=\"//twitter.com/search?q=%23SEAvDAL\">#SEAvDAL</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/574227064837967873/9YfiJ39g_normal.png"
+            "user_image": "http://pbs.twimg.com/profile_images/577117580327919616/-Qb6Ztq0_normal.png"
         },
         {
             "_type": "TWEET",
@@ -10854,7 +10847,7 @@
             "secondNum": 21,
             "text": "What a turn from Obafemi Martins. <a target=\"_blank\" href=\"//twitter.com/search?q=%23SoundersFC\">#SoundersFC</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23SEAvDAL\">#SEAvDAL</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/574227064837967873/9YfiJ39g_normal.png"
+            "user_image": "http://pbs.twimg.com/profile_images/577117580327919616/-Qb6Ztq0_normal.png"
         },
         {
             "_type": "TWEET",
@@ -11109,7 +11102,7 @@
             "secondNum": 9,
             "text": "Oooh, that's not good. Alonso down. Not like him to stay down. <a target=\"_blank\" href=\"//twitter.com/search?q=%23SEAvDAL\">#SEAvDAL</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/820719781/Copy_of_me_004_normal.jpg"
+            "user_image": "http://pbs.twimg.com/profile_images/578566800952053760/1Z_luA___normal.jpeg"
         },
         {
             "_type": "TWEET",
@@ -11193,7 +11186,7 @@
             "secondNum": 36,
             "text": "Plenty of opportunities for both teams but not a lot of quality from a finishing standpoint. <a target=\"_blank\" href=\"//twitter.com/search?q=%23SEAvDAL\">#SEAvDAL</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/557462794132795392/QJoYGdEA_normal.jpeg"
+            "user_image": "http://pbs.twimg.com/profile_images/579868415613120512/h6qDmNSi_normal.jpg"
         },
         {
             "_type": "TWEET",
@@ -11272,7 +11265,7 @@
             "secondNum": 18,
             "text": "They've got the int'l break to buy them some time, but I don't know if it will be long enough for Alonso to recover. <a target=\"_blank\" href=\"//twitter.com/search?q=%23SEAvDAL\">#SEAvDAL</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23SoundersFC\">#SoundersFC</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/574227064837967873/9YfiJ39g_normal.png"
+            "user_image": "http://pbs.twimg.com/profile_images/577117580327919616/-Qb6Ztq0_normal.png"
         },
         {
             "_type": "TWEET",
@@ -11395,7 +11388,7 @@
             "secondNum": 37,
             "text": "I'm not sure how I feel about this many subs this early, but it's NEAGLE. <a target=\"_blank\" href=\"//twitter.com/search?q=%23SEAvDAL\">#SEAvDAL</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/509673297697865728/gD_onsXq_normal.jpeg"
+            "user_image": "http://pbs.twimg.com/profile_images/567499134379515905/W_DTC2Lj_normal.jpeg"
         },
         {
             "_type": "TWEET",
@@ -11441,7 +11434,7 @@
             "secondNum": 40,
             "text": "Are you ready? We're hoping the <a target=\"_blank\" href=\"//twitter.com/search?q=%23GoodPlayoffKarma\">#GoodPlayoffKarma</a> pays off. <a target=\"_blank\" href=\"//twitter.com/search?q=%23SEAvDAL\">#SEAvDAL</a> <a href=\"http://t.co/oVQktWO28Z\" target=\"_blank\">http://t.co/oVQktWO28Z</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/540568588650684416/HMrDsOuW_normal.jpeg"
+            "user_image": "http://pbs.twimg.com/profile_images/572424495382556672/iy5ShYhi_normal.jpeg"
         },
         {
             "_type": "TWEET",
@@ -11557,7 +11550,7 @@
             "secondNum": 21,
             "text": "I'm not even putting that on Castillo. What kind of runs are those? So stupid. Why are you both running near post? Hahah. Pathetic. <a target=\"_blank\" href=\"//twitter.com/search?q=%23SEAvDAL\">#SEAvDAL</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/573978380111994880/MzpCTssG_normal.jpeg"
+            "user_image": "http://pbs.twimg.com/profile_images/579823201385115648/8FZr40H__normal.jpg"
         },
         {
             "_type": "TWEET",
@@ -11789,7 +11782,7 @@
             "secondNum": 16,
             "text": "Dallas finally gets forward and then nearly nets a goal. Close there, but no one went central, both FC players ran for the post. <a target=\"_blank\" href=\"//twitter.com/search?q=%23SEAvDAL\">#SEAvDAL</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/820719781/Copy_of_me_004_normal.jpg"
+            "user_image": "http://pbs.twimg.com/profile_images/578566800952053760/1Z_luA___normal.jpeg"
         },
         {
             "_type": "TWEET",
@@ -11803,7 +11796,7 @@
             "secondNum": 4,
             "text": "My oh my... Castillo blows another golden chance. If only that kid could finish. <a target=\"_blank\" href=\"//twitter.com/search?q=%23FCDallas\">#FCDallas</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23SEAvDAL\">#SEAvDAL</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/574227064837967873/9YfiJ39g_normal.png"
+            "user_image": "http://pbs.twimg.com/profile_images/577117580327919616/-Qb6Ztq0_normal.png"
         },
         {
             "_type": "COMMENT",
@@ -11889,7 +11882,7 @@
             "secondNum": 49,
             "text": ".<a target=\"_blank\" href=\"//twitter.com/@PearlJam\">@PearlJam</a>\u2019s <a target=\"_blank\" href=\"//twitter.com/@MikeMcCreadyPJ\">@MikeMcCreadyPJ</a> getting set to perform the National Anthem on behalf of <a target=\"_blank\" href=\"//twitter.com/@TreehouseTweets\">@TreehouseTweets</a>! <a target=\"_blank\" href=\"//twitter.com/search?q=%23SEAvDAL\">#SEAvDAL</a> <a href=\"http://t.co/bhbybFRXSt\" target=\"_blank\">http://t.co/bhbybFRXSt</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/540568588650684416/HMrDsOuW_normal.jpeg"
+            "user_image": "http://pbs.twimg.com/profile_images/572424495382556672/iy5ShYhi_normal.jpeg"
         },
         {
             "_type": "TWEET",
@@ -12752,7 +12745,7 @@
             "secondNum": 39,
             "text": "Azira doing a great job of giving Diaz hardly any room to breathe. <a target=\"_blank\" href=\"//twitter.com/search?q=%23SuffocatingD\">#SuffocatingD</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23SEAvDAL\">#SEAvDAL</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/536757688084856832/D5MPmUr9_normal.jpeg"
+            "user_image": "http://pbs.twimg.com/profile_images/575117423721893888/7oB7sE6V_normal.png"
         },
         {
             "_type": "TWEET",
@@ -13405,7 +13398,7 @@
             "secondNum": 27,
             "text": "What I'm looking forward to most tonight? The pace fest that will be going down between Yedlin and Castillo on the wing. <a target=\"_blank\" href=\"//twitter.com/search?q=%23SEAvDAL\">#SEAvDAL</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/574227064837967873/9YfiJ39g_normal.png"
+            "user_image": "http://pbs.twimg.com/profile_images/577117580327919616/-Qb6Ztq0_normal.png"
         },
         {
             "_type": "COMMENT",

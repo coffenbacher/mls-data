@@ -14,6 +14,7 @@ In addition to general interest in the data from fans, <a href="http://fantasy.m
 There are two datasets availablue under the automated import:
 * **Teams** - a CSV, sourced from MLS fantasy, of all of the teams
 * **Players** - a CSV, sourced from MLS fantasy, of all of the players and their current status
+* **Weekly_Snapshot** - a CSV, sourced from MLS fantasy, of all player stats segmented by round
 
 ## Roadmap
 

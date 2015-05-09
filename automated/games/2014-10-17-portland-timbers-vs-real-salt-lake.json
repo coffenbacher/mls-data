@@ -4302,16 +4302,16 @@
                         {
                             "children": null,
                             "class": "column-orphan",
-                            "href": "http://www.mlssoccer.com/mls-disciplinary-summary",
+                            "href": "http://www.mlssoccer.com/injuries",
                             "id": null,
-                            "title": "Disciplinary Report"
+                            "title": "Injury Report"
                         },
                         {
                             "children": null,
                             "class": "column-orphan",
-                            "href": "http://www.mlssoccer.com/injuries",
+                            "href": "http://www.mlssoccer.com/mls-disciplinary-summary",
                             "id": null,
-                            "title": "Injury Report"
+                            "title": "Disciplinary Report"
                         },
                         {
                             "children": null,
@@ -4486,9 +4486,9 @@
                         {
                             "children": null,
                             "class": null,
-                            "href": "http://www.mlssoccer.com/goldcup/2013",
+                            "href": "http://www.mlssoccer.com/goldcup/2015",
                             "id": null,
-                            "title": "Gold Cup 2013"
+                            "title": "Gold Cup 2015"
                         },
                         {
                             "children": null,
@@ -4614,7 +4614,7 @@
                         {
                             "children": null,
                             "class": null,
-                            "href": "http://www.mlssoccer.com/extratime",
+                            "href": "http://www.mlssoccer.com/news/extratime-radio",
                             "id": null,
                             "title": "ExtraTime Radio"
                         },
@@ -4641,7 +4641,7 @@
                         }
                     ],
                     "class": "column-parent",
-                    "href": "http://www.mlssoccer.com/extratime",
+                    "href": "http://www.mlssoccer.com/news/extratime-radio",
                     "id": null,
                     "title": "Podcasts"
                 }
@@ -4657,21 +4657,21 @@
                         {
                             "children": null,
                             "class": null,
-                            "href": "http://www.mlssoccer.com/video/channel/world-cup",
+                            "href": "http://www.mlssoccer.com/video/channel/mls-now",
                             "id": null,
-                            "title": "World Cup"
+                            "title": "MLS Now"
                         },
                         {
                             "children": null,
                             "class": null,
-                            "href": "http://www.mlssoccer.com/gotw/2014",
+                            "href": "http://www.mlssoccer.com/gotw/2015",
                             "id": null,
                             "title": "AT&T Goal of the Week"
                         },
                         {
                             "children": null,
                             "class": null,
-                            "href": "http://www.mlssoccer.com/sotw/2014",
+                            "href": "http://www.mlssoccer.com/sotw/2015",
                             "id": null,
                             "title": "Save of the Week"
                         },
@@ -4699,16 +4699,23 @@
                         {
                             "children": null,
                             "class": null,
-                            "href": "http://www.mlssoccer.com/video/channel/anatomy-of-a-goal",
+                            "href": "http://www.mlssoccer.com/video/channel/off-topic-with-rachel-bonnetta",
                             "id": null,
-                            "title": "Anatomy of a Goal"
+                            "title": "Off Topic with Rachel Bonnetta"
                         },
                         {
                             "children": null,
                             "class": null,
-                            "href": "http://www.mlssoccer.com/video/channel/between-the-lines",
+                            "href": "http://www.mlssoccer.com/video/channel/on-the-field",
                             "id": null,
-                            "title": "Between the Lines"
+                            "title": "On the Field"
+                        },
+                        {
+                            "children": null,
+                            "class": null,
+                            "href": "http://www.mlssoccer.com/video/channel/plays-of-the-night",
+                            "id": null,
+                            "title": "Plays of the Night"
                         },
                         {
                             "children": null,
@@ -4949,20 +4956,6 @@
                     "href": "http://www.mlsstore.com/",
                     "id": null,
                     "title": "MLS Store"
-                },
-                {
-                    "children": null,
-                    "class": "column-parent",
-                    "href": "http://www.mlsgearcanada.ca/",
-                    "id": null,
-                    "title": "MLS Gear Canada"
-                },
-                {
-                    "children": null,
-                    "class": "column-parent",
-                    "href": "http://mls.fanphotos.com",
-                    "id": null,
-                    "title": "MLS Photo Store"
                 }
             ],
             "href": "http://www.mlsstore.com",
@@ -4974,6 +4967,12 @@
             "href": "http://mls.univision.com/",
             "id": "menu-espanol",
             "title": "Espa\u00f1ol"
+        },
+        {
+            "children": null,
+            "href": "http://www.mlssoccer.com/mls-live",
+            "id": null,
+            "title": "MLS LIVE"
         },
         {
             "children": [
@@ -6560,6 +6559,7 @@
     },
     "preview": {
         "awayMatchClubSeasonStatistics": {
+            "clubOptaId": 1899,
             "statistics": {
                 "form": {
                     "LastSixAway": "LLLDLW",
@@ -7133,6 +7133,7 @@
             }
         },
         "homeMatchClubSeasonStatistics": {
+            "clubOptaId": 1581,
             "statistics": {
                 "form": {
                     "LastSixAway": "WLDWDL",
@@ -8568,7 +8569,7 @@
             "title": "Portland Timbers 0, Real Salt Lake 0 | MLS Match Recap"
         }
     },
-    "sequence": 1121,
+    "sequence": 0,
     "shootout": [],
     "timelineItems": [
         {
@@ -8647,6 +8648,7 @@
             "secondNum": 6,
             "text": "I always think of Tremors when I hear Ned Grabavoy's name.  <a target=\"_blank\" href=\"//twitter.com/search?q=%23graboids\">#graboids</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23RCTID\">#RCTID</a>",
             "toJSON": true,
+            "user_id": "2297321684",
             "user_image": "http://pbs.twimg.com/profile_images/515903106920374272/swFbKyEy_normal.jpeg"
         },
         {
@@ -8690,7 +8692,8 @@
             "secondNum": 1,
             "text": "10' - RSL tries again from distance but misses. Villafana has been huge on left, but they've not challenged Rimando as of yet. <a target=\"_blank\" href=\"//twitter.com/search?q=%23rctid\">#rctid</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/569984227085545472/uoEfwY6I_normal.jpeg"
+            "user_id": "177035298",
+            "user_image": "http://pbs.twimg.com/profile_images/579428652036661248/Xaxgt388_normal.jpg"
         },
         {
             "_type": "VIDEO",
@@ -8771,6 +8774,7 @@
             "secondNum": 3,
             "text": "Beckerman = good. <a target=\"_blank\" href=\"//twitter.com/search?q=%23RCTID\">#RCTID</a>",
             "toJSON": true,
+            "user_id": "412394810",
             "user_image": "http://pbs.twimg.com/profile_images/1638898626/020_normal.JPG"
         },
         {
@@ -8785,6 +8789,7 @@
             "secondNum": 57,
             "text": "<a target=\"_blank\" href=\"//twitter.com/search?q=%23PORvRSL\">#PORvRSL</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23RCTID\">#RCTID</a> nicely done by the young lad - perhaps could have fed Valeri there but when space is available it's almost rude not 2 use it",
             "toJSON": true,
+            "user_id": "633316628",
             "user_image": "http://pbs.twimg.com/profile_images/475080212854476801/Mfm-vH8P_normal.jpeg"
         },
         {
@@ -8821,6 +8826,7 @@
             "secondNum": 43,
             "text": "I may be wearing part of a tifo as a Rambo headband... <a target=\"_blank\" href=\"//twitter.com/search?q=%23PORvRSL\">#PORvRSL</a>",
             "toJSON": true,
+            "user_id": "15022733",
             "user_image": "http://pbs.twimg.com/profile_images/1536838007/cadillac_normal.jpg"
         },
         {
@@ -8835,6 +8841,7 @@
             "secondNum": 54,
             "text": "This broadcast should be rated R for language. <a target=\"_blank\" href=\"//twitter.com/search?q=%23rsl\">#rsl</a>",
             "toJSON": true,
+            "user_id": "240005351",
             "user_image": "http://pbs.twimg.com/profile_images/428609448911728640/YEM7MkJ0_normal.jpeg"
         },
         {
@@ -8849,6 +8856,7 @@
             "secondNum": 24,
             "text": "Pretty sure the Popinski Brothers has something to do with the current TA song being done. Quite Eastern Bloc in it's tone.  <a target=\"_blank\" href=\"//twitter.com/search?q=%23PORvRSL\">#PORvRSL</a>",
             "toJSON": true,
+            "user_id": "1915055826",
             "user_image": "http://pbs.twimg.com/profile_images/509386633850806273/0hKujZRY_normal.jpeg"
         },
         {
@@ -8863,6 +8871,7 @@
             "secondNum": 51,
             "text": "Damn. Valeri's shot broke through the line, but curled left of goal. <a target=\"_blank\" href=\"//twitter.com/search?q=%23RCTID\">#RCTID</a>",
             "toJSON": true,
+            "user_id": "141115546",
             "user_image": "http://pbs.twimg.com/profile_images/524812445689188352/vppedMzU_normal.jpeg"
         },
         {
@@ -8877,6 +8886,7 @@
             "secondNum": 16,
             "text": "RSL is the foulingest team ever. <a target=\"_blank\" href=\"//twitter.com/search?q=%23rctid\">#rctid</a>",
             "toJSON": true,
+            "user_id": "15985291",
             "user_image": "http://pbs.twimg.com/profile_images/2414730479/4ifmn67byv7c8lx6bsja_normal.jpeg"
         },
         {
@@ -8891,6 +8901,7 @@
             "secondNum": 27,
             "text": "Could watch Valeri play soccer on an endless loop. <a target=\"_blank\" href=\"//twitter.com/search?q=%23PORvRSL\">#PORvRSL</a>",
             "toJSON": true,
+            "user_id": "274640845",
             "user_image": "http://pbs.twimg.com/profile_images/528584945724182528/6JzoCyPC_normal.jpeg"
         },
         {
@@ -8947,7 +8958,8 @@
             "secondNum": 23,
             "text": "13' If Portland was higher up in the table, Valeri would be an MVP contender. Man has put Timbers on his back the last month+. <a target=\"_blank\" href=\"//twitter.com/search?q=%23PORvRSL\">#PORvRSL</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/570377717447553024/8LL4Mw8P_normal.jpeg"
+            "user_id": "2529120686",
+            "user_image": "http://pbs.twimg.com/profile_images/593599324140900352/ZiVyJOxx_normal.jpg"
         },
         {
             "_type": "TWEET",
@@ -8965,7 +8977,8 @@
             "secondNum": 46,
             "text": "<a target=\"_blank\" href=\"//twitter.com/search?q=%23livetweet\">#livetweet</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23rctid\">#rctid</a> <a href=\"http://t.co/EdVi1IdTze\" target=\"_blank\">http://t.co/EdVi1IdTze</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/522615204585410560/VUmDeYoG_normal.jpeg"
+            "user_id": "263032543",
+            "user_image": "http://pbs.twimg.com/profile_images/578630452996489216/vlWXepei_normal.jpeg"
         },
         {
             "_type": "TWEET",
@@ -8979,6 +8992,7 @@
             "secondNum": 53,
             "text": "<a target=\"_blank\" href=\"//twitter.com/search?q=%23MLS\">#MLS</a>  <a target=\"_blank\" href=\"//twitter.com/search?q=%23PORvRSL\">#PORvRSL</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23RCTID\">#RCTID</a> RSL came out with guns blazing, not so much anymore.",
             "toJSON": true,
+            "user_id": "547308539",
             "user_image": "http://pbs.twimg.com/profile_images/378800000643618283/ca2863c2ee05e63b6fdf84897b710d79_normal.jpeg"
         },
         {
@@ -9022,6 +9036,7 @@
             "secondNum": 52,
             "text": "Adi probably has to do more with that run. <a target=\"_blank\" href=\"//twitter.com/search?q=%23PORvRSL\">#PORvRSL</a>",
             "toJSON": true,
+            "user_id": "189347461",
             "user_image": "http://pbs.twimg.com/profile_images/470804372339699714/MsJAtKUo_normal.jpeg"
         },
         {
@@ -9078,7 +9093,8 @@
             "secondNum": 56,
             "text": "16' - Wallace &amp; Chara break on left down flank &amp; Chara hits side netting with shot, but play was ruled offside. <a target=\"_blank\" href=\"//twitter.com/search?q=%23rctid\">#rctid</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/569984227085545472/uoEfwY6I_normal.jpeg"
+            "user_id": "177035298",
+            "user_image": "http://pbs.twimg.com/profile_images/579428652036661248/Xaxgt388_normal.jpg"
         },
         {
             "_type": "VIDEO",
@@ -9121,6 +9137,7 @@
             "secondNum": 57,
             "text": "Our Capo is a BOSS!!! <a target=\"_blank\" href=\"//twitter.com/search?q=%23PORvRSL\">#PORvRSL</a> <a href=\"http://t.co/2iXIWo5JRW\" target=\"_blank\">http://t.co/2iXIWo5JRW</a>",
             "toJSON": true,
+            "user_id": "369840616",
             "user_image": "http://pbs.twimg.com/profile_images/378800000240833078/22bee84bed915c283b13b5c7ca2ae8a7_normal.jpeg"
         },
         {
@@ -9165,6 +9182,7 @@
             "secondNum": 25,
             "text": "I think the rain\u2019s put some piss and vinegar into the crowd tonight. Vocally displeased with Geiger early on. <a target=\"_blank\" href=\"//twitter.com/search?q=%23RCTID\">#RCTID</a>",
             "toJSON": true,
+            "user_id": "412394810",
             "user_image": "http://pbs.twimg.com/profile_images/1638898626/020_normal.JPG"
         },
         {
@@ -9179,6 +9197,7 @@
             "secondNum": 33,
             "text": "Nick Rimando, man of the decade.",
             "toJSON": true,
+            "user_id": "318881692",
             "user_image": "http://pbs.twimg.com/profile_images/378800000843842488/24154ddd319928c8ff3f2d318c6ad568_normal.png"
         },
         {
@@ -9219,6 +9238,7 @@
             "secondNum": 38,
             "text": "I love Nick F. Rimando. <a target=\"_blank\" href=\"//twitter.com/search?q=%23RSL\">#RSL</a>",
             "toJSON": true,
+            "user_id": "289633223",
             "user_image": "http://pbs.twimg.com/profile_images/495793616414330880/845-5TyG_normal.jpeg"
         },
         {
@@ -9233,6 +9253,7 @@
             "secondNum": 18,
             "text": "Robbie Earle said right: Nick Rimando is brilliant. The presence of mind to charge out before the ball is even crossed\u2026 <a target=\"_blank\" href=\"//twitter.com/search?q=%23PORvRSL\">#PORvRSL</a>",
             "toJSON": true,
+            "user_id": "191713371",
             "user_image": "http://pbs.twimg.com/profile_images/502247522484510720/TTc24Uka_normal.jpeg"
         },
         {
@@ -9247,7 +9268,8 @@
             "secondNum": 20,
             "text": "Rimando. Say no more. <a target=\"_blank\" href=\"//twitter.com/search?q=%23WalloftheWasatch\">#WalloftheWasatch</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23PORvRSL\">#PORvRSL</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/550589473767976961/OTnslq_m_normal.png"
+            "user_id": "107146095",
+            "user_image": "http://pbs.twimg.com/profile_images/593636874301808640/2-2VpXxW_normal.jpg"
         },
         {
             "_type": "TWEET",
@@ -9261,6 +9283,7 @@
             "secondNum": 40,
             "text": "Geiger has lost the plot. <a target=\"_blank\" href=\"//twitter.com/search?q=%23rctid\">#rctid</a>",
             "toJSON": true,
+            "user_id": "15985291",
             "user_image": "http://pbs.twimg.com/profile_images/2414730479/4ifmn67byv7c8lx6bsja_normal.jpeg"
         },
         {
@@ -9275,6 +9298,7 @@
             "secondNum": 48,
             "text": "I don't think Rimando is Jewish but it takes some serious chutzpah to make a save like that. <a target=\"_blank\" href=\"//twitter.com/search?q=%23PORvRSL\">#PORvRSL</a>",
             "toJSON": true,
+            "user_id": "18768305",
             "user_image": "http://pbs.twimg.com/profile_images/572207809748422656/HAA2kFfs_normal.jpeg"
         },
         {
@@ -9289,6 +9313,7 @@
             "secondNum": 6,
             "text": "My God Rimando, that was incredible. <a target=\"_blank\" href=\"//twitter.com/search?q=%23PORvRSL\">#PORvRSL</a>",
             "toJSON": true,
+            "user_id": "59300026",
             "user_image": "http://pbs.twimg.com/profile_images/458751794357620737/hHJkEAOu_normal.jpeg"
         },
         {
@@ -9303,6 +9328,7 @@
             "secondNum": 9,
             "text": "Rimando is superhuman. <a target=\"_blank\" href=\"//twitter.com/search?q=%23rctid\">#rctid</a>",
             "toJSON": true,
+            "user_id": "210177091",
             "user_image": "http://pbs.twimg.com/profile_images/1720939099/december2011_normal.jpg"
         },
         {
@@ -9405,6 +9431,7 @@
             "secondNum": 7,
             "text": "We're underway here at Providence Park as the Timbers take on RSL in their final home game of the season. A lot at stake tonight <a target=\"_blank\" href=\"//twitter.com/search?q=%23RCTID\">#RCTID</a>",
             "toJSON": true,
+            "user_id": "174517450",
             "user_image": "http://pbs.twimg.com/profile_images/555178709569638400/HyQmQxlU_normal.jpeg"
         },
         {
@@ -9419,6 +9446,7 @@
             "secondNum": 44,
             "text": "Morales is playing TERRIBLE. He can't keep the ball or even complete a freaking pass. Rimando is already up for save of the week <a target=\"_blank\" href=\"//twitter.com/search?q=%23RSL\">#RSL</a>",
             "toJSON": true,
+            "user_id": "168977399",
             "user_image": "http://pbs.twimg.com/profile_images/505515839756333056/DzxLmv_c_normal.jpeg"
         },
         {
@@ -9433,6 +9461,7 @@
             "secondNum": 51,
             "text": "I'm not a fan of the Timbers without Will Johnson on the field.  I just want them to shhh with a nice goal here by <a target=\"_blank\" href=\"//twitter.com/search?q=%23RSL\">#RSL</a>.",
             "toJSON": true,
+            "user_id": "18400768",
             "user_image": "http://pbs.twimg.com/profile_images/2535370349/vq0v2gfh3qaivwrvzw06_normal.jpeg"
         },
         {
@@ -9459,7 +9488,8 @@
             "secondNum": 0,
             "text": "FT: <a target=\"_blank\" href=\"//twitter.com/search?q=%23RSL\">#RSL</a> 0, Portland 0. Brilliant defensive outing gives RSL a road point in insane atmosphere. Rimando, RSL back line were great.",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/568112721237794816/068vnlRd_normal.jpeg"
+            "user_id": "935368910",
+            "user_image": "http://pbs.twimg.com/profile_images/581281830940229632/wcxOKwP8_normal.jpg"
         },
         {
             "_type": "TWEET",
@@ -9473,6 +9503,7 @@
             "secondNum": 0,
             "text": "Final score: Timbers 0, Real Salt Lake 0. Timbers fought hard, but don't get result they desperately needed <a target=\"_blank\" href=\"//twitter.com/search?q=%23RCTID\">#RCTID</a>",
             "toJSON": true,
+            "user_id": "174517450",
             "user_image": "http://pbs.twimg.com/profile_images/555178709569638400/HyQmQxlU_normal.jpeg"
         },
         {
@@ -9487,6 +9518,7 @@
             "secondNum": 0,
             "text": "Real classy of <a target=\"_blank\" href=\"//twitter.com/search?q=%23timbersarmy\">#timbersarmy</a> throwing stuff on the field. <a target=\"_blank\" href=\"//twitter.com/search?q=%23sarcasmfont\">#sarcasmfont</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23PORvRSL\">#PORvRSL</a>",
             "toJSON": true,
+            "user_id": "14399279",
             "user_image": "http://pbs.twimg.com/profile_images/481190033722847233/eweLk0AP_normal.jpeg"
         },
         {
@@ -9501,7 +9533,8 @@
             "secondNum": 0,
             "text": "The best 0 0 game I have ever seen! <a target=\"_blank\" href=\"//twitter.com/search?q=%23PORvRSL\">#PORvRSL</a> <a target=\"_blank\" href=\"//twitter.com/@MLS\">@MLS</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/519525289827659776/xHi8tP66_normal.jpeg"
+            "user_id": "158124184",
+            "user_image": "http://pbs.twimg.com/profile_images/578609004626206720/eVqdrxc7_normal.jpeg"
         },
         {
             "_type": "TWEET",
@@ -9519,7 +9552,8 @@
             "secondNum": 0,
             "text": "FT: <a target=\"_blank\" href=\"//twitter.com/@NickRimando\">@NickRimando</a> and <a target=\"_blank\" href=\"//twitter.com/search?q=%23RSL\">#RSL</a> log jam <a target=\"_blank\" href=\"//twitter.com/@TimbersFC\">@TimbersFC</a>, 0-0. <a target=\"_blank\" href=\"//twitter.com/search?q=%23PORvRSL\">#PORvRSL</a> <a href=\"http://t.co/LWSKaqglm8\" target=\"_blank\">http://t.co/LWSKaqglm8</a> <a href=\"http://t.co/cXgxJuAXxF\" target=\"_blank\">http://t.co/cXgxJuAXxF</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/550589473767976961/OTnslq_m_normal.png"
+            "user_id": "107146095",
+            "user_image": "http://pbs.twimg.com/profile_images/593636874301808640/2-2VpXxW_normal.jpg"
         },
         {
             "_type": "VIDEO",
@@ -9561,6 +9595,7 @@
             "secondNum": 17,
             "text": "One goal. My parents are here. Never seen one. That's all we want. <a target=\"_blank\" href=\"//twitter.com/search?q=%23rctid\">#rctid</a> <a href=\"http://t.co/OGF0eBS7DS\" target=\"_blank\">http://t.co/OGF0eBS7DS</a>",
             "toJSON": true,
+            "user_id": "48149933",
             "user_image": "http://pbs.twimg.com/profile_images/510591203281477632/1VcApkBQ_normal.jpeg"
         },
         {
@@ -9575,6 +9610,7 @@
             "secondNum": 43,
             "text": "21\u2019 - Zemanski with stand up D. <a target=\"_blank\" href=\"//twitter.com/search?q=%23RCTID\">#RCTID</a>",
             "toJSON": true,
+            "user_id": "22556296",
             "user_image": "http://pbs.twimg.com/profile_images/512644544731435009/nQ7uqfBl_normal.jpeg"
         },
         {
@@ -9589,6 +9625,7 @@
             "secondNum": 46,
             "text": "Does Geiger still think he's in Brazil? <a target=\"_blank\" href=\"//twitter.com/search?q=%23RCTID\">#RCTID</a>",
             "toJSON": true,
+            "user_id": "2248935998",
             "user_image": "http://pbs.twimg.com/profile_images/513463272251482112/VJNaLNMR_normal.jpeg"
         },
         {
@@ -9632,6 +9669,7 @@
             "secondNum": 19,
             "text": "<a target=\"_blank\" href=\"//twitter.com/search?q=%23PORvRSL\">#PORvRSL</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23RCTID\">#RCTID</a> nice - good rotation play by zman there is the central midfielder - closing the wing so Papa could stay tite in the 18 yd bx",
             "toJSON": true,
+            "user_id": "633316628",
             "user_image": "http://pbs.twimg.com/profile_images/475080212854476801/Mfm-vH8P_normal.jpeg"
         },
         {
@@ -9646,6 +9684,7 @@
             "secondNum": 46,
             "text": "<a target=\"_blank\" href=\"//twitter.com/search?q=%23PORvRSL\">#PORvRSL</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23RCTID\">#RCTID</a> that sort of organized approach on defending the wings was missing quite a bit earlier this year...",
             "toJSON": true,
+            "user_id": "633316628",
             "user_image": "http://pbs.twimg.com/profile_images/475080212854476801/Mfm-vH8P_normal.jpeg"
         },
         {
@@ -9689,6 +9728,7 @@
             "secondNum": 59,
             "text": "Couple of heartbreaking opportunities in this match so far. Timbers look great tonight. <a target=\"_blank\" href=\"//twitter.com/search?q=%23RCTID\">#RCTID</a>",
             "toJSON": true,
+            "user_id": "19624156",
             "user_image": "http://pbs.twimg.com/profile_images/3532547624/4da4abb5c0fc862c892ce8d9d37b33fd_normal.jpeg"
         },
         {
@@ -9703,6 +9743,7 @@
             "secondNum": 34,
             "text": "<a target=\"_blank\" href=\"//twitter.com/search?q=%23PORvRSL\">#PORvRSL</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23RCTID\">#RCTID</a> creative and just another GOOD IDEA by Valeri - he's simply a gr8 player who has found a home in Portland with <a target=\"_blank\" href=\"//twitter.com/@timbersfc\">@timbersfc</a>",
             "toJSON": true,
+            "user_id": "633316628",
             "user_image": "http://pbs.twimg.com/profile_images/475080212854476801/Mfm-vH8P_normal.jpeg"
         },
         {
@@ -9823,7 +9864,8 @@
             "secondNum": 10,
             "text": "24' Pass for Adi is just offside by Valeri by a step. RSL was asleep there &amp; Adi nearly made them pay. <a target=\"_blank\" href=\"//twitter.com/search?q=%23rctid\">#rctid</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/569984227085545472/uoEfwY6I_normal.jpeg"
+            "user_id": "177035298",
+            "user_image": "http://pbs.twimg.com/profile_images/579428652036661248/Xaxgt388_normal.jpg"
         },
         {
             "_type": "COMMENT",
@@ -9879,6 +9921,7 @@
             "secondNum": 14,
             "text": "<a target=\"_blank\" href=\"//twitter.com/search?q=%23RCTID\">#RCTID</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23MLS\">#MLS</a>  <a target=\"_blank\" href=\"//twitter.com/search?q=%23PORvRSL\">#PORvRSL</a> Salcedo looks like a liability so far for RSL in back.",
             "toJSON": true,
+            "user_id": "547308539",
             "user_image": "http://pbs.twimg.com/profile_images/378800000643618283/ca2863c2ee05e63b6fdf84897b710d79_normal.jpeg"
         },
         {
@@ -9893,6 +9936,7 @@
             "secondNum": 4,
             "text": "<a target=\"_blank\" href=\"//twitter.com/search?q=%23PORvRSL\">#PORvRSL</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23RCTID\">#RCTID</a> in looking at Papa he has settled well in beside Rdigewell - developing in2 a pretty good CB partnership these last few gams",
             "toJSON": true,
+            "user_id": "633316628",
             "user_image": "http://pbs.twimg.com/profile_images/475080212854476801/Mfm-vH8P_normal.jpeg"
         },
         {
@@ -9907,6 +9951,7 @@
             "secondNum": 51,
             "text": "Don't know what's up with Adi tonight, but he just looks a step slow &amp; a thought slow. Maybe swap at the break if it continues <a target=\"_blank\" href=\"//twitter.com/search?q=%23RCTID\">#RCTID</a>",
             "toJSON": true,
+            "user_id": "285002259",
             "user_image": "http://pbs.twimg.com/profile_images/1319102203/Portland-and-Mt--Hood-portland-696661_550_427_normal.jpg"
         },
         {
@@ -9951,7 +9996,8 @@
             "secondNum": 41,
             "text": "<a target=\"_blank\" href=\"//twitter.com/search?q=%23RSL\">#RSL</a>'s defensive block can step up a meter or two. <a target=\"_blank\" href=\"//twitter.com/search?q=%23MLS\">#MLS</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/573593700418256897/Xu-qORxI_normal.jpeg"
+            "user_id": "243299641",
+            "user_image": "http://pbs.twimg.com/profile_images/590979125927522304/-IpEUiKJ_normal.jpg"
         },
         {
             "_type": "INSTAGRAM",
@@ -9971,7 +10017,7 @@
             },
             "link": "http://instagram.com/p/uRxqsRnaEY/",
             "minuteNum": 26,
-            "name": "\u0e53\u0e40\u03c2\u0452\u0454ll\u0454 \u0e52\u0e04\u0433tl\u0454tt",
+            "name": "\u00e0\u00b9\u0093\u00e0\u00b9\u0080\u00cf\u0082\u00d1\u0092\u00d1\u0094ll\u00d1\u0094 \u00e0\u00b9\u0092\u00e0\u00b8\u0084\u00d0\u00b3tl\u00d1\u0094tt",
             "published_at": 1413600760515,
             "screen_name": "chelleeb",
             "secondsNum": 0,
@@ -9991,6 +10037,7 @@
             "secondNum": 53,
             "text": "27\u2019 - Valeri cuts the defense open with a brilliant pass. Just a bit too hot for Adi at the edge of the 18. <a target=\"_blank\" href=\"//twitter.com/search?q=%23RCTID\">#RCTID</a>",
             "toJSON": true,
+            "user_id": "22556296",
             "user_image": "http://pbs.twimg.com/profile_images/512644544731435009/nQ7uqfBl_normal.jpeg"
         },
         {
@@ -10005,6 +10052,7 @@
             "secondNum": 1,
             "text": "<a target=\"_blank\" href=\"//twitter.com/search?q=%23PORvRSL\">#PORvRSL</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23RCTID\">#RCTID</a> sometimes Valeri's vision is soooooooooooo good no-one else sees what he sees",
             "toJSON": true,
+            "user_id": "633316628",
             "user_image": "http://pbs.twimg.com/profile_images/475080212854476801/Mfm-vH8P_normal.jpeg"
         },
         {
@@ -10019,6 +10067,7 @@
             "secondNum": 18,
             "text": "<a target=\"_blank\" href=\"//twitter.com/search?q=%23RCTID\">#RCTID</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23MLS\">#MLS</a>  <a target=\"_blank\" href=\"//twitter.com/search?q=%23PORvRSL\">#PORvRSL</a> Does Adi realize this is a \"must win\" game?",
             "toJSON": true,
+            "user_id": "547308539",
             "user_image": "http://pbs.twimg.com/profile_images/378800000643618283/ca2863c2ee05e63b6fdf84897b710d79_normal.jpeg"
         },
         {
@@ -10059,7 +10108,8 @@
             "secondNum": 58,
             "text": "27' Back and forth chances. Spidey senses say a goal is coming. <a target=\"_blank\" href=\"//twitter.com/search?q=%23PORvRSL\">#PORvRSL</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/570377717447553024/8LL4Mw8P_normal.jpeg"
+            "user_id": "2529120686",
+            "user_image": "http://pbs.twimg.com/profile_images/593599324140900352/ZiVyJOxx_normal.jpg"
         },
         {
             "_type": "TWEET",
@@ -10073,7 +10123,8 @@
             "secondNum": 12,
             "text": "One might say that <a target=\"_blank\" href=\"//twitter.com/@NickRimando\">@NickRimando</a> is very good at his job. WATCH --&gt; <a href=\"http://t.co/vroi5jgQsJ\" target=\"_blank\">http://t.co/vroi5jgQsJ</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23PORvRSL\">#PORvRSL</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/550589473767976961/OTnslq_m_normal.png"
+            "user_id": "107146095",
+            "user_image": "http://pbs.twimg.com/profile_images/593636874301808640/2-2VpXxW_normal.jpg"
         },
         {
             "_type": "TWEET",
@@ -10087,6 +10138,7 @@
             "secondNum": 4,
             "text": "Stats pretty even 28 minutes in, although Portland may have more possession in the attacking half and third. <a target=\"_blank\" href=\"//twitter.com/search?q=%23PORvRSL\">#PORvRSL</a>",
             "toJSON": true,
+            "user_id": "2307352909",
             "user_image": "http://pbs.twimg.com/profile_images/468141594990755840/HfRxfjDP_normal.jpeg"
         },
         {
@@ -10101,7 +10153,8 @@
             "secondNum": 55,
             "text": "29' Ricketts makes great save in traffic off cross, puts long goal kick for Adi but it's just out of play. <a target=\"_blank\" href=\"//twitter.com/search?q=%23RSL\">#RSL</a> back on the attack. <a target=\"_blank\" href=\"//twitter.com/search?q=%23rctid\">#rctid</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/569984227085545472/uoEfwY6I_normal.jpeg"
+            "user_id": "177035298",
+            "user_image": "http://pbs.twimg.com/profile_images/579428652036661248/Xaxgt388_normal.jpg"
         },
         {
             "_type": "TWEET",
@@ -10115,6 +10168,7 @@
             "secondNum": 22,
             "text": "<a target=\"_blank\" href=\"//twitter.com/search?q=%23MLS\">#MLS</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23PORvRSL\">#PORvRSL</a> Donovan Ricketts facing offensively limited RSL holds the Timbers hopes in his big white gloved hands",
             "toJSON": true,
+            "user_id": "547308539",
             "user_image": "http://pbs.twimg.com/profile_images/378800000643618283/ca2863c2ee05e63b6fdf84897b710d79_normal.jpeg"
         },
         {
@@ -10172,6 +10226,7 @@
             "secondNum": 53,
             "text": "<a target=\"_blank\" href=\"//twitter.com/search?q=%23RSL\">#RSL</a> had 8 corners when the team's last played. Set piece defending will be a factor tonight. <a target=\"_blank\" href=\"//twitter.com/search?q=%23porvrsl\">#porvrsl</a>",
             "toJSON": true,
+            "user_id": "8086192",
             "user_image": "http://pbs.twimg.com/profile_images/573730772013576192/N46MTL9k_normal.jpeg"
         },
         {
@@ -10211,6 +10266,7 @@
             "secondNum": 38,
             "text": "Portland Timber steal Argentina's chant. <a target=\"_blank\" href=\"//twitter.com/search?q=%23PORvRSL\">#PORvRSL</a>",
             "toJSON": true,
+            "user_id": "15054678",
             "user_image": "http://pbs.twimg.com/profile_images/463699984886411264/LXyY9PQq_normal.png"
         },
         {
@@ -10255,6 +10311,7 @@
             "secondNum": 39,
             "text": "<a target=\"_blank\" href=\"//twitter.com/search?q=%23PORvRSL\">#PORvRSL</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23RCTID\">#RCTID</a> that - in my estimation was the best chance tonite - tons of time and space - good vision and just a tad hurried",
             "toJSON": true,
+            "user_id": "633316628",
             "user_image": "http://pbs.twimg.com/profile_images/475080212854476801/Mfm-vH8P_normal.jpeg"
         },
         {
@@ -10269,6 +10326,7 @@
             "secondNum": 41,
             "text": "Rimando is having a another good game (surprise, surprise) <a target=\"_blank\" href=\"//twitter.com/search?q=%23RCTID\">#RCTID</a>",
             "toJSON": true,
+            "user_id": "174517450",
             "user_image": "http://pbs.twimg.com/profile_images/555178709569638400/HyQmQxlU_normal.jpeg"
         },
         {
@@ -10283,7 +10341,8 @@
             "secondNum": 5,
             "text": "28' Wasted cross by Gil.  I still think he could be <a target=\"_blank\" href=\"//twitter.com/search?q=%23RSL\">#RSL</a> and <a target=\"_blank\" href=\"//twitter.com/search?q=%23USMNT\">#USMNT</a> money some day, but hasn't been great this year. <a target=\"_blank\" href=\"//twitter.com/search?q=%23PORvRSL\">#PORvRSL</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/570377717447553024/8LL4Mw8P_normal.jpeg"
+            "user_id": "2529120686",
+            "user_image": "http://pbs.twimg.com/profile_images/593599324140900352/ZiVyJOxx_normal.jpg"
         },
         {
             "_type": "COMMENT",
@@ -10326,6 +10385,7 @@
             "secondNum": 14,
             "text": "31' - Wallace almost gets in behind, but Beltran recovers, and the shot is handled easily by Rimando. <a target=\"_blank\" href=\"//twitter.com/search?q=%23PORvRSL\">#PORvRSL</a>",
             "toJSON": true,
+            "user_id": "2307352909",
             "user_image": "http://pbs.twimg.com/profile_images/468141594990755840/HfRxfjDP_normal.jpeg"
         },
         {
@@ -10340,7 +10400,8 @@
             "secondNum": 57,
             "text": "Can we just make this year's third kit our primary, and the previous one our secondary? <a target=\"_blank\" href=\"//twitter.com/search?q=%23RCTID\">#RCTID</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/512627724389580802/ITJKvURY_normal.jpeg"
+            "user_id": "29047731",
+            "user_image": "http://pbs.twimg.com/profile_images/547531638167846912/6WZtyxFM_normal.jpeg"
         },
         {
             "_type": "TWEET",
@@ -10354,6 +10415,7 @@
             "secondNum": 1,
             "text": "<a target=\"_blank\" href=\"//twitter.com/search?q=%23RCTID\">#RCTID</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23MLS\">#MLS</a>  <a target=\"_blank\" href=\"//twitter.com/search?q=%23PORvRSL\">#PORvRSL</a> RSL best defender tonight: Fenando Adi.",
             "toJSON": true,
+            "user_id": "547308539",
             "user_image": "http://pbs.twimg.com/profile_images/378800000643618283/ca2863c2ee05e63b6fdf84897b710d79_normal.jpeg"
         },
         {
@@ -10368,6 +10430,7 @@
             "secondNum": 19,
             "text": "<a target=\"_blank\" href=\"//twitter.com/search?q=%23PORvRSL\">#PORvRSL</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23RCTID\">#RCTID</a> 30 minutes gone - most of the play has gone <a target=\"_blank\" href=\"//twitter.com/@timbersfc\">@timbersfc</a> way - need 2 b steady and patient - the time and space IS THERE",
             "toJSON": true,
+            "user_id": "633316628",
             "user_image": "http://pbs.twimg.com/profile_images/475080212854476801/Mfm-vH8P_normal.jpeg"
         },
         {
@@ -10382,6 +10445,7 @@
             "secondNum": 45,
             "text": "Man, if there was a positive to Johnson getting hurt, Chara's contributions on both sides of ball tonight might be it. <a target=\"_blank\" href=\"//twitter.com/search?q=%23PORvRSL\">#PORvRSL</a>",
             "toJSON": true,
+            "user_id": "2296999512",
             "user_image": "http://pbs.twimg.com/profile_images/501897138310094848/rhRX4w0d_normal.jpeg"
         },
         {
@@ -10396,7 +10460,8 @@
             "secondNum": 55,
             "text": "35' - Wallace gets played forward but he can't keep ball in play off long run on left. <a target=\"_blank\" href=\"//twitter.com/search?q=%23timbers\">#timbers</a> dominating left flank right now. <a target=\"_blank\" href=\"//twitter.com/search?q=%23rctid\">#rctid</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/569984227085545472/uoEfwY6I_normal.jpeg"
+            "user_id": "177035298",
+            "user_image": "http://pbs.twimg.com/profile_images/579428652036661248/Xaxgt388_normal.jpg"
         },
         {
             "_type": "COMMENT",
@@ -10494,7 +10559,8 @@
             "secondNum": 52,
             "text": "I love the Timbers' branding... Uniforms are sharp and logo is classic. <a target=\"_blank\" href=\"//twitter.com/search?q=%23RSL\">#RSL</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/562104518913978368/fkQBftkk_normal.jpeg"
+            "user_id": "79198147",
+            "user_image": "http://pbs.twimg.com/profile_images/587416176935903232/GyMTq5yr_normal.jpg"
         },
         {
             "_type": "TWEET",
@@ -10508,7 +10574,8 @@
             "secondNum": 57,
             "text": "That beard makes me so damn jealous. <a target=\"_blank\" href=\"//twitter.com/search?q=%23PORvRSL\">#PORvRSL</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/556628634320916481/fCxHQELE_normal.jpeg"
+            "user_id": "1382326202",
+            "user_image": "http://pbs.twimg.com/profile_images/578667870898393088/R6e_gZNW_normal.jpeg"
         },
         {
             "_type": "TWEET",
@@ -10522,6 +10589,7 @@
             "secondNum": 6,
             "text": "Salcedo is having himself a nice game so far. Great anticipation. <a target=\"_blank\" href=\"//twitter.com/search?q=%23PORvRSL\">#PORvRSL</a>",
             "toJSON": true,
+            "user_id": "2307352909",
             "user_image": "http://pbs.twimg.com/profile_images/468141594990755840/HfRxfjDP_normal.jpeg"
         },
         {
@@ -10536,6 +10604,7 @@
             "secondNum": 20,
             "text": "<a target=\"_blank\" href=\"//twitter.com/search?q=%23PORvRSL\">#PORvRSL</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23RCTID\">#RCTID</a> another good opportunity  - in this case speed was the asset to work from - sadly Rimando is just a good keeper",
             "toJSON": true,
+            "user_id": "633316628",
             "user_image": "http://pbs.twimg.com/profile_images/475080212854476801/Mfm-vH8P_normal.jpeg"
         },
         {
@@ -10592,7 +10661,8 @@
             "secondNum": 28,
             "text": "36' - Great passing sequence by TImbers gives Wallace another shot towards goal. He puts it for Valeri but Rimando catches for save. <a target=\"_blank\" href=\"//twitter.com/search?q=%23rctid\">#rctid</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/569984227085545472/uoEfwY6I_normal.jpeg"
+            "user_id": "177035298",
+            "user_image": "http://pbs.twimg.com/profile_images/579428652036661248/Xaxgt388_normal.jpg"
         },
         {
             "_type": "TWEET",
@@ -10606,6 +10676,7 @@
             "secondNum": 15,
             "text": "<a target=\"_blank\" href=\"//twitter.com/search?q=%23PORvRSL\">#PORvRSL</a> Late charge by Valeri, credit Rimando for not overreacting like most keepers",
             "toJSON": true,
+            "user_id": "123423291",
             "user_image": "http://pbs.twimg.com/profile_images/514966915027320832/iZ6OYGmz_normal.jpeg"
         },
         {
@@ -10645,6 +10716,7 @@
             "secondNum": 18,
             "text": "Urruti sub at half please and thank you. <a target=\"_blank\" href=\"//twitter.com/search?q=%23rctid\">#rctid</a>",
             "toJSON": true,
+            "user_id": "210177091",
             "user_image": "http://pbs.twimg.com/profile_images/1720939099/december2011_normal.jpg"
         },
         {
@@ -10680,6 +10752,7 @@
             "secondNum": 6,
             "text": "<a target=\"_blank\" href=\"//twitter.com/search?q=%23PORvRSL\">#PORvRSL</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23RCTID\">#RCTID</a> nicely done by Adi staying onside there - sooo hard to time those passes by Diego sometimes",
             "toJSON": true,
+            "user_id": "633316628",
             "user_image": "http://pbs.twimg.com/profile_images/475080212854476801/Mfm-vH8P_normal.jpeg"
         },
         {
@@ -10724,6 +10797,7 @@
             "secondNum": 16,
             "text": "<a target=\"_blank\" href=\"//twitter.com/search?q=%23RCTID\">#RCTID</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23MLS\">#MLS</a>  <a target=\"_blank\" href=\"//twitter.com/search?q=%23PORvRSL\">#PORvRSL</a> I could have sworn Robbie Findley is starting tonight!",
             "toJSON": true,
+            "user_id": "547308539",
             "user_image": "http://pbs.twimg.com/profile_images/378800000643618283/ca2863c2ee05e63b6fdf84897b710d79_normal.jpeg"
         },
         {
@@ -10738,7 +10812,8 @@
             "secondNum": 2,
             "text": "Valeri created the break off turnover, passed to Adi for Wallace. Again, <a target=\"_blank\" href=\"//twitter.com/search?q=%23timbers\">#timbers</a> are very lethal on left. <a target=\"_blank\" href=\"//twitter.com/search?q=%23rctid\">#rctid</a>.",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/569984227085545472/uoEfwY6I_normal.jpeg"
+            "user_id": "177035298",
+            "user_image": "http://pbs.twimg.com/profile_images/579428652036661248/Xaxgt388_normal.jpg"
         },
         {
             "_type": "TWEET",
@@ -10752,6 +10827,7 @@
             "secondNum": 46,
             "text": "39' - Fabulous save by Ricketts to prevent Findley from scoring on a header <a target=\"_blank\" href=\"//twitter.com/search?q=%23RCTID\">#RCTID</a>",
             "toJSON": true,
+            "user_id": "174517450",
             "user_image": "http://pbs.twimg.com/profile_images/555178709569638400/HyQmQxlU_normal.jpeg"
         },
         {
@@ -10766,6 +10842,7 @@
             "secondNum": 49,
             "text": "Findley with a great chance, and Jaime lurking on the doorstep, but no dice. <a target=\"_blank\" href=\"//twitter.com/search?q=%23PORvRSL\">#PORvRSL</a>",
             "toJSON": true,
+            "user_id": "2307352909",
             "user_image": "http://pbs.twimg.com/profile_images/468141594990755840/HfRxfjDP_normal.jpeg"
         },
         {
@@ -10780,6 +10857,7 @@
             "secondNum": 54,
             "text": "Great save by Ricketts there! <a target=\"_blank\" href=\"//twitter.com/search?q=%23RCTID\">#RCTID</a>",
             "toJSON": true,
+            "user_id": "31669690",
             "user_image": "http://pbs.twimg.com/profile_images/378800000766208208/03439e73c904889e1d89f3b078762eb8_normal.jpeg"
         },
         {
@@ -10794,6 +10872,7 @@
             "secondNum": 7,
             "text": "If Paul Scholes is the Ginger Ninja then Nat Borchers is the Ginger Claus. <a target=\"_blank\" href=\"//twitter.com/search?q=%23PORvRSL\">#PORvRSL</a>",
             "toJSON": true,
+            "user_id": "26075776",
             "user_image": "http://pbs.twimg.com/profile_images/525556111437332481/jeLcs_tT_normal.jpeg"
         },
         {
@@ -10829,6 +10908,7 @@
             "secondNum": 13,
             "text": "Gil shoots and just goes wide! Another <a target=\"_blank\" href=\"//twitter.com/search?q=%23RSL\">#RSL</a> corner.",
             "toJSON": true,
+            "user_id": "36116210",
             "user_image": "http://pbs.twimg.com/profile_images/473936085123231745/X1EC1Wkb_normal.png"
         },
         {
@@ -10872,6 +10952,7 @@
             "secondNum": 51,
             "text": "Love that <a target=\"_blank\" href=\"//twitter.com/search?q=%23RSL\">#RSL</a> comes out shooting. Let's pick up where we left off from last week. <a target=\"_blank\" href=\"//twitter.com/search?q=%23RSLvPOR\">#RSLvPOR</a>",
             "toJSON": true,
+            "user_id": "2538058488",
             "user_image": "http://pbs.twimg.com/profile_images/472819783914643456/TRvE534w_normal.jpeg"
         },
         {
@@ -10886,6 +10967,7 @@
             "secondNum": 59,
             "text": "Ricketts must have been taking advice from Ludacris on that one cause he got low. <a target=\"_blank\" href=\"//twitter.com/search?q=%23RCTID\">#RCTID</a>",
             "toJSON": true,
+            "user_id": "2297321684",
             "user_image": "http://pbs.twimg.com/profile_images/515903106920374272/swFbKyEy_normal.jpeg"
         },
         {
@@ -10900,6 +10982,7 @@
             "secondNum": 1,
             "text": "Ricketts and Rimando on their games tonight. <a target=\"_blank\" href=\"//twitter.com/search?q=%23PORvRSL\">#PORvRSL</a>",
             "toJSON": true,
+            "user_id": "189347461",
             "user_image": "http://pbs.twimg.com/profile_images/470804372339699714/MsJAtKUo_normal.jpeg"
         },
         {
@@ -10914,6 +10997,7 @@
             "secondNum": 48,
             "text": "Timbers the better passing team at over 80% yet RSL has five interceptions. Got to spread out on the right flank <a target=\"_blank\" href=\"//twitter.com/search?q=%23porvrsl\">#porvrsl</a>",
             "toJSON": true,
+            "user_id": "8086192",
             "user_image": "http://pbs.twimg.com/profile_images/573730772013576192/N46MTL9k_normal.jpeg"
         },
         {
@@ -10928,6 +11012,7 @@
             "secondNum": 51,
             "text": "Nagbe\u2019s done a great job of not letting his lack of goalscoring affect the rest of his game. May have caught up to him tonight. <a target=\"_blank\" href=\"//twitter.com/search?q=%23RCTID\">#RCTID</a>",
             "toJSON": true,
+            "user_id": "412394810",
             "user_image": "http://pbs.twimg.com/profile_images/1638898626/020_normal.JPG"
         },
         {
@@ -10984,6 +11069,7 @@
             "secondNum": 29,
             "text": "<a target=\"_blank\" href=\"//twitter.com/search?q=%23RCTID\">#RCTID</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23MLS\">#MLS</a>  <a target=\"_blank\" href=\"//twitter.com/search?q=%23PORvRSLCassar\">#PORvRSLCassar</a> had better get some 2nd half possession or he may play Portland a 4th game this year.",
             "toJSON": true,
+            "user_id": "547308539",
             "user_image": "http://pbs.twimg.com/profile_images/378800000643618283/ca2863c2ee05e63b6fdf84897b710d79_normal.jpeg"
         },
         {
@@ -11023,7 +11109,8 @@
             "secondNum": 35,
             "text": "Nagbe's been extremely quiet this game. <a target=\"_blank\" href=\"//twitter.com/search?q=%23RCTID\">#RCTID</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/505143137216389120/iiDplKuQ_normal.jpeg"
+            "user_id": "14317333",
+            "user_image": "http://pbs.twimg.com/profile_images/552257437932085249/aIWyDk-6_normal.jpeg"
         },
         {
             "_type": "COMMENT",
@@ -11058,7 +11145,8 @@
             "secondNum": 28,
             "text": "43' - Valeri earns FK off long forward run. About 35 yrds out, chips finds Ridgewell's head but RSL knocks out for corner. <a target=\"_blank\" href=\"//twitter.com/search?q=%23rctid\">#rctid</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/569984227085545472/uoEfwY6I_normal.jpeg"
+            "user_id": "177035298",
+            "user_image": "http://pbs.twimg.com/profile_images/579428652036661248/Xaxgt388_normal.jpg"
         },
         {
             "_type": "COMMENT",
@@ -11144,6 +11232,7 @@
             "secondNum": 27,
             "text": "Dangerous sequence, RSL leaves unscathed. <a target=\"_blank\" href=\"//twitter.com/search?q=%23PORvRSL\">#PORvRSL</a>",
             "toJSON": true,
+            "user_id": "1634036647",
             "user_image": "http://pbs.twimg.com/profile_images/378800000619634058/e91a75f7a04c2d7aebc9c4080990e3bc_normal.jpeg"
         },
         {
@@ -11158,7 +11247,8 @@
             "secondNum": 33,
             "text": "44' CK goes wide left for long stretch, shifted back to right for Valeri. His shot is over bar, but <a target=\"_blank\" href=\"//twitter.com/search?q=%23timbers\">#timbers</a> forced <a target=\"_blank\" href=\"//twitter.com/search?q=%23rsl\">#rsl</a> defense to scramble",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/569984227085545472/uoEfwY6I_normal.jpeg"
+            "user_id": "177035298",
+            "user_image": "http://pbs.twimg.com/profile_images/579428652036661248/Xaxgt388_normal.jpg"
         },
         {
             "_type": "TWEET",
@@ -11176,6 +11266,7 @@
             "secondNum": 53,
             "text": "The ball was so close <a target=\"_blank\" href=\"//twitter.com/search?q=%23rctid\">#rctid</a> <a href=\"http://t.co/10LrfWNKUN\" target=\"_blank\">http://t.co/10LrfWNKUN</a>",
             "toJSON": true,
+            "user_id": "270167702",
             "user_image": "http://pbs.twimg.com/profile_images/533638922958413824/R428FTqg_normal.jpeg"
         },
         {
@@ -11190,6 +11281,7 @@
             "secondNum": 0,
             "text": "At halftime, Timbers remain locked at 0-0 <a target=\"_blank\" href=\"//twitter.com/search?q=%23RCTID\">#RCTID</a>",
             "toJSON": true,
+            "user_id": "174517450",
             "user_image": "http://pbs.twimg.com/profile_images/555178709569638400/HyQmQxlU_normal.jpeg"
         },
         {
@@ -11204,7 +11296,8 @@
             "secondNum": 0,
             "text": "Two things <a target=\"_blank\" href=\"//twitter.com/search?q=%23RSL\">#RSL</a> might do well to employ in the second half:\n\nClearing the ball\nRetaining possession",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/523121730873602048/L8AFUNm8_normal.jpeg"
+            "user_id": "2860515122",
+            "user_image": "http://pbs.twimg.com/profile_images/591329195038363649/zDjNNW9G_normal.jpg"
         },
         {
             "_type": "COMMENT",
@@ -11230,6 +11323,7 @@
             "secondNum": 0,
             "text": "Can we get a trainer to check Nagbe's pulse? <a target=\"_blank\" href=\"//twitter.com/search?q=%23RCTID\">#RCTID</a>",
             "toJSON": true,
+            "user_id": "2484475146",
             "user_image": "http://pbs.twimg.com/profile_images/572136519881736195/jKoaBWrT_normal.jpeg"
         },
         {
@@ -11244,6 +11338,7 @@
             "secondNum": 0,
             "text": "Chara is the man of the half. WOW. <a target=\"_blank\" href=\"//twitter.com/search?q=%23RCTID\">#RCTID</a>",
             "toJSON": true,
+            "user_id": "249321664",
             "user_image": "http://pbs.twimg.com/profile_images/569183516311556096/DRAsS-NI_normal.jpeg"
         },
         {
@@ -11258,6 +11353,7 @@
             "secondNum": 0,
             "text": "Open first 45 minutes\u2026 Set up to be a good second half. <a target=\"_blank\" href=\"//twitter.com/search?q=%23PORvRSL\">#PORvRSL</a>",
             "toJSON": true,
+            "user_id": "15567070",
             "user_image": "http://pbs.twimg.com/profile_images/477442076678688769/WAlrWV-z_normal.jpeg"
         },
         {
@@ -11276,7 +11372,8 @@
             "secondNum": 0,
             "text": "HT: A keepers' duel underway. <a target=\"_blank\" href=\"//twitter.com/search?q=%23PORvRSL\">#PORvRSL</a> stats: <a href=\"http://t.co/LRNtW4bP2z\" target=\"_blank\">http://t.co/LRNtW4bP2z</a> <a href=\"http://t.co/IC8dygqfkh\" target=\"_blank\">http://t.co/IC8dygqfkh</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/550589473767976961/OTnslq_m_normal.png"
+            "user_id": "107146095",
+            "user_image": "http://pbs.twimg.com/profile_images/593636874301808640/2-2VpXxW_normal.jpg"
         },
         {
             "_type": "TWEET",
@@ -11290,6 +11387,7 @@
             "secondNum": 0,
             "text": "With his buzzed head, Jeff Cassar looks like Liev Schreiber. <a target=\"_blank\" href=\"//twitter.com/search?q=%23PORvRSL\">#PORvRSL</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23Doppleganger\">#Doppleganger</a>",
             "toJSON": true,
+            "user_id": "117886880",
             "user_image": "http://pbs.twimg.com/profile_images/378800000631500093/16bf5959a2cf6c9c1c502627814a8aa2_normal.jpeg"
         },
         {
@@ -11330,7 +11428,8 @@
             "secondNum": 0,
             "text": "Update.... Donovan Ricketts is also very good at his job. Watch --&gt; <a href=\"http://t.co/GpbfMBZw1V\" target=\"_blank\">http://t.co/GpbfMBZw1V</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23PORvRSL\">#PORvRSL</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/550589473767976961/OTnslq_m_normal.png"
+            "user_id": "107146095",
+            "user_image": "http://pbs.twimg.com/profile_images/593636874301808640/2-2VpXxW_normal.jpg"
         },
         {
             "_type": "INSTAGRAM",
@@ -11370,6 +11469,7 @@
             "secondNum": 0,
             "text": "Worst half from Darlington Nagbe in the Caleb Porter era? Best half from Diego Chara in the Caleb Porter era? <a target=\"_blank\" href=\"//twitter.com/search?q=%23RCTID\">#RCTID</a>",
             "toJSON": true,
+            "user_id": "412394810",
             "user_image": "http://pbs.twimg.com/profile_images/1638898626/020_normal.JPG"
         },
         {
@@ -11414,6 +11514,7 @@
             "secondNum": 0,
             "text": "My dad and <a target=\"_blank\" href=\"//twitter.com/@TimberJoey\">@TimberJoey</a>. Heart is happy. <a target=\"_blank\" href=\"//twitter.com/search?q=%23rctid\">#rctid</a> <a href=\"http://t.co/NppJ7kKsrc\" target=\"_blank\">http://t.co/NppJ7kKsrc</a>",
             "toJSON": true,
+            "user_id": "48149933",
             "user_image": "http://pbs.twimg.com/profile_images/510591203281477632/1VcApkBQ_normal.jpeg"
         },
         {
@@ -11428,6 +11529,7 @@
             "secondNum": 0,
             "text": "Love Kah and miss Futty, but Ridgewell and Papa look strong. <a target=\"_blank\" href=\"//twitter.com/search?q=%23RCTID\">#RCTID</a>",
             "toJSON": true,
+            "user_id": "807062",
             "user_image": "http://pbs.twimg.com/profile_images/1800141309/cls_headphones_grunge_normal.JPG"
         },
         {
@@ -11442,6 +11544,7 @@
             "secondNum": 0,
             "text": "Sorry, Chara had 15 (FIF-EFFING-TEEN) recoveries in the 1st half. <a target=\"_blank\" href=\"//twitter.com/search?q=%23RCTID\">#RCTID</a>",
             "toJSON": true,
+            "user_id": "412394810",
             "user_image": "http://pbs.twimg.com/profile_images/1638898626/020_normal.JPG"
         },
         {
@@ -11456,6 +11559,7 @@
             "secondNum": 0,
             "text": "If Diego Valeri wants to be in the running for MLS MVP after tonight he needs to go off in the second half. <a target=\"_blank\" href=\"//twitter.com/search?q=%23PORvRSL\">#PORvRSL</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23Timbers\">#Timbers</a>",
             "toJSON": true,
+            "user_id": "41008438",
             "user_image": "http://pbs.twimg.com/profile_images/3324408574/d3d95ac42440ba7b0a2511c217531da3_normal.jpeg"
         },
         {
@@ -11482,7 +11586,8 @@
             "secondNum": 48,
             "text": "Back from half <a target=\"_blank\" href=\"//twitter.com/search?q=%23PORvRSL\">#PORvRSL</a> with all to play for. Watch on <a target=\"_blank\" href=\"//twitter.com/@NBCSN\">@NBCSN</a> or online here: <a href=\"http://t.co/HtCewD0kFd\" target=\"_blank\">http://t.co/HtCewD0kFd</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/550589473767976961/OTnslq_m_normal.png"
+            "user_id": "107146095",
+            "user_image": "http://pbs.twimg.com/profile_images/593636874301808640/2-2VpXxW_normal.jpg"
         },
         {
             "_type": "TWEET",
@@ -11496,6 +11601,7 @@
             "secondNum": 43,
             "text": "<a target=\"_blank\" href=\"//twitter.com/search?q=%23PORvRSL\">#PORvRSL</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23RCTID\">#RCTID</a> a little more patience there by the youngster might have seen more come from that good turnover",
             "toJSON": true,
+            "user_id": "633316628",
             "user_image": "http://pbs.twimg.com/profile_images/475080212854476801/Mfm-vH8P_normal.jpeg"
         },
         {
@@ -11510,7 +11616,8 @@
             "secondNum": 13,
             "text": "The longer this second half goes without Portland taking the lead, the less likely I think they win this game. <a target=\"_blank\" href=\"//twitter.com/search?q=%23PORvRSL\">#PORvRSL</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/570377717447553024/8LL4Mw8P_normal.jpeg"
+            "user_id": "2529120686",
+            "user_image": "http://pbs.twimg.com/profile_images/593599324140900352/ZiVyJOxx_normal.jpg"
         },
         {
             "_type": "INSTAGRAM",
@@ -11550,6 +11657,7 @@
             "secondNum": 25,
             "text": "<a target=\"_blank\" href=\"//twitter.com/search?q=%23RCTID\">#RCTID</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23MLS\">#MLS</a>  <a target=\"_blank\" href=\"//twitter.com/search?q=%23PORvRSL\">#PORvRSL</a> Cassar needs to do something soon. Relying on Spectacular Rimando saves will kill you.",
             "toJSON": true,
+            "user_id": "547308539",
             "user_image": "http://pbs.twimg.com/profile_images/378800000643618283/ca2863c2ee05e63b6fdf84897b710d79_normal.jpeg"
         },
         {
@@ -11564,6 +11672,7 @@
             "secondNum": 46,
             "text": "<a target=\"_blank\" href=\"//twitter.com/@JVillafana19\">@JVillafana19</a> picked that one off cleanly, set up the counter. Great effective play. <a target=\"_blank\" href=\"//twitter.com/search?q=%23rctid\">#rctid</a>",
             "toJSON": true,
+            "user_id": "8086192",
             "user_image": "http://pbs.twimg.com/profile_images/573730772013576192/N46MTL9k_normal.jpeg"
         },
         {
@@ -11662,7 +11771,8 @@
             "secondNum": 26,
             "text": "It seems to me that <a target=\"_blank\" href=\"//twitter.com/@csalcedojr\">@csalcedojr</a> is quickly becoming a vital piece for <a target=\"_blank\" href=\"//twitter.com/search?q=%23RSL\">#RSL</a>. Hope he is with the team for a long time.",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/484773832540962817/hlTaDOtw_normal.jpeg"
+            "user_id": "31488708",
+            "user_image": "http://pbs.twimg.com/profile_images/595079272148041728/ND4FZ541_normal.jpg"
         },
         {
             "_type": "INSTAGRAM",
@@ -11702,6 +11812,7 @@
             "secondNum": 34,
             "text": "Villafana has been stellar at sending in crosses all season. Second only to Valeri <a target=\"_blank\" href=\"//twitter.com/search?q=%23RCTID\">#RCTID</a>",
             "toJSON": true,
+            "user_id": "2732954434",
             "user_image": "http://pbs.twimg.com/profile_images/498245196069748736/U43-HivH_normal.jpeg"
         },
         {
@@ -11716,6 +11827,7 @@
             "secondNum": 6,
             "text": "<a target=\"_blank\" href=\"//twitter.com/search?q=%23PORvRSL\">#PORvRSL</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23RCTID\">#RCTID</a> still a bit hurried there - though Valeri did a good job waiting for reinforcements... only Adi in the box 4 that cross",
             "toJSON": true,
+            "user_id": "633316628",
             "user_image": "http://pbs.twimg.com/profile_images/475080212854476801/Mfm-vH8P_normal.jpeg"
         },
         {
@@ -11730,6 +11842,7 @@
             "secondNum": 60,
             "text": "Nat\u2019s been excellent.",
             "toJSON": true,
+            "user_id": "318881692",
             "user_image": "http://pbs.twimg.com/profile_images/378800000843842488/24154ddd319928c8ff3f2d318c6ad568_normal.png"
         },
         {
@@ -11765,6 +11878,7 @@
             "secondNum": 56,
             "text": "This game is going to have an element of ugly in it. Neither team looks especially comfortable with the conditions. <a target=\"_blank\" href=\"//twitter.com/search?q=%23RCTID\">#RCTID</a>",
             "toJSON": true,
+            "user_id": "412394810",
             "user_image": "http://pbs.twimg.com/profile_images/1638898626/020_normal.JPG"
         },
         {
@@ -11779,6 +11893,7 @@
             "secondNum": 59,
             "text": "It's amazing how dangerous <a target=\"_blank\" href=\"//twitter.com/@RealSaltLake\">@RealSaltLake</a> is when they're not afraid to shoot a few outside the box. <a target=\"_blank\" href=\"//twitter.com/search?q=%23PORvRSL\">#PORvRSL</a>",
             "toJSON": true,
+            "user_id": "407192214",
             "user_image": "http://pbs.twimg.com/profile_images/494927578369503233/4na9cFKG_normal.jpeg"
         },
         {
@@ -11799,7 +11914,7 @@
             },
             "link": "http://instagram.com/p/uR2Lglk1bN/",
             "minuteNum": 50,
-            "name": "J\u00fcrgen West",
+            "name": "J\u00c3\u00bcrgen West",
             "published_at": 1413603122243,
             "screen_name": "juergenwest",
             "secondsNum": 0,
@@ -11861,6 +11976,7 @@
             "secondNum": 36,
             "text": "With that foul, Diego Chara moves into 3rd all-time for most fouls committed in <a target=\"_blank\" href=\"//twitter.com/search?q=%23MLS\">#MLS</a> season w/ 82. 1 behind Serna/Toja. <a target=\"_blank\" href=\"//twitter.com/search?q=%23RCTID\">#RCTID</a>",
             "toJSON": true,
+            "user_id": "48065320",
             "user_image": "http://pbs.twimg.com/profile_images/534883343842562049/8YEaMHR__normal.jpeg"
         },
         {
@@ -11875,6 +11991,7 @@
             "secondNum": 47,
             "text": "Yeah, I hate Diego Chara. He is the worst. <a target=\"_blank\" href=\"//twitter.com/search?q=%23RSL\">#RSL</a>",
             "toJSON": true,
+            "user_id": "110909184",
             "user_image": "http://pbs.twimg.com/profile_images/479042650595934208/vVI62SwY_normal.jpeg"
         },
         {
@@ -11889,6 +12006,7 @@
             "secondNum": 49,
             "text": "<a target=\"_blank\" href=\"//twitter.com/search?q=%23PORvRSL\">#PORvRSL</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23RCTID\">#RCTID</a> now that was a good solid patient build up - unlucky with that last bounce....",
             "toJSON": true,
+            "user_id": "633316628",
             "user_image": "http://pbs.twimg.com/profile_images/475080212854476801/Mfm-vH8P_normal.jpeg"
         },
         {
@@ -11903,6 +12021,7 @@
             "secondNum": 53,
             "text": "Valeri vs Beckerman is an awesome matchup to watch. MLS' Best holding midfielder vs best (midfield) creator in my opinion. <a target=\"_blank\" href=\"//twitter.com/search?q=%23PORvRSL\">#PORvRSL</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23MLS\">#MLS</a>",
             "toJSON": true,
+            "user_id": "1549215870",
             "user_image": "http://pbs.twimg.com/profile_images/469631684778811392/4lXRaLpy_normal.png"
         },
         {
@@ -11975,6 +12094,7 @@
             "secondNum": 30,
             "text": "Don Garber will be having a press conference regarding twitter's reactions to Mark Geiger's calling off this match. <a target=\"_blank\" href=\"//twitter.com/search?q=%23porvrsl\">#porvrsl</a>",
             "toJSON": true,
+            "user_id": "8086192",
             "user_image": "http://pbs.twimg.com/profile_images/573730772013576192/N46MTL9k_normal.jpeg"
         },
         {
@@ -11989,6 +12109,7 @@
             "secondNum": 47,
             "text": "I\u2019m for once thankful that there was an offside flag on that.",
             "toJSON": true,
+            "user_id": "318881692",
             "user_image": "http://pbs.twimg.com/profile_images/378800000843842488/24154ddd319928c8ff3f2d318c6ad568_normal.png"
         },
         {
@@ -12003,6 +12124,7 @@
             "secondNum": 1,
             "text": "Gil with another laser from distance, Ricketts pushes it away &amp; the flag goes up. <a target=\"_blank\" href=\"//twitter.com/search?q=%23PORvRSL\">#PORvRSL</a>",
             "toJSON": true,
+            "user_id": "1634036647",
             "user_image": "http://pbs.twimg.com/profile_images/378800000619634058/e91a75f7a04c2d7aebc9c4080990e3bc_normal.jpeg"
         },
         {
@@ -12017,6 +12139,7 @@
             "secondNum": 10,
             "text": "<a target=\"_blank\" href=\"//twitter.com/search?q=%23PORvRSL\">#PORvRSL</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23RCTID\">#RCTID</a> first real chance by Real in perhaps 45 minutes???  pretty solid defending by <a target=\"_blank\" href=\"//twitter.com/@timbersfc\">@timbersfc</a> so far tonite",
             "toJSON": true,
+            "user_id": "633316628",
             "user_image": "http://pbs.twimg.com/profile_images/475080212854476801/Mfm-vH8P_normal.jpeg"
         },
         {
@@ -12031,6 +12154,7 @@
             "secondNum": 26,
             "text": "Donovan Ricketts needs to play against Robbie Findley every week, apparently; stopped 2 crackers from the Phoenix native. <a target=\"_blank\" href=\"//twitter.com/search?q=%23PORvRSL\">#PORvRSL</a>",
             "toJSON": true,
+            "user_id": "844630304",
             "user_image": "http://pbs.twimg.com/profile_images/461352201722421248/lBc4-VZh_normal.png"
         },
         {
@@ -12045,6 +12169,7 @@
             "secondNum": 31,
             "text": "Nat Borchers wearing a beard that says \"I'm off grid.\" <a target=\"_blank\" href=\"//twitter.com/search?q=%23PORvRSL\">#PORvRSL</a>",
             "toJSON": true,
+            "user_id": "14874910",
             "user_image": "http://pbs.twimg.com/profile_images/480088404206444544/2j1Fa4PC_normal.jpeg"
         },
         {
@@ -12059,6 +12184,7 @@
             "secondNum": 38,
             "text": "Diego Valeri is a different class. Has to be MLS MVP. He'll be the difference tonight <a target=\"_blank\" href=\"//twitter.com/search?q=%23RCTID\">#RCTID</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23MLSonNBC\">#MLSonNBC</a>",
             "toJSON": true,
+            "user_id": "76023095",
             "user_image": "http://pbs.twimg.com/profile_images/378800000662336792/9c05df29db35816436efedd93b3a4c93_normal.jpeg"
         },
         {
@@ -12115,6 +12241,7 @@
             "secondNum": 11,
             "text": "Chara brings down Morales for his 83rd foul of the season, tying the all-time MLS record. <a target=\"_blank\" href=\"//twitter.com/search?q=%23RCTID\">#RCTID</a>",
             "toJSON": true,
+            "user_id": "48065320",
             "user_image": "http://pbs.twimg.com/profile_images/534883343842562049/8YEaMHR__normal.jpeg"
         },
         {
@@ -12154,6 +12281,7 @@
             "secondNum": 28,
             "text": "Chara and Morales exchanging words as RSL prepares to take a free kick. Morales went down pretty easily to get that free kick <a target=\"_blank\" href=\"//twitter.com/search?q=%23RCTID\">#RCTID</a>",
             "toJSON": true,
+            "user_id": "174517450",
             "user_image": "http://pbs.twimg.com/profile_images/555178709569638400/HyQmQxlU_normal.jpeg"
         },
         {
@@ -12235,7 +12363,8 @@
             "secondNum": 52,
             "text": "I cant stand Chara he is such a whiny player then goes &amp; just takes people out off the ball and super late hate watching him. <a target=\"_blank\" href=\"//twitter.com/search?q=%23RSL\">#RSL</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23PORvRSL\">#PORvRSL</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/571929336732786688/3fUQUPaK_normal.jpeg"
+            "user_id": "1938814838",
+            "user_image": "http://pbs.twimg.com/profile_images/588383803808223233/6FiCNKtr_normal.jpg"
         },
         {
             "_type": "TWEET",
@@ -12249,6 +12378,7 @@
             "secondNum": 7,
             "text": "<a target=\"_blank\" href=\"//twitter.com/search?q=%23PORvRSL\">#PORvRSL</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23RCTID\">#RCTID</a> hmmmm.. 1st sign of frustration setting in tonite - need to be rock steady here - minimize fouls and get on with it",
             "toJSON": true,
+            "user_id": "633316628",
             "user_image": "http://pbs.twimg.com/profile_images/475080212854476801/Mfm-vH8P_normal.jpeg"
         },
         {
@@ -12533,7 +12663,8 @@
             "secondNum": 20,
             "text": "I guess <a target=\"_blank\" href=\"//twitter.com/search?q=%23TimbersArmy\">#TimbersArmy</a> sings louder when the rain falls harder. <a target=\"_blank\" href=\"//twitter.com/search?q=%23PORvRSL\">#PORvRSL</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/505907798429794304/KzdTKkpH_normal.jpeg"
+            "user_id": "64816476",
+            "user_image": "http://pbs.twimg.com/profile_images/592314732729671680/svUYAzcs_normal.jpg"
         },
         {
             "_type": "TWEET",
@@ -12547,6 +12678,7 @@
             "secondNum": 36,
             "text": "\"It's raining? I hadn't noticed'--The Timbers Army have got it cranked up to 11 tonight. SOLID <a target=\"_blank\" href=\"//twitter.com/search?q=%23porvrsl\">#porvrsl</a>",
             "toJSON": true,
+            "user_id": "8086192",
             "user_image": "http://pbs.twimg.com/profile_images/573730772013576192/N46MTL9k_normal.jpeg"
         },
         {
@@ -12617,7 +12749,8 @@
             "secondNum": 37,
             "text": "You get a yellow card! And you get a yellow card! EVERYBODY GETS A YELLOW CARD! <a target=\"_blank\" href=\"//twitter.com/search?q=%23PORvRSL\">#PORvRSL</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/463699984886411264/PewUbWYk_normal.png"
+            "user_id": "299217425",
+            "user_image": "http://pbs.twimg.com/profile_images/534802025263820802/W_1inc-L_normal.jpeg"
         },
         {
             "_type": "TWEET",
@@ -12631,7 +12764,8 @@
             "secondNum": 45,
             "text": "Valeri almost looked like he tried to avoid that ball <a target=\"_blank\" href=\"//twitter.com/search?q=%23PORvRSL\">#PORvRSL</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/526091031847403520/GTjEixnj_normal.jpeg"
+            "user_id": "878366606",
+            "user_image": "http://pbs.twimg.com/profile_images/588553482497470464/699UP8bO_normal.jpg"
         },
         {
             "_type": "TWEET",
@@ -12645,7 +12779,8 @@
             "secondNum": 48,
             "text": "Close call for Valeri there. Nagbe seems really hesitant with the ball. Game's getting really chippy with all these fouls. <a target=\"_blank\" href=\"//twitter.com/search?q=%23RCTID\">#RCTID</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/505143137216389120/iiDplKuQ_normal.jpeg"
+            "user_id": "14317333",
+            "user_image": "http://pbs.twimg.com/profile_images/552257437932085249/aIWyDk-6_normal.jpeg"
         },
         {
             "_type": "TWEET",
@@ -12659,6 +12794,7 @@
             "secondNum": 20,
             "text": "<a target=\"_blank\" href=\"//twitter.com/search?q=%23PORvRSL\">#PORvRSL</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23RCTID\">#RCTID</a> side netting - getting there - patience and persistence should pay off tonite for Portland - let's hope!",
             "toJSON": true,
+            "user_id": "633316628",
             "user_image": "http://pbs.twimg.com/profile_images/475080212854476801/Mfm-vH8P_normal.jpeg"
         },
         {
@@ -12765,6 +12901,7 @@
             "secondNum": 53,
             "text": "Unreal. <a target=\"_blank\" href=\"//twitter.com/search?q=%23RCTID\">#RCTID</a>",
             "toJSON": true,
+            "user_id": "36997491",
             "user_image": "http://pbs.twimg.com/profile_images/553256363216740352/5RhKiulu_normal.jpeg"
         },
         {
@@ -12779,7 +12916,8 @@
             "secondNum": 56,
             "text": "This game. This is a fun game. <a target=\"_blank\" href=\"//twitter.com/search?q=%23PORvRSL\">#PORvRSL</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/555988720038330368/ZtBLwrV5_normal.jpeg"
+            "user_id": "344344368",
+            "user_image": "http://pbs.twimg.com/profile_images/579689995696394240/CIVzltMy_normal.jpg"
         },
         {
             "_type": "TWEET",
@@ -12793,6 +12931,7 @@
             "secondNum": 9,
             "text": "Rimando spills it and it bounces just over our boot. Why God why? <a target=\"_blank\" href=\"//twitter.com/search?q=%23RCTID\">#RCTID</a>",
             "toJSON": true,
+            "user_id": "2297321684",
             "user_image": "http://pbs.twimg.com/profile_images/515903106920374272/swFbKyEy_normal.jpeg"
         },
         {
@@ -12807,7 +12946,8 @@
             "secondNum": 1,
             "text": "This game is going to give me a heart attack. Omg. <a target=\"_blank\" href=\"//twitter.com/search?q=%23PORvRSL\">#PORvRSL</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23RCTID\">#RCTID</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/523329422527434752/UvZrDvx-_normal.jpeg"
+            "user_id": "464434715",
+            "user_image": "http://pbs.twimg.com/profile_images/569250527293100032/zoDyx7xe_normal.jpeg"
         },
         {
             "_type": "TWEET",
@@ -12821,6 +12961,7 @@
             "secondNum": 25,
             "text": "WHAT A SERIES OF SAVES!!!! <a target=\"_blank\" href=\"//twitter.com/search?q=%23RSL\">#RSL</a>",
             "toJSON": true,
+            "user_id": "188851412",
             "user_image": "http://pbs.twimg.com/profile_images/378800000595698818/76ac60e5243847889da7c9da8c44f73f_normal.jpeg"
         },
         {
@@ -12877,7 +13018,8 @@
             "secondNum": 29,
             "text": "That was insane <a target=\"_blank\" href=\"//twitter.com/search?q=%23rsl\">#rsl</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/500512313045037056/FcAa4Hef_normal.jpeg"
+            "user_id": "156470062",
+            "user_image": "http://pbs.twimg.com/profile_images/592713645618024448/YEVtA9DO_normal.jpg"
         },
         {
             "_type": "TWEET",
@@ -12891,6 +13033,7 @@
             "secondNum": 41,
             "text": "Rimando is made of magic. HOW DOES THAT STAY OUT??? <a target=\"_blank\" href=\"//twitter.com/search?q=%23PORvRSL\">#PORvRSL</a>",
             "toJSON": true,
+            "user_id": "248979227",
             "user_image": "http://pbs.twimg.com/profile_images/3194605991/00082b446aa6657a10528732a3f7209d_normal.jpeg"
         },
         {
@@ -12926,6 +13069,7 @@
             "secondNum": 8,
             "text": "61 - nick rimando is amazing. what a save. nagbe can't buy a goal. <a target=\"_blank\" href=\"//twitter.com/search?q=%23rctid\">#rctid</a>",
             "toJSON": true,
+            "user_id": "57531803",
             "user_image": "http://pbs.twimg.com/profile_images/1268481644/image_normal.jpg"
         },
         {
@@ -12940,7 +13084,8 @@
             "secondNum": 27,
             "text": "FYI... <a target=\"_blank\" href=\"//twitter.com/@NickRimando\">@NickRimando</a> happened. <a target=\"_blank\" href=\"//twitter.com/search?q=%23PORvRSL\">#PORvRSL</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/550589473767976961/OTnslq_m_normal.png"
+            "user_id": "107146095",
+            "user_image": "http://pbs.twimg.com/profile_images/593636874301808640/2-2VpXxW_normal.jpg"
         },
         {
             "_type": "TWEET",
@@ -12954,7 +13099,8 @@
             "secondNum": 4,
             "text": "WHAT JUST HAPPENED!?!?!? <a target=\"_blank\" href=\"//twitter.com/search?q=%23PORvRSL\">#PORvRSL</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/550589473767976961/OTnslq_m_normal.png"
+            "user_id": "107146095",
+            "user_image": "http://pbs.twimg.com/profile_images/593636874301808640/2-2VpXxW_normal.jpg"
         },
         {
             "_type": "COMMENT",
@@ -12980,7 +13126,8 @@
             "secondNum": 39,
             "text": "I dare you to try and find a better keeper than Nick Rimando <a target=\"_blank\" href=\"//twitter.com/search?q=%23RSL\">#RSL</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/522488402080702464/i7QGiiFJ_normal.jpeg"
+            "user_id": "493820051",
+            "user_image": "http://pbs.twimg.com/profile_images/586124369274867714/d9DrfU3n_normal.jpg"
         },
         {
             "_type": "TWEET",
@@ -12994,6 +13141,7 @@
             "secondNum": 44,
             "text": "Playing in <a target=\"_blank\" href=\"//twitter.com/search?q=%23MLS\">#MLS</a> has sure hurt Nick Rimando's level of play. <a target=\"_blank\" href=\"//twitter.com/search?q=%23PORvRSL\">#PORvRSL</a>",
             "toJSON": true,
+            "user_id": "2832629373",
             "user_image": "http://pbs.twimg.com/profile_images/522826207167909889/C5wPwxag_normal.png"
         },
         {
@@ -13174,6 +13322,7 @@
             "secondNum": 22,
             "text": "Can't say I'm excited about 25+ minutes of Joao Plata fresh off his brace. Dangerous player. <a target=\"_blank\" href=\"//twitter.com/search?q=%23porvrsl\">#porvrsl</a>",
             "toJSON": true,
+            "user_id": "8086192",
             "user_image": "http://pbs.twimg.com/profile_images/573730772013576192/N46MTL9k_normal.jpeg"
         },
         {
@@ -13188,7 +13337,8 @@
             "secondNum": 3,
             "text": "Plata and Sabo? This just got real. <a target=\"_blank\" href=\"//twitter.com/search?q=%23PORvRSL\">#PORvRSL</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23RSLFamily\">#RSLFamily</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23believe\">#believe</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/490218899640553472/ayg71o91_normal.jpeg"
+            "user_id": "28651331",
+            "user_image": "http://pbs.twimg.com/profile_images/534417481234792448/iO_HVCW__normal.jpeg"
         },
         {
             "_type": "COMMENT",
@@ -13224,6 +13374,7 @@
             "secondNum": 40,
             "text": "<a target=\"_blank\" href=\"//twitter.com/search?q=%23PORvRSL\">#PORvRSL</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23RCTID\">#RCTID</a> oh my - near post it was and blocked just before entering the goal",
             "toJSON": true,
+            "user_id": "633316628",
             "user_image": "http://pbs.twimg.com/profile_images/475080212854476801/Mfm-vH8P_normal.jpeg"
         },
         {
@@ -13238,7 +13389,8 @@
             "secondNum": 41,
             "text": "THANK YOU GIL!! <a target=\"_blank\" href=\"//twitter.com/search?q=%23RSL\">#RSL</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/557960407755653120/1k8c4frN_normal.jpeg"
+            "user_id": "573320487",
+            "user_image": "http://pbs.twimg.com/profile_images/569152224400392192/wMTcGmAH_normal.jpeg"
         },
         {
             "_type": "TWEET",
@@ -13252,6 +13404,7 @@
             "secondNum": 46,
             "text": "Some heroics on our goal line tonight. Thrilling and terrifying all at the same time. <a target=\"_blank\" href=\"//twitter.com/search?q=%23rsl\">#rsl</a>",
             "toJSON": true,
+            "user_id": "294891523",
             "user_image": "http://pbs.twimg.com/profile_images/560653769340235777/5b2tfXiI_normal.jpeg"
         },
         {
@@ -13324,6 +13477,7 @@
             "secondNum": 3,
             "text": "<a target=\"_blank\" href=\"//twitter.com/search?q=%23PORvRSL\">#PORvRSL</a> Nooooooooooo!!!!!!!",
             "toJSON": true,
+            "user_id": "123423291",
             "user_image": "http://pbs.twimg.com/profile_images/514966915027320832/iZ6OYGmz_normal.jpeg"
         },
         {
@@ -13359,6 +13513,7 @@
             "secondNum": 33,
             "text": "<a target=\"_blank\" href=\"//twitter.com/search?q=%23PORvRSL\">#PORvRSL</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23RCTID\">#RCTID</a> that really needed to be a thru ball there to Adi for his right peg...  disappointing - the youngster should show mor vision",
             "toJSON": true,
+            "user_id": "633316628",
             "user_image": "http://pbs.twimg.com/profile_images/475080212854476801/Mfm-vH8P_normal.jpeg"
         },
         {
@@ -13373,6 +13528,7 @@
             "secondNum": 40,
             "text": "Seems this ball just does not want to go in <a target=\"_blank\" href=\"//twitter.com/search?q=%23PORvRSL\">#PORvRSL</a> # MLS",
             "toJSON": true,
+            "user_id": "621554179",
             "user_image": "http://pbs.twimg.com/profile_images/412717466456842240/AItBNNOm_normal.jpeg"
         },
         {
@@ -13387,7 +13543,8 @@
             "secondNum": 52,
             "text": "Luis Gil also playing <a target=\"_blank\" href=\"//twitter.com/search?q=%23WalloftheWasatch\">#WalloftheWasatch</a> tonight. <a target=\"_blank\" href=\"//twitter.com/search?q=%23PORvRSL\">#PORvRSL</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/550589473767976961/OTnslq_m_normal.png"
+            "user_id": "107146095",
+            "user_image": "http://pbs.twimg.com/profile_images/593636874301808640/2-2VpXxW_normal.jpg"
         },
         {
             "_type": "TWEET",
@@ -13401,6 +13558,7 @@
             "secondNum": 56,
             "text": "68\u2019 - Zemanski gets free. Tackled as he shoots from distance. Ball goes wide. <a target=\"_blank\" href=\"//twitter.com/search?q=%23RCTID\">#RCTID</a>",
             "toJSON": true,
+            "user_id": "22556296",
             "user_image": "http://pbs.twimg.com/profile_images/512644544731435009/nQ7uqfBl_normal.jpeg"
         },
         {
@@ -13415,6 +13573,7 @@
             "secondNum": 7,
             "text": "67\u2019 - Ridgewell header is saved off the line!!! <a target=\"_blank\" href=\"//twitter.com/search?q=%23RCTID\">#RCTID</a>",
             "toJSON": true,
+            "user_id": "22556296",
             "user_image": "http://pbs.twimg.com/profile_images/512644544731435009/nQ7uqfBl_normal.jpeg"
         },
         {
@@ -13458,7 +13617,8 @@
             "secondNum": 27,
             "text": "The neutrals must be LOVING this game. Much action, and two frustrated fanbases <a target=\"_blank\" href=\"//twitter.com/search?q=%23RCTID\">#RCTID</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/476875473843015680/3_YpnMi0_normal.jpeg"
+            "user_id": "15526836",
+            "user_image": "http://pbs.twimg.com/profile_images/575188686632955904/TMKBTey-_normal.jpeg"
         },
         {
             "_type": "TWEET",
@@ -13472,6 +13632,7 @@
             "secondNum": 40,
             "text": "Timbers are getting a lot of chances right now, but not putting much on frame <a target=\"_blank\" href=\"//twitter.com/search?q=%23RCTID\">#RCTID</a>",
             "toJSON": true,
+            "user_id": "174517450",
             "user_image": "http://pbs.twimg.com/profile_images/555178709569638400/HyQmQxlU_normal.jpeg"
         },
         {
@@ -13486,6 +13647,7 @@
             "secondNum": 43,
             "text": "69\u2019 - TIMBERS BUZZING! Valeri crosses in ball that Wallace gets foot to. Ball bounces inches wide! <a target=\"_blank\" href=\"//twitter.com/search?q=%23RCTID\">#RCTID</a>",
             "toJSON": true,
+            "user_id": "22556296",
             "user_image": "http://pbs.twimg.com/profile_images/512644544731435009/nQ7uqfBl_normal.jpeg"
         },
         {
@@ -13530,7 +13692,8 @@
             "secondNum": 20,
             "text": "Portland Timbers fan has an interesting top hat.  <a href=\"http://t.co/LSpujfjA2E\" target=\"_blank\">http://t.co/LSpujfjA2E</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23PORvRSL\">#PORvRSL</a> <a href=\"http://t.co/qAdagVMOyp\" target=\"_blank\">http://t.co/qAdagVMOyp</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/558045484967665664/ZprHp62Q_normal.jpeg"
+            "user_id": "2256945145",
+            "user_image": "http://pbs.twimg.com/profile_images/588512038558695424/1RZxe5lR_normal.jpg"
         },
         {
             "_type": "TWEET",
@@ -13544,6 +13707,7 @@
             "secondNum": 31,
             "text": "<a target=\"_blank\" href=\"//twitter.com/search?q=%23MLS\">#MLS</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23PORvRSL\">#PORvRSL</a> I don't see how borchers and Schuler can contain a speedy Chara , Adi, and Wallace on a slick field all night.",
             "toJSON": true,
+            "user_id": "547308539",
             "user_image": "http://pbs.twimg.com/profile_images/378800000643618283/ca2863c2ee05e63b6fdf84897b710d79_normal.jpeg"
         },
         {
@@ -13558,7 +13722,8 @@
             "secondNum": 30,
             "text": "Timbers are bound to get a goal here, but let's pray to the soccer gods they keep hitting the side of the net <a target=\"_blank\" href=\"//twitter.com/search?q=%23PORvRSL\">#PORvRSL</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/514871257129426944/4SDPRgQC_normal.jpeg"
+            "user_id": "187786158",
+            "user_image": "http://pbs.twimg.com/profile_images/578410392763834368/Nu5ek0ON_normal.jpeg"
         },
         {
             "_type": "COMMENT",
@@ -13601,6 +13766,7 @@
             "secondNum": 33,
             "text": "Timbers keep attacking but <a target=\"_blank\" href=\"//twitter.com/search?q=%23RSL\">#RSL</a> defense has been valiant. Offering very little going forward but they also don't need to. <a target=\"_blank\" href=\"//twitter.com/search?q=%23porvrsl\">#porvrsl</a>",
             "toJSON": true,
+            "user_id": "8086192",
             "user_image": "http://pbs.twimg.com/profile_images/573730772013576192/N46MTL9k_normal.jpeg"
         },
         {
@@ -13657,7 +13823,8 @@
             "secondNum": 49,
             "text": "Every time Zemanski takes a shot from outside the 18, I just assume it's going high... <a target=\"_blank\" href=\"//twitter.com/search?q=%23RCTID\">#RCTID</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/505143137216389120/iiDplKuQ_normal.jpeg"
+            "user_id": "14317333",
+            "user_image": "http://pbs.twimg.com/profile_images/552257437932085249/aIWyDk-6_normal.jpeg"
         },
         {
             "_type": "COMMENT",
@@ -13713,6 +13880,7 @@
             "secondNum": 49,
             "text": "Adi is dropping too far back for my tastes. In reality, <a target=\"_blank\" href=\"//twitter.com/search?q=%23timbers\">#timbers</a> are chasing because they need to win <a target=\"_blank\" href=\"//twitter.com/search?q=%23mls\">#mls</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23porvrsl\">#porvrsl</a>",
             "toJSON": true,
+            "user_id": "8086192",
             "user_image": "http://pbs.twimg.com/profile_images/573730772013576192/N46MTL9k_normal.jpeg"
         },
         {
@@ -13753,6 +13921,7 @@
             "secondNum": 1,
             "text": "Inextricably, <a target=\"_blank\" href=\"//twitter.com/search?q=%23PORvRSL\">#PORvRSL</a> playing like a 0-0 draw will suit them both.. Desperately need a <a target=\"_blank\" href=\"//twitter.com/search?q=%23RSL\">#RSL</a> goal, like...now",
             "toJSON": true,
+            "user_id": "326117825",
             "user_image": "http://pbs.twimg.com/profile_images/1418699002/carlosalberto1970_205x285_normal.jpg"
         },
         {
@@ -13825,6 +13994,7 @@
             "secondNum": 38,
             "text": "<a target=\"_blank\" href=\"//twitter.com/search?q=%23RSL\">#RSL</a> is lucky to be tied. Timbers have been aggressive.",
             "toJSON": true,
+            "user_id": "378665013",
             "user_image": "http://pbs.twimg.com/profile_images/1556308453/engagement_2007_normal.jpg"
         },
         {
@@ -13860,6 +14030,7 @@
             "secondNum": 43,
             "text": "75' and no changes made by Porter? <a target=\"_blank\" href=\"//twitter.com/search?q=%23rctid\">#rctid</a>",
             "toJSON": true,
+            "user_id": "33913514",
             "user_image": "http://pbs.twimg.com/profile_images/526063750709669889/VSQXLwWk_normal.jpeg"
         },
         {
@@ -13874,6 +14045,7 @@
             "secondNum": 24,
             "text": "Great tracking by wingert <a target=\"_blank\" href=\"//twitter.com/search?q=%23PORvRSL\">#PORvRSL</a>",
             "toJSON": true,
+            "user_id": "452595165",
             "user_image": "http://pbs.twimg.com/profile_images/520627256830726145/tXItdvdT_normal.jpeg"
         },
         {
@@ -13888,6 +14060,7 @@
             "secondNum": 28,
             "text": "That was one hell of a save. Credit to <a target=\"_blank\" href=\"//twitter.com/search?q=%23RSL\">#RSL</a> for great indivual defensive effort",
             "toJSON": true,
+            "user_id": "8086192",
             "user_image": "http://pbs.twimg.com/profile_images/573730772013576192/N46MTL9k_normal.jpeg"
         },
         {
@@ -13946,12 +14119,13 @@
             "extraTimeNum": 0,
             "id": "523322081120108544",
             "minuteNum": 76,
-            "name": "American F\u00fatbol",
+            "name": "American F\u00c3\u00batbol",
             "published_at": 1413604688338,
             "screen_name": "futbolmovie",
             "secondNum": 8,
             "text": "Nagbe STUFFED. <a target=\"_blank\" href=\"//twitter.com/search?q=%23PORvRSL\">#PORvRSL</a>",
             "toJSON": true,
+            "user_id": "117225433",
             "user_image": "http://pbs.twimg.com/profile_images/477288040038428672/A_FiW32d_normal.jpeg"
         },
         {
@@ -13966,6 +14140,7 @@
             "secondNum": 21,
             "text": "The word I would use to describe Portland right now: Frantic. Yep, that\u2019s the word. <a target=\"_blank\" href=\"//twitter.com/search?q=%23PORvRSL\">#PORvRSL</a>",
             "toJSON": true,
+            "user_id": "620315597",
             "user_image": "http://pbs.twimg.com/profile_images/2346957345/mlsbsqsolid_normal.png"
         },
         {
@@ -14009,7 +14184,8 @@
             "secondNum": 42,
             "text": "76' - Timbers earn another CK, ball finds Paparatto for header but Rimando knocks clear. No sign of <a target=\"_blank\" href=\"//twitter.com/search?q=%23timbers\">#timbers</a> bench so far. <a target=\"_blank\" href=\"//twitter.com/search?q=%23rctid\">#rctid</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/569984227085545472/uoEfwY6I_normal.jpeg"
+            "user_id": "177035298",
+            "user_image": "http://pbs.twimg.com/profile_images/579428652036661248/Xaxgt388_normal.jpg"
         },
         {
             "_type": "TWEET",
@@ -14023,7 +14199,8 @@
             "secondNum": 53,
             "text": "Rimando wins any <a target=\"_blank\" href=\"//twitter.com/search?q=%23MLS\">#MLS</a> award for this month. <a target=\"_blank\" href=\"//twitter.com/search?q=%23RSL\">#RSL</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23PORvRSL\">#PORvRSL</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/498692098217222145/CeBRooy7_normal.jpeg"
+            "user_id": "29465234",
+            "user_image": "http://pbs.twimg.com/profile_images/577254512462790657/F70a0dlO_normal.jpeg"
         },
         {
             "_type": "TWEET",
@@ -14037,6 +14214,7 @@
             "secondNum": 33,
             "text": "Plata v Chara the cute kitten gif of MLS <a target=\"_blank\" href=\"//twitter.com/search?q=%23RCTID\">#RCTID</a>",
             "toJSON": true,
+            "user_id": "161059667",
             "user_image": "http://pbs.twimg.com/profile_images/2211103271/image_normal.jpg"
         },
         {
@@ -14051,6 +14229,7 @@
             "secondNum": 43,
             "text": "Rimando is a goddamn dream killer better than Freddy Kruger or Leo DiCaprio in Inception. <a target=\"_blank\" href=\"//twitter.com/search?q=%23RCTID\">#RCTID</a>",
             "toJSON": true,
+            "user_id": "2297321684",
             "user_image": "http://pbs.twimg.com/profile_images/515903106920374272/swFbKyEy_normal.jpeg"
         },
         {
@@ -14117,6 +14296,7 @@
             "secondNum": 60,
             "text": "Admiral Caleb keeping his subs underwater <a target=\"_blank\" href=\"//twitter.com/search?q=%23rctid\">#rctid</a>",
             "toJSON": true,
+            "user_id": "14482613",
             "user_image": "http://pbs.twimg.com/profile_images/378800000495631656/e55c6fa5b4a8e852e76cff89fcedfa8e_normal.jpeg"
         },
         {
@@ -14195,6 +14375,7 @@
             "secondNum": 17,
             "text": "We need to get Rimando off that team and onto this team. That's how we win this game. Can we do that in the next 11 minutes. <a target=\"_blank\" href=\"//twitter.com/search?q=%23rctid\">#rctid</a>",
             "toJSON": true,
+            "user_id": "2205278750",
             "user_image": "http://pbs.twimg.com/profile_images/522492504839438336/dcpWeq-Z_normal.jpeg"
         },
         {
@@ -14209,6 +14390,7 @@
             "secondNum": 35,
             "text": "So all of our defenders called the \u201cSons of the Wasatch\u201d when defending like this? <a target=\"_blank\" href=\"//twitter.com/search?q=%23rsl\">#rsl</a>",
             "toJSON": true,
+            "user_id": "14815792",
             "user_image": "http://pbs.twimg.com/profile_images/1799451054/justin-square_normal.jpg"
         },
         {
@@ -14223,6 +14405,7 @@
             "secondNum": 57,
             "text": "78' - RSL's Saborio has an open close range shot but sends the ball over the net. <a target=\"_blank\" href=\"//twitter.com/search?q=%23RCTID\">#RCTID</a>",
             "toJSON": true,
+            "user_id": "174517450",
             "user_image": "http://pbs.twimg.com/profile_images/555178709569638400/HyQmQxlU_normal.jpeg"
         },
         {
@@ -14267,6 +14450,7 @@
             "secondNum": 8,
             "text": "Tonight\u2019s attendance: 20,814. It is the 68th consecutive <a target=\"_blank\" href=\"//twitter.com/@MLS\">@MLS</a> sell out at Providence Park. Thank you fans! <a target=\"_blank\" href=\"//twitter.com/search?q=%23RCTID\">#RCTID</a>",
             "toJSON": true,
+            "user_id": "22556296",
             "user_image": "http://pbs.twimg.com/profile_images/512644544731435009/nQ7uqfBl_normal.jpeg"
         },
         {
@@ -14323,6 +14507,7 @@
             "secondNum": 13,
             "text": "Let's get some Nedinho magic right now. <a target=\"_blank\" href=\"//twitter.com/search?q=%23PORvRSL\">#PORvRSL</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23RSL\">#RSL</a>",
             "toJSON": true,
+            "user_id": "1485511350",
             "user_image": "http://pbs.twimg.com/profile_images/463532687060647936/BR9pJOJx_normal.jpeg"
         },
         {
@@ -14387,6 +14572,7 @@
             "secondNum": 44,
             "text": "81' - Urruti takes a shot in the box that is blocked. Timbers corner coming <a target=\"_blank\" href=\"//twitter.com/search?q=%23RCTID\">#RCTID</a>",
             "toJSON": true,
+            "user_id": "174517450",
             "user_image": "http://pbs.twimg.com/profile_images/555178709569638400/HyQmQxlU_normal.jpeg"
         },
         {
@@ -14401,6 +14587,7 @@
             "secondNum": 48,
             "text": "<a target=\"_blank\" href=\"//twitter.com/search?q=%23PORvRSL\">#PORvRSL</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23RCTID\">#RCTID</a> good idea from a good idea - lots of good ideas tonite - now we need a goal",
             "toJSON": true,
+            "user_id": "633316628",
             "user_image": "http://pbs.twimg.com/profile_images/475080212854476801/Mfm-vH8P_normal.jpeg"
         },
         {
@@ -14504,6 +14691,7 @@
             "secondNum": 24,
             "text": "Thought about trying an Urruti canal joke but passed on it. Its for the best. <a target=\"_blank\" href=\"//twitter.com/search?q=%23PORvRSL\">#PORvRSL</a>",
             "toJSON": true,
+            "user_id": "14983792",
             "user_image": "http://pbs.twimg.com/profile_images/475320924946710528/ZSO_fkkK_normal.jpeg"
         },
         {
@@ -14518,6 +14706,7 @@
             "secondNum": 56,
             "text": "I am entertained. <a target=\"_blank\" href=\"//twitter.com/search?q=%23PORvRSL\">#PORvRSL</a>",
             "toJSON": true,
+            "user_id": "94497768",
             "user_image": "http://pbs.twimg.com/profile_images/1363410689/trixie_normal.jpg"
         },
         {
@@ -14532,6 +14721,7 @@
             "secondNum": 29,
             "text": "<a target=\"_blank\" href=\"//twitter.com/search?q=%23PORvRSL\">#PORvRSL</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23RCTID\">#RCTID</a> so many chances tonight - 17 shots taken already...  still 10 minutes to go",
             "toJSON": true,
+            "user_id": "633316628",
             "user_image": "http://pbs.twimg.com/profile_images/475080212854476801/Mfm-vH8P_normal.jpeg"
         },
         {
@@ -14575,6 +14765,7 @@
             "secondNum": 27,
             "text": "And they need to be frantic: these next 10 minutes are probably for the Timbers\u2019 season. <a target=\"_blank\" href=\"//twitter.com/search?q=%23PORvRSL\">#PORvRSL</a>",
             "toJSON": true,
+            "user_id": "620315597",
             "user_image": "http://pbs.twimg.com/profile_images/2346957345/mlsbsqsolid_normal.png"
         },
         {
@@ -14593,7 +14784,8 @@
             "secondNum": 50,
             "text": "This guy would like to see a goal. <a target=\"_blank\" href=\"//twitter.com/search?q=%23PORvRSL\">#PORvRSL</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23RCTID\">#RCTID</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23Unicorn\">#Unicorn</a> <a href=\"http://t.co/BKEb8ERUJz\" target=\"_blank\">http://t.co/BKEb8ERUJz</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/550589473767976961/OTnslq_m_normal.png"
+            "user_id": "107146095",
+            "user_image": "http://pbs.twimg.com/profile_images/593636874301808640/2-2VpXxW_normal.jpg"
         },
         {
             "_type": "INSTAGRAM",
@@ -14633,6 +14825,7 @@
             "secondNum": 39,
             "text": "If you aren't watching this <a target=\"_blank\" href=\"//twitter.com/@RealSaltLake\">@RealSaltLake</a> game then you are missing out!! <a target=\"_blank\" href=\"//twitter.com/search?q=%23PORvRSL\">#PORvRSL</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23TheBeatifulGame\">#TheBeatifulGame</a>",
             "toJSON": true,
+            "user_id": "65726334",
             "user_image": "http://pbs.twimg.com/profile_images/476935857942065153/Bbq3QQ98_normal.jpeg"
         },
         {
@@ -14647,6 +14840,7 @@
             "secondNum": 42,
             "text": "<a target=\"_blank\" href=\"//twitter.com/search?q=%23PORvRSL\">#PORvRSL</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23RCTID\">#RCTID</a> theres that energy again - wasted though... coulda done better with that penetrating possession by Powell",
             "toJSON": true,
+            "user_id": "633316628",
             "user_image": "http://pbs.twimg.com/profile_images/475080212854476801/Mfm-vH8P_normal.jpeg"
         },
         {
@@ -14703,6 +14897,7 @@
             "secondNum": 6,
             "text": "Nobody can handle Powell. Including Powell. <a target=\"_blank\" href=\"//twitter.com/search?q=%23RCTID\">#RCTID</a>",
             "toJSON": true,
+            "user_id": "412394810",
             "user_image": "http://pbs.twimg.com/profile_images/1638898626/020_normal.JPG"
         },
         {
@@ -14717,7 +14912,8 @@
             "secondNum": 26,
             "text": "I hate <a target=\"_blank\" href=\"//twitter.com/@NickRimando\">@NickRimando</a>.  I love <a target=\"_blank\" href=\"//twitter.com/@NickRimando\">@NickRimando</a>. <a target=\"_blank\" href=\"//twitter.com/search?q=%23RCTID\">#RCTID</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/521930860333776896/OhB8ZbzG_normal.jpeg"
+            "user_id": "41997606",
+            "user_image": "http://pbs.twimg.com/profile_images/577362437193646081/rggZygKa_normal.jpeg"
         },
         {
             "_type": "TWEET",
@@ -14731,6 +14927,7 @@
             "secondNum": 15,
             "text": "Gravity. How does it work? <a target=\"_blank\" href=\"//twitter.com/search?q=%23rctid\">#rctid</a>",
             "toJSON": true,
+            "user_id": "16206517",
             "user_image": "http://pbs.twimg.com/profile_images/2977452574/0139d31e529baf1ce0a6f0c88afb4751_normal.jpeg"
         },
         {
@@ -14745,6 +14942,7 @@
             "secondNum": 34,
             "text": "This has got to be one of the best 0 - 0 matches I've seen. Nicky Rimando coming up big. Portland peppering him this half. <a target=\"_blank\" href=\"//twitter.com/search?q=%23timbers\">#timbers</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23rsl\">#rsl</a>",
             "toJSON": true,
+            "user_id": "118615451",
             "user_image": "http://pbs.twimg.com/profile_images/463700890742837248/8vQTzApj_normal.png"
         },
         {
@@ -14759,6 +14957,7 @@
             "secondNum": 43,
             "text": "The reality is, Portland doesn't really deserve a playoff spot, even if they manage to snag one. <a target=\"_blank\" href=\"//twitter.com/search?q=%23PORvRSL\">#PORvRSL</a>",
             "toJSON": true,
+            "user_id": "2832629373",
             "user_image": "http://pbs.twimg.com/profile_images/522826207167909889/C5wPwxag_normal.png"
         },
         {
@@ -14798,6 +14997,7 @@
             "secondNum": 22,
             "text": "88' - Zemanski intercepts an RSL pass and then takes a shot that Rimando saves <a target=\"_blank\" href=\"//twitter.com/search?q=%23RCTID\">#RCTID</a>",
             "toJSON": true,
+            "user_id": "174517450",
             "user_image": "http://pbs.twimg.com/profile_images/555178709569638400/HyQmQxlU_normal.jpeg"
         },
         {
@@ -14934,6 +15134,7 @@
             "secondNum": 53,
             "text": "<a target=\"_blank\" href=\"//twitter.com/search?q=%23RCTID\">#RCTID</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23MLS\">#MLS</a>  <a target=\"_blank\" href=\"//twitter.com/search?q=%23PORvRSL\">#PORvRSL</a> Timber desperation now obvious as Rimando easily stops everything late.",
             "toJSON": true,
+            "user_id": "547308539",
             "user_image": "http://pbs.twimg.com/profile_images/378800000643618283/ca2863c2ee05e63b6fdf84897b710d79_normal.jpeg"
         },
         {
@@ -14948,6 +15149,7 @@
             "secondNum": 7,
             "text": "Quite a few lazy passes tonight out of the visitors. <a target=\"_blank\" href=\"//twitter.com/search?q=%23PORvRSL\">#PORvRSL</a>",
             "toJSON": true,
+            "user_id": "2307352909",
             "user_image": "http://pbs.twimg.com/profile_images/468141594990755840/HfRxfjDP_normal.jpeg"
         },
         {
@@ -14962,6 +15164,7 @@
             "secondNum": 25,
             "text": "Kyle Beckerman snuffs out Portland attack, draws foul. <a target=\"_blank\" href=\"//twitter.com/search?q=%23PORvRSL\">#PORvRSL</a>",
             "toJSON": true,
+            "user_id": "1634036647",
             "user_image": "http://pbs.twimg.com/profile_images/378800000619634058/e91a75f7a04c2d7aebc9c4080990e3bc_normal.jpeg"
         },
         {
@@ -15065,6 +15268,7 @@
             "secondNum": 39,
             "text": "OMG here comes the Cole Grossman goal. <a target=\"_blank\" href=\"//twitter.com/search?q=%23RCTID\">#RCTID</a>",
             "toJSON": true,
+            "user_id": "412394810",
             "user_image": "http://pbs.twimg.com/profile_images/1638898626/020_normal.JPG"
         },
         {
@@ -15079,6 +15283,7 @@
             "secondNum": 43,
             "text": "RSL can't pass. Portland can't finish. <a target=\"_blank\" href=\"//twitter.com/search?q=%23PORvRSL\">#PORvRSL</a>",
             "toJSON": true,
+            "user_id": "2832629373",
             "user_image": "http://pbs.twimg.com/profile_images/522826207167909889/C5wPwxag_normal.png"
         },
         {
@@ -15093,7 +15298,8 @@
             "secondNum": 54,
             "text": "<a target=\"_blank\" href=\"//twitter.com/search?q=%23RSL\">#RSL</a> needs to send Nick Rimando a fruit basket and a big, fat, juicy bonus check. He's the only reason they're still alive in this game.",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/572290732888731648/GyfaWCTh_normal.jpeg"
+            "user_id": "492556380",
+            "user_image": "http://pbs.twimg.com/profile_images/578740855357337600/nBKgaWQe_normal.jpeg"
         },
         {
             "_type": "COMMENT",
@@ -15128,7 +15334,8 @@
             "secondNum": 0,
             "text": "3 minutes....some of the tequila just came up. <a target=\"_blank\" href=\"//twitter.com/search?q=%23RCTID\">#RCTID</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/572028311355977728/TqUyfrCR_normal.jpeg"
+            "user_id": "2331992544",
+            "user_image": "http://pbs.twimg.com/profile_images/588175582317412352/ZJAc6j_X_normal.jpg"
         },
         {
             "_type": "TWEET",
@@ -15142,6 +15349,7 @@
             "secondNum": 0,
             "text": "Been a long time since I've seen <a target=\"_blank\" href=\"//twitter.com/search?q=%23RSL\">#RSL</a> look so disinterested. Quick give always defensive shape is stretch to wide <a target=\"_blank\" href=\"//twitter.com/search?q=%23POR\">#POR</a> has to get a goal.",
             "toJSON": true,
+            "user_id": "2252940008",
             "user_image": "http://pbs.twimg.com/profile_images/531256373753815040/kvcd7bOB_normal.jpeg"
         },
         {
@@ -15252,6 +15460,7 @@
             "secondNum": 0,
             "text": "HAHAHA That's how Rimando gives a guy a yellow! <a target=\"_blank\" href=\"//twitter.com/search?q=%23PORvRSL\">#PORvRSL</a>",
             "toJSON": true,
+            "user_id": "2307352909",
             "user_image": "http://pbs.twimg.com/profile_images/468141594990755840/HfRxfjDP_normal.jpeg"
         },
         {
@@ -15335,6 +15544,7 @@
             "secondNum": 0,
             "text": "Longest. Minute. Ever. <a target=\"_blank\" href=\"//twitter.com/search?q=%23PORvRSL\">#PORvRSL</a>",
             "toJSON": true,
+            "user_id": "2490651492",
             "user_image": "http://pbs.twimg.com/profile_images/557403449927925760/hQhhXHTb_normal.jpeg"
         },
         {
@@ -15399,6 +15609,7 @@
             "secondNum": 0,
             "text": "Handball, no question. <a target=\"_blank\" href=\"//twitter.com/search?q=%23rctid\">#rctid</a>",
             "toJSON": true,
+            "user_id": "81427914",
             "user_image": "http://pbs.twimg.com/profile_images/502956389476495360/2ZYLBTbi_normal.jpeg"
         },
         {
@@ -15413,7 +15624,8 @@
             "secondNum": 0,
             "text": "Not a handball on Borchers. Circumstantial. <a target=\"_blank\" href=\"//twitter.com/search?q=%23PORvRSL\">#PORvRSL</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/378800000060569908/65f887d0eac459fe7460e8c526a87785_normal.jpeg"
+            "user_id": "23776937",
+            "user_image": "http://pbs.twimg.com/profile_images/581700824096587780/dwcGWT9B_normal.png"
         },
         {
             "_type": "TWEET",
@@ -15427,6 +15639,7 @@
             "secondNum": 0,
             "text": "Drama in Portland. lol. <a target=\"_blank\" href=\"//twitter.com/search?q=%23PORvRSL\">#PORvRSL</a>",
             "toJSON": true,
+            "user_id": "185481477",
             "user_image": "http://pbs.twimg.com/profile_images/534210841516576770/AddCUD7V_normal.jpeg"
         },
         {
@@ -15462,6 +15675,7 @@
             "secondNum": 0,
             "text": "Borchers's hand in a natural position.  Ball to hand. Good no-call. <a target=\"_blank\" href=\"//twitter.com/search?q=%23PORvRSL\">#PORvRSL</a>",
             "toJSON": true,
+            "user_id": "2307352909",
             "user_image": "http://pbs.twimg.com/profile_images/468141594990755840/HfRxfjDP_normal.jpeg"
         },
         {
@@ -15476,6 +15690,7 @@
             "secondNum": 0,
             "text": "Full time. Timbers attack and fight but draw RSL 0-0. <a target=\"_blank\" href=\"//twitter.com/search?q=%23RCTID\">#RCTID</a>",
             "toJSON": true,
+            "user_id": "22556296",
             "user_image": "http://pbs.twimg.com/profile_images/512644544731435009/nQ7uqfBl_normal.jpeg"
         },
         {
@@ -15632,6 +15847,7 @@
             "secondNum": 37,
             "text": "<a target=\"_blank\" href=\"//twitter.com/search?q=%23PORvRSL\">#PORvRSL</a>. Huge playoff implications. NBCSN. Watch it. Now. Seriously. Go.",
             "toJSON": true,
+            "user_id": "274640845",
             "user_image": "http://pbs.twimg.com/profile_images/528584945724182528/6JzoCyPC_normal.jpeg"
         },
         {
@@ -15650,7 +15866,8 @@
             "secondNum": 9,
             "text": "Required pre-game viewing: <a target=\"_blank\" href=\"//twitter.com/@NickRimando\">@NickRimando</a> is... the \"Wall of the Wasatch\". <a href=\"http://t.co/UyPR6Jtmhl\" target=\"_blank\">http://t.co/UyPR6Jtmhl</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23PORvRSL\">#PORvRSL</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23MLSInsider\">#MLSInsider</a> <a href=\"http://t.co/PxaPnQZEvf\" target=\"_blank\">http://t.co/PxaPnQZEvf</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/550589473767976961/OTnslq_m_normal.png"
+            "user_id": "107146095",
+            "user_image": "http://pbs.twimg.com/profile_images/593636874301808640/2-2VpXxW_normal.jpg"
         },
         {
             "_type": "INSTAGRAM",
@@ -15742,6 +15959,7 @@
             "secondNum": 57,
             "text": "Plata and Saborio both on the bench for RSL. That's unfortunate. <a target=\"_blank\" href=\"//twitter.com/search?q=%23PORvRSL\">#PORvRSL</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23WhitecapsFC\">#WhitecapsFC</a>",
             "toJSON": true,
+            "user_id": "282900793",
             "user_image": "http://pbs.twimg.com/profile_images/2331795911/m659c9se2ofuxh8gdcnk_normal.jpeg"
         },
         {
@@ -15782,6 +16000,7 @@
             "secondNum": 8,
             "text": "They'll need to bust the scuba gear out pretty soon <a target=\"_blank\" href=\"//twitter.com/search?q=%23RCTID\">#RCTID</a>",
             "toJSON": true,
+            "user_id": "58068384",
             "user_image": "http://pbs.twimg.com/profile_images/477893908970479616/R8hbtT_Z_normal.jpeg"
         },
         {
@@ -15800,6 +16019,7 @@
             "secondNum": 30,
             "text": "Goooooo <a target=\"_blank\" href=\"//twitter.com/search?q=%23valeri\">#valeri</a> mvp <a target=\"_blank\" href=\"//twitter.com/search?q=%23RCTID\">#RCTID</a> <a href=\"http://t.co/kOBg5XqpSv\" target=\"_blank\">http://t.co/kOBg5XqpSv</a>",
             "toJSON": true,
+            "user_id": "270167702",
             "user_image": "http://pbs.twimg.com/profile_images/533638922958413824/R428FTqg_normal.jpeg"
         },
         {
@@ -15814,6 +16034,7 @@
             "secondNum": 13,
             "text": "Keep an eye on Beckerman's hair tonight. May start sprouting in this rain. <a target=\"_blank\" href=\"//twitter.com/search?q=%23RCTID\">#RCTID</a>",
             "toJSON": true,
+            "user_id": "21069175",
             "user_image": "http://pbs.twimg.com/profile_images/491427247023071232/4Ik3m56y_normal.jpeg"
         },
         {
@@ -15828,6 +16049,7 @@
             "secondNum": 8,
             "text": "Why are we wearing white? Did <a target=\"_blank\" href=\"//twitter.com/search?q=%23RSL\">#RSL</a> not learn that red was the lucky color in Portland last year?! <a target=\"_blank\" href=\"//twitter.com/search?q=%23Superstitious\">#Superstitious</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23Believe\">#Believe</a>",
             "toJSON": true,
+            "user_id": "1090294231",
             "user_image": "http://pbs.twimg.com/profile_images/486015468084289536/92gmijym_normal.jpeg"
         },
         {
@@ -15846,7 +16068,8 @@
             "secondNum": 22,
             "text": "Get REVVVEED up. <a target=\"_blank\" href=\"//twitter.com/search?q=%23PORvRSL\">#PORvRSL</a> getting underway on <a target=\"_blank\" href=\"//twitter.com/@NBCSN\">@NBCSN</a>. Free stream here: <a href=\"http://t.co/d37yGuKn4Z\" target=\"_blank\">http://t.co/d37yGuKn4Z</a> <a href=\"http://t.co/ykYNanAkth\" target=\"_blank\">http://t.co/ykYNanAkth</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/550589473767976961/OTnslq_m_normal.png"
+            "user_id": "107146095",
+            "user_image": "http://pbs.twimg.com/profile_images/593636874301808640/2-2VpXxW_normal.jpg"
         },
         {
             "_type": "COMMENT",

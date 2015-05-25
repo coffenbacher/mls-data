@@ -4073,16 +4073,16 @@
                         {
                             "children": null,
                             "class": "column-orphan",
-                            "href": "http://www.mlssoccer.com/mls-disciplinary-summary",
+                            "href": "http://www.mlssoccer.com/injuries",
                             "id": null,
-                            "title": "Disciplinary Report"
+                            "title": "Injury Report"
                         },
                         {
                             "children": null,
                             "class": "column-orphan",
-                            "href": "http://www.mlssoccer.com/injuries",
+                            "href": "http://www.mlssoccer.com/mls-disciplinary-summary",
                             "id": null,
-                            "title": "Injury Report"
+                            "title": "Disciplinary Report"
                         },
                         {
                             "children": null,
@@ -4257,9 +4257,9 @@
                         {
                             "children": null,
                             "class": null,
-                            "href": "http://www.mlssoccer.com/goldcup/2013",
+                            "href": "http://www.mlssoccer.com/goldcup/2015",
                             "id": null,
-                            "title": "Gold Cup 2013"
+                            "title": "Gold Cup 2015"
                         },
                         {
                             "children": null,
@@ -4385,7 +4385,7 @@
                         {
                             "children": null,
                             "class": null,
-                            "href": "http://www.mlssoccer.com/extratime",
+                            "href": "http://www.mlssoccer.com/news/extratime-radio",
                             "id": null,
                             "title": "ExtraTime Radio"
                         },
@@ -4412,7 +4412,7 @@
                         }
                     ],
                     "class": "column-parent",
-                    "href": "http://www.mlssoccer.com/extratime",
+                    "href": "http://www.mlssoccer.com/news/extratime-radio",
                     "id": null,
                     "title": "Podcasts"
                 }
@@ -4428,21 +4428,21 @@
                         {
                             "children": null,
                             "class": null,
-                            "href": "http://www.mlssoccer.com/video/channel/world-cup",
+                            "href": "http://www.mlssoccer.com/video/channel/mls-now",
                             "id": null,
-                            "title": "World Cup"
+                            "title": "MLS Now"
                         },
                         {
                             "children": null,
                             "class": null,
-                            "href": "http://www.mlssoccer.com/gotw/2014",
+                            "href": "http://www.mlssoccer.com/gotw/2015",
                             "id": null,
                             "title": "AT&T Goal of the Week"
                         },
                         {
                             "children": null,
                             "class": null,
-                            "href": "http://www.mlssoccer.com/sotw/2014",
+                            "href": "http://www.mlssoccer.com/sotw/2015",
                             "id": null,
                             "title": "Save of the Week"
                         },
@@ -4470,16 +4470,23 @@
                         {
                             "children": null,
                             "class": null,
-                            "href": "http://www.mlssoccer.com/video/channel/anatomy-of-a-goal",
+                            "href": "http://www.mlssoccer.com/video/channel/off-topic-with-rachel-bonnetta",
                             "id": null,
-                            "title": "Anatomy of a Goal"
+                            "title": "Off Topic with Rachel Bonnetta"
                         },
                         {
                             "children": null,
                             "class": null,
-                            "href": "http://www.mlssoccer.com/video/channel/between-the-lines",
+                            "href": "http://www.mlssoccer.com/video/channel/on-the-field",
                             "id": null,
-                            "title": "Between the Lines"
+                            "title": "On the Field"
+                        },
+                        {
+                            "children": null,
+                            "class": null,
+                            "href": "http://www.mlssoccer.com/video/channel/plays-of-the-night",
+                            "id": null,
+                            "title": "Plays of the Night"
                         },
                         {
                             "children": null,
@@ -4720,20 +4727,6 @@
                     "href": "http://www.mlsstore.com/",
                     "id": null,
                     "title": "MLS Store"
-                },
-                {
-                    "children": null,
-                    "class": "column-parent",
-                    "href": "http://www.mlsgearcanada.ca/",
-                    "id": null,
-                    "title": "MLS Gear Canada"
-                },
-                {
-                    "children": null,
-                    "class": "column-parent",
-                    "href": "http://mls.fanphotos.com",
-                    "id": null,
-                    "title": "MLS Photo Store"
                 }
             ],
             "href": "http://www.mlsstore.com",
@@ -4745,6 +4738,12 @@
             "href": "http://mls.univision.com/",
             "id": "menu-espanol",
             "title": "Espa\u00f1ol"
+        },
+        {
+            "children": null,
+            "href": "http://www.mlssoccer.com/mls-live",
+            "id": null,
+            "title": "MLS LIVE"
         },
         {
             "children": [
@@ -6328,6 +6327,7 @@
     },
     "preview": {
         "awayMatchClubSeasonStatistics": {
+            "clubOptaId": 399,
             "statistics": {
                 "form": {
                     "LastSixAway": "LDWDWL",
@@ -6785,6 +6785,7 @@
             }
         },
         "homeMatchClubSeasonStatistics": {
+            "clubOptaId": 1207,
             "statistics": {
                 "form": {
                     "LastSixAway": "DLLWWL",
@@ -8127,7 +8128,7 @@
             "title": "Chicago Fire 1, New York Red Bulls 1 | MLS Match Recap"
         }
     },
-    "sequence": 30,
+    "sequence": 0,
     "shootout": [],
     "timelineItems": [
         {
@@ -8286,7 +8287,8 @@
             "secondNum": 12,
             "text": "A week after making his competitive <a target=\"_blank\" href=\"//twitter.com/search?q=%23cf97\">#cf97</a> debut, <a target=\"_blank\" href=\"//twitter.com/@ChampionShipp\">@ChampionShipp</a> bags his first professional assist. Congrats kid.",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/559430015788408832/uYGWqFRE_normal.jpeg"
+            "user_id": "158698304",
+            "user_image": "http://pbs.twimg.com/profile_images/594212391828721665/KP7ohk-Z_normal.jpg"
         },
         {
             "_type": "TWEET",
@@ -8299,6 +8301,7 @@
             "secondNum": 41,
             "text": "For those wondering, Cahill was marking Larentowicz but was picked by Soumare and Miller. Well drawn-up play from Fire. <a target=\"_blank\" href=\"//twitter.com/search?q=%23RBNY\">#RBNY</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23CF97\">#CF97</a>",
             "toJSON": true,
+            "user_id": "34677488",
             "user_image": "http://pbs.twimg.com/profile_images/558728264399605760/nG7BSUqH_normal.jpeg"
         },
         {
@@ -8336,6 +8339,7 @@
             "secondNum": 41,
             "text": "No worries, <a target=\"_blank\" href=\"//twitter.com/search?q=%23RBNY\">#RBNY</a> fans. We all remember the last time we played Chicago and we went down 1-0 and what the end result was...",
             "toJSON": true,
+            "user_id": "348574188",
             "user_image": "http://pbs.twimg.com/profile_images/496487308762574848/4nffT97I_normal.jpeg"
         },
         {
@@ -8371,7 +8375,7 @@
             "extraTimeNum": 0,
             "id": "447814776022761472",
             "minuteNum": 13,
-            "name": "H\u00f6ck\u00eby Br\u00fcnchinen",
+            "name": "H\u00c3\u00b6ck\u00c3\u00aby Br\u00c3\u00bcnchinen",
             "photo": {
                 "url": "http://pbs.twimg.com/media/Bjb1KoECAAAeMB-.jpg",
                 "url_https": "https://pbs.twimg.com/media/Bjb1KoECAAAeMB-.jpg"
@@ -8380,24 +8384,19 @@
             "secondNum": 17,
             "text": "Don't remember who first pointed this out, but it's obvious where <a target=\"_blank\" href=\"//twitter.com/search?q=%23cf97\">#cf97</a>'s new look comes from once you see it. <a href=\"http://t.co/qf29O0gavG\" target=\"_blank\">http://t.co/qf29O0gavG</a>",
             "toJSON": true,
+            "user_id": "1069798812",
             "user_image": "http://pbs.twimg.com/profile_images/3083328552/c3a0b466ec8d0ad4e6e5519f8d94c59d_normal.jpeg"
         },
         {
-            "_type": "TWEET",
-            "created_at": "2014-03-23T19:18:57+00:00",
+            "_type": "INSTAGRAM",
+            "created_at": "2015-05-25T12:09:40+00:00",
             "extraTimeNum": 0,
-            "id": "447814776022761472",
+            "id": 447814776022761500,
             "minuteNum": 13,
-            "name": "H\u00f6ck\u00eby Br\u00fcnchinen",
-            "photo": {
-                "url": "http://pbs.twimg.com/media/Bjb1KoECAAAeMB-.jpg",
-                "url_https": "https://pbs.twimg.com/media/Bjb1KoECAAAeMB-.jpg"
-            },
-            "screen_name": "HockeyBrunch",
-            "secondNum": 17,
-            "text": "Don't remember who first pointed this out, but it's obvious where <a target=\"_blank\" href=\"//twitter.com/search?q=%23cf97\">#cf97</a>'s new look comes from once you see it. <a href=\"http://t.co/qf29O0gavG\" target=\"_blank\">http://t.co/qf29O0gavG</a>",
-            "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/3083328552/c3a0b466ec8d0ad4e6e5519f8d94c59d_normal.jpeg"
+            "name": "undefined",
+            "secondsNum": 0,
+            "text": "",
+            "toJSON": true
         },
         {
             "_type": "COMMENT",
@@ -8481,7 +8480,8 @@
             "secondNum": 25,
             "text": "I wonder if I can just dye my <a target=\"_blank\" href=\"//twitter.com/search?q=%23RBNY\">#RBNY</a> gear sky blue. Don't want to have to spend too much while switching to <a target=\"_blank\" href=\"//twitter.com/search?q=%23NYCFC\">#NYCFC</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/560559132193722368/mMqnNGl0_normal.jpeg"
+            "user_id": "163942427",
+            "user_image": "http://pbs.twimg.com/profile_images/590633392812781569/yHZiKS3b_normal.jpg"
         },
         {
             "_type": "COMMENT",
@@ -8547,7 +8547,8 @@
             "secondNum": 59,
             "text": "Larentowicz has already matched his goal total from 2013. <a target=\"_blank\" href=\"//twitter.com/search?q=%23cf97\">#cf97</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/513128875271139328/Gv-cEmwG_normal.jpeg"
+            "user_id": "63633016",
+            "user_image": "http://pbs.twimg.com/profile_images/591030520340963330/kM4Mz-1G_normal.jpg"
         },
         {
             "_type": "TWEET",
@@ -8564,24 +8565,19 @@
             "secondNum": 45,
             "text": "Almost time for kickoff <a target=\"_blank\" href=\"//twitter.com/search?q=%23cf97\">#cf97</a> <a target=\"_blank\" href=\"//twitter.com/@RivetRadio\">@RivetRadio</a> <a href=\"http://t.co/j6p9u4BNN8\" target=\"_blank\">http://t.co/j6p9u4BNN8</a>",
             "toJSON": true,
+            "user_id": "300638514",
             "user_image": "http://pbs.twimg.com/profile_images/437136032664784898/eFOOqZJu_normal.jpeg"
         },
         {
-            "_type": "TWEET",
-            "created_at": "2014-03-23T18:55:37+00:00",
+            "_type": "INSTAGRAM",
+            "created_at": "2015-05-25T12:09:40+00:00",
             "extraTimeNum": 23260016,
-            "id": "447808904341102592",
+            "id": 447808904341102600,
             "minuteNum": -1,
-            "name": "Gabe Salgado",
-            "photo": {
-                "url": "http://pbs.twimg.com/media/Bjbv02DCAAAPr-w.jpg",
-                "url_https": "https://pbs.twimg.com/media/Bjbv02DCAAAPr-w.jpg"
-            },
-            "screen_name": "GabeSalgado82",
-            "secondNum": 45,
-            "text": "Almost time for kickoff <a target=\"_blank\" href=\"//twitter.com/search?q=%23cf97\">#cf97</a> <a target=\"_blank\" href=\"//twitter.com/@RivetRadio\">@RivetRadio</a> <a href=\"http://t.co/j6p9u4BNN8\" target=\"_blank\">http://t.co/j6p9u4BNN8</a>",
-            "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/437136032664784898/eFOOqZJu_normal.jpeg"
+            "name": "undefined",
+            "secondsNum": 0,
+            "text": "",
+            "toJSON": true
         },
         {
             "_type": "TWEET",
@@ -8594,6 +8590,7 @@
             "secondNum": 38,
             "text": "A team that stands still is a team that gets passed by. Not enough brought in by <a target=\"_blank\" href=\"//twitter.com/search?q=%23RBNY\">#RBNY</a> to contend this season.",
             "toJSON": true,
+            "user_id": "291677834",
             "user_image": "http://pbs.twimg.com/profile_images/378800000736229919/33ec1e01120c8f9052bea595a8d33e02_normal.jpeg"
         },
         {
@@ -8637,6 +8634,7 @@
             "secondNum": 7,
             "text": "Despite coming off injury, <a target=\"_blank\" href=\"//twitter.com/@magee9\">@magee9</a>'s gesticulating skills are in mid-season form. <a target=\"_blank\" href=\"//twitter.com/search?q=%23cf97\">#cf97</a>",
             "toJSON": true,
+            "user_id": "1169685708",
             "user_image": "http://pbs.twimg.com/profile_images/378800000431871865/0cd6cb0fcb1e34b41f6c349ab6d44e5d_normal.jpeg"
         },
         {
@@ -8687,6 +8685,7 @@
             "secondNum": 57,
             "text": "This is true. At least have ideas. RT <a target=\"_blank\" href=\"//twitter.com/@MarkFishkin\">@MarkFishkin</a>: At least <a target=\"_blank\" href=\"//twitter.com/search?q=%23RBNY\">#RBNY</a> is getting shots on goal, which didn't happen last week.",
             "toJSON": true,
+            "user_id": "22497594",
             "user_image": "http://pbs.twimg.com/profile_images/3714253532/01c1f2de89f59ab4df36a35608f9dc02_normal.jpeg"
         },
         {
@@ -8700,6 +8699,7 @@
             "secondNum": 6,
             "text": "Couldn't make <a target=\"_blank\" href=\"//twitter.com/search?q=%23cf97\">#cf97</a> home opener, but able to watch and <a target=\"_blank\" href=\"//twitter.com/@Section8Chicago\">@Section8Chicago</a> seems in good voice. Now, as for the rest of the crowd...",
             "toJSON": true,
+            "user_id": "68760627",
             "user_image": "http://pbs.twimg.com/profile_images/3704673434/254d96bfc70714a861542355df80977c_normal.jpeg"
         },
         {
@@ -8713,6 +8713,7 @@
             "secondNum": 12,
             "text": "What's Petke got against Luyindula in the middle? <a target=\"_blank\" href=\"//twitter.com/search?q=%23RBNY\">#RBNY</a>",
             "toJSON": true,
+            "user_id": "121290934",
             "user_image": "http://pbs.twimg.com/profile_images/477534284149194753/gbGn4Tbz_normal.jpeg"
         },
         {
@@ -8747,6 +8748,7 @@
             "secondNum": 17,
             "text": "I don't know if he's big enough to star in <a target=\"_blank\" href=\"//twitter.com/@MLS\">@MLS</a> but Harrison Shipp has \"a very particular set of skills\" and can hit a set-piece. <a target=\"_blank\" href=\"//twitter.com/search?q=%23CHIvNY\">#CHIvNY</a>",
             "toJSON": true,
+            "user_id": "1071790574",
             "user_image": "http://pbs.twimg.com/profile_images/378800000560293522/5cec2b53be61b53ab3247ce6c63126ba_normal.jpeg"
         },
         {
@@ -8760,6 +8762,7 @@
             "secondNum": 35,
             "text": "Matt Watson's making Johnny Steele look like Pavel Nedved.",
             "toJSON": true,
+            "user_id": "195100261",
             "user_image": "http://pbs.twimg.com/profile_images/1360308112/armchair_analyst_logo_normal.jpg"
         },
         {
@@ -8773,7 +8776,8 @@
             "secondNum": 28,
             "text": "Woof \"<a target=\"_blank\" href=\"//twitter.com/@JPon87\">@JPon87</a>: Nice passing but whoa Alexander with that header... <a target=\"_blank\" href=\"//twitter.com/search?q=%23RBNY\">#RBNY</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23MLS\">#MLS</a>\"",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/488082408445870080/8Nvn6dIG_normal.jpeg"
+            "user_id": "40979254",
+            "user_image": "http://pbs.twimg.com/profile_images/589789753295384577/LYRRw9IE_normal.jpg"
         },
         {
             "_type": "COMMENT",
@@ -8840,7 +8844,8 @@
             "secondNum": 17,
             "text": "What in God's name is this <a target=\"_blank\" href=\"//twitter.com/search?q=%23cf97\">#cf97</a> is wearing?",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/500343945520361472/3a7yE-Vw_normal.png"
+            "user_id": "17791152",
+            "user_image": "http://pbs.twimg.com/profile_images/566295090771918848/AzMqoQ9G_normal.png"
         },
         {
             "_type": "COMMENT",
@@ -8883,7 +8888,8 @@
             "secondNum": 34,
             "text": "Annnnd we're off between <a target=\"_blank\" href=\"//twitter.com/@ChicagoFire\">@ChicagoFire</a> + <a target=\"_blank\" href=\"//twitter.com/@NewYorkRedBulls\">@NewYorkRedBulls</a> from <a target=\"_blank\" href=\"//twitter.com/@ToyotaPark\">@ToyotaPark</a>! Follow along here: <a href=\"http://t.co/k5En4324Qz\" target=\"_blank\">http://t.co/k5En4324Qz</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23CHIvNY\">#CHIvNY</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/550589473767976961/OTnslq_m_normal.png"
+            "user_id": "107146095",
+            "user_image": "http://pbs.twimg.com/profile_images/593636874301808640/2-2VpXxW_normal.jpg"
         },
         {
             "_type": "TWEET",
@@ -8896,6 +8902,7 @@
             "secondNum": 20,
             "text": "Amarikwa should\u2019ve had that. Brilliant cross by Shipp. <a target=\"_blank\" href=\"//twitter.com/search?q=%23RBNY\">#RBNY</a>",
             "toJSON": true,
+            "user_id": "566406774",
             "user_image": "http://pbs.twimg.com/profile_images/418869431976984576/hnGfd9z6_normal.jpeg"
         },
         {
@@ -8938,7 +8945,8 @@
             "secondNum": 30,
             "text": "Harry Shipp again puts a ball in the perfect position.... AGAIN <a target=\"_blank\" href=\"//twitter.com/search?q=%23cf97\">#cf97</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/442494578864947200/PLPihZb__normal.jpeg"
+            "user_id": "35013576",
+            "user_image": "http://pbs.twimg.com/profile_images/601039319596453888/qoE0UREM_normal.jpg"
         },
         {
             "_type": "VIDEO",
@@ -8989,6 +8997,7 @@
             "secondNum": 0,
             "text": "That's game. <a target=\"_blank\" href=\"//twitter.com/search?q=%23RBNY\">#RBNY</a> leave Chicago w a point, 1-1. Came back from early deficit, stayed competitive, but lacked creativity <a target=\"_blank\" href=\"//twitter.com/search?q=%23CHIvNY\">#CHIvNY</a>",
             "toJSON": true,
+            "user_id": "245874711",
             "user_image": "http://pbs.twimg.com/profile_images/458685989922160640/3NILMfV__normal.png"
         },
         {
@@ -9055,6 +9064,7 @@
             "secondNum": 16,
             "text": "When both are up top, <a target=\"_blank\" href=\"//twitter.com/search?q=%23RBNY\">#RBNY</a> have no real forward to play to that makes runs in behind. Henry drifts wide, back. Cahill scraps, wins headers.",
             "toJSON": true,
+            "user_id": "34677488",
             "user_image": "http://pbs.twimg.com/profile_images/558728264399605760/nG7BSUqH_normal.jpeg"
         },
         {
@@ -9093,24 +9103,19 @@
             "secondNum": 20,
             "text": "Both teams have taken the field <a target=\"_blank\" href=\"//twitter.com/search?q=%23cf97\">#cf97</a> <a href=\"http://t.co/UnstPGkMtK\" target=\"_blank\">http://t.co/UnstPGkMtK</a>",
             "toJSON": true,
+            "user_id": "300638514",
             "user_image": "http://pbs.twimg.com/profile_images/437136032664784898/eFOOqZJu_normal.jpeg"
         },
         {
-            "_type": "TWEET",
-            "created_at": "2014-03-23T19:00:52+00:00",
+            "_type": "INSTAGRAM",
+            "created_at": "2015-05-25T12:09:40+00:00",
             "extraTimeNum": 23260022,
-            "id": "447810225660104704",
+            "id": 447810225660104700,
             "minuteNum": -1,
-            "name": "Gabe Salgado",
-            "photo": {
-                "url": "http://pbs.twimg.com/media/BjbxBwSCcAAb9In.jpg",
-                "url_https": "https://pbs.twimg.com/media/BjbxBwSCcAAb9In.jpg"
-            },
-            "screen_name": "GabeSalgado82",
-            "secondNum": 20,
-            "text": "Both teams have taken the field <a target=\"_blank\" href=\"//twitter.com/search?q=%23cf97\">#cf97</a> <a href=\"http://t.co/UnstPGkMtK\" target=\"_blank\">http://t.co/UnstPGkMtK</a>",
-            "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/437136032664784898/eFOOqZJu_normal.jpeg"
+            "name": "undefined",
+            "secondsNum": 0,
+            "text": "",
+            "toJSON": true
         },
         {
             "_type": "COMMENT",
@@ -9152,6 +9157,7 @@
             "secondNum": 9,
             "text": "GOAL NY! DAX! Ginger mania is RUNNING WILD. <a target=\"_blank\" href=\"//twitter.com/search?q=%23RBNY\">#RBNY</a>",
             "toJSON": true,
+            "user_id": "566406774",
             "user_image": "http://pbs.twimg.com/profile_images/418869431976984576/hnGfd9z6_normal.jpeg"
         },
         {
@@ -9165,6 +9171,7 @@
             "secondNum": 26,
             "text": "Putting Luyindula in a CAM role with this roster is like trying to fit a round Peguy in a square hole. <a target=\"_blank\" href=\"//twitter.com/search?q=%23RBNY\">#RBNY</a>",
             "toJSON": true,
+            "user_id": "1158820585",
             "user_image": "http://pbs.twimg.com/profile_images/451150332551503873/CX8RXZIn_normal.jpeg"
         },
         {
@@ -9220,6 +9227,7 @@
             "secondNum": 46,
             "text": "Well, the Fire made a hash of that and paid the price. <a target=\"_blank\" href=\"//twitter.com/search?q=%23CHIvNY\">#CHIvNY</a>",
             "toJSON": true,
+            "user_id": "1071790574",
             "user_image": "http://pbs.twimg.com/profile_images/378800000560293522/5cec2b53be61b53ab3247ce6c63126ba_normal.jpeg"
         },
         {
@@ -9256,6 +9264,7 @@
             "secondNum": 8,
             "text": "Prescient. RT <a target=\"_blank\" href=\"//twitter.com/@AlexiLalas\">@AlexiLalas</a>: Never leave a mutant gene unmarked on a corner. <a target=\"_blank\" href=\"//twitter.com/search?q=%23CHIvNY\">#CHIvNY</a>",
             "toJSON": true,
+            "user_id": "566406774",
             "user_image": "http://pbs.twimg.com/profile_images/418869431976984576/hnGfd9z6_normal.jpeg"
         },
         {
@@ -9269,6 +9278,7 @@
             "secondNum": 18,
             "text": "Haven't consumed Scotch during either of the two previous <a target=\"_blank\" href=\"//twitter.com/search?q=%23RBNY\">#RBNY</a> games. So today, for a change of luck ...",
             "toJSON": true,
+            "user_id": "46200772",
             "user_image": "http://pbs.twimg.com/profile_images/547084845/Publicity3_normal.jpg"
         },
         {
@@ -9286,24 +9296,19 @@
             "secondNum": 58,
             "text": "Fire game <a target=\"_blank\" href=\"//twitter.com/search?q=%23cf97\">#cf97</a> <a href=\"http://t.co/N0qlxLnZCT\" target=\"_blank\">http://t.co/N0qlxLnZCT</a>",
             "toJSON": true,
+            "user_id": "46680696",
             "user_image": "http://pbs.twimg.com/profile_images/438542132656087042/mJIDlV5f_normal.jpeg"
         },
         {
-            "_type": "TWEET",
-            "created_at": "2014-03-23T19:03:54+00:00",
+            "_type": "INSTAGRAM",
+            "created_at": "2015-05-25T12:09:40+00:00",
             "extraTimeNum": 23260024,
-            "id": "447810990051033088",
+            "id": 447810990051033100,
             "minuteNum": -1,
-            "name": "Joel Salmeron",
-            "photo": {
-                "url": "http://pbs.twimg.com/media/BjbxuQaCUAAHq2s.jpg",
-                "url_https": "https://pbs.twimg.com/media/BjbxuQaCUAAHq2s.jpg"
-            },
-            "screen_name": "sjoel7",
-            "secondNum": 58,
-            "text": "Fire game <a target=\"_blank\" href=\"//twitter.com/search?q=%23cf97\">#cf97</a> <a href=\"http://t.co/N0qlxLnZCT\" target=\"_blank\">http://t.co/N0qlxLnZCT</a>",
-            "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/438542132656087042/mJIDlV5f_normal.jpeg"
+            "name": "undefined",
+            "secondsNum": 0,
+            "text": "",
+            "toJSON": true
         },
         {
             "_type": "COMMENT",
@@ -9358,6 +9363,7 @@
             "secondNum": 37,
             "text": "Super Robles Super Robles oy oy oy <a target=\"_blank\" href=\"//twitter.com/search?q=%23RBNY\">#RBNY</a>",
             "toJSON": true,
+            "user_id": "251739102",
             "user_image": "http://pbs.twimg.com/profile_images/563076972587515906/f30aQFjT_normal.jpeg"
         },
         {
@@ -9371,7 +9377,8 @@
             "secondNum": 8,
             "text": "Dax! McCarthy equalizes for <a target=\"_blank\" href=\"//twitter.com/@NewYorkRedBulls\">@NewYorkRedBulls</a> after chaos in the <a target=\"_blank\" href=\"//twitter.com/@ChicagoFire\">@ChicagoFire</a> box. <a href=\"http://t.co/Sufe19ioQZ\" target=\"_blank\">http://t.co/Sufe19ioQZ</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23CHIvNY\">#CHIvNY</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/550589473767976961/OTnslq_m_normal.png"
+            "user_id": "107146095",
+            "user_image": "http://pbs.twimg.com/profile_images/593636874301808640/2-2VpXxW_normal.jpg"
         },
         {
             "_type": "TWEET",
@@ -9388,24 +9395,19 @@
             "secondNum": 14,
             "text": "Section 8 tifo pre-game <a target=\"_blank\" href=\"//twitter.com/search?q=%23CHIvNY\">#CHIvNY</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23cf97\">#cf97</a> <a href=\"http://t.co/OuJyUZeBUT\" target=\"_blank\">http://t.co/OuJyUZeBUT</a>",
             "toJSON": true,
+            "user_id": "170534106",
             "user_image": "http://pbs.twimg.com/profile_images/574073384654536704/IzRdkDTD_normal.jpeg"
         },
         {
-            "_type": "TWEET",
-            "created_at": "2014-03-23T19:04:06+00:00",
+            "_type": "INSTAGRAM",
+            "created_at": "2015-05-25T12:09:40+00:00",
             "extraTimeNum": 23260025,
-            "id": "447811039539638272",
+            "id": 447811039539638300,
             "minuteNum": -1,
-            "name": "Mike Koeshartanto",
-            "photo": {
-                "url": "http://pbs.twimg.com/media/BjbxxHjCMAE8Yd4.jpg",
-                "url_https": "https://pbs.twimg.com/media/BjbxxHjCMAE8Yd4.jpg"
-            },
-            "screen_name": "Mike_Koesh",
-            "secondNum": 14,
-            "text": "Section 8 tifo pre-game <a target=\"_blank\" href=\"//twitter.com/search?q=%23CHIvNY\">#CHIvNY</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23cf97\">#cf97</a> <a href=\"http://t.co/OuJyUZeBUT\" target=\"_blank\">http://t.co/OuJyUZeBUT</a>",
-            "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/574073384654536704/IzRdkDTD_normal.jpeg"
+            "name": "undefined",
+            "secondsNum": 0,
+            "text": "",
+            "toJSON": true
         },
         {
             "_type": "TWEET",
@@ -9418,7 +9420,8 @@
             "secondNum": 23,
             "text": "Dax! McCarty equalizes for <a target=\"_blank\" href=\"//twitter.com/@NewYorkRedBulls\">@NewYorkRedBulls</a> after chaos in the <a target=\"_blank\" href=\"//twitter.com/@ChicagoFire\">@ChicagoFire</a> box. <a href=\"http://t.co/Sufe19ioQZ\" target=\"_blank\">http://t.co/Sufe19ioQZ</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23CHIvNY\">#CHIvNY</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/550589473767976961/OTnslq_m_normal.png"
+            "user_id": "107146095",
+            "user_image": "http://pbs.twimg.com/profile_images/593636874301808640/2-2VpXxW_normal.jpg"
         },
         {
             "_type": "TWEET",
@@ -9431,6 +9434,7 @@
             "secondNum": 25,
             "text": "Robles with another big save, showing what made him a Bundesliga 'keeper. <a target=\"_blank\" href=\"//twitter.com/search?q=%23RBNY\">#RBNY</a>",
             "toJSON": true,
+            "user_id": "104482747",
             "user_image": "http://pbs.twimg.com/profile_images/3034469780/3c3d33a03da92e0fabe44e528a4a906c_normal.jpeg"
         },
         {
@@ -9444,7 +9448,8 @@
             "secondNum": 33,
             "text": "Robles must have a major hickey to hide <a target=\"_blank\" href=\"//twitter.com/search?q=%23RBNY\">#RBNY</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/560559132193722368/mMqnNGl0_normal.jpeg"
+            "user_id": "163942427",
+            "user_image": "http://pbs.twimg.com/profile_images/590633392812781569/yHZiKS3b_normal.jpg"
         },
         {
             "_type": "COMMENT",
@@ -9499,6 +9504,7 @@
             "secondNum": 6,
             "text": "Harry Shipp, the Fire's Juan Mata?! I think so! <a target=\"_blank\" href=\"//twitter.com/search?q=%23cf97\">#cf97</a>",
             "toJSON": true,
+            "user_id": "338777701",
             "user_image": "http://pbs.twimg.com/profile_images/564076095788417024/N_UhcRiV_normal.jpeg"
         },
         {
@@ -9516,24 +9522,19 @@
             "secondNum": 11,
             "text": "I LOVE THIS <a target=\"_blank\" href=\"//twitter.com/search?q=%23cf97\">#cf97</a> <a href=\"http://t.co/L7W298Z3dC\" target=\"_blank\">http://t.co/L7W298Z3dC</a>",
             "toJSON": true,
+            "user_id": "527232055",
             "user_image": "http://pbs.twimg.com/profile_images/1902919784/wufc-chicagofire_normal.png"
         },
         {
-            "_type": "TWEET",
-            "created_at": "2014-03-23T19:05:04+00:00",
+            "_type": "INSTAGRAM",
+            "created_at": "2015-05-25T12:09:40+00:00",
             "extraTimeNum": 23260026,
-            "id": "447811282876768256",
+            "id": 447811282876768260,
             "minuteNum": -1,
-            "name": "Chicago Fire WUFC",
-            "photo": {
-                "url": "http://pbs.twimg.com/media/Bjbx_S9IEAA9bmw.jpg",
-                "url_https": "https://pbs.twimg.com/media/Bjbx_S9IEAA9bmw.jpg"
-            },
-            "screen_name": "FireWUFC",
-            "secondNum": 11,
-            "text": "I LOVE THIS <a target=\"_blank\" href=\"//twitter.com/search?q=%23cf97\">#cf97</a> <a href=\"http://t.co/L7W298Z3dC\" target=\"_blank\">http://t.co/L7W298Z3dC</a>",
-            "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/1902919784/wufc-chicagofire_normal.png"
+            "name": "undefined",
+            "secondsNum": 0,
+            "text": "",
+            "toJSON": true
         },
         {
             "_type": "TWEET",
@@ -9546,6 +9547,7 @@
             "secondNum": 30,
             "text": "Eckersley's going to earn himself a yellow in the first half, guaranteed. <a target=\"_blank\" href=\"//twitter.com/search?q=%23cf97\">#cf97</a>",
             "toJSON": true,
+            "user_id": "890000732",
             "user_image": "http://pbs.twimg.com/profile_images/470011117935161344/y6cLdTIj_normal.jpeg"
         },
         {
@@ -9559,7 +9561,8 @@
             "secondNum": 26,
             "text": "Robles wearing a snood? <a target=\"_blank\" href=\"//twitter.com/search?q=%23RBNY\">#RBNY</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/541427368515350528/Ro92h6Pj_normal.jpeg"
+            "user_id": "34780671",
+            "user_image": "http://pbs.twimg.com/profile_images/592357961600663553/nz5P3v3M_normal.jpg"
         },
         {
             "_type": "TWEET",
@@ -9576,24 +9579,19 @@
             "secondNum": 53,
             "text": "Kickoff <a target=\"_blank\" href=\"//twitter.com/search?q=%23cf97\">#cf97</a> <a href=\"http://t.co/zNDikUAaV1\" target=\"_blank\">http://t.co/zNDikUAaV1</a>",
             "toJSON": true,
+            "user_id": "300638514",
             "user_image": "http://pbs.twimg.com/profile_images/437136032664784898/eFOOqZJu_normal.jpeg"
         },
         {
-            "_type": "TWEET",
-            "created_at": "2014-03-23T19:06:37+00:00",
+            "_type": "INSTAGRAM",
+            "created_at": "2015-05-25T12:09:40+00:00",
             "extraTimeNum": 23260027,
-            "id": "447811674410479616",
+            "id": 447811674410479600,
             "minuteNum": -1,
-            "name": "Gabe Salgado",
-            "photo": {
-                "url": "http://pbs.twimg.com/media/BjbyWEWCMAA2Xwh.jpg",
-                "url_https": "https://pbs.twimg.com/media/BjbyWEWCMAA2Xwh.jpg"
-            },
-            "screen_name": "GabeSalgado82",
-            "secondNum": 53,
-            "text": "Kickoff <a target=\"_blank\" href=\"//twitter.com/search?q=%23cf97\">#cf97</a> <a href=\"http://t.co/zNDikUAaV1\" target=\"_blank\">http://t.co/zNDikUAaV1</a>",
-            "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/437136032664784898/eFOOqZJu_normal.jpeg"
+            "name": "undefined",
+            "secondsNum": 0,
+            "text": "",
+            "toJSON": true
         },
         {
             "_type": "TWEET",
@@ -9606,6 +9604,7 @@
             "secondNum": 29,
             "text": "Game is underway at Toyota Park. Predicting a 2-0 win for <a target=\"_blank\" href=\"//twitter.com/search?q=%23RBNY\">#RBNY</a> today. Yes, you read that correctly.",
             "toJSON": true,
+            "user_id": "34677488",
             "user_image": "http://pbs.twimg.com/profile_images/558728264399605760/nG7BSUqH_normal.jpeg"
         },
         {
@@ -9623,24 +9622,19 @@
             "secondNum": 29,
             "text": "Opening Day at Toyota. <a target=\"_blank\" href=\"//twitter.com/search?q=%23cf97\">#cf97</a> <a href=\"http://t.co/YTyNT2Uxp6\" target=\"_blank\">http://t.co/YTyNT2Uxp6</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/513128875271139328/Gv-cEmwG_normal.jpeg"
+            "user_id": "63633016",
+            "user_image": "http://pbs.twimg.com/profile_images/591030520340963330/kM4Mz-1G_normal.jpg"
         },
         {
-            "_type": "TWEET",
-            "created_at": "2014-03-23T19:34:14+00:00",
+            "_type": "INSTAGRAM",
+            "created_at": "2015-05-25T12:09:40+00:00",
             "extraTimeNum": 0,
-            "id": "447818621117411328",
+            "id": 447818621117411300,
             "minuteNum": 28,
-            "name": "Brian Sandalow",
-            "photo": {
-                "url": "http://pbs.twimg.com/media/Bjb4qcLCAAAIiTx.jpg",
-                "url_https": "https://pbs.twimg.com/media/Bjb4qcLCAAAIiTx.jpg"
-            },
-            "screen_name": "BrianSandalow",
-            "secondNum": 29,
-            "text": "Opening Day at Toyota. <a target=\"_blank\" href=\"//twitter.com/search?q=%23cf97\">#cf97</a> <a href=\"http://t.co/YTyNT2Uxp6\" target=\"_blank\">http://t.co/YTyNT2Uxp6</a>",
-            "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/513128875271139328/Gv-cEmwG_normal.jpeg"
+            "name": "undefined",
+            "secondsNum": 0,
+            "text": "",
+            "toJSON": true
         },
         {
             "_type": "COMMENT",
@@ -9682,6 +9676,7 @@
             "secondNum": 21,
             "text": "Johnny Steele looking much better today. <a target=\"_blank\" href=\"//twitter.com/search?q=%23RBNY\">#RBNY</a>",
             "toJSON": true,
+            "user_id": "191202145",
             "user_image": "http://pbs.twimg.com/profile_images/523204526023507968/gOSe7f7o_normal.jpeg"
         },
         {
@@ -9695,6 +9690,7 @@
             "secondNum": 36,
             "text": "Is anyone else getting slightly seasick watching this Unimas picture? <a target=\"_blank\" href=\"//twitter.com/search?q=%23CHIvNY\">#CHIvNY</a>",
             "toJSON": true,
+            "user_id": "147036995",
             "user_image": "http://pbs.twimg.com/profile_images/506217746842271744/oVJNUoll_normal.jpeg"
         },
         {
@@ -9729,7 +9725,8 @@
             "secondNum": 14,
             "text": "<a target=\"_blank\" href=\"//twitter.com/search?q=%23RBNY\">#RBNY</a> we're going to lose because of Robles's neck thing...",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/472969259572658176/t6-KKzkA_normal.png"
+            "user_id": "287783106",
+            "user_image": "http://pbs.twimg.com/profile_images/574097696467763200/SBgSOhx__normal.png"
         },
         {
             "_type": "TWEET",
@@ -9742,6 +9739,7 @@
             "secondNum": 39,
             "text": "All of us at home playing the role of pundits can now sit back and hope Mike made the right lineup decisions. <a target=\"_blank\" href=\"//twitter.com/search?q=%23RBNY\">#RBNY</a>",
             "toJSON": true,
+            "user_id": "59816968",
             "user_image": "http://pbs.twimg.com/profile_images/528592946854375425/kpjQhR3V_normal.jpeg"
         },
         {
@@ -9781,6 +9779,7 @@
             "secondNum": 14,
             "text": "Shipp and Joya are good. And with Ward coming in now, got to wonder if Nyarko or Duka are available via trade. More moves for the Fire IMHO.",
             "toJSON": true,
+            "user_id": "195100261",
             "user_image": "http://pbs.twimg.com/profile_images/1360308112/armchair_analyst_logo_normal.jpg"
         },
         {
@@ -9836,7 +9835,8 @@
             "secondNum": 7,
             "text": "Highlight: Jeff Larentowicz's header range knows no bounds. Watch --&gt; <a href=\"http://t.co/bZppgoyLsL\" target=\"_blank\">http://t.co/bZppgoyLsL</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23CHIvNY\">#CHIvNY</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/550589473767976961/OTnslq_m_normal.png"
+            "user_id": "107146095",
+            "user_image": "http://pbs.twimg.com/profile_images/593636874301808640/2-2VpXxW_normal.jpg"
         },
         {
             "_type": "TWEET",
@@ -9849,6 +9849,7 @@
             "secondNum": 12,
             "text": "Really not digging <a target=\"_blank\" href=\"//twitter.com/@benjijoya54\">@benjijoya54</a> play today <a target=\"_blank\" href=\"//twitter.com/search?q=%23cf97\">#cf97</a> too many opportunities wasted. Looks like bad Pappa.",
             "toJSON": true,
+            "user_id": "28099935",
             "user_image": "http://pbs.twimg.com/profile_images/497483239028961281/XCWi6FvO_normal.jpeg"
         },
         {
@@ -9862,6 +9863,7 @@
             "secondNum": 31,
             "text": "Just don't think that \"professional foul\" is necessary <a target=\"_blank\" href=\"//twitter.com/search?q=%23RBNY\">#RBNY</a>",
             "toJSON": true,
+            "user_id": "63280150",
             "user_image": "http://pbs.twimg.com/profile_images/555431773/silly_bird_normal.jpg"
         },
         {
@@ -9879,24 +9881,19 @@
             "secondNum": 59,
             "text": "Old man Henry. <a target=\"_blank\" href=\"//twitter.com/search?q=%23cf97\">#cf97</a> still cant get the ball off him <a href=\"http://t.co/ARPONeAQRV\" target=\"_blank\">http://t.co/ARPONeAQRV</a>",
             "toJSON": true,
+            "user_id": "73928891",
             "user_image": "http://pbs.twimg.com/profile_images/508990686029287424/0Nt8nXfk_normal.jpeg"
         },
         {
-            "_type": "TWEET",
-            "created_at": "2014-03-23T19:37:43+00:00",
+            "_type": "INSTAGRAM",
+            "created_at": "2015-05-25T12:09:40+00:00",
             "extraTimeNum": 0,
-            "id": "447819499719258112",
+            "id": 447819499719258100,
             "minuteNum": 31,
-            "name": "Mriemen",
-            "photo": {
-                "url": "http://pbs.twimg.com/media/Bjb5dlNCcAA1xgA.jpg",
-                "url_https": "https://pbs.twimg.com/media/Bjb5dlNCcAA1xgA.jpg"
-            },
-            "screen_name": "MRiemen",
-            "secondNum": 59,
-            "text": "Old man Henry. <a target=\"_blank\" href=\"//twitter.com/search?q=%23cf97\">#cf97</a> still cant get the ball off him <a href=\"http://t.co/ARPONeAQRV\" target=\"_blank\">http://t.co/ARPONeAQRV</a>",
-            "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/508990686029287424/0Nt8nXfk_normal.jpeg"
+            "name": "undefined",
+            "secondsNum": 0,
+            "text": "",
+            "toJSON": true
         },
         {
             "_type": "TWEET",
@@ -9909,6 +9906,7 @@
             "secondNum": 36,
             "text": "<a target=\"_blank\" href=\"//twitter.com/search?q=%23RBNY\">#RBNY</a> definitely has found some holes on the left flank of <a target=\"_blank\" href=\"//twitter.com/@ChicagoFire\">@ChicagoFire</a>",
             "toJSON": true,
+            "user_id": "91360498",
             "user_image": "http://pbs.twimg.com/profile_images/1197213151/michaelLewisa_normal.jpg"
         },
         {
@@ -9964,6 +9962,7 @@
             "secondNum": 21,
             "text": "For the first time this season <a target=\"_blank\" href=\"//twitter.com/search?q=%23RBNY\">#RBNY</a> looking like they did last year. Good midfield play, crisp passing.",
             "toJSON": true,
+            "user_id": "1071578484",
             "user_image": "http://pbs.twimg.com/profile_images/3083081618/e52dddfebb0ad8a7cd6ca114b4f19b9f_normal.png"
         },
         {
@@ -9977,7 +9976,8 @@
             "secondNum": 31,
             "text": ".<a target=\"_blank\" href=\"//twitter.com/@Section8Chicago\">@Section8Chicago</a>'s rendition of \"tequila\" warms my heart just like a fine shot of Patron. <a target=\"_blank\" href=\"//twitter.com/search?q=%23cf97\">#cf97</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/559430015788408832/uYGWqFRE_normal.jpeg"
+            "user_id": "158698304",
+            "user_image": "http://pbs.twimg.com/profile_images/594212391828721665/KP7ohk-Z_normal.jpg"
         },
         {
             "_type": "COMMENT",
@@ -10019,7 +10019,8 @@
             "secondNum": 1,
             "text": "<a target=\"_blank\" href=\"//twitter.com/search?q=%23cf97\">#cf97</a> didn't seem too concerned with the possession discrepancy on the road. Well, they're at home and have had it just 40.4 percent.",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/513128875271139328/Gv-cEmwG_normal.jpeg"
+            "user_id": "63633016",
+            "user_image": "http://pbs.twimg.com/profile_images/591030520340963330/kM4Mz-1G_normal.jpg"
         },
         {
             "_type": "COMMENT",
@@ -10065,24 +10066,19 @@
             "secondNum": 21,
             "text": "Killer seats at <a target=\"_blank\" href=\"//twitter.com/search?q=%23cf97\">#cf97</a> opening day! <a href=\"http://t.co/6NXmBQlos6\" target=\"_blank\">http://t.co/6NXmBQlos6</a>",
             "toJSON": true,
+            "user_id": "294935677",
             "user_image": "http://pbs.twimg.com/profile_images/412080722350854144/MCVlZ8tl_normal.jpeg"
         },
         {
-            "_type": "TWEET",
-            "created_at": "2014-03-23T19:42:09+00:00",
+            "_type": "INSTAGRAM",
+            "created_at": "2015-05-25T12:09:40+00:00",
             "extraTimeNum": 0,
-            "id": "447820613596762112",
+            "id": 447820613596762100,
             "minuteNum": 36,
-            "name": "Annie Wu",
-            "photo": {
-                "url": "http://pbs.twimg.com/media/Bjb6eaaIEAALDG3.jpg",
-                "url_https": "https://pbs.twimg.com/media/Bjb6eaaIEAALDG3.jpg"
-            },
-            "screen_name": "anniewuuu",
-            "secondNum": 21,
-            "text": "Killer seats at <a target=\"_blank\" href=\"//twitter.com/search?q=%23cf97\">#cf97</a> opening day! <a href=\"http://t.co/6NXmBQlos6\" target=\"_blank\">http://t.co/6NXmBQlos6</a>",
-            "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/412080722350854144/MCVlZ8tl_normal.jpeg"
+            "name": "undefined",
+            "secondsNum": 0,
+            "text": "",
+            "toJSON": true
         },
         {
             "_type": "COMMENT",
@@ -10137,6 +10133,7 @@
             "secondNum": 51,
             "text": "I've seen high school players who can finish better than us, all these great deliveries are going to waste <a target=\"_blank\" href=\"//twitter.com/search?q=%23cf97\">#cf97</a>",
             "toJSON": true,
+            "user_id": "571310893",
             "user_image": "http://pbs.twimg.com/profile_images/515659772477972480/Sh9fk1EP_normal.jpeg"
         },
         {
@@ -10145,11 +10142,12 @@
             "extraTimeNum": 0,
             "id": "447820808388636673",
             "minuteNum": 37,
-            "name": "Orri \u00ddrar Sm\u00e1rason",
+            "name": "Orri \u00c3\u009drar Sm\u00c3\u00a1rason",
             "screen_name": "orriyrar",
             "secondNum": 27,
             "text": "Did our back four all meet each for the first time this morning? <a target=\"_blank\" href=\"//twitter.com/search?q=%23CHIvNY\">#CHIvNY</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23RBNY\">#RBNY</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23MetroStars\">#MetroStars</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23MLS\">#MLS</a>",
             "toJSON": true,
+            "user_id": "22598239",
             "user_image": "http://pbs.twimg.com/profile_images/1795416953/fcbpic_normal.jpg"
         },
         {
@@ -10192,6 +10190,7 @@
             "secondNum": 25,
             "text": "Good seeing <a target=\"_blank\" href=\"//twitter.com/@BakySoumare\">@BakySoumare</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23DoWork\">#DoWork</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23CF97\">#CF97</a> <a href=\"http://t.co/yJKlaCpD6n\" target=\"_blank\">http://t.co/yJKlaCpD6n</a>",
             "toJSON": true,
+            "user_id": "40230535",
             "user_image": "http://pbs.twimg.com/profile_images/483111244497301504/griKNFqr_normal.jpeg"
         },
         {
@@ -10205,6 +10204,7 @@
             "secondNum": 54,
             "text": "Hurry someone tell Larentowitz it's legal for him to pass the ball to someone on the Fire <a target=\"_blank\" href=\"//twitter.com/search?q=%23cf97\">#cf97</a>",
             "toJSON": true,
+            "user_id": "141685696",
             "user_image": "http://pbs.twimg.com/profile_images/378800000867503618/AFksXjwu_normal.jpeg"
         },
         {
@@ -10218,6 +10218,7 @@
             "secondNum": 54,
             "text": "Henry is playing super deep. This is like a 4-6-0. <a target=\"_blank\" href=\"//twitter.com/search?q=%23rbny\">#rbny</a>",
             "toJSON": true,
+            "user_id": "46243792",
             "user_image": "http://pbs.twimg.com/profile_images/552254069235253249/Khi1UK1v_normal.jpeg"
         },
         {
@@ -10226,7 +10227,7 @@
             "extraTimeNum": 0,
             "id": "447821290666070017",
             "minuteNum": 39,
-            "name": "AshleyAri\u00e1neVasquez",
+            "name": "AshleyAri\u00c3\u00a1neVasquez",
             "photo": {
                 "url": "http://pbs.twimg.com/media/Bjb7F0yCIAAsH51.jpg",
                 "url_https": "https://pbs.twimg.com/media/Bjb7F0yCIAAsH51.jpg"
@@ -10235,24 +10236,19 @@
             "secondNum": 9,
             "text": "Vamos la m\u00e1quina roja! <a target=\"_blank\" href=\"//twitter.com/search?q=%23cf97\">#cf97</a> <a href=\"http://t.co/lC6QGisLMK\" target=\"_blank\">http://t.co/lC6QGisLMK</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/492694518181793794/cxdjUvAO_normal.jpeg"
+            "user_id": "366363573",
+            "user_image": "http://pbs.twimg.com/profile_images/531175301812727808/lgDwdCMF_normal.jpeg"
         },
         {
-            "_type": "TWEET",
-            "created_at": "2014-03-23T19:44:50+00:00",
+            "_type": "INSTAGRAM",
+            "created_at": "2015-05-25T12:09:40+00:00",
             "extraTimeNum": 0,
-            "id": "447821290666070017",
+            "id": 447821290666070000,
             "minuteNum": 39,
-            "name": "AshleyAri\u00e1neVasquez",
-            "photo": {
-                "url": "http://pbs.twimg.com/media/Bjb7F0yCIAAsH51.jpg",
-                "url_https": "https://pbs.twimg.com/media/Bjb7F0yCIAAsH51.jpg"
-            },
-            "screen_name": "ashleyariane",
-            "secondNum": 9,
-            "text": "Vamos la m\u00e1quina roja! <a target=\"_blank\" href=\"//twitter.com/search?q=%23cf97\">#cf97</a> <a href=\"http://t.co/lC6QGisLMK\" target=\"_blank\">http://t.co/lC6QGisLMK</a>",
-            "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/492694518181793794/cxdjUvAO_normal.jpeg"
+            "name": "undefined",
+            "secondsNum": 0,
+            "text": "",
+            "toJSON": true
         },
         {
             "_type": "TWEET",
@@ -10265,6 +10261,7 @@
             "secondNum": 56,
             "text": "If Lloyd Sam scored a header goal, the world would have ended. <a target=\"_blank\" href=\"//twitter.com/search?q=%23RBNY\">#RBNY</a>",
             "toJSON": true,
+            "user_id": "73526595",
             "user_image": "http://pbs.twimg.com/profile_images/3269480228/4ac6045f56f79224d1c48c8ed70933ea_normal.jpeg"
         },
         {
@@ -10307,7 +10304,8 @@
             "secondNum": 16,
             "text": "Thierry Henry is the definition of a box to box striker <a target=\"_blank\" href=\"//twitter.com/search?q=%23RBNY\">#RBNY</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/560559132193722368/mMqnNGl0_normal.jpeg"
+            "user_id": "163942427",
+            "user_image": "http://pbs.twimg.com/profile_images/590633392812781569/yHZiKS3b_normal.jpg"
         },
         {
             "_type": "COMMENT",
@@ -10395,6 +10393,7 @@
             "secondNum": 40,
             "text": "Toronto, Houston, and Columbus all look really good. If we want the playoffs we need to win games like this. <a target=\"_blank\" href=\"//twitter.com/search?q=%23rbny\">#rbny</a>",
             "toJSON": true,
+            "user_id": "46243792",
             "user_image": "http://pbs.twimg.com/profile_images/552254069235253249/Khi1UK1v_normal.jpeg"
         },
         {
@@ -10408,6 +10407,7 @@
             "secondNum": 50,
             "text": "<a target=\"_blank\" href=\"//twitter.com/@ChicagoFire\">@ChicagoFire</a> <a target=\"_blank\" href=\"//twitter.com/@Section8Chicago\">@Section8Chicago</a> Can someone get me the number to Joya's hairdresser? <a target=\"_blank\" href=\"//twitter.com/search?q=%23cf97\">#cf97</a>",
             "toJSON": true,
+            "user_id": "126428289",
             "user_image": "http://pbs.twimg.com/profile_images/488130101482385408/8eabBzhB_normal.jpeg"
         },
         {
@@ -10450,6 +10450,7 @@
             "secondNum": 14,
             "text": "I'm an Alexander guy but that's two awful outlets on counters now. <a target=\"_blank\" href=\"//twitter.com/search?q=%23RBNY\">#RBNY</a>",
             "toJSON": true,
+            "user_id": "22497594",
             "user_image": "http://pbs.twimg.com/profile_images/3714253532/01c1f2de89f59ab4df36a35608f9dc02_normal.jpeg"
         },
         {
@@ -10463,6 +10464,7 @@
             "secondNum": 31,
             "text": "Alexander wide open in the midfield, gets the ball, marauds forward, passes out wide to Sam, attack breaks down, rinse, repeat. <a target=\"_blank\" href=\"//twitter.com/search?q=%23RBNY\">#RBNY</a>",
             "toJSON": true,
+            "user_id": "39409523",
             "user_image": "http://pbs.twimg.com/profile_images/209531532/scarf_normal.JPG"
         },
         {
@@ -10476,6 +10478,7 @@
             "secondNum": 60,
             "text": "<a target=\"_blank\" href=\"//twitter.com/search?q=%23NYRB\">#NYRB</a> seem like the Greg Maddux of MLS. Not much speed in Cahill/Henry/McCarty, but they know where to put the ball. <a target=\"_blank\" href=\"//twitter.com/search?q=%23cf97\">#cf97</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23CHIvNYRB\">#CHIvNYRB</a>",
             "toJSON": true,
+            "user_id": "890000732",
             "user_image": "http://pbs.twimg.com/profile_images/470011117935161344/y6cLdTIj_normal.jpeg"
         },
         {
@@ -10531,7 +10534,8 @@
             "secondNum": 21,
             "text": "Highlight: Dax McCarty in the right place at the right time to clean up and equalize for <a target=\"_blank\" href=\"//twitter.com/@NewYorkRedBulls\">@NewYorkRedBulls</a>. <a href=\"http://t.co/4VZyxbKlSi\" target=\"_blank\">http://t.co/4VZyxbKlSi</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23CHIvNY\">#CHIvNY</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/550589473767976961/OTnslq_m_normal.png"
+            "user_id": "107146095",
+            "user_image": "http://pbs.twimg.com/profile_images/593636874301808640/2-2VpXxW_normal.jpg"
         },
         {
             "_type": "TWEET",
@@ -10544,7 +10548,8 @@
             "secondNum": 24,
             "text": "Joya, Shipp and Amarikwa really the ones driving things for <a target=\"_blank\" href=\"//twitter.com/search?q=%23cf97\">#cf97</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/513128875271139328/Gv-cEmwG_normal.jpeg"
+            "user_id": "63633016",
+            "user_image": "http://pbs.twimg.com/profile_images/591030520340963330/kM4Mz-1G_normal.jpg"
         },
         {
             "_type": "TWEET",
@@ -10557,7 +10562,8 @@
             "secondNum": 0,
             "text": "<a target=\"_blank\" href=\"//twitter.com/search?q=%23CF97\">#CF97</a> have a serious problem keeping the ball on the floor. Seems like they get to easily frustrated and go for the homerun. <a target=\"_blank\" href=\"//twitter.com/search?q=%23notgoodenough\">#notgoodenough</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/571439690978471937/RmTbcROx_normal.jpeg"
+            "user_id": "421512683",
+            "user_image": "http://pbs.twimg.com/profile_images/583025026762444800/XfkDJgRW_normal.jpg"
         },
         {
             "_type": "COMMENT",
@@ -10582,6 +10588,7 @@
             "secondNum": 0,
             "text": "Patience <a target=\"_blank\" href=\"//twitter.com/search?q=%23cf97\">#cf97</a> - keep it on the ground.  make the passes.",
             "toJSON": true,
+            "user_id": "2166781556",
             "user_image": "http://pbs.twimg.com/profile_images/378800000674131986/2bae791add3b8eb1b7d8bc536a60d637_normal.jpeg"
         },
         {
@@ -10595,6 +10602,7 @@
             "secondNum": 0,
             "text": "Perhaps we shall see Mr. Luyindula to open the second half. <a target=\"_blank\" href=\"//twitter.com/search?q=%23RBNY\">#RBNY</a>",
             "toJSON": true,
+            "user_id": "46200772",
             "user_image": "http://pbs.twimg.com/profile_images/547084845/Publicity3_normal.jpg"
         },
         {
@@ -10608,7 +10616,8 @@
             "secondNum": 0,
             "text": "Think that's the best I've seen of Chicago this season, 2nd half let's get the win! <a target=\"_blank\" href=\"//twitter.com/search?q=%23cf97\">#cf97</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/517331706806665217/mGTh5FY0_normal.jpeg"
+            "user_id": "416709997",
+            "user_image": "http://pbs.twimg.com/profile_images/599502538694598656/dn7nXIkZ_normal.jpg"
         },
         {
             "_type": "TWEET",
@@ -10621,6 +10630,7 @@
             "secondNum": 0,
             "text": "We looked dangerous-drifted in &amp; out in the 1st half. We'll take this game if we keep up the pace. Alexander seems nervous-cold? <a target=\"_blank\" href=\"//twitter.com/search?q=%23RBNY\">#RBNY</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23MLS\">#MLS</a>",
             "toJSON": true,
+            "user_id": "177817167",
             "user_image": "http://pbs.twimg.com/profile_images/540933191792885762/k-Y_qXYp_normal.jpeg"
         },
         {
@@ -10634,7 +10644,8 @@
             "secondNum": 0,
             "text": "Highlight: Luis Robles put his name in the running for <a target=\"_blank\" href=\"//twitter.com/search?q=%23SOTW\">#SOTW</a>. Top tip --&gt; <a href=\"http://t.co/A30cB4iyaO\" target=\"_blank\">http://t.co/A30cB4iyaO</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23CHIvNY\">#CHIvNY</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/550589473767976961/OTnslq_m_normal.png"
+            "user_id": "107146095",
+            "user_image": "http://pbs.twimg.com/profile_images/593636874301808640/2-2VpXxW_normal.jpg"
         },
         {
             "_type": "TWEET",
@@ -10647,6 +10658,7 @@
             "secondNum": 0,
             "text": "Why did Eric Alexander stop running on that play! We should be up 2-1 right now. Oh well lets go bull! <a target=\"_blank\" href=\"//twitter.com/search?q=%23RBNY\">#RBNY</a>",
             "toJSON": true,
+            "user_id": "557890672",
             "user_image": "http://pbs.twimg.com/profile_images/492522308809277441/Kou_lfYo_normal.jpeg"
         },
         {
@@ -10660,6 +10672,7 @@
             "secondNum": 0,
             "text": "BWP for Alexander. Move Cahill back next to Dax. <a target=\"_blank\" href=\"//twitter.com/search?q=%23RBNY\">#RBNY</a>",
             "toJSON": true,
+            "user_id": "30619961",
             "user_image": "http://pbs.twimg.com/profile_images/983094966/393e8890-fbba-449b-a1c2-a6894d4dfa6f_normal.png"
         },
         {
@@ -10673,7 +10686,8 @@
             "secondNum": 0,
             "text": "What Clasico? I'm busy with <a target=\"_blank\" href=\"//twitter.com/search?q=%23RBNY\">#RBNY</a> v Chicago!",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/555758705955049473/3961XeFk_normal.jpeg"
+            "user_id": "21465347",
+            "user_image": "http://pbs.twimg.com/profile_images/583978028834889728/3jxOJ1io_normal.jpg"
         },
         {
             "_type": "TWEET",
@@ -10686,6 +10700,7 @@
             "secondNum": 0,
             "text": "<a target=\"_blank\" href=\"//twitter.com/search?q=%23RBNY\">#RBNY</a>   WOW!  Red Bulls had 68% possession in the first half? Shocking !",
             "toJSON": true,
+            "user_id": "41433607",
             "user_image": "http://pbs.twimg.com/profile_images/2808724213/74d7e5d8e0e53d3a3f87cbdd3a937433_normal.jpeg"
         },
         {
@@ -10699,7 +10714,8 @@
             "secondNum": 0,
             "text": "We're off again here at Toyota Park. No changes for either side at the half. <a target=\"_blank\" href=\"//twitter.com/search?q=%23CHIvNY\">#CHIvNY</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23RBNY\">#RBNY</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23CF97\">#CF97</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/540191538362331137/ZWmjCcXu_normal.jpeg"
+            "user_id": "27092557",
+            "user_image": "http://pbs.twimg.com/profile_images/598156578542514176/sRPONd4W_normal.jpg"
         },
         {
             "_type": "COMMENT",
@@ -10748,7 +10764,8 @@
             "secondNum": 60,
             "text": "Iniesta to <a target=\"_blank\" href=\"//twitter.com/search?q=%23RBNY\">#RBNY</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/3723438851/a7c5960b9d365f3b32f07fa3cee70c33_normal.jpeg"
+            "user_id": "545294568",
+            "user_image": "http://pbs.twimg.com/profile_images/597777327909511168/tgwzwbQx_normal.jpg"
         },
         {
             "_type": "COMMENT",
@@ -10812,6 +10829,7 @@
             "secondNum": 42,
             "text": "What a save by Robles! <a target=\"_blank\" href=\"//twitter.com/search?q=%23RBNY\">#RBNY</a>",
             "toJSON": true,
+            "user_id": "348574188",
             "user_image": "http://pbs.twimg.com/profile_images/496487308762574848/4nffT97I_normal.jpeg"
         },
         {
@@ -10849,6 +10867,7 @@
             "secondNum": 1,
             "text": "Alex and Amerikwa on the 1-2, It lookes good. <a target=\"_blank\" href=\"//twitter.com/search?q=%23cf97\">#cf97</a>",
             "toJSON": true,
+            "user_id": "71845416",
             "user_image": "http://pbs.twimg.com/profile_images/512778644821790720/HrTWpvVN_normal.png"
         },
         {
@@ -10862,6 +10881,7 @@
             "secondNum": 19,
             "text": "Bover, BWP and Peguy available to amp things up in final 30 minutes <a target=\"_blank\" href=\"//twitter.com/search?q=%23RBNY\">#RBNY</a>",
             "toJSON": true,
+            "user_id": "63280150",
             "user_image": "http://pbs.twimg.com/profile_images/555431773/silly_bird_normal.jpg"
         },
         {
@@ -10917,7 +10937,8 @@
             "secondNum": 55,
             "text": "Robles is just unbelievable. World class saves <a target=\"_blank\" href=\"//twitter.com/search?q=%23RBNY\">#RBNY</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23NewYorkRedBulls\">#NewYorkRedBulls</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23RunWithUs\">#RunWithUs</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/530606766850342913/3s9YK018_normal.jpeg"
+            "user_id": "868745394",
+            "user_image": "http://pbs.twimg.com/profile_images/587101051112792065/LEGCMLBZ_normal.jpg"
         },
         {
             "_type": "COMMENT",
@@ -11028,6 +11049,7 @@
             "secondNum": 9,
             "text": "Great buildup from Cahill-Steele... shoulda been a goal <a target=\"_blank\" href=\"//twitter.com/search?q=%23RBNY\">#RBNY</a>",
             "toJSON": true,
+            "user_id": "251739102",
             "user_image": "http://pbs.twimg.com/profile_images/563076972587515906/f30aQFjT_normal.jpeg"
         },
         {
@@ -11041,6 +11063,7 @@
             "secondNum": 13,
             "text": "Everyone around the <a target=\"_blank\" href=\"//twitter.com/search?q=%23MLS\">#MLS</a> better get used to Harrison Shipp crosses and corners right now. <a target=\"_blank\" href=\"//twitter.com/search?q=%23cf97\">#cf97</a>",
             "toJSON": true,
+            "user_id": "21825627",
             "user_image": "http://pbs.twimg.com/profile_images/2533354389/y6t102o64umc875xizyf_normal.jpeg"
         },
         {
@@ -11096,7 +11119,8 @@
             "secondNum": 21,
             "text": "Petke's new rule: everyone on the team has to touch the ball before you can shoot <a target=\"_blank\" href=\"//twitter.com/search?q=%23RBNY\">#RBNY</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/560559132193722368/mMqnNGl0_normal.jpeg"
+            "user_id": "163942427",
+            "user_image": "http://pbs.twimg.com/profile_images/590633392812781569/yHZiKS3b_normal.jpg"
         },
         {
             "_type": "TWEET",
@@ -11109,6 +11133,7 @@
             "secondNum": 8,
             "text": "Anyone wanna take a shot? No? <a target=\"_blank\" href=\"//twitter.com/search?q=%23RBNY\">#RBNY</a>",
             "toJSON": true,
+            "user_id": "251739102",
             "user_image": "http://pbs.twimg.com/profile_images/563076972587515906/f30aQFjT_normal.jpeg"
         },
         {
@@ -11146,11 +11171,12 @@
             "extraTimeNum": 0,
             "id": "447829452249399296",
             "minuteNum": 53,
-            "name": "Brian E. Long\u2b50",
+            "name": "Brian E. Long\u00e2\u00ad\u0090",
             "screen_name": "BrianELong",
             "secondNum": 60,
             "text": "Ha ha, that shot was a touch wide, Joya! <a target=\"_blank\" href=\"//twitter.com/search?q=%23RBNY\">#RBNY</a>",
             "toJSON": true,
+            "user_id": "23729800",
             "user_image": "http://pbs.twimg.com/profile_images/477113656929697792/GzmeuhJ3_normal.jpeg"
         },
         {
@@ -11164,6 +11190,7 @@
             "secondNum": 8,
             "text": "Eckersley is an obvious liability. <a target=\"_blank\" href=\"//twitter.com/search?q=%23rbny\">#rbny</a>",
             "toJSON": true,
+            "user_id": "9351762",
             "user_image": "http://pbs.twimg.com/profile_images/476487597854687232/gRGVNo-O_normal.jpeg"
         },
         {
@@ -11177,6 +11204,7 @@
             "secondNum": 3,
             "text": "Can someone tell the <a target=\"_blank\" href=\"//twitter.com/search?q=%23NYRB\">#NYRB</a> that possession and cute passing does mean squat if they don't score <a target=\"_blank\" href=\"//twitter.com/search?q=%23NYRB\">#NYRB</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23CHIvNY\">#CHIvNY</a>",
             "toJSON": true,
+            "user_id": "82364361",
             "user_image": "http://pbs.twimg.com/profile_images/1775992348/Redbull_2011_006_normal.jpg"
         },
         {
@@ -11190,6 +11218,7 @@
             "secondNum": 40,
             "text": "It seems odd,because most of these forwards and midfielders have played with each other last year,but timing is an issue this year. <a target=\"_blank\" href=\"//twitter.com/search?q=%23RBNY\">#RBNY</a>",
             "toJSON": true,
+            "user_id": "67221888",
             "user_image": "http://pbs.twimg.com/profile_images/371682449/OCicon_normal.jpg"
         },
         {
@@ -11203,6 +11232,7 @@
             "secondNum": 29,
             "text": "This game needs a dose of Peggy at CAM. <a target=\"_blank\" href=\"//twitter.com/search?q=%23RBNY\">#RBNY</a>",
             "toJSON": true,
+            "user_id": "20482893",
             "user_image": "http://pbs.twimg.com/profile_images/2148574589/image_normal.jpg"
         },
         {
@@ -11211,11 +11241,12 @@
             "extraTimeNum": 0,
             "id": "447830107391270912",
             "minuteNum": 56,
-            "name": "Brian E. Long\u2b50",
+            "name": "Brian E. Long\u00e2\u00ad\u0090",
             "screen_name": "BrianELong",
             "secondNum": 41,
             "text": "Meara in for Eckersley would be an improvement.  <a target=\"_blank\" href=\"//twitter.com/search?q=%23RBNY\">#RBNY</a>",
             "toJSON": true,
+            "user_id": "23729800",
             "user_image": "http://pbs.twimg.com/profile_images/477113656929697792/GzmeuhJ3_normal.jpeg"
         },
         {
@@ -11224,7 +11255,7 @@
             "extraTimeNum": 0,
             "id": "447830246122082305",
             "minuteNum": 57,
-            "name": "#SaulCenter\u26be\ufe0f",
+            "name": "#SaulCenter\u00e2\u009a\u00be\u00ef\u00b8\u008f",
             "photo": {
                 "url": "http://pbs.twimg.com/media/BjcDPGgIUAAgTnw.jpg",
                 "url_https": "https://pbs.twimg.com/media/BjcDPGgIUAAgTnw.jpg"
@@ -11233,24 +11264,19 @@
             "secondNum": 11,
             "text": "<a target=\"_blank\" href=\"//twitter.com/@ChicagoFire\">@ChicagoFire</a> hosting <a target=\"_blank\" href=\"//twitter.com/@NewYorkRedBulls\">@NewYorkRedBulls</a> ! With <a target=\"_blank\" href=\"//twitter.com/@ivailo_17\">@ivailo_17</a> Guri and Carlos ! <a target=\"_blank\" href=\"//twitter.com/search?q=%23cf97\">#cf97</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23CHIvNY\">#CHIvNY</a> <a href=\"http://t.co/FRs54HE9V8\" target=\"_blank\">http://t.co/FRs54HE9V8</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/500387404713586690/BalCktMT_normal.jpeg"
+            "user_id": "518860940",
+            "user_image": "http://pbs.twimg.com/profile_images/577351227169636352/SVuG19z__normal.jpg"
         },
         {
-            "_type": "TWEET",
-            "created_at": "2014-03-23T20:20:25+00:00",
+            "_type": "INSTAGRAM",
+            "created_at": "2015-05-25T12:09:40+00:00",
             "extraTimeNum": 0,
-            "id": "447830246122082305",
+            "id": 447830246122082300,
             "minuteNum": 57,
-            "name": "#SaulCenter\u26be\ufe0f",
-            "photo": {
-                "url": "http://pbs.twimg.com/media/BjcDPGgIUAAgTnw.jpg",
-                "url_https": "https://pbs.twimg.com/media/BjcDPGgIUAAgTnw.jpg"
-            },
-            "screen_name": "saul_r26",
-            "secondNum": 11,
-            "text": "<a target=\"_blank\" href=\"//twitter.com/@ChicagoFire\">@ChicagoFire</a> hosting <a target=\"_blank\" href=\"//twitter.com/@NewYorkRedBulls\">@NewYorkRedBulls</a> ! With <a target=\"_blank\" href=\"//twitter.com/@ivailo_17\">@ivailo_17</a> Guri and Carlos ! <a target=\"_blank\" href=\"//twitter.com/search?q=%23cf97\">#cf97</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23CHIvNY\">#CHIvNY</a> <a href=\"http://t.co/FRs54HE9V8\" target=\"_blank\">http://t.co/FRs54HE9V8</a>",
-            "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/500387404713586690/BalCktMT_normal.jpeg"
+            "name": "undefined",
+            "secondsNum": 0,
+            "text": "",
+            "toJSON": true
         },
         {
             "_type": "TWEET",
@@ -11263,6 +11289,7 @@
             "secondNum": 26,
             "text": "Alex is playing like <a target=\"_blank\" href=\"//twitter.com/search?q=%23cf97\">#cf97</a> mvp right now. Tracks back to recover, often leads breaks, composed when under pressure with great vision.",
             "toJSON": true,
+            "user_id": "24453026",
             "user_image": "http://pbs.twimg.com/profile_images/520830237404184576/etZ9poP__normal.jpeg"
         },
         {
@@ -11339,6 +11366,7 @@
             "secondNum": 16,
             "text": "<a target=\"_blank\" href=\"//twitter.com/search?q=%23cf97\">#cf97</a> lookin real good today. And with a lot of young players too.",
             "toJSON": true,
+            "user_id": "68319026",
             "user_image": "http://pbs.twimg.com/profile_images/514990703361798144/Thk2_TWa_normal.png"
         },
         {
@@ -11352,6 +11380,7 @@
             "secondNum": 22,
             "text": "Alexander must be a the worlds greatest practice player. It's the only way I see how he starts all the time. <a target=\"_blank\" href=\"//twitter.com/search?q=%23RBNY\">#RBNY</a>",
             "toJSON": true,
+            "user_id": "20482893",
             "user_image": "http://pbs.twimg.com/profile_images/2148574589/image_normal.jpg"
         },
         {
@@ -11438,6 +11467,7 @@
             "secondNum": 10,
             "text": "Steele is looking to get back into the XI full-time. He looks like a man possessed. <a target=\"_blank\" href=\"//twitter.com/search?q=%23RBNY\">#RBNY</a>",
             "toJSON": true,
+            "user_id": "348574188",
             "user_image": "http://pbs.twimg.com/profile_images/496487308762574848/4nffT97I_normal.jpeg"
         },
         {
@@ -11451,6 +11481,7 @@
             "secondNum": 50,
             "text": "6'- <a target=\"_blank\" href=\"//twitter.com/search?q=%23cf97\">#cf97</a> with 2 successive corners. 2nd one headed home by Larentowicz. Shipp delivers a stellar set piece, kids.",
             "toJSON": true,
+            "user_id": "890000732",
             "user_image": "http://pbs.twimg.com/profile_images/470011117935161344/y6cLdTIj_normal.jpeg"
         },
         {
@@ -11464,6 +11495,7 @@
             "secondNum": 59,
             "text": "As always, set piece defending. <a target=\"_blank\" href=\"//twitter.com/search?q=%23RBNY\">#RBNY</a>",
             "toJSON": true,
+            "user_id": "104482747",
             "user_image": "http://pbs.twimg.com/profile_images/3034469780/3c3d33a03da92e0fabe44e528a4a906c_normal.jpeg"
         },
         {
@@ -11477,6 +11509,7 @@
             "secondNum": 4,
             "text": "WOW <a target=\"_blank\" href=\"//twitter.com/@QuincyAmarikwa\">@QuincyAmarikwa</a> with that stolen pass <a target=\"_blank\" href=\"//twitter.com/search?q=%23cf97\">#cf97</a>",
             "toJSON": true,
+            "user_id": "28099935",
             "user_image": "http://pbs.twimg.com/profile_images/497483239028961281/XCWi6FvO_normal.jpeg"
         },
         {
@@ -11490,6 +11523,7 @@
             "secondNum": 50,
             "text": "Shipp and Joya continually switching flanks. Could work to <a target=\"_blank\" href=\"//twitter.com/search?q=%23cf97\">#cf97</a>'s advantage.",
             "toJSON": true,
+            "user_id": "890000732",
             "user_image": "http://pbs.twimg.com/profile_images/470011117935161344/y6cLdTIj_normal.jpeg"
         },
         {
@@ -11503,7 +11537,8 @@
             "secondNum": 7,
             "text": "As for Mike Magee today... not much. <a target=\"_blank\" href=\"//twitter.com/search?q=%23cf97\">#cf97</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/513128875271139328/Gv-cEmwG_normal.jpeg"
+            "user_id": "63633016",
+            "user_image": "http://pbs.twimg.com/profile_images/591030520340963330/kM4Mz-1G_normal.jpg"
         },
         {
             "_type": "TWEET",
@@ -11516,6 +11551,7 @@
             "secondNum": 31,
             "text": "And there goes Bakey's man parts. Ouch. <a target=\"_blank\" href=\"//twitter.com/search?q=%23cf97\">#cf97</a>",
             "toJSON": true,
+            "user_id": "71845416",
             "user_image": "http://pbs.twimg.com/profile_images/512778644821790720/HrTWpvVN_normal.png"
         },
         {
@@ -11529,7 +11565,8 @@
             "secondNum": 5,
             "text": "I think we're lucky those two don't know how to work together up front <a target=\"_blank\" href=\"//twitter.com/@magee9\">@magee9</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23RBNY\">#RBNY</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/442339095209967616/3ITDYNVb_normal.jpeg"
+            "user_id": "1090037660",
+            "user_image": "http://pbs.twimg.com/profile_images/554330676309532672/ys5mPm8p_normal.jpeg"
         },
         {
             "_type": "TWEET",
@@ -11542,7 +11579,8 @@
             "secondNum": 2,
             "text": "Anangono about to come on. <a target=\"_blank\" href=\"//twitter.com/search?q=%23cf97\">#cf97</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/513128875271139328/Gv-cEmwG_normal.jpeg"
+            "user_id": "63633016",
+            "user_image": "http://pbs.twimg.com/profile_images/591030520340963330/kM4Mz-1G_normal.jpg"
         },
         {
             "_type": "TWEET",
@@ -11555,6 +11593,7 @@
             "secondNum": 43,
             "text": "Anangono coming on to provide size and hold up play. <a target=\"_blank\" href=\"//twitter.com/search?q=%23cf97\">#cf97</a>",
             "toJSON": true,
+            "user_id": "1247923908",
             "user_image": "http://pbs.twimg.com/profile_images/3348172054/9c7b9d57821a46084ee886fc309e23df_normal.jpeg"
         },
         {
@@ -11592,7 +11631,8 @@
             "secondNum": 20,
             "text": "Yo <a target=\"_blank\" href=\"//twitter.com/search?q=%23RBNY\">#RBNY</a>, you guys want to finish your runs or nah?",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/546679876648845312/MAnG4SD__normal.jpeg"
+            "user_id": "228601139",
+            "user_image": "http://pbs.twimg.com/profile_images/595188186445406208/c1yfsw8T_normal.jpg"
         },
         {
             "_type": "TWEET",
@@ -11605,6 +11645,7 @@
             "secondNum": 49,
             "text": "My trigger, I can't find it!  <a target=\"_blank\" href=\"//twitter.com/search?q=%23RBNY\">#RBNY</a>",
             "toJSON": true,
+            "user_id": "1444757935",
             "user_image": "http://pbs.twimg.com/profile_images/3687210543/fc52e9f598c5f437f326edada8fc4ebd_normal.jpeg"
         },
         {
@@ -11687,6 +11728,7 @@
             "secondNum": 43,
             "text": "Shipp coming off for Anangono. <a target=\"_blank\" href=\"//twitter.com/search?q=%23cf97\">#cf97</a>. confusion abound in the press box.",
             "toJSON": true,
+            "user_id": "71845416",
             "user_image": "http://pbs.twimg.com/profile_images/512778644821790720/HrTWpvVN_normal.png"
         },
         {
@@ -11729,7 +11771,8 @@
             "secondNum": 27,
             "text": "Highlight: Luis Robles, not satisfied with one <a target=\"_blank\" href=\"//twitter.com/search?q=%23SOTW\">#SOTW</a> nomination, makes another massive save. <a href=\"http://t.co/28tgMKkwbd\" target=\"_blank\">http://t.co/28tgMKkwbd</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23CHIvNY\">#CHIvNY</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/550589473767976961/OTnslq_m_normal.png"
+            "user_id": "107146095",
+            "user_image": "http://pbs.twimg.com/profile_images/593636874301808640/2-2VpXxW_normal.jpg"
         },
         {
             "_type": "COMMENT",
@@ -11763,7 +11806,8 @@
             "secondNum": 35,
             "text": "Anangono for shipp?!?!?! Yallop is Klopasing again <a target=\"_blank\" href=\"//twitter.com/search?q=%23cf97\">#cf97</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/442494578864947200/PLPihZb__normal.jpeg"
+            "user_id": "35013576",
+            "user_image": "http://pbs.twimg.com/profile_images/601039319596453888/qoE0UREM_normal.jpg"
         },
         {
             "_type": "TWEET",
@@ -11776,6 +11820,7 @@
             "secondNum": 46,
             "text": "With that sub, Magee is now out wide left, w/ JLA and Amarikwa up top together. Safe bet Magee will drift at will though. <a target=\"_blank\" href=\"//twitter.com/search?q=%23cf97\">#cf97</a>",
             "toJSON": true,
+            "user_id": "890000732",
             "user_image": "http://pbs.twimg.com/profile_images/470011117935161344/y6cLdTIj_normal.jpeg"
         },
         {
@@ -11789,7 +11834,8 @@
             "secondNum": 58,
             "text": "Take Alexander out, put Cahill in the middle. Bring Peguy in behind Henry. <a target=\"_blank\" href=\"//twitter.com/search?q=%23RBNY\">#RBNY</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23CHIvNY\">#CHIvNY</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/554874513155178497/m69j38O7_normal.jpeg"
+            "user_id": "22866971",
+            "user_image": "http://pbs.twimg.com/profile_images/591048367523893248/hqldc9ib_normal.jpg"
         },
         {
             "_type": "TWEET",
@@ -11802,7 +11848,8 @@
             "secondNum": 59,
             "text": "Not out of ideas <a target=\"_blank\" href=\"//twitter.com/search?q=%23RBNY\">#RBNY</a> but lack execution <a target=\"_blank\" href=\"//twitter.com/@EmpireOfSoccer\">@EmpireOfSoccer</a> Too many touches perhaps around the box",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/418953205385809920/MIFxqr5h_normal.jpeg"
+            "user_id": "950427415",
+            "user_image": "http://pbs.twimg.com/profile_images/579617631759654912/MGK1ldph_normal.jpg"
         },
         {
             "_type": "TWEET",
@@ -11815,7 +11862,8 @@
             "secondNum": 13,
             "text": "Eckersley set up a nice block on Robles there... <a target=\"_blank\" href=\"//twitter.com/search?q=%23RBNY\">#RBNY</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/560559132193722368/mMqnNGl0_normal.jpeg"
+            "user_id": "163942427",
+            "user_image": "http://pbs.twimg.com/profile_images/590633392812781569/yHZiKS3b_normal.jpg"
         },
         {
             "_type": "TWEET",
@@ -11828,6 +11876,7 @@
             "secondNum": 58,
             "text": "Red Bulls again look like they have very little idea what they are doing on defense <a target=\"_blank\" href=\"//twitter.com/search?q=%23RBNY\">#RBNY</a>",
             "toJSON": true,
+            "user_id": "67221888",
             "user_image": "http://pbs.twimg.com/profile_images/371682449/OCicon_normal.jpg"
         },
         {
@@ -11883,6 +11932,7 @@
             "secondNum": 35,
             "text": "En segundos va debutar <a target=\"_blank\" href=\"//twitter.com/@victorpineda93\">@victorpineda93</a> \n<a target=\"_blank\" href=\"//twitter.com/search?q=%23cf97\">#cf97</a> \nCF 1\nNYRB 1",
             "toJSON": true,
+            "user_id": "2233929133",
             "user_image": "http://pbs.twimg.com/profile_images/462696174340681728/vr3PG1nr_normal.jpeg"
         },
         {
@@ -11935,6 +11985,7 @@
             "secondNum": 3,
             "text": "Olave should see another yellow for that foul <a target=\"_blank\" href=\"//twitter.com/search?q=%23redcard\">#redcard</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23cf97\">#cf97</a>",
             "toJSON": true,
+            "user_id": "28099935",
             "user_image": "http://pbs.twimg.com/profile_images/497483239028961281/XCWi6FvO_normal.jpeg"
         },
         {
@@ -11948,7 +11999,8 @@
             "secondNum": 53,
             "text": "Hooray! <a target=\"_blank\" href=\"//twitter.com/search?q=%2327\">#27</a> finally takes the field, Victor Pineda! It's nice to actually see this guy play!  <a target=\"_blank\" href=\"//twitter.com/search?q=%23cf97\">#cf97</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/469283908903641089/aaZREhwA_normal.jpeg"
+            "user_id": "28165842",
+            "user_image": "http://pbs.twimg.com/profile_images/584564337664253952/D2E2MAkB_normal.jpg"
         },
         {
             "_type": "SUBSTITUTION",
@@ -12042,7 +12094,8 @@
             "secondNum": 21,
             "text": "He shall play in the middle. His name unpronounceable and his hands in his shorts. <a target=\"_blank\" href=\"//twitter.com/search?q=%23Peguy\">#Peguy</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23RBNY\">#RBNY</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/560559132193722368/mMqnNGl0_normal.jpeg"
+            "user_id": "163942427",
+            "user_image": "http://pbs.twimg.com/profile_images/590633392812781569/yHZiKS3b_normal.jpg"
         },
         {
             "_type": "TWEET",
@@ -12055,6 +12108,7 @@
             "secondNum": 36,
             "text": "Peguy with his hands down his shorts for a solid 10 seconds, leading to the most uncomfortable shot of the MLS season to date. <a target=\"_blank\" href=\"//twitter.com/search?q=%23RBNY\">#RBNY</a>",
             "toJSON": true,
+            "user_id": "566406774",
             "user_image": "http://pbs.twimg.com/profile_images/418869431976984576/hnGfd9z6_normal.jpeg"
         },
         {
@@ -12092,6 +12146,7 @@
             "secondNum": 14,
             "text": "Looks like it's gonna be Luyindula for Steele; Alexander to the wing, Luyindula in the middle. I like this move <a target=\"_blank\" href=\"//twitter.com/search?q=%23RBNY\">#RBNY</a>",
             "toJSON": true,
+            "user_id": "212311757",
             "user_image": "http://pbs.twimg.com/profile_images/531575217685295104/RcK8KVlS_normal.jpeg"
         },
         {
@@ -12105,7 +12160,8 @@
             "secondNum": 26,
             "text": "I'm waiting for Frank 1.0 to sweep onto the field and usher Pineda off, while whispering \"not yet, not yet...\"  <a target=\"_blank\" href=\"//twitter.com/search?q=%23cf97\">#cf97</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/469283908903641089/aaZREhwA_normal.jpeg"
+            "user_id": "28165842",
+            "user_image": "http://pbs.twimg.com/profile_images/584564337664253952/D2E2MAkB_normal.jpg"
         },
         {
             "_type": "COMMENT",
@@ -12144,24 +12200,19 @@
             "secondNum": 50,
             "text": "<a target=\"_blank\" href=\"//twitter.com/@ChicagoFire\">@ChicagoFire</a>  home grown player Victor Pineda makes his competitive debut today v New York Red Bulls <a target=\"_blank\" href=\"//twitter.com/search?q=%23cf97\">#cf97</a> <a href=\"http://t.co/q55OS7Cy6K\" target=\"_blank\">http://t.co/q55OS7Cy6K</a>",
             "toJSON": true,
+            "user_id": "816165451",
             "user_image": "http://pbs.twimg.com/profile_images/2673803194/2b068e5ce6a43e963a55feb9c97b1a24_normal.jpeg"
         },
         {
-            "_type": "TWEET",
-            "created_at": "2014-03-23T20:37:05+00:00",
+            "_type": "INSTAGRAM",
+            "created_at": "2015-05-25T12:09:40+00:00",
             "extraTimeNum": 0,
-            "id": "447834438035308544",
+            "id": 447834438035308540,
             "minuteNum": 73,
-            "name": "Fire Juniors",
-            "photo": {
-                "url": "http://pbs.twimg.com/media/BjcHDG8IIAAqRYj.jpg",
-                "url_https": "https://pbs.twimg.com/media/BjcHDG8IIAAqRYj.jpg"
-            },
-            "screen_name": "firejrs",
-            "secondNum": 50,
-            "text": "<a target=\"_blank\" href=\"//twitter.com/@ChicagoFire\">@ChicagoFire</a>  home grown player Victor Pineda makes his competitive debut today v New York Red Bulls <a target=\"_blank\" href=\"//twitter.com/search?q=%23cf97\">#cf97</a> <a href=\"http://t.co/q55OS7Cy6K\" target=\"_blank\">http://t.co/q55OS7Cy6K</a>",
-            "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/2673803194/2b068e5ce6a43e963a55feb9c97b1a24_normal.jpeg"
+            "name": "undefined",
+            "secondsNum": 0,
+            "text": "",
+            "toJSON": true
         },
         {
             "_type": "COMMENT",
@@ -12266,7 +12317,8 @@
             "secondNum": 31,
             "text": "I love the guy but Petke's selections have been bizarre this year. Waits til 70th to bring on Peguy, but for Steele not Alexander? <a target=\"_blank\" href=\"//twitter.com/search?q=%23RBNY\">#RBNY</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/493874170678505472/CnxgWzJH_normal.jpeg"
+            "user_id": "264190862",
+            "user_image": "http://pbs.twimg.com/profile_images/590781450074595328/_fhsd9-G_normal.jpg"
         },
         {
             "_type": "TWEET",
@@ -12279,6 +12331,7 @@
             "secondNum": 46,
             "text": "Magee just not in form yet <a target=\"_blank\" href=\"//twitter.com/search?q=%23cf97\">#cf97</a>",
             "toJSON": true,
+            "user_id": "399527269",
             "user_image": "http://pbs.twimg.com/profile_images/420243124741349376/HNyKMD0N_normal.jpeg"
         },
         {
@@ -12335,6 +12388,7 @@
             "secondNum": 30,
             "text": "Sekagya with a divine intervention to prevent a shot from going goal-bound. Solid effort so far from the oft-criticized CB. <a target=\"_blank\" href=\"//twitter.com/search?q=%23RBNY\">#RBNY</a>",
             "toJSON": true,
+            "user_id": "34677488",
             "user_image": "http://pbs.twimg.com/profile_images/558728264399605760/nG7BSUqH_normal.jpeg"
         },
         {
@@ -12402,6 +12456,7 @@
             "secondNum": 24,
             "text": "Had Luyindula scored with his groin ... <a target=\"_blank\" href=\"//twitter.com/search?q=%23MLS\">#MLS</a> goal of the week. <a target=\"_blank\" href=\"//twitter.com/search?q=%23CHIvNY\">#CHIvNY</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23RBNY\">#RBNY</a>",
             "toJSON": true,
+            "user_id": "245874711",
             "user_image": "http://pbs.twimg.com/profile_images/458685989922160640/3NILMfV__normal.png"
         },
         {
@@ -12457,6 +12512,7 @@
             "secondNum": 9,
             "text": "Nice chance created by Peguy there <a target=\"_blank\" href=\"//twitter.com/search?q=%23RBNY\">#RBNY</a>",
             "toJSON": true,
+            "user_id": "251739102",
             "user_image": "http://pbs.twimg.com/profile_images/563076972587515906/f30aQFjT_normal.jpeg"
         },
         {
@@ -12470,6 +12526,7 @@
             "secondNum": 32,
             "text": "That shot from Luyindula was nuts.",
             "toJSON": true,
+            "user_id": "195100261",
             "user_image": "http://pbs.twimg.com/profile_images/1360308112/armchair_analyst_logo_normal.jpg"
         },
         {
@@ -12507,7 +12564,8 @@
             "secondNum": 45,
             "text": "Because shooting with your feet is overrated <a target=\"_blank\" href=\"//twitter.com/search?q=%23peguy\">#peguy</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23RBNY\">#RBNY</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/538095894508634112/nEi5D9lr_normal.jpeg"
+            "user_id": "263952285",
+            "user_image": "http://pbs.twimg.com/profile_images/574015557348954114/jn-T0qg6_normal.jpeg"
         },
         {
             "_type": "BOOKING",
@@ -12547,7 +12605,8 @@
             "secondNum": 10,
             "text": "I'm sure Petke will be done experimenting w Cahill up top now. Also think this is the last we c of Eckersley for a while <a target=\"_blank\" href=\"//twitter.com/search?q=%23RBNY\">#RBNY</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23CHIvNY\">#CHIvNY</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/554874513155178497/m69j38O7_normal.jpeg"
+            "user_id": "22866971",
+            "user_image": "http://pbs.twimg.com/profile_images/591048367523893248/hqldc9ib_normal.jpg"
         },
         {
             "_type": "COMMENT",
@@ -12631,6 +12690,7 @@
             "secondNum": 37,
             "text": "Still have some Bover and BWP in reserve <a target=\"_blank\" href=\"//twitter.com/search?q=%23RBNY\">#RBNY</a>",
             "toJSON": true,
+            "user_id": "63280150",
             "user_image": "http://pbs.twimg.com/profile_images/555431773/silly_bird_normal.jpg"
         },
         {
@@ -12644,7 +12704,8 @@
             "secondNum": 27,
             "text": "Hard to make fun of Larentowicz for the tucked-in shirt when he scores like that. <a target=\"_blank\" href=\"//twitter.com/search?q=%23CHIvNY\">#CHIvNY</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/2349949685/yg723epbmcn9duj28k60_normal.jpeg"
+            "user_id": "267098494",
+            "user_image": "http://pbs.twimg.com/profile_images/588400956548644864/Ufnjfq4g_normal.jpg"
         },
         {
             "_type": "TWEET",
@@ -12657,7 +12718,8 @@
             "secondNum": 4,
             "text": "Wasting no time. Jeff Larentowicz makes it two in two matches. <a target=\"_blank\" href=\"//twitter.com/@ChicagoFire\">@ChicagoFire</a> up 1-0 inside six minutes. <a href=\"http://t.co/NtGaRtkhIw\" target=\"_blank\">http://t.co/NtGaRtkhIw</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23CHIvNY\">#CHIvNY</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/550589473767976961/OTnslq_m_normal.png"
+            "user_id": "107146095",
+            "user_image": "http://pbs.twimg.com/profile_images/593636874301808640/2-2VpXxW_normal.jpg"
         },
         {
             "_type": "VIDEO",
@@ -12731,11 +12793,12 @@
             "extraTimeNum": 0,
             "id": "447836282753142785",
             "minuteNum": 81,
-            "name": "Brian E. Long\u2b50",
+            "name": "Brian E. Long\u00e2\u00ad\u0090",
             "screen_name": "BrianELong",
             "secondNum": 10,
             "text": "Let's get Bee Dubya Pee in for Eckersley! <a target=\"_blank\" href=\"//twitter.com/search?q=%23RBNY\">#RBNY</a>",
             "toJSON": true,
+            "user_id": "23729800",
             "user_image": "http://pbs.twimg.com/profile_images/477113656929697792/GzmeuhJ3_normal.jpeg"
         },
         {
@@ -12791,6 +12854,7 @@
             "secondNum": 54,
             "text": "What exactly does Anangano bring to the table? <a target=\"_blank\" href=\"//twitter.com/search?q=%23cf97\">#cf97</a>",
             "toJSON": true,
+            "user_id": "237352913",
             "user_image": "http://pbs.twimg.com/profile_images/532724818609573888/oX_vCmJH_normal.jpeg"
         },
         {
@@ -12804,7 +12868,8 @@
             "secondNum": 38,
             "text": "Mike Magee with the Arjen Robben dive, except in the wrong box. that terrible. <a target=\"_blank\" href=\"//twitter.com/search?q=%23CF97\">#CF97</a>\u00a0",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/562007081301987328/lsrFxbk3_normal.jpeg"
+            "user_id": "552240941",
+            "user_image": "http://pbs.twimg.com/profile_images/576133676926308352/RzOa1GNO_normal.jpeg"
         },
         {
             "_type": "SUBSTITUTION",
@@ -12898,6 +12963,7 @@
             "secondNum": 42,
             "text": "Baky has been really good today <a target=\"_blank\" href=\"//twitter.com/search?q=%23cf97\">#cf97</a>",
             "toJSON": true,
+            "user_id": "141685696",
             "user_image": "http://pbs.twimg.com/profile_images/378800000867503618/AFksXjwu_normal.jpeg"
         },
         {
@@ -12911,6 +12977,7 @@
             "secondNum": 1,
             "text": "Let\u2019s see if Convey can be less invisible than he was last week. Good chance to be a hero. <a target=\"_blank\" href=\"//twitter.com/search?q=%23RBNY\">#RBNY</a>",
             "toJSON": true,
+            "user_id": "566406774",
             "user_image": "http://pbs.twimg.com/profile_images/418869431976984576/hnGfd9z6_normal.jpeg"
         },
         {
@@ -12969,6 +13036,7 @@
             "secondNum": 33,
             "text": "Without question the New York Red Bulls should be winning this game.... <a target=\"_blank\" href=\"//twitter.com/search?q=%23RBNY\">#RBNY</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23CHIvNY\">#CHIvNY</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23MLS\">#MLS</a>",
             "toJSON": true,
+            "user_id": "34600509",
             "user_image": "http://pbs.twimg.com/profile_images/479006437314539520/P8lmeBgU_normal.jpeg"
         },
         {
@@ -13024,6 +13092,7 @@
             "secondNum": 47,
             "text": "Y'know what <a target=\"_blank\" href=\"//twitter.com/search?q=%23RBNY\">#RBNY</a> need more of? Wayward crosses",
             "toJSON": true,
+            "user_id": "251739102",
             "user_image": "http://pbs.twimg.com/profile_images/563076972587515906/f30aQFjT_normal.jpeg"
         },
         {
@@ -13064,7 +13133,8 @@
             "secondNum": 39,
             "text": "Wow... Advantage?! <a target=\"_blank\" href=\"//twitter.com/@MLS\">@MLS</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23cf97\">#cf97</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23nyrb\">#nyrb</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/574030272175341568/KmpzSxyH_normal.jpeg"
+            "user_id": "435531287",
+            "user_image": "http://pbs.twimg.com/profile_images/585597921653084163/nRQ9zZTe_normal.jpg"
         },
         {
             "_type": "TWEET",
@@ -13077,7 +13147,8 @@
             "secondNum": 44,
             "text": "PLAY THE ADVANTAGE <a target=\"_blank\" href=\"//twitter.com/search?q=%23cf97\">#cf97</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23MLS\">#MLS</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/500788441412808704/OhVHZ4zx_normal.jpeg"
+            "user_id": "51248851",
+            "user_image": "http://pbs.twimg.com/profile_images/529465628827332608/lMJ9diea_normal.jpeg"
         },
         {
             "_type": "COMMENT",
@@ -13161,7 +13232,8 @@
             "secondNum": 24,
             "text": "<a target=\"_blank\" href=\"//twitter.com/@TotalMLS\">@TotalMLS</a> how much longer does this <a target=\"_blank\" href=\"//twitter.com/search?q=%23rbny\">#rbny</a> team need to get warmed up? Can't see it turning around any time soon",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/568186018189148160/sz-TZgtZ_normal.jpeg"
+            "user_id": "164778200",
+            "user_image": "http://pbs.twimg.com/profile_images/585637655418908674/acRNzetl_normal.jpg"
         },
         {
             "_type": "TWEET",
@@ -13174,6 +13246,7 @@
             "secondNum": 8,
             "text": "At least the 2nd half of the 2nd half has led to some better action/activity. <a target=\"_blank\" href=\"//twitter.com/search?q=%23rbny\">#rbny</a>",
             "toJSON": true,
+            "user_id": "32978031",
             "user_image": "http://pbs.twimg.com/profile_images/484039379300536321/io6CmhEP_normal.jpeg"
         },
         {
@@ -13229,7 +13302,8 @@
             "secondNum": 50,
             "text": "Olave must want a new shirt, because he's constantly trying to grab them off of our guys. <a target=\"_blank\" href=\"//twitter.com/search?q=%23cf97\">#cf97</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/497415097581842432/1_aP4QTC_normal.jpeg"
+            "user_id": "110588951",
+            "user_image": "http://pbs.twimg.com/profile_images/568611625264250880/80hcIOnr_normal.jpeg"
         },
         {
             "_type": "TWEET",
@@ -13242,7 +13316,8 @@
             "secondNum": 7,
             "text": "<a target=\"_blank\" href=\"//twitter.com/search?q=%23MLS\">#MLS</a> should create a rule wherein every time Magee throws a temper tantrum the referee is allowed to smack him across the face. Hard. <a target=\"_blank\" href=\"//twitter.com/search?q=%23RBNY\">#RBNY</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/2432071719/jz70417qpdzy549xo2rx_normal.jpeg"
+            "user_id": "265806701",
+            "user_image": "http://pbs.twimg.com/profile_images/567780544042135552/v2F-mcbb_normal.jpeg"
         },
         {
             "_type": "COMMENT",
@@ -13276,7 +13351,8 @@
             "secondNum": 8,
             "text": "<a target=\"_blank\" href=\"//twitter.com/@ChicagoFire\">@ChicagoFire</a> So, you're going to need to score more goals. <a target=\"_blank\" href=\"//twitter.com/search?q=%23cf97\">#cf97</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/574030272175341568/KmpzSxyH_normal.jpeg"
+            "user_id": "435531287",
+            "user_image": "http://pbs.twimg.com/profile_images/585597921653084163/nRQ9zZTe_normal.jpg"
         },
         {
             "_type": "COMMENT",
@@ -13311,6 +13387,7 @@
             "secondNum": 4,
             "text": "Never leave a mutant gene unmarked on a corner. <a target=\"_blank\" href=\"//twitter.com/search?q=%23CHIvNY\">#CHIvNY</a>",
             "toJSON": true,
+            "user_id": "143947826",
             "user_image": "http://pbs.twimg.com/profile_images/902153523/Twitter_picture_normal.jpg"
         },
         {
@@ -13324,6 +13401,7 @@
             "secondNum": 57,
             "text": "Excited to see Shipp taking quality corners <a target=\"_blank\" href=\"//twitter.com/search?q=%23CHIvNY\">#CHIvNY</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23cf97\">#cf97</a>",
             "toJSON": true,
+            "user_id": "97753298",
             "user_image": "http://pbs.twimg.com/profile_images/492013656356294656/R76S3V-o_normal.jpeg"
         },
         {
@@ -13358,6 +13436,7 @@
             "secondNum": 28,
             "text": "Henry CK skips through 3 yards off line out for another CK. <a target=\"_blank\" href=\"//twitter.com/search?q=%23cf97\">#cf97</a> breathes sigh of relief",
             "toJSON": true,
+            "user_id": "220920115",
             "user_image": "http://pbs.twimg.com/profile_images/1221105049/Daily_Herald_mug_shot_normal.jpg"
         },
         {
@@ -13375,24 +13454,19 @@
             "secondNum": 57,
             "text": "Gotta love this shot of <a target=\"_blank\" href=\"//twitter.com/@Section8Chicago\">@Section8Chicago</a> with the <a target=\"_blank\" href=\"//twitter.com/search?q=%23Chicago\">#Chicago</a> skyline in the background. <a target=\"_blank\" href=\"//twitter.com/search?q=%23CF97\">#CF97</a> <a href=\"http://t.co/lAp82q0XP1\" target=\"_blank\">http://t.co/lAp82q0XP1</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/538576552578285569/I2dPnWWB_normal.jpeg"
+            "user_id": "17159073",
+            "user_image": "http://pbs.twimg.com/profile_images/561922875356356609/845EpVE5_normal.jpeg"
         },
         {
-            "_type": "TWEET",
-            "created_at": "2014-03-23T20:54:14+00:00",
+            "_type": "INSTAGRAM",
+            "created_at": "2015-05-25T12:09:40+00:00",
             "extraTimeNum": 0,
-            "id": "447838756536479744",
+            "id": 447838756536479740,
             "minuteNum": 90,
-            "name": "Payal Patel",
-            "photo": {
-                "url": "http://pbs.twimg.com/media/BjcK-ePCMAA9uIb.jpg",
-                "url_https": "https://pbs.twimg.com/media/BjcK-ePCMAA9uIb.jpg"
-            },
-            "screen_name": "Payal_P",
-            "secondNum": 57,
-            "text": "Gotta love this shot of <a target=\"_blank\" href=\"//twitter.com/@Section8Chicago\">@Section8Chicago</a> with the <a target=\"_blank\" href=\"//twitter.com/search?q=%23Chicago\">#Chicago</a> skyline in the background. <a target=\"_blank\" href=\"//twitter.com/search?q=%23CF97\">#CF97</a> <a href=\"http://t.co/lAp82q0XP1\" target=\"_blank\">http://t.co/lAp82q0XP1</a>",
-            "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/538576552578285569/I2dPnWWB_normal.jpeg"
+            "name": "undefined",
+            "secondsNum": 0,
+            "text": "",
+            "toJSON": true
         },
         {
             "_type": "TWEET",
@@ -13405,6 +13479,7 @@
             "secondNum": 0,
             "text": "A draw would be a good result but still not convinced by this <a target=\"_blank\" href=\"//twitter.com/search?q=%23RBNY\">#RBNY</a> attack. How many times has Sean Johnson been tested today?",
             "toJSON": true,
+            "user_id": "34677488",
             "user_image": "http://pbs.twimg.com/profile_images/558728264399605760/nG7BSUqH_normal.jpeg"
         },
         {
@@ -13418,6 +13493,7 @@
             "secondNum": 0,
             "text": "I have no idea why JLA doesn't take that shot. None. <a target=\"_blank\" href=\"//twitter.com/search?q=%23cf97\">#cf97</a>",
             "toJSON": true,
+            "user_id": "890000732",
             "user_image": "http://pbs.twimg.com/profile_images/470011117935161344/y6cLdTIj_normal.jpeg"
         },
         {
@@ -13499,6 +13575,7 @@
             "secondNum": 0,
             "text": "I understand trying not to concede goals, but baffled by our trying-not-to-score strategy. <a target=\"_blank\" href=\"//twitter.com/search?q=%23RBNY\">#RBNY</a>",
             "toJSON": true,
+            "user_id": "229200166",
             "user_image": "http://pbs.twimg.com/profile_images/440638138138886145/faxT18W5_normal.jpeg"
         },
         {
@@ -13512,6 +13589,7 @@
             "secondNum": 0,
             "text": "\"Tim Cahill not the kind of guy you want to meet in a dark alley.\" - Shep Messing.  The man is pure gold. <a target=\"_blank\" href=\"//twitter.com/search?q=%23RBNY\">#RBNY</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23CHIvNY\">#CHIvNY</a>",
             "toJSON": true,
+            "user_id": "245874711",
             "user_image": "http://pbs.twimg.com/profile_images/458685989922160640/3NILMfV__normal.png"
         },
         {
@@ -13525,6 +13603,7 @@
             "secondNum": 0,
             "text": "That was a full on mugging Cahill just put on Magee. <a target=\"_blank\" href=\"//twitter.com/search?q=%23cf97\">#cf97</a>",
             "toJSON": true,
+            "user_id": "317497328",
             "user_image": "http://pbs.twimg.com/profile_images/2700516228/7d91d01196b1c1443555b2fe8f1f1073_normal.jpeg"
         },
         {
@@ -13538,7 +13617,8 @@
             "secondNum": 0,
             "text": "Cochrane has done well today <a target=\"_blank\" href=\"//twitter.com/search?q=%23cf97\">#cf97</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/568186018189148160/sz-TZgtZ_normal.jpeg"
+            "user_id": "164778200",
+            "user_image": "http://pbs.twimg.com/profile_images/585637655418908674/acRNzetl_normal.jpg"
         },
         {
             "_type": "TWEET",
@@ -13551,7 +13631,8 @@
             "secondNum": 0,
             "text": "<a target=\"_blank\" href=\"//twitter.com/search?q=%23MillerBackheel\">#MillerBackheel</a> disappointed me today, we had this won. <a target=\"_blank\" href=\"//twitter.com/search?q=%23RBNY\">#RBNY</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/442339095209967616/3ITDYNVb_normal.jpeg"
+            "user_id": "1090037660",
+            "user_image": "http://pbs.twimg.com/profile_images/554330676309532672/ys5mPm8p_normal.jpeg"
         },
         {
             "_type": "TWEET",
@@ -13564,7 +13645,8 @@
             "secondNum": 0,
             "text": "Con to relying on counters: you get pretty tired by the time stoppage rolls around. Womp womp. <a target=\"_blank\" href=\"//twitter.com/search?q=%23cf97\">#cf97</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23CHIvNY\">#CHIvNY</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/469283908903641089/aaZREhwA_normal.jpeg"
+            "user_id": "28165842",
+            "user_image": "http://pbs.twimg.com/profile_images/584564337664253952/D2E2MAkB_normal.jpg"
         },
         {
             "_type": "TWEET",
@@ -13577,6 +13659,7 @@
             "secondNum": 0,
             "text": "Under normal circumstances a point away to <a target=\"_blank\" href=\"//twitter.com/search?q=%23cf97\">#cf97</a> wouldn't be bad. But we still need the first win <a target=\"_blank\" href=\"//twitter.com/search?q=%23RBNY\">#RBNY</a>",
             "toJSON": true,
+            "user_id": "212311757",
             "user_image": "http://pbs.twimg.com/profile_images/531575217685295104/RcK8KVlS_normal.jpeg"
         },
         {

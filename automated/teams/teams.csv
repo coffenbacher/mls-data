@@ -1,21 +1,21 @@
 id,name,code,draw,form,loss,played,points,position,short_name,strength,team_division,unavailable,win
-1,Chicago Fire,1207,0,None,0,0,0,0,CHI,2,1,False,0
-2,Colorado Rapids,436,0,None,0,0,0,0,COL,2,2,False,0
-3,Columbus Crew SC,454,0,None,0,0,0,0,CLB,4,1,False,0
+1,Chicago Fire,1207,0,None,0,0,0,0,CHI,1,1,False,0
+2,Colorado Rapids,436,0,None,0,0,0,0,COL,1,2,False,0
+3,Columbus Crew SC,454,0,None,0,0,0,0,CLB,2,1,False,0
 4,D.C. United,1326,0,None,0,0,0,0,DC,5,1,False,0
-5,FC Dallas,1903,0,None,0,0,0,0,DAL,5,2,False,0
-6,Houston Dynamo,1897,0,None,0,0,0,0,HOU,2,2,False,0
-7,Montreal Impact,1616,0,None,0,0,0,0,MTL,1,1,False,0
+5,FC Dallas,1903,0,None,0,0,0,0,DAL,4,2,False,0
+6,Houston Dynamo,1897,0,None,0,0,0,0,HOU,3,2,False,0
+7,Montreal Impact,1616,0,None,0,0,0,0,MTL,2,1,False,0
 8,LA Galaxy,1230,0,None,0,0,0,0,LA,4,2,False,0
 9,New England Revolution,928,0,None,0,0,0,0,NE,4,1,False,0
 10,New York City FC,9668,0,None,0,0,0,0,NYC,1,1,False,0
-11,New York Red Bulls,399,0,None,0,0,0,0,NYR,5,1,False,0
-12,Orlando City SC,6900,0,None,0,0,0,0,ORL,1,1,False,0
+11,New York Red Bulls,399,0,None,0,0,0,0,NYR,3,1,False,0
+12,Orlando City SC,6900,0,None,0,0,0,0,ORL,3,1,False,0
 13,Philadelphia Union,5513,0,None,0,0,0,0,PHI,1,1,False,0
 14,Portland Timbers,1581,0,None,0,0,0,0,POR,3,2,False,0
-15,Real Salt Lake,1899,0,None,0,0,0,0,RSL,3,2,False,0
-16,San Jose Earthquakes,1131,0,None,0,0,0,0,SJ,3,2,False,0
+15,Real Salt Lake,1899,0,None,0,0,0,0,RSL,2,2,False,0
+16,San Jose Earthquakes,1131,0,None,0,0,0,0,SJ,2,2,False,0
 17,Seattle Sounders FC,3500,0,None,0,0,0,0,SEA,5,2,False,0
-18,Sporting Kansas City,421,0,None,0,0,0,0,SKC,3,2,False,0
-19,Toronto FC,2077,0,None,0,0,0,0,TOR,2,1,False,0
+18,Sporting Kansas City,421,0,None,0,0,0,0,SKC,5,2,False,0
+19,Toronto FC,2077,0,None,0,0,0,0,TOR,5,1,False,0
 20,Vancouver Whitecaps,1708,0,None,0,0,0,0,VAN,4,1,False,0

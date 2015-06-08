@@ -10,7 +10,7 @@
         "points": 0,
         "position": 0,
         "short_name": "CHI",
-        "strength": 2,
+        "strength": 1,
         "team_division": 1,
         "unavailable": false,
         "win": 0
@@ -26,7 +26,7 @@
         "points": 0,
         "position": 0,
         "short_name": "COL",
-        "strength": 2,
+        "strength": 1,
         "team_division": 2,
         "unavailable": false,
         "win": 0
@@ -42,7 +42,7 @@
         "points": 0,
         "position": 0,
         "short_name": "CLB",
-        "strength": 4,
+        "strength": 2,
         "team_division": 1,
         "unavailable": false,
         "win": 0
@@ -74,7 +74,7 @@
         "points": 0,
         "position": 0,
         "short_name": "DAL",
-        "strength": 5,
+        "strength": 4,
         "team_division": 2,
         "unavailable": false,
         "win": 0
@@ -90,7 +90,7 @@
         "points": 0,
         "position": 0,
         "short_name": "HOU",
-        "strength": 2,
+        "strength": 3,
         "team_division": 2,
         "unavailable": false,
         "win": 0
@@ -106,7 +106,7 @@
         "points": 0,
         "position": 0,
         "short_name": "MTL",
-        "strength": 1,
+        "strength": 2,
         "team_division": 1,
         "unavailable": false,
         "win": 0
@@ -170,7 +170,7 @@
         "points": 0,
         "position": 0,
         "short_name": "NYR",
-        "strength": 5,
+        "strength": 3,
         "team_division": 1,
         "unavailable": false,
         "win": 0
@@ -186,7 +186,7 @@
         "points": 0,
         "position": 0,
         "short_name": "ORL",
-        "strength": 1,
+        "strength": 3,
         "team_division": 1,
         "unavailable": false,
         "win": 0
@@ -234,7 +234,7 @@
         "points": 0,
         "position": 0,
         "short_name": "RSL",
-        "strength": 3,
+        "strength": 2,
         "team_division": 2,
         "unavailable": false,
         "win": 0
@@ -250,7 +250,7 @@
         "points": 0,
         "position": 0,
         "short_name": "SJ",
-        "strength": 3,
+        "strength": 2,
         "team_division": 2,
         "unavailable": false,
         "win": 0
@@ -282,7 +282,7 @@
         "points": 0,
         "position": 0,
         "short_name": "SKC",
-        "strength": 3,
+        "strength": 5,
         "team_division": 2,
         "unavailable": false,
         "win": 0
@@ -298,7 +298,7 @@
         "points": 0,
         "position": 0,
         "short_name": "TOR",
-        "strength": 2,
+        "strength": 5,
         "team_division": 1,
         "unavailable": false,
         "win": 0

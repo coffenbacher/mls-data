@@ -74,7 +74,7 @@
         "points": 0,
         "position": 0,
         "short_name": "DAL",
-        "strength": 4,
+        "strength": 3,
         "team_division": 2,
         "unavailable": false,
         "win": 0
@@ -90,7 +90,7 @@
         "points": 0,
         "position": 0,
         "short_name": "HOU",
-        "strength": 3,
+        "strength": 2,
         "team_division": 2,
         "unavailable": false,
         "win": 0
@@ -106,7 +106,7 @@
         "points": 0,
         "position": 0,
         "short_name": "MTL",
-        "strength": 2,
+        "strength": 4,
         "team_division": 1,
         "unavailable": false,
         "win": 0
@@ -138,7 +138,7 @@
         "points": 0,
         "position": 0,
         "short_name": "NE",
-        "strength": 4,
+        "strength": 3,
         "team_division": 1,
         "unavailable": false,
         "win": 0
@@ -170,7 +170,7 @@
         "points": 0,
         "position": 0,
         "short_name": "NYR",
-        "strength": 3,
+        "strength": 2,
         "team_division": 1,
         "unavailable": false,
         "win": 0
@@ -218,7 +218,7 @@
         "points": 0,
         "position": 0,
         "short_name": "POR",
-        "strength": 3,
+        "strength": 4,
         "team_division": 2,
         "unavailable": false,
         "win": 0
@@ -250,7 +250,7 @@
         "points": 0,
         "position": 0,
         "short_name": "SJ",
-        "strength": 2,
+        "strength": 3,
         "team_division": 2,
         "unavailable": false,
         "win": 0
@@ -298,7 +298,7 @@
         "points": 0,
         "position": 0,
         "short_name": "TOR",
-        "strength": 5,
+        "strength": 4,
         "team_division": 1,
         "unavailable": false,
         "win": 0
@@ -314,7 +314,7 @@
         "points": 0,
         "position": 0,
         "short_name": "VAN",
-        "strength": 4,
+        "strength": 5,
         "team_division": 1,
         "unavailable": false,
         "win": 0

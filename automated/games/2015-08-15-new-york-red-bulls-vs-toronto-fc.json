@@ -374,11 +374,11 @@
                 "accurate_final_third_pass_per": {
                     "statFH": 0,
                     "statSH": 0,
-                    "statValue": 61
+                    "statValue": 60
                 },
                 "accurate_fwd_zone_pass": {
-                    "statFH": 56,
-                    "statSH": 72,
+                    "statFH": 55,
+                    "statSH": 73,
                     "statValue": 128
                 },
                 "accurate_fwd_zone_pass_per": {
@@ -388,8 +388,8 @@
                 },
                 "accurate_pass": {
                     "statFH": 91,
-                    "statSH": 107,
-                    "statValue": 198
+                    "statSH": 108,
+                    "statValue": 199
                 },
                 "accurate_pass_per": {
                     "statFH": 0,
@@ -442,9 +442,9 @@
                     "statValue": 0
                 },
                 "att_cmiss_right": {
-                    "statFH": 0,
+                    "statFH": 1,
                     "statSH": 0,
-                    "statValue": 0
+                    "statValue": 1
                 },
                 "att_goal_high_centre": {
                     "statFH": 0,
@@ -628,29 +628,29 @@
                     "statValue": 0
                 },
                 "duel_lost": {
-                    "statFH": 26,
+                    "statFH": 29,
                     "statSH": 18,
-                    "statValue": 44
+                    "statValue": 47
                 },
                 "duel_won": {
-                    "statFH": 32,
+                    "statFH": 33,
                     "statSH": 29,
-                    "statValue": 61
+                    "statValue": 62
                 },
                 "duel_won_per": {
                     "statFH": 0,
                     "statSH": 0,
-                    "statValue": 58
+                    "statValue": 57
                 },
                 "fk_foul_lost": {
                     "statFH": 7,
-                    "statSH": 6,
-                    "statValue": 13
+                    "statSH": 7,
+                    "statValue": 14
                 },
                 "fk_foul_won": {
-                    "statFH": 6,
+                    "statFH": 5,
                     "statSH": 7,
-                    "statValue": 13
+                    "statValue": 12
                 },
                 "games_played": {
                     "statFH": 0,
@@ -678,9 +678,9 @@
                     "statValue": 3
                 },
                 "passes_left": {
-                    "statFH": 16,
+                    "statFH": 15,
                     "statSH": 24,
-                    "statValue": 40
+                    "statValue": 39
                 },
                 "passes_right": {
                     "statFH": 13,
@@ -688,7 +688,7 @@
                     "statValue": 25
                 },
                 "possession_percentage": {
-                    "statFH": 36.2,
+                    "statFH": 36.3,
                     "statSH": 43.5,
                     "statValue": 39.8
                 },
@@ -708,9 +708,9 @@
                     "statValue": 3
                 },
                 "successful_final_third_passes": {
-                    "statFH": 29,
+                    "statFH": 28,
                     "statSH": 30,
-                    "statValue": 59
+                    "statValue": 58
                 },
                 "total_back_zone_pass": {
                     "statFH": 46,
@@ -718,8 +718,8 @@
                     "statValue": 91
                 },
                 "total_clearance": {
-                    "statFH": 15,
-                    "statSH": 10,
+                    "statFH": 14,
+                    "statSH": 11,
                     "statValue": 25
                 },
                 "total_cross": {
@@ -738,18 +738,18 @@
                     "statValue": 97
                 },
                 "total_fwd_zone_pass": {
-                    "statFH": 97,
-                    "statSH": 119,
+                    "statFH": 96,
+                    "statSH": 120,
                     "statValue": 216
                 },
                 "total_offside": {
                     "statFH": 0,
-                    "statSH": 3,
-                    "statValue": 3
+                    "statSH": 2,
+                    "statValue": 2
                 },
                 "total_pass": {
-                    "statFH": 137,
-                    "statSH": 151,
+                    "statFH": 136,
+                    "statSH": 152,
                     "statValue": 288
                 },
                 "total_red_card": {
@@ -763,9 +763,9 @@
                     "statValue": 8
                 },
                 "total_tackle": {
-                    "statFH": 11,
+                    "statFH": 12,
                     "statSH": 6,
-                    "statValue": 17
+                    "statValue": 18
                 },
                 "total_yel_card": {
                     "statFH": 2,
@@ -808,9 +808,9 @@
                     "statValue": 75
                 },
                 "accurate_fwd_zone_pass": {
-                    "statFH": 115,
-                    "statSH": 96,
-                    "statValue": 211
+                    "statFH": 112,
+                    "statSH": 98,
+                    "statValue": 210
                 },
                 "accurate_fwd_zone_pass_per": {
                     "statFH": 0,
@@ -818,9 +818,9 @@
                     "statValue": 72
                 },
                 "accurate_pass": {
-                    "statFH": 190,
-                    "statSH": 162,
-                    "statValue": 352
+                    "statFH": 187,
+                    "statSH": 166,
+                    "statValue": 353
                 },
                 "accurate_pass_per": {
                     "statFH": 0,
@@ -938,9 +938,9 @@
                     "statValue": 2
                 },
                 "att_miss_left": {
-                    "statFH": 1,
+                    "statFH": 2,
                     "statSH": 1,
-                    "statValue": 2
+                    "statValue": 3
                 },
                 "att_miss_right": {
                     "statFH": 0,
@@ -958,9 +958,9 @@
                     "statValue": 0
                 },
                 "att_obx_right": {
-                    "statFH": 0,
+                    "statFH": 1,
                     "statSH": 0,
-                    "statValue": 0
+                    "statValue": 1
                 },
                 "att_obxd_left": {
                     "statFH": 0,
@@ -1059,19 +1059,19 @@
                     "statValue": 0
                 },
                 "duel_lost": {
-                    "statFH": 32,
+                    "statFH": 33,
                     "statSH": 29,
-                    "statValue": 61
+                    "statValue": 62
                 },
                 "duel_won": {
-                    "statFH": 26,
+                    "statFH": 29,
                     "statSH": 18,
-                    "statValue": 44
+                    "statValue": 47
                 },
                 "duel_won_per": {
                     "statFH": 0,
                     "statSH": 0,
-                    "statValue": 42
+                    "statValue": 43
                 },
                 "fk_foul_lost": {
                     "statFH": 6,
@@ -1109,17 +1109,17 @@
                     "statValue": 7
                 },
                 "passes_left": {
-                    "statFH": 22,
+                    "statFH": 23,
                     "statSH": 33,
-                    "statValue": 55
+                    "statValue": 56
                 },
                 "passes_right": {
-                    "statFH": 53,
-                    "statSH": 37,
-                    "statValue": 90
+                    "statFH": 51,
+                    "statSH": 38,
+                    "statValue": 89
                 },
                 "possession_percentage": {
-                    "statFH": 63.8,
+                    "statFH": 63.7,
                     "statSH": 56.5,
                     "statValue": 60.2
                 },
@@ -1134,14 +1134,14 @@
                     "statValue": 0
                 },
                 "shot_off_target": {
-                    "statFH": 3,
+                    "statFH": 4,
                     "statSH": 3,
-                    "statValue": 6
+                    "statValue": 7
                 },
                 "successful_final_third_passes": {
                     "statFH": 66,
-                    "statSH": 54,
-                    "statValue": 120
+                    "statSH": 55,
+                    "statValue": 121
                 },
                 "total_back_zone_pass": {
                     "statFH": 88,
@@ -1150,28 +1150,28 @@
                 },
                 "total_clearance": {
                     "statFH": 5,
-                    "statSH": 11,
-                    "statValue": 16
+                    "statSH": 12,
+                    "statValue": 17
                 },
                 "total_cross": {
-                    "statFH": 17,
+                    "statFH": 16,
                     "statSH": 8,
-                    "statValue": 25
+                    "statValue": 24
                 },
                 "total_cross_nocorner": {
-                    "statFH": 14,
+                    "statFH": 13,
                     "statSH": 8,
-                    "statValue": 22
+                    "statValue": 21
                 },
                 "total_final_third_passes": {
-                    "statFH": 90,
-                    "statSH": 71,
+                    "statFH": 89,
+                    "statSH": 72,
                     "statValue": 161
                 },
                 "total_fwd_zone_pass": {
-                    "statFH": 162,
-                    "statSH": 132,
-                    "statValue": 294
+                    "statFH": 159,
+                    "statSH": 134,
+                    "statValue": 293
                 },
                 "total_offside": {
                     "statFH": 0,
@@ -1179,8 +1179,8 @@
                     "statValue": 4
                 },
                 "total_pass": {
-                    "statFH": 233,
-                    "statSH": 203,
+                    "statFH": 231,
+                    "statSH": 205,
                     "statValue": 436
                 },
                 "total_red_card": {
@@ -1189,14 +1189,14 @@
                     "statValue": 0
                 },
                 "total_scoring_att": {
-                    "statFH": 6,
+                    "statFH": 7,
                     "statSH": 10,
-                    "statValue": 16
+                    "statValue": 17
                 },
                 "total_tackle": {
-                    "statFH": 11,
+                    "statFH": 13,
                     "statSH": 4,
-                    "statValue": 15
+                    "statValue": 17
                 },
                 "total_yel_card": {
                     "statFH": 1,
@@ -1214,9 +1214,9 @@
                     "statValue": 5
                 },
                 "won_tackle": {
-                    "statFH": 11,
+                    "statFH": 13,
                     "statSH": 4,
-                    "statValue": 15
+                    "statValue": 17
                 }
             }
         }
@@ -1226,12 +1226,23 @@
             "id": 1087641578,
             "period_id": 1,
             "qualifiers": {
-                "102": "35.9"
+                "102": "42.5"
             },
             "team_id": 2077,
             "type_id": 13,
             "x": 80.9,
             "y": 69.5
+        },
+        {
+            "id": 819028432,
+            "period_id": 1,
+            "qualifiers": {
+                "102": "72.7"
+            },
+            "team_id": 399,
+            "type_id": 13,
+            "x": 68.5,
+            "y": 18.4
         },
         {
             "id": 1446314321,
@@ -1274,7 +1285,7 @@
             "id": 1570379727,
             "period_id": 1,
             "qualifiers": {
-                "102": "46.6"
+                "102": "45.8"
             },
             "team_id": 399,
             "type_id": 16,
@@ -1311,8 +1322,8 @@
             },
             "team_id": 399,
             "type_id": 13,
-            "x": 86.8,
-            "y": 50
+            "x": 85.8,
+            "y": 43.9
         },
         {
             "id": 1032517725,
@@ -1331,7 +1342,7 @@
             "id": 1590288377,
             "period_id": 2,
             "qualifiers": {
-                "102": "50.4",
+                "102": "51.4",
                 "146": "97.1",
                 "147": "45.8"
             },
@@ -1366,8 +1377,8 @@
             "id": 1689705272,
             "period_id": 2,
             "qualifiers": {
-                "146": "84.0",
-                "147": "53.2",
+                "146": "81.1",
+                "147": "55.1",
                 "82": true
             },
             "team_id": 2077,
@@ -1427,14 +1438,14 @@
             "id": 236160988,
             "period_id": 2,
             "qualifiers": {
-                "146": "85.6",
-                "147": "45.3",
+                "146": "82.5",
+                "147": "45.1",
                 "82": true
             },
             "team_id": 2077,
             "type_id": 15,
-            "x": 76.5,
-            "y": 44.3
+            "x": 73.8,
+            "y": 43.5
         },
         {
             "id": 1212712349,
@@ -3764,7 +3775,7 @@
                         "punches": 0,
                         "saves": 0,
                         "total_offside": 0,
-                        "total_scoring_att": 3,
+                        "total_scoring_att": 4,
                         "was_fouled": 2
                     }
                 },
@@ -3999,7 +4010,7 @@
                     },
                     "statistics": {
                         "corner_taken": 0,
-                        "fouls": 0,
+                        "fouls": 1,
                         "goal_assist": 0,
                         "goals": 0,
                         "goals_conceded": 3,
@@ -4029,7 +4040,7 @@
                     },
                     "statistics": {
                         "corner_taken": 1,
-                        "fouls": 1,
+                        "fouls": 2,
                         "goal_assist": 0,
                         "goals": 0,
                         "goals_conceded": 3,
@@ -4038,7 +4049,7 @@
                         "ontarget_scoring_att": 1,
                         "punches": 0,
                         "saves": 0,
-                        "total_offside": 3,
+                        "total_offside": 2,
                         "total_scoring_att": 2,
                         "was_fouled": 4
                     }
@@ -4100,7 +4111,7 @@
                         "saves": 0,
                         "total_offside": 0,
                         "total_scoring_att": 0,
-                        "was_fouled": 3
+                        "was_fouled": 2
                     }
                 },
                 "41602": {
@@ -4269,7 +4280,7 @@
                     },
                     "statistics": {
                         "corner_taken": 0,
-                        "fouls": 1,
+                        "fouls": 0,
                         "goal_assist": 0,
                         "goals": 0,
                         "goals_conceded": 3,
@@ -4352,54 +4363,54 @@
                 "interval": {
                     "15": {
                         "0-15": {
-                            "2077": 36.2,
-                            "399": 63.8
+                            "2077": 35.6,
+                            "399": 64.4
                         },
                         "16-30": {
-                            "2077": 42.9,
-                            "399": 57.1
+                            "2077": 43.2,
+                            "399": 56.8
                         },
                         "31-45": {
-                            "2077": 30.2,
-                            "399": 69.8
+                            "2077": 30.6,
+                            "399": 69.4
                         },
                         "46-60": {
-                            "2077": 34.9,
-                            "399": 65.1
+                            "2077": 33.9,
+                            "399": 66.1
                         },
                         "61-75": {
-                            "2077": 48.2,
-                            "399": 51.8
+                            "2077": 48.7,
+                            "399": 51.3
                         },
                         "76-90": {
-                            "2077": 47.7,
-                            "399": 52.3
+                            "2077": 48.1,
+                            "399": 51.9
                         }
                     },
                     "45": {
                         "0-45": {
-                            "2077": 35.8,
-                            "399": 64.2
+                            "2077": 35.9,
+                            "399": 64.1
                         },
                         "46-90": {
-                            "2077": 43.5,
-                            "399": 56.5
+                            "2077": 43.4,
+                            "399": 56.6
                         }
                     },
                     "5": {
                         "0-5": {
-                            "2077": 47.2,
-                            "399": 52.8,
+                            "2077": 45.9,
+                            "399": 54.1,
                             "interval": "0-5"
                         },
                         "11-15": {
-                            "2077": 29.5,
-                            "399": 70.5,
+                            "2077": 27.9,
+                            "399": 72.1,
                             "interval": "11-15"
                         },
                         "16-20": {
-                            "2077": 56,
-                            "399": 44,
+                            "2077": 58.3,
+                            "399": 41.7,
                             "interval": "16-20"
                         },
                         "21-25": {
@@ -4413,13 +4424,13 @@
                             "interval": "26-30"
                         },
                         "31-35": {
-                            "2077": 27.9,
-                            "399": 72.1,
+                            "2077": 28.4,
+                            "399": 71.6,
                             "interval": "31-35"
                         },
                         "36-40": {
-                            "2077": 16.3,
-                            "399": 83.7,
+                            "2077": 16.7,
+                            "399": 83.3,
                             "interval": "36-40"
                         },
                         "41-45": {
@@ -4428,38 +4439,38 @@
                             "interval": "41-45"
                         },
                         "46-50": {
-                            "2077": 23.2,
-                            "399": 76.8,
+                            "2077": 22.8,
+                            "399": 77.2,
                             "interval": "46-50"
                         },
                         "51-55": {
-                            "2077": 42.2,
-                            "399": 57.8,
+                            "2077": 41.3,
+                            "399": 58.7,
                             "interval": "51-55"
                         },
                         "56-60": {
-                            "2077": 48,
-                            "399": 52,
+                            "2077": 45.8,
+                            "399": 54.2,
                             "interval": "56-60"
                         },
                         "6-10": {
-                            "2077": 32,
-                            "399": 68,
+                            "2077": 33.3,
+                            "399": 66.7,
                             "interval": "6-10"
                         },
                         "61-65": {
-                            "2077": 36.5,
-                            "399": 63.5,
+                            "2077": 37.7,
+                            "399": 62.3,
                             "interval": "61-65"
                         },
                         "66-70": {
-                            "2077": 50,
-                            "399": 50,
+                            "2077": 48.3,
+                            "399": 51.7,
                             "interval": "66-70"
                         },
                         "71-75": {
-                            "2077": 66.7,
-                            "399": 33.3,
+                            "2077": 67.7,
+                            "399": 32.3,
                             "interval": "71-75"
                         },
                         "76-80": {
@@ -4468,8 +4479,8 @@
                             "interval": "76-80"
                         },
                         "81-85": {
-                            "2077": 37.8,
-                            "399": 62.2,
+                            "2077": 39.5,
+                            "399": 60.5,
                             "interval": "81-85"
                         },
                         "86-90": {
@@ -4481,24 +4492,24 @@
                 },
                 "lastX": {
                     "10": {
-                        "2077": 54.8,
-                        "399": 45.2
+                        "2077": 55.4,
+                        "399": 44.6
                     },
                     "15": {
-                        "2077": 43.8,
-                        "399": 56.2
+                        "2077": 44.3,
+                        "399": 55.7
                     },
                     "20": {
-                        "2077": 51,
-                        "399": 49
+                        "2077": 51.7,
+                        "399": 48.3
                     },
                     "25": {
-                        "2077": 50.9,
-                        "399": 49.1
+                        "2077": 51.4,
+                        "399": 48.6
                     },
                     "30": {
-                        "2077": 48.8,
-                        "399": 51.2
+                        "2077": 49,
+                        "399": 51
                     },
                     "5": {
                         "2077": 38.2,
@@ -4506,60 +4517,60 @@
                     }
                 },
                 "overall": {
-                    "2077": 39.5,
-                    "399": 60.5
+                    "2077": 39.6,
+                    "399": 60.4
                 }
             },
             "Territorial": {
                 "interval": {
                     "15": {
                         "0-15": {
-                            "2077": 52.4,
-                            "399": 47.6
+                            "2077": 52.9,
+                            "399": 47.1
                         },
                         "16-30": {
-                            "2077": 47.1,
-                            "399": 52.9
+                            "2077": 46.6,
+                            "399": 53.4
                         },
                         "31-45": {
-                            "2077": 41.5,
-                            "399": 58.5
+                            "2077": 42,
+                            "399": 58
                         },
                         "46-60": {
-                            "2077": 38.9,
-                            "399": 61.1
+                            "2077": 38.6,
+                            "399": 61.4
                         },
                         "61-75": {
-                            "2077": 59.8,
-                            "399": 40.2
+                            "2077": 60.2,
+                            "399": 39.8
                         },
                         "76-90": {
-                            "2077": 60,
-                            "399": 40
+                            "2077": 59.5,
+                            "399": 40.5
                         }
                     },
                     "45": {
                         "0-45": {
-                            "2077": 46.2,
-                            "399": 53.8
+                            "2077": 46.4,
+                            "399": 53.6
                         },
                         "46-90": {
-                            "2077": 52.7,
-                            "399": 47.3
+                            "2077": 52.6,
+                            "399": 47.4
                         }
                     },
                     "5": {
                         "0-5": {
-                            "2077": 47.2,
-                            "399": 52.8
+                            "2077": 45.9,
+                            "399": 54.1
                         },
                         "11-15": {
-                            "2077": 54.5,
-                            "399": 45.5
+                            "2077": 55.8,
+                            "399": 44.2
                         },
                         "16-20": {
-                            "2077": 52,
-                            "399": 48
+                            "2077": 50,
+                            "399": 50
                         },
                         "21-25": {
                             "2077": 41.9,
@@ -4570,52 +4581,52 @@
                             "399": 51
                         },
                         "31-35": {
-                            "2077": 41.2,
-                            "399": 58.8
+                            "2077": 41.8,
+                            "399": 58.2
                         },
                         "36-40": {
-                            "2077": 30.2,
-                            "399": 69.8
+                            "2077": 31,
+                            "399": 69
                         },
                         "41-45": {
                             "2077": 52.1,
                             "399": 47.9
                         },
                         "46-50": {
-                            "2077": 32.1,
-                            "399": 67.9
+                            "2077": 31.6,
+                            "399": 68.4
                         },
                         "51-55": {
-                            "2077": 40,
-                            "399": 60
+                            "2077": 39.1,
+                            "399": 60.9
                         },
                         "56-60": {
-                            "2077": 52,
-                            "399": 48
+                            "2077": 54.2,
+                            "399": 45.8
                         },
                         "6-10": {
-                            "2077": 56,
-                            "399": 44
+                            "2077": 58.3,
+                            "399": 41.7
                         },
                         "61-65": {
-                            "2077": 46.2,
-                            "399": 53.8
+                            "2077": 45.3,
+                            "399": 54.7
                         },
                         "66-70": {
-                            "2077": 70,
-                            "399": 30
+                            "2077": 72.4,
+                            "399": 27.6
                         },
                         "71-75": {
-                            "2077": 73.3,
-                            "399": 26.7
+                            "2077": 74.2,
+                            "399": 25.8
                         },
                         "76-80": {
                             "2077": 92,
                             "399": 8
                         },
                         "81-85": {
-                            "2077": 40.5,
-                            "399": 59.5
+                            "2077": 39.5,
+                            "399": 60.5
                         },
                         "86-90": {
                             "2077": 58.8,
@@ -4625,24 +4636,24 @@
                 },
                 "lastX": {
                     "10": {
-                        "2077": 61.9,
-                        "399": 38.1
+                        "2077": 61.4,
+                        "399": 38.6
                     },
                     "15": {
-                        "2077": 52.4,
-                        "399": 47.6
+                        "2077": 51.9,
+                        "399": 48.1
                     },
                     "20": {
-                        "2077": 62.9,
-                        "399": 37.1
+                        "2077": 62.8,
+                        "399": 37.2
                     },
                     "25": {
-                        "2077": 63.2,
-                        "399": 36.8
+                        "2077": 63,
+                        "399": 37
                     },
                     "30": {
-                        "2077": 60.5,
-                        "399": 39.5
+                        "2077": 60.7,
+                        "399": 39.3
                     },
                     "5": {
                         "2077": 52.9,
@@ -4650,60 +4661,60 @@
                     }
                 },
                 "overall": {
-                    "2077": 49.4,
-                    "399": 50.6
+                    "2077": 49.5,
+                    "399": 50.5
                 }
             },
             "TerritorialThird": {
                 "interval": {
                     "15": {
                         "0-15": {
-                            "2077": 30.5,
-                            "399": 18.1
+                            "2077": 29.8,
+                            "399": 18.3
                         },
                         "16-30": {
-                            "2077": 29.4,
-                            "399": 18.5
+                            "2077": 29.7,
+                            "399": 17.8
                         },
                         "31-45": {
-                            "2077": 37.1,
-                            "399": 21.4
+                            "2077": 36.9,
+                            "399": 21.7
                         },
                         "46-60": {
-                            "2077": 41.3,
-                            "399": 16.7
+                            "2077": 40.2,
+                            "399": 16.5
                         },
                         "61-75": {
-                            "2077": 18.8,
-                            "399": 28.6
+                            "2077": 17.7,
+                            "399": 28.3
                         },
                         "76-90": {
-                            "2077": 20.8,
-                            "399": 30.8
+                            "2077": 20.6,
+                            "399": 31.3
                         }
                     },
                     "45": {
                         "0-45": {
-                            "2077": 32.9,
-                            "399": 19.6
+                            "2077": 32.7,
+                            "399": 19.5
                         },
                         "46-90": {
-                            "2077": 27.2,
+                            "2077": 26.4,
                             "399": 25.3
                         }
                     },
                     "5": {
                         "0-5": {
-                            "2077": 41.7,
-                            "399": 11.1
+                            "2077": 40.5,
+                            "399": 10.8
                         },
                         "11-15": {
-                            "2077": 22.7,
-                            "399": 27.3
+                            "2077": 23.3,
+                            "399": 27.9
                         },
                         "16-20": {
-                            "2077": 36,
-                            "399": 36
+                            "2077": 37.5,
+                            "399": 33.3
                         },
                         "21-25": {
                             "2077": 27.9,
@@ -4714,52 +4725,52 @@
                             "399": 17.6
                         },
                         "31-35": {
-                            "2077": 38.2,
-                            "399": 17.6
+                            "2077": 38.8,
+                            "399": 17.9
                         },
                         "36-40": {
-                            "2077": 48.8,
-                            "399": 11.6
+                            "2077": 47.6,
+                            "399": 11.9
                         },
                         "41-45": {
                             "2077": 25,
                             "399": 35.4
                         },
                         "46-50": {
-                            "2077": 44.6,
-                            "399": 8.9
+                            "2077": 43.9,
+                            "399": 8.8
                         },
                         "51-55": {
-                            "2077": 42.2,
-                            "399": 20
+                            "2077": 41.3,
+                            "399": 19.6
                         },
                         "56-60": {
-                            "2077": 32,
-                            "399": 28
+                            "2077": 29.2,
+                            "399": 29.2
                         },
                         "6-10": {
-                            "2077": 28,
-                            "399": 12
+                            "2077": 25,
+                            "399": 12.5
                         },
                         "61-65": {
-                            "2077": 21.2,
-                            "399": 17.3
+                            "2077": 20.8,
+                            "399": 17
                         },
                         "66-70": {
-                            "2077": 20,
-                            "399": 26.7
+                            "2077": 17.2,
+                            "399": 27.6
                         },
                         "71-75": {
-                            "2077": 13.3,
-                            "399": 50
+                            "2077": 12.9,
+                            "399": 48.4
                         },
                         "76-80": {
                             "2077": 0,
                             "399": 48
                         },
                         "81-85": {
-                            "2077": 29.7,
-                            "399": 21.6
+                            "2077": 28.9,
+                            "399": 23.7
                         },
                         "86-90": {
                             "2077": 23.5,
@@ -4769,7 +4780,7 @@
                 },
                 "lastX": {},
                 "overall": {
-                    "2077": 30.1,
+                    "2077": 29.6,
                     "399": 22.4
                 }
             }
@@ -6636,7 +6647,7 @@
             "title": "New York Red Bulls 3, Toronto FC 0 | MLS Match Recap"
         }
     },
-    "sequence": 1215,
+    "sequence": 18,
     "shootout": [],
     "timelineItems": [
         {
@@ -6644,7 +6655,7 @@
             "comment": "Attempt saved. Sebastian Giovinco (Toronto FC) right footed shot from outside the box is saved in the centre of the goal. Assisted by Marco Delgado.",
             "extraTimeNum": 1,
             "id": 1032517725,
-            "last_modified": 1439682842,
+            "last_modified": 1439856216,
             "minuteNum": 45,
             "players": [
                 {
@@ -6691,11 +6702,11 @@
         },
         {
             "_type": "COMMENT",
-            "comment": "Attempt missed. Marco Delgado (Toronto FC) left footed shot from outside the box misses to the right. Assisted by Sebastian Giovinco following a fast break.",
+            "comment": "Attempt missed. Marco Delgado (Toronto FC) left footed shot from outside the box is close, but misses to the right. Assisted by Sebastian Giovinco following a fast break.",
             "extraTimeNum": 0,
             "id": 1087641578,
-            "last_modified": 1439680360,
-            "minuteNum": 5,
+            "last_modified": 1439849524,
+            "minuteNum": 4,
             "players": [
                 {
                     "clubOptaId": 2077,
@@ -6708,14 +6719,14 @@
                 {
                     "clubOptaId": 2077,
                     "indices": [
-                        114,
-                        132
+                        128,
+                        146
                     ],
                     "optaId": 40283
                 }
             ],
-            "secondNum": 1,
-            "time": "5'",
+            "secondNum": 59,
+            "time": "4'",
             "type": "miss",
             "videoId": 47044
         },
@@ -6766,7 +6777,7 @@
             "comment": "Attempt missed. Daniel Lovitz (Toronto FC) right footed shot from outside the box is just a bit too high following a corner.",
             "extraTimeNum": 0,
             "id": 1099726914,
-            "last_modified": 1439685390,
+            "last_modified": 1439859347,
             "minuteNum": 72,
             "players": [
                 {
@@ -6787,7 +6798,7 @@
             "comment": "Attempt missed. Bradley Wright-Phillips (New York Red Bulls) header from the centre of the box is just a bit too high. Assisted by Connor Lade with a cross.",
             "extraTimeNum": 0,
             "id": 1099813958,
-            "last_modified": 1439682762,
+            "last_modified": 1439856104,
             "minuteNum": 45,
             "players": [
                 {
@@ -6807,24 +6818,24 @@
                     "optaId": 109699
                 }
             ],
-            "secondNum": 8,
+            "secondNum": 7,
             "time": "45'",
             "type": "miss",
             "videoId": 47059
         },
         {
             "_type": "COMMENT",
-            "comment": "Foul by Anthony Wallace (New York Red Bulls).",
+            "comment": "Hand ball by Anthony Wallace (New York Red Bulls).",
             "extraTimeNum": 0,
             "id": 1142885783,
-            "last_modified": 1439681117,
+            "last_modified": 1439852579,
             "minuteNum": 17,
             "players": [
                 {
                     "clubOptaId": 399,
                     "indices": [
-                        8,
-                        23
+                        13,
+                        28
                     ],
                     "optaId": 41634
                 }
@@ -6859,7 +6870,7 @@
             "comment": "Attempt blocked. Gonzalo Ver\u00f3n (New York Red Bulls) right footed shot from outside the box is blocked. Assisted by Anthony Wallace.",
             "extraTimeNum": 0,
             "id": 1212712349,
-            "last_modified": 1439686025,
+            "last_modified": 1439921476,
             "minuteNum": 83,
             "players": [
                 {
@@ -6992,7 +7003,7 @@
             "comment": "Attempt missed. Bradley Wright-Phillips (New York Red Bulls) right footed shot from outside the box misses to the left. Assisted by Sacha Kljestan.",
             "extraTimeNum": 0,
             "id": 1309813373,
-            "last_modified": 1439680884,
+            "last_modified": 1439852078,
             "minuteNum": 13,
             "players": [
                 {
@@ -7072,39 +7083,10 @@
         },
         {
             "_type": "COMMENT",
-            "comment": "Offside, Toronto FC. Benoit Cheyrou tries a through ball, but Sebastian Giovinco is caught offside.",
-            "extraTimeNum": 0,
-            "id": 1373942576,
-            "last_modified": 1439687019,
-            "minuteNum": 53,
-            "players": [
-                {
-                    "clubOptaId": 2077,
-                    "indices": [
-                        21,
-                        35
-                    ],
-                    "optaId": 6571
-                },
-                {
-                    "clubOptaId": 2077,
-                    "indices": [
-                        62,
-                        80
-                    ],
-                    "optaId": 40283
-                }
-            ],
-            "secondNum": 39,
-            "time": "53'",
-            "type": "offside"
-        },
-        {
-            "_type": "COMMENT",
             "comment": "Attempt missed. Bradley Wright-Phillips (New York Red Bulls) right footed shot from outside the box is high and wide to the right. Assisted by Sacha Kljestan.",
             "extraTimeNum": 0,
             "id": 1419536063,
-            "last_modified": 1439682507,
+            "last_modified": 1439855792,
             "minuteNum": 40,
             "players": [
                 {
@@ -7124,7 +7106,7 @@
                     "optaId": 41703
                 }
             ],
-            "secondNum": 57,
+            "secondNum": 55,
             "time": "40'",
             "type": "miss"
         },
@@ -7133,7 +7115,7 @@
             "comment": "Attempt blocked. Bradley Wright-Phillips (New York Red Bulls) right footed shot from the right side of the box is blocked. Assisted by Sacha Kljestan with a through ball.",
             "extraTimeNum": 0,
             "id": 1446314321,
-            "last_modified": 1439680605,
+            "last_modified": 1439851143,
             "minuteNum": 9,
             "players": [
                 {
@@ -7262,7 +7244,7 @@
             "comment": "Attempt missed. Anthony Wallace (New York Red Bulls) left footed shot from outside the box is too high following a set piece situation.",
             "extraTimeNum": 0,
             "id": 1512038356,
-            "last_modified": 1439684339,
+            "last_modified": 1439858296,
             "minuteNum": 55,
             "players": [
                 {
@@ -7316,7 +7298,7 @@
             "comment": "Attempt saved. Bradley Wright-Phillips (New York Red Bulls) right footed shot from the centre of the box is saved in the centre of the goal. Assisted by Dax McCarty with a through ball.",
             "extraTimeNum": 0,
             "id": 1590288377,
-            "last_modified": 1439683862,
+            "last_modified": 1439856932,
             "minuteNum": 46,
             "players": [
                 {
@@ -7346,7 +7328,7 @@
             "comment": "Attempt saved. H\u00e9rculez G\u00f3mez (Toronto FC) right footed shot from long range on the right is saved in the bottom right corner. Assisted by Daniel Lovitz.",
             "extraTimeNum": 0,
             "id": 1615252375,
-            "last_modified": 1439686185,
+            "last_modified": 1439920663,
             "minuteNum": 74,
             "players": [
                 {
@@ -7393,27 +7375,6 @@
         },
         {
             "_type": "COMMENT",
-            "comment": "Jozy Altidore (Toronto FC) wins a free kick on the right wing.",
-            "extraTimeNum": 0,
-            "id": 1643959878,
-            "last_modified": 1439681117,
-            "minuteNum": 17,
-            "players": [
-                {
-                    "clubOptaId": 2077,
-                    "indices": [
-                        0,
-                        13
-                    ],
-                    "optaId": 41574
-                }
-            ],
-            "secondNum": 48,
-            "time": "17'",
-            "type": "free kick won"
-        },
-        {
-            "_type": "COMMENT",
             "comment": "Jozy Altidore (Toronto FC) wins a free kick in the attacking half.",
             "extraTimeNum": 0,
             "id": 1656577616,
@@ -7438,7 +7399,7 @@
             "comment": "Attempt blocked. Michael Bradley (Toronto FC) right footed shot from outside the box is blocked. Assisted by Jozy Altidore.",
             "extraTimeNum": 0,
             "id": 1689705272,
-            "last_modified": 1439684412,
+            "last_modified": 1439858381,
             "minuteNum": 56,
             "players": [
                 {
@@ -7488,7 +7449,7 @@
             "comment": "Attempt saved. Marco Delgado (Toronto FC) right footed shot from outside the box is saved in the bottom left corner.",
             "extraTimeNum": 0,
             "id": 1756744064,
-            "last_modified": 1439685604,
+            "last_modified": 1439920728,
             "minuteNum": 74,
             "players": [
                 {
@@ -7674,10 +7635,10 @@
         },
         {
             "_type": "COMMENT",
-            "comment": "Foul by Josh Williams (Toronto FC).",
+            "comment": "Foul by Ahmed Kantari (Toronto FC).",
             "extraTimeNum": 0,
             "id": 1852151256,
-            "last_modified": 1439687022,
+            "last_modified": 1439857172,
             "minuteNum": 49,
             "players": [
                 {
@@ -7686,7 +7647,7 @@
                         8,
                         21
                     ],
-                    "optaId": 94479
+                    "optaId": 37930
                 }
             ],
             "secondNum": 17,
@@ -7740,7 +7701,7 @@
             "comment": "Attempt saved. Bradley Wright-Phillips (New York Red Bulls) right footed shot from the left side of the box is saved in the bottom right corner. Assisted by Gonzalo Ver\u00f3n.",
             "extraTimeNum": 3,
             "id": 1939465261,
-            "last_modified": 1439686699,
+            "last_modified": 1439922299,
             "minuteNum": 90,
             "players": [
                 {
@@ -7823,7 +7784,7 @@
             "comment": "Attempt blocked. Felipe (New York Red Bulls) right footed shot from outside the box is blocked.",
             "extraTimeNum": 0,
             "id": 1971936821,
-            "last_modified": 1439686095,
+            "last_modified": 1439921490,
             "minuteNum": 84,
             "players": [
                 {
@@ -7886,7 +7847,7 @@
             "comment": "Attempt missed. Ahmed Kantari (Toronto FC) header from the centre of the box is too high. Assisted by Michael Bradley following a set piece situation.",
             "extraTimeNum": 0,
             "id": 2038213020,
-            "last_modified": 1439682574,
+            "last_modified": 1439855833,
             "minuteNum": 41,
             "players": [
                 {
@@ -7906,7 +7867,7 @@
                     "optaId": 37368
                 }
             ],
-            "secondNum": 58,
+            "secondNum": 57,
             "time": "41'",
             "type": "miss"
         },
@@ -7957,7 +7918,7 @@
             "comment": "Attempt missed. Felipe (New York Red Bulls) right footed shot from outside the box misses to the left.",
             "extraTimeNum": 0,
             "id": 226040695,
-            "last_modified": 1439683931,
+            "last_modified": 1439857133,
             "minuteNum": 48,
             "players": [
                 {
@@ -7999,7 +7960,7 @@
             "comment": "Attempt blocked. Sebastian Giovinco (Toronto FC) right footed shot from outside the box is blocked.",
             "extraTimeNum": 0,
             "id": 236160988,
-            "last_modified": 1439685783,
+            "last_modified": 1439921221,
             "minuteNum": 79,
             "players": [
                 {
@@ -8053,7 +8014,7 @@
             "comment": "Attempt saved. Lloyd Sam (New York Red Bulls) left footed shot from outside the box is saved in the bottom left corner. Assisted by Connor Lade.",
             "extraTimeNum": 0,
             "id": 273310669,
-            "last_modified": 1439681655,
+            "last_modified": 1439853511,
             "minuteNum": 26,
             "players": [
                 {
@@ -8351,7 +8312,7 @@
             "comment": "Attempt missed. Felipe (New York Red Bulls) right footed shot from outside the box is high and wide to the right.",
             "extraTimeNum": 0,
             "id": 630889594,
-            "last_modified": 1439686398,
+            "last_modified": 1439921909,
             "minuteNum": 89,
             "players": [
                 {
@@ -8537,6 +8498,35 @@
         },
         {
             "_type": "COMMENT",
+            "comment": "Attempt missed. Felipe (New York Red Bulls) right footed shot from long range on the right misses to the left. Assisted by Connor Lade following a set piece situation.",
+            "extraTimeNum": 0,
+            "id": 819028432,
+            "last_modified": 1439850640,
+            "minuteNum": 7,
+            "players": [
+                {
+                    "clubOptaId": 399,
+                    "indices": [
+                        16,
+                        22
+                    ],
+                    "optaId": 56812
+                },
+                {
+                    "clubOptaId": 399,
+                    "indices": [
+                        123,
+                        134
+                    ],
+                    "optaId": 109699
+                }
+            ],
+            "secondNum": 55,
+            "time": "7'",
+            "type": "miss"
+        },
+        {
+            "_type": "COMMENT",
             "comment": "Foul by Dax McCarty (New York Red Bulls).",
             "extraTimeNum": 0,
             "id": 834506816,
@@ -8663,13 +8653,34 @@
         },
         {
             "_type": "COMMENT",
+            "comment": "Hand ball by Sebastian Giovinco (Toronto FC).",
+            "extraTimeNum": 0,
+            "id": 927846449,
+            "last_modified": 1439858052,
+            "minuteNum": 53,
+            "players": [
+                {
+                    "clubOptaId": 2077,
+                    "indices": [
+                        13,
+                        31
+                    ],
+                    "optaId": 40283
+                }
+            ],
+            "secondNum": 39,
+            "time": "53'",
+            "type": "free kick lost"
+        },
+        {
+            "_type": "COMMENT",
             "comment": "First Half ends, New York Red Bulls 1, Toronto FC 0.",
             "extraTimeNum": 2,
             "id": 931257470,
-            "last_modified": 1439682865,
+            "last_modified": 1439856259,
             "minuteNum": 45,
             "players": [],
-            "secondNum": 8,
+            "secondNum": 2,
             "time": "45'+2'",
             "type": "end 1"
         },
@@ -8720,7 +8731,7 @@
             "comment": "Attempt saved. Shaun Wright-Phillips (New York Red Bulls) right footed shot from the centre of the box is saved in the bottom left corner. Assisted by Gonzalo Ver\u00f3n.",
             "extraTimeNum": 1,
             "id": 987429185,
-            "last_modified": 1439687002,
+            "last_modified": 1439922062,
             "minuteNum": 90,
             "players": [
                 {
@@ -9555,7 +9566,7 @@
             "thumbnailUrl": "http://cf.c.ooyala.com/NhYnIxdzrYMChbHMXGwG0JdjKc8vHTQZ/promo263957315",
             "title": "HIGHLIGHTS: New York Red Bulls vs Toronto FC | August 15, 2015",
             "type": "video",
-            "updated": 1439688919178
+            "updated": 1439909445857
         },
         {
             "_type": "TWEET",
@@ -9740,7 +9751,7 @@
             "thumbnailUrl": "http://cf.c.ooyala.com/p4N3ExdzqIHqyPdZRX6QJMalgUUcx09o/promo263950963",
             "title": "GOAL: Bradley Wright-Phillips takes a gorgeous chip from Grella and scores",
             "type": "video",
-            "updated": 1439682582952
+            "updated": 1439992002208
         },
         {
             "_type": "TWEET",
@@ -10030,7 +10041,7 @@
             "thumbnailUrl": "http://cf.c.ooyala.com/d3eHAxdzpXbdwhzGa4Q-vurmoDXbScdz/promo263949852",
             "title": "CHANCE: Marco Delgado takes a feed from Giovinco and nearly opens scoring",
             "type": "video",
-            "updated": 1439681104652
+            "updated": 1439735306197
         },
         {
             "_type": "TWEET",
@@ -10683,7 +10694,7 @@
             "thumbnailUrl": "http://cf.c.ooyala.com/Nlb3Exdzrwt4hcLXM5qnSTuTFeCgTWOK/promo263954436",
             "title": "GOAL: Anthony Wallace blasts a shot in from long range",
             "type": "video",
-            "updated": 1439685724769
+            "updated": 1439991995630
         },
         {
             "_type": "TWEET",
@@ -11440,7 +11451,7 @@
             "thumbnailUrl": "http://cf.c.ooyala.com/pveXExdzppiTuQVHQUhrse4nrchIgFyx/promo263956268",
             "title": "GOAL: Gonzalo Veron opens his Red Bulls account",
             "type": "video",
-            "updated": 1439687707568
+            "updated": 1439991996771
         },
         {
             "_type": "TWEET",

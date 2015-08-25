@@ -378,19 +378,19 @@
                     "statValue": 57
                 },
                 "accurate_fwd_zone_pass": {
-                    "statFH": 86,
+                    "statFH": 88,
                     "statSH": 74,
-                    "statValue": 160
+                    "statValue": 162
                 },
                 "accurate_fwd_zone_pass_per": {
                     "statFH": 0,
                     "statSH": 0,
-                    "statValue": 70
+                    "statValue": 71
                 },
                 "accurate_pass": {
-                    "statFH": 170,
-                    "statSH": 153,
-                    "statValue": 323
+                    "statFH": 171,
+                    "statSH": 154,
+                    "statValue": 325
                 },
                 "accurate_pass_per": {
                     "statFH": 0,
@@ -630,8 +630,8 @@
                 },
                 "duel_lost": {
                     "statFH": 29,
-                    "statSH": 26,
-                    "statValue": 55
+                    "statSH": 24,
+                    "statValue": 53
                 },
                 "duel_won": {
                     "statFH": 22,
@@ -641,7 +641,7 @@
                 "duel_won_per": {
                     "statFH": 0,
                     "statSH": 0,
-                    "statValue": 43
+                    "statValue": 44
                 },
                 "fk_foul_lost": {
                     "statFH": 9,
@@ -679,9 +679,9 @@
                     "statValue": 0
                 },
                 "passes_left": {
-                    "statFH": 28,
+                    "statFH": 31,
                     "statSH": 31,
-                    "statValue": 59
+                    "statValue": 62
                 },
                 "passes_right": {
                     "statFH": 23,
@@ -690,7 +690,7 @@
                 },
                 "possession_percentage": {
                     "statFH": 50.6,
-                    "statSH": 39.2,
+                    "statSH": 39.3,
                     "statValue": 44.9
                 },
                 "saves": {
@@ -714,8 +714,8 @@
                     "statValue": 43
                 },
                 "total_back_zone_pass": {
-                    "statFH": 97,
-                    "statSH": 88,
+                    "statFH": 96,
+                    "statSH": 89,
                     "statValue": 185
                 },
                 "total_clearance": {
@@ -739,9 +739,9 @@
                     "statValue": 76
                 },
                 "total_fwd_zone_pass": {
-                    "statFH": 133,
+                    "statFH": 134,
                     "statSH": 95,
-                    "statValue": 228
+                    "statValue": 229
                 },
                 "total_offside": {
                     "statFH": 0,
@@ -750,8 +750,8 @@
                 },
                 "total_pass": {
                     "statFH": 224,
-                    "statSH": 182,
-                    "statValue": 406
+                    "statSH": 183,
+                    "statValue": 407
                 },
                 "total_red_card": {
                     "statFH": 1,
@@ -810,8 +810,8 @@
                 },
                 "accurate_fwd_zone_pass": {
                     "statFH": 85,
-                    "statSH": 115,
-                    "statValue": 200
+                    "statSH": 116,
+                    "statValue": 201
                 },
                 "accurate_fwd_zone_pass_per": {
                     "statFH": 0,
@@ -829,14 +829,14 @@
                     "statValue": 84
                 },
                 "att_bx_centre": {
-                    "statFH": 4,
+                    "statFH": 5,
                     "statSH": 4,
-                    "statValue": 8
+                    "statValue": 9
                 },
                 "att_bx_left": {
-                    "statFH": 1,
+                    "statFH": 0,
                     "statSH": 1,
-                    "statValue": 2
+                    "statValue": 1
                 },
                 "att_bx_right": {
                     "statFH": 1,
@@ -1024,19 +1024,19 @@
                     "statValue": 3
                 },
                 "att_sv_low_left": {
-                    "statFH": 1,
+                    "statFH": 2,
                     "statSH": 0,
-                    "statValue": 1
+                    "statValue": 2
                 },
                 "att_sv_low_right": {
-                    "statFH": 3,
+                    "statFH": 2,
                     "statSH": 1,
-                    "statValue": 4
+                    "statValue": 3
                 },
                 "big_chance_created": {
                     "statFH": 1,
-                    "statSH": 1,
-                    "statValue": 2
+                    "statSH": 2,
+                    "statValue": 3
                 },
                 "big_chance_missed": {
                     "statFH": 1,
@@ -1045,8 +1045,8 @@
                 },
                 "big_chance_scored": {
                     "statFH": 1,
-                    "statSH": 0,
-                    "statValue": 1
+                    "statSH": 1,
+                    "statValue": 2
                 },
                 "blocked_scoring_att": {
                     "statFH": 1,
@@ -1066,13 +1066,13 @@
                 },
                 "duel_won": {
                     "statFH": 29,
-                    "statSH": 26,
-                    "statValue": 55
+                    "statSH": 24,
+                    "statValue": 53
                 },
                 "duel_won_per": {
                     "statFH": 0,
                     "statSH": 0,
-                    "statValue": 57
+                    "statValue": 56
                 },
                 "fk_foul_lost": {
                     "statFH": 8,
@@ -1121,7 +1121,7 @@
                 },
                 "possession_percentage": {
                     "statFH": 49.4,
-                    "statSH": 60.8,
+                    "statSH": 60.7,
                     "statValue": 55.1
                 },
                 "saves": {
@@ -1141,12 +1141,12 @@
                 },
                 "successful_final_third_passes": {
                     "statFH": 40,
-                    "statSH": 55,
-                    "statValue": 95
+                    "statSH": 56,
+                    "statValue": 96
                 },
                 "total_back_zone_pass": {
-                    "statFH": 97,
-                    "statSH": 135,
+                    "statFH": 98,
+                    "statSH": 134,
                     "statValue": 232
                 },
                 "total_clearance": {
@@ -1166,12 +1166,12 @@
                 },
                 "total_final_third_passes": {
                     "statFH": 64,
-                    "statSH": 76,
-                    "statValue": 140
+                    "statSH": 77,
+                    "statValue": 141
                 },
                 "total_fwd_zone_pass": {
-                    "statFH": 129,
-                    "statSH": 154,
+                    "statFH": 128,
+                    "statSH": 155,
                     "statValue": 283
                 },
                 "total_offside": {
@@ -1196,8 +1196,8 @@
                 },
                 "total_tackle": {
                     "statFH": 11,
-                    "statSH": 13,
-                    "statValue": 24
+                    "statSH": 11,
+                    "statValue": 22
                 },
                 "total_yel_card": {
                     "statFH": 0,
@@ -1216,8 +1216,8 @@
                 },
                 "won_tackle": {
                     "statFH": 6,
-                    "statSH": 11,
-                    "statValue": 17
+                    "statSH": 10,
+                    "statValue": 16
                 }
             }
         }
@@ -1239,32 +1239,32 @@
             "period_id": 1,
             "qualifiers": {
                 "102": "50.7",
-                "146": "92.5",
-                "147": "47.5"
+                "146": "92.8",
+                "147": "49.6"
             },
             "team_id": 3500,
             "type_id": 15,
-            "x": 89.6,
-            "y": 46.6
+            "x": 90.6,
+            "y": 49.7
         },
         {
             "id": 6216073,
             "period_id": 1,
             "qualifiers": {
-                "102": "40.8"
+                "102": "42.4"
             },
             "team_id": 6900,
             "type_id": 13,
             "x": 79.6,
-            "y": 61.6
+            "y": 61.2
         },
         {
             "id": 577449885,
             "period_id": 1,
             "qualifiers": {
-                "102": "50.6",
-                "146": "97.5",
-                "147": "53.2"
+                "102": "50.4",
+                "146": "98.9",
+                "147": "52.7"
             },
             "team_id": 3500,
             "type_id": 15,
@@ -1279,16 +1279,16 @@
             },
             "team_id": 3500,
             "type_id": 16,
-            "x": 89.9,
-            "y": 50.3
+            "x": 89.6,
+            "y": 50.7
         },
         {
             "id": 1678469764,
             "period_id": 1,
             "qualifiers": {
                 "102": "53.1",
-                "146": "94.1",
-                "147": "48.4"
+                "146": "96.0",
+                "147": "46.6"
             },
             "team_id": 3500,
             "type_id": 15,
@@ -1300,8 +1300,8 @@
             "period_id": 1,
             "qualifiers": {
                 "102": "47.2",
-                "146": "97.3",
-                "147": "46.6"
+                "146": "99.1",
+                "147": "49.8"
             },
             "team_id": 3500,
             "type_id": 15,
@@ -1312,9 +1312,9 @@
             "id": 1000109140,
             "period_id": 1,
             "qualifiers": {
-                "102": "46.9",
-                "146": "97.8",
-                "147": "42.8"
+                "102": "54.2",
+                "146": "98.4",
+                "147": "44.2"
             },
             "team_id": 3500,
             "type_id": 15,
@@ -1325,34 +1325,34 @@
             "id": 265308631,
             "period_id": 1,
             "qualifiers": {
-                "146": "85.8",
-                "147": "63.9",
+                "146": "85.5",
+                "147": "60.3",
                 "82": true
             },
             "team_id": 3500,
             "type_id": 15,
-            "x": 83.8,
-            "y": 64.6
+            "x": 84,
+            "y": 60.4
         },
         {
             "id": 1339048630,
             "period_id": 1,
             "qualifiers": {
-                "146": "89.9",
-                "147": "51.6",
+                "146": "89.4",
+                "147": "53.2",
                 "82": true
             },
             "team_id": 6900,
             "type_id": 15,
-            "x": 85,
-            "y": 54.9
+            "x": 86,
+            "y": 57.5
         },
         {
             "id": 901824100,
             "period_id": 1,
             "qualifiers": {
-                "146": "90.4",
-                "147": "43.0",
+                "146": "90.7",
+                "147": "44.4",
                 "82": true
             },
             "team_id": 6900,
@@ -1375,7 +1375,7 @@
             "id": 2093739115,
             "period_id": 1,
             "qualifiers": {
-                "102": "47.6",
+                "102": "48.1",
                 "146": "96.9",
                 "147": "50.9"
             },
@@ -1399,25 +1399,25 @@
             "id": 1750520096,
             "period_id": 2,
             "qualifiers": {
-                "102": "46.4"
+                "102": "47.0"
             },
             "team_id": 3500,
             "type_id": 16,
-            "x": 92.7,
+            "x": 89,
             "y": 56.7
         },
         {
             "id": 2107198104,
             "period_id": 2,
             "qualifiers": {
-                "146": "83.7",
-                "147": "54.9",
+                "146": "83.3",
+                "147": "55.6",
                 "82": true
             },
             "team_id": 6900,
             "type_id": 15,
-            "x": 82.1,
-            "y": 55.2
+            "x": 81.2,
+            "y": 56.3
         },
         {
             "id": 1184281436,
@@ -1451,8 +1451,8 @@
             },
             "team_id": 3500,
             "type_id": 16,
-            "x": 97.3,
-            "y": 53.6
+            "x": 97.4,
+            "y": 52.8
         },
         {
             "id": 2070259941,
@@ -1472,13 +1472,13 @@
             "period_id": 2,
             "qualifiers": {
                 "102": "47.3",
-                "146": "95.2",
-                "147": "52.5"
+                "146": "96.2",
+                "147": "52.9"
             },
             "team_id": 3500,
             "type_id": 15,
-            "x": 84,
-            "y": 76
+            "x": 83.3,
+            "y": 74
         },
         {
             "id": 1796579980,
@@ -1495,27 +1495,27 @@
             "id": 1600517131,
             "period_id": 2,
             "qualifiers": {
-                "146": "82.1",
-                "147": "66.1",
+                "146": "79.9",
+                "147": "60.5",
                 "82": true
             },
             "team_id": 3500,
             "type_id": 15,
-            "x": 74.3,
-            "y": 71.5
+            "x": 74.5,
+            "y": 67.4
         },
         {
             "id": 1770030399,
             "period_id": 2,
             "qualifiers": {
-                "146": "81.4",
-                "147": "74.9",
+                "146": "81.5",
+                "147": "73.7",
                 "82": true
             },
             "team_id": 3500,
             "type_id": 15,
-            "x": 79.5,
-            "y": 76.6
+            "x": 80.6,
+            "y": 74
         },
         {
             "id": 729862502,
@@ -1527,7 +1527,7 @@
             },
             "team_id": 3500,
             "type_id": 15,
-            "x": 73,
+            "x": 74.4,
             "y": 59.4
         },
         {
@@ -1539,7 +1539,7 @@
             "team_id": 3500,
             "type_id": 16,
             "x": 84.9,
-            "y": 47
+            "y": 46
         }
     ],
     "device": "desktop",
@@ -2572,9 +2572,9 @@
                     "headshot": "http://img.mlsdigital.net/www.mlssoccer.com/6/player/297622/{{width}}x{{height}}.jpg",
                     "height": 74,
                     "id": 34160,
-                    "jerseyNumber": 0,
+                    "jerseyNumber": 29,
                     "name": {
-                        "first": "Roman",
+                        "first": "Rom\u00e1n",
                         "last": "Torres"
                     },
                     "nid": 297622,
@@ -2800,13 +2800,6 @@
                             "href": "http://www.mlssoccer.com/news/u.s.-open-cup",
                             "id": null,
                             "title": "U.S. Open Cup"
-                        },
-                        {
-                            "children": null,
-                            "class": "column-orphan",
-                            "href": "http://www.mlssoccer.com/ccl",
-                            "id": null,
-                            "title": "Champions League"
                         }
                     ],
                     "class": "the-orphans",
@@ -3068,149 +3061,40 @@
             "title": "Videos"
         },
         {
+            "children": [],
+            "href": "http://www.mlssoccer.com/schedule",
+            "id": "menu-schedule",
+            "title": "Schedule"
+        },
+        {
             "children": null,
             "href": "http://matchcenter.mlssoccer.com",
             "id": null,
             "title": "Scores"
         },
         {
-            "children": [
-                {
-                    "children": null,
-                    "class": null,
-                    "href": "http://www.mlssoccer.com/schedule",
-                    "id": null,
-                    "title": "Regular Season Schedule"
-                },
-                {
-                    "children": null,
-                    "class": null,
-                    "href": "http://www.mlssoccer.com/tv",
-                    "id": null,
-                    "title": "TV Schedule"
-                },
-                {
-                    "children": null,
-                    "class": null,
-                    "href": "http://www.mlssoccer.com/schedule-download",
-                    "id": null,
-                    "title": "Add Schedule to Calendar"
-                }
-            ],
-            "href": "http://www.mlssoccer.com/schedule",
-            "id": "menu-schedule",
-            "title": "Schedule"
-        },
-        {
-            "children": [
-                {
-                    "children": null,
-                    "class": null,
-                    "href": "http://www.mlssoccer.com/standings/supporters-shield",
-                    "id": null,
-                    "title": "Supporters' Shield"
-                },
-                {
-                    "children": null,
-                    "class": null,
-                    "href": "http://www.mlssoccer.com/results",
-                    "id": null,
-                    "title": "Results Map"
-                },
-                {
-                    "children": null,
-                    "class": null,
-                    "href": "http://www.mlssoccer.com/standings/ppg",
-                    "id": null,
-                    "title": "Points Per Game"
-                }
-            ],
+            "children": [],
             "href": "http://www.mlssoccer.com/standings",
             "id": null,
             "title": "Standings"
         },
         {
-            "children": [
-                {
-                    "children": null,
-                    "class": null,
-                    "href": "http://www.mlssoccer.com/stats",
-                    "id": null,
-                    "title": "League Leaders"
-                },
-                {
-                    "children": null,
-                    "class": null,
-                    "href": "http://www.mlssoccer.com/stats/season",
-                    "id": null,
-                    "title": "Season Stats"
-                },
-                {
-                    "children": null,
-                    "class": null,
-                    "href": "http://www.mlssoccer.com/stats/alltime",
-                    "id": null,
-                    "title": "All-Time Stats"
-                },
-                {
-                    "children": null,
-                    "class": null,
-                    "href": "http://www.mlssoccer.com/stats/team",
-                    "id": null,
-                    "title": "Team Stats"
-                },
-                {
-                    "children": null,
-                    "class": null,
-                    "href": "http://www.mlssoccer.com/players",
-                    "id": null,
-                    "title": "Player Stats"
-                },
-                {
-                    "children": null,
-                    "class": null,
-                    "href": "http://www.mlssoccer.com/news/central-winger",
-                    "id": null,
-                    "title": "Statistical Analysis"
-                }
-            ],
+            "children": [],
             "href": "http://www.mlssoccer.com/stats",
             "id": null,
             "title": "Stats"
         },
         {
-            "children": [
-                {
-                    "children": null,
-                    "class": null,
-                    "href": "http://fantasy.mlssoccer.com/?=Nav",
-                    "id": null,
-                    "title": "Fantasy Soccer Manager"
-                },
-                {
-                    "children": null,
-                    "class": null,
-                    "href": "https://www.draftkings.com/gateway?s=391686519",
-                    "id": null,
-                    "title": "DraftKings Daily Fantasy"
-                },
-                {
-                    "children": null,
-                    "class": null,
-                    "href": "http://www.mlssoccer.com/id/412%2B709%2B708%2B614",
-                    "id": null,
-                    "title": "Fantasy advice and news"
-                }
-            ],
+            "children": [],
             "href": "http://www.mlssoccer.com/fantasy-soccer",
             "id": null,
             "title": "Fantasy"
         },
         {
-            "children": null,
-            "href": "http://mls.univision.com/",
-            "id": "menu-espanol",
-            "title": "Espa\u00f1ol"
+            "children": [],
+            "href": "http://live.mlssoccer.com/mlsmdl/",
+            "id": "mls-live",
+            "title": "MLS LIVE"
         },
         {
             "children": [],
@@ -3219,61 +3103,10 @@
             "title": "Shop"
         },
         {
-            "children": [
-                {
-                    "children": [
-                        {
-                            "children": null,
-                            "class": "column-orphan",
-                            "href": "http://www.mlssoccer.com/mls-live",
-                            "id": null,
-                            "title": "MLS LIVE"
-                        },
-                        {
-                            "children": null,
-                            "class": "column-orphan",
-                            "href": "http://www.mlssoccer.com/mobile",
-                            "id": null,
-                            "title": "MLS app"
-                        },
-                        {
-                            "children": [],
-                            "class": "column-orphan",
-                            "href": "http://www.mlssoccer.com/fans/social-media",
-                            "id": null,
-                            "title": "Social Media"
-                        },
-                        {
-                            "children": null,
-                            "class": "column-orphan",
-                            "href": "http://www.mlssoccer.com/form/signup",
-                            "id": null,
-                            "title": "Weekly Newsletter"
-                        },
-                        {
-                            "children": null,
-                            "class": "column-orphan",
-                            "href": "http://pressbox.mlssoccer.com/content/competition-rules-and-regulations",
-                            "id": null,
-                            "title": "Competition Rules and Regulations"
-                        },
-                        {
-                            "children": null,
-                            "class": "column-orphan",
-                            "href": "http://pressbox.mlssoccer.com/content/roster-rules-and-regulations",
-                            "id": null,
-                            "title": "Roster Rules"
-                        }
-                    ],
-                    "class": "the-orphans",
-                    "href": null,
-                    "id": null,
-                    "title": null
-                }
-            ],
-            "href": "http://www.mlssoccer.com/",
-            "id": "menu-more",
-            "title": "More"
+            "children": null,
+            "href": "http://mls.univision.com/",
+            "id": "menu-espanol",
+            "title": "Espa\u00f1ol"
         }
     ],
     "navStyle": "mp6",
@@ -4377,28 +4210,28 @@
                 "interval": {
                     "15": {
                         "0-15": {
-                            "3500": 45.2,
-                            "6900": 54.8
+                            "3500": 45.5,
+                            "6900": 54.5
                         },
                         "16-30": {
-                            "3500": 51.8,
-                            "6900": 48.2
+                            "3500": 51.4,
+                            "6900": 48.6
                         },
                         "31-45": {
                             "3500": 52.2,
                             "6900": 47.8
                         },
                         "46-60": {
-                            "3500": 53.5,
-                            "6900": 46.5
+                            "3500": 53.8,
+                            "6900": 46.2
                         },
                         "61-75": {
                             "3500": 57.9,
                             "6900": 42.1
                         },
                         "76-90": {
-                            "3500": 70.8,
-                            "6900": 29.2
+                            "3500": 70.3,
+                            "6900": 29.7
                         }
                     },
                     "45": {
@@ -4407,24 +4240,24 @@
                             "6900": 50.3
                         },
                         "46-90": {
-                            "3500": 62.1,
-                            "6900": 37.9
+                            "3500": 61.9,
+                            "6900": 38.1
                         }
                     },
                     "5": {
                         "0-5": {
-                            "3500": 51.6,
-                            "6900": 48.4,
+                            "3500": 53.3,
+                            "6900": 46.7,
                             "interval": "0-5"
                         },
                         "11-15": {
-                            "3500": 26.7,
-                            "6900": 73.3,
+                            "3500": 26.1,
+                            "6900": 73.9,
                             "interval": "11-15"
                         },
                         "16-20": {
-                            "3500": 55.8,
-                            "6900": 44.2,
+                            "3500": 54.7,
+                            "6900": 45.3,
                             "interval": "16-20"
                         },
                         "21-25": {
@@ -4453,8 +4286,8 @@
                             "interval": "41-45"
                         },
                         "46-50": {
-                            "3500": 64.1,
-                            "6900": 35.9,
+                            "3500": 65,
+                            "6900": 35,
                             "interval": "46-50"
                         },
                         "51-55": {
@@ -4488,13 +4321,13 @@
                             "interval": "71-75"
                         },
                         "76-80": {
-                            "3500": 57.8,
-                            "6900": 42.2,
+                            "3500": 56.9,
+                            "6900": 43.1,
                             "interval": "76-80"
                         },
                         "81-85": {
-                            "3500": 89.6,
-                            "6900": 10.4,
+                            "3500": 89.4,
+                            "6900": 10.6,
                             "interval": "81-85"
                         },
                         "86-90": {
@@ -4510,20 +4343,20 @@
                         "6900": 25.9
                     },
                     "15": {
-                        "3500": 78.8,
-                        "6900": 21.2
+                        "3500": 78.6,
+                        "6900": 21.4
                     },
                     "20": {
-                        "3500": 73.6,
-                        "6900": 26.4
+                        "3500": 73.1,
+                        "6900": 26.9
                     },
                     "25": {
-                        "3500": 70.1,
-                        "6900": 29.9
+                        "3500": 69.7,
+                        "6900": 30.3
                     },
                     "30": {
-                        "3500": 68.2,
-                        "6900": 31.8
+                        "3500": 67.9,
+                        "6900": 32.1
                     },
                     "5": {
                         "3500": 66.7,
@@ -4531,60 +4364,60 @@
                     }
                 },
                 "overall": {
-                    "3500": 56,
-                    "6900": 44
+                    "3500": 55.9,
+                    "6900": 44.1
                 }
             },
             "Territorial": {
                 "interval": {
                     "15": {
                         "0-15": {
-                            "3500": 48.4,
-                            "6900": 51.6
+                            "3500": 47.4,
+                            "6900": 52.6
                         },
                         "16-30": {
-                            "3500": 52.6,
-                            "6900": 47.4
+                            "3500": 52.2,
+                            "6900": 47.8
                         },
                         "31-45": {
                             "3500": 48.4,
                             "6900": 51.6
                         },
                         "46-60": {
-                            "3500": 49.6,
-                            "6900": 50.4
+                            "3500": 50,
+                            "6900": 50
                         },
                         "61-75": {
                             "3500": 47.1,
                             "6900": 52.9
                         },
                         "76-90": {
-                            "3500": 56.9,
-                            "6900": 43.1
+                            "3500": 57.4,
+                            "6900": 42.6
                         }
                     },
                     "45": {
                         "0-45": {
-                            "3500": 49.7,
-                            "6900": 50.3
+                            "3500": 49.2,
+                            "6900": 50.8
                         },
                         "46-90": {
-                            "3500": 51.9,
-                            "6900": 48.1
+                            "3500": 52.3,
+                            "6900": 47.7
                         }
                     },
                     "5": {
                         "0-5": {
+                            "3500": 43.3,
+                            "6900": 56.7
+                        },
+                        "11-15": {
                             "3500": 43.5,
                             "6900": 56.5
                         },
-                        "11-15": {
-                            "3500": 46.7,
-                            "6900": 53.3
-                        },
                         "16-20": {
-                            "3500": 36.5,
-                            "6900": 63.5
+                            "3500": 35.8,
+                            "6900": 64.2
                         },
                         "21-25": {
                             "3500": 63.2,
@@ -4607,8 +4440,8 @@
                             "6900": 62.5
                         },
                         "46-50": {
-                            "3500": 59,
-                            "6900": 41
+                            "3500": 60,
+                            "6900": 40
                         },
                         "51-55": {
                             "3500": 38.8,
@@ -4635,12 +4468,12 @@
                             "6900": 46.5
                         },
                         "76-80": {
-                            "3500": 43.8,
-                            "6900": 56.2
+                            "3500": 44.6,
+                            "6900": 55.4
                         },
                         "81-85": {
-                            "3500": 68.8,
-                            "6900": 31.2
+                            "3500": 70.2,
+                            "6900": 29.8
                         },
                         "86-90": {
                             "3500": 60.2,
@@ -4654,20 +4487,20 @@
                         "6900": 30.4
                     },
                     "15": {
-                        "3500": 59.4,
-                        "6900": 40.6
+                        "3500": 59.7,
+                        "6900": 40.3
                     },
                     "20": {
-                        "3500": 59,
-                        "6900": 41
+                        "3500": 59.5,
+                        "6900": 40.5
                     },
                     "25": {
-                        "3500": 55.3,
-                        "6900": 44.7
+                        "3500": 55.7,
+                        "6900": 44.3
                     },
                     "30": {
-                        "3500": 52.2,
-                        "6900": 47.8
+                        "3500": 52.5,
+                        "6900": 47.5
                     },
                     "5": {
                         "3500": 43.8,
@@ -4683,52 +4516,52 @@
                 "interval": {
                     "15": {
                         "0-15": {
-                            "3500": 26.8,
-                            "6900": 28.7
+                            "3500": 26.9,
+                            "6900": 28.2
                         },
                         "16-30": {
-                            "3500": 15.3,
-                            "6900": 32.8
+                            "3500": 15.9,
+                            "6900": 32.6
                         },
                         "31-45": {
-                            "3500": 22.3,
+                            "3500": 21.7,
                             "6900": 24.2
                         },
                         "46-60": {
-                            "3500": 14,
-                            "6900": 28.7
+                            "3500": 13.8,
+                            "6900": 29.2
                         },
                         "61-75": {
                             "3500": 19.3,
                             "6900": 22.9
                         },
                         "76-90": {
-                            "3500": 9.7,
+                            "3500": 9.2,
                             "6900": 26.2
                         }
                     },
                     "45": {
                         "0-45": {
                             "3500": 21.7,
-                            "6900": 28.4
+                            "6900": 28.2
                         },
                         "46-90": {
-                            "3500": 13.8,
-                            "6900": 25.9
+                            "3500": 13.5,
+                            "6900": 26
                         }
                     },
                     "5": {
                         "0-5": {
-                            "3500": 32.3,
-                            "6900": 25.8
+                            "3500": 33.3,
+                            "6900": 25
                         },
                         "11-15": {
-                            "3500": 26.7,
-                            "6900": 20
+                            "3500": 26.1,
+                            "6900": 19.6
                         },
                         "16-20": {
-                            "3500": 23.1,
-                            "6900": 13.5
+                            "3500": 24.5,
+                            "6900": 13.2
                         },
                         "21-25": {
                             "3500": 7,
@@ -4747,12 +4580,12 @@
                             "6900": 26.7
                         },
                         "41-45": {
-                            "3500": 28.7,
+                            "3500": 27.5,
                             "6900": 12.5
                         },
                         "46-50": {
-                            "3500": 12.8,
-                            "6900": 30.8
+                            "3500": 12.5,
+                            "6900": 32.5
                         },
                         "51-55": {
                             "3500": 16.3,
@@ -4779,12 +4612,12 @@
                             "6900": 37.2
                         },
                         "76-80": {
-                            "3500": 10.9,
-                            "6900": 10.9
+                            "3500": 10.8,
+                            "6900": 10.8
                         },
                         "81-85": {
-                            "3500": 2.1,
-                            "6900": 43.8
+                            "3500": 0,
+                            "6900": 44.7
                         },
                         "86-90": {
                             "3500": 13.3,
@@ -4794,7 +4627,7 @@
                 },
                 "lastX": {},
                 "overall": {
-                    "3500": 17.7,
+                    "3500": 17.6,
                     "6900": 27.1
                 }
             }
@@ -6620,15 +6453,15 @@
             "title": "Seattle Sounders 4, Orlando City SC 0 | MLS Match Recap"
         }
     },
-    "sequence": 1299,
+    "sequence": 0,
     "shootout": [],
     "timelineItems": [
         {
             "_type": "COMMENT",
-            "comment": "Attempt saved. Andy Rose (Seattle Sounders FC) right footed shot from a difficult angle on the right is saved in the bottom right corner.",
+            "comment": "Attempt saved. Andy Rose (Seattle Sounders FC) right footed shot from a difficult angle on the right is saved in the bottom left corner.",
             "extraTimeNum": 0,
             "id": 1000109140,
-            "last_modified": 1439761782,
+            "last_modified": 1439857475,
             "minuteNum": 30,
             "players": [
                 {
@@ -6710,10 +6543,31 @@
         },
         {
             "_type": "COMMENT",
+            "comment": "Delay in match Aur\u00e9lien Collin (Orlando City SC) because of an injury.",
+            "extraTimeNum": 0,
+            "id": 1105052251,
+            "last_modified": 1439862600,
+            "minuteNum": 72,
+            "players": [
+                {
+                    "clubOptaId": 6900,
+                    "indices": [
+                        15,
+                        30
+                    ],
+                    "optaId": 45959
+                }
+            ],
+            "secondNum": 21,
+            "time": "72'",
+            "type": "start delay"
+        },
+        {
+            "_type": "COMMENT",
             "comment": "Attempt blocked. Darwin Cer\u00e9n (Orlando City SC) right footed shot from the centre of the box is blocked.",
             "extraTimeNum": 0,
             "id": 1184281436,
-            "last_modified": 1439764075,
+            "last_modified": 1439860082,
             "minuteNum": 54,
             "players": [
                 {
@@ -6725,7 +6579,7 @@
                     "optaId": 117549
                 }
             ],
-            "secondNum": 39,
+            "secondNum": 36,
             "time": "54'",
             "type": "attempt blocked"
         },
@@ -6935,7 +6789,7 @@
             "comment": "Attempt blocked. Darwin Cer\u00e9n (Orlando City SC) right footed shot from the centre of the box is blocked.",
             "extraTimeNum": 0,
             "id": 1339048630,
-            "last_modified": 1439761825,
+            "last_modified": 1439858329,
             "minuteNum": 37,
             "players": [
                 {
@@ -7031,7 +6885,7 @@
             "comment": "Attempt missed. Lamar Neagle (Seattle Sounders FC) right footed shot from the centre of the box is high and wide to the right. Assisted by Erik Friberg with a through ball.",
             "extraTimeNum": 0,
             "id": 1460549296,
-            "last_modified": 1439764408,
+            "last_modified": 1439860673,
             "minuteNum": 60,
             "players": [
                 {
@@ -7051,7 +6905,7 @@
                     "optaId": 48672
                 }
             ],
-            "secondNum": 7,
+            "secondNum": 3,
             "time": "60'",
             "type": "miss"
         },
@@ -7156,7 +7010,7 @@
             "comment": "Attempt blocked. Cristian Roldan (Seattle Sounders FC) right footed shot from outside the box is blocked. Assisted by Andy Rose.",
             "extraTimeNum": 0,
             "id": 1600517131,
-            "last_modified": 1439765826,
+            "last_modified": 1439862076,
             "minuteNum": 84,
             "players": [
                 {
@@ -7227,7 +7081,7 @@
             "comment": "Attempt saved. Andy Rose (Seattle Sounders FC) right footed shot from the right side of the box is saved in the bottom left corner. Assisted by Erik Friberg.",
             "extraTimeNum": 0,
             "id": 1678469764,
-            "last_modified": 1439760862,
+            "last_modified": 1439856819,
             "minuteNum": 21,
             "players": [
                 {
@@ -7383,7 +7237,7 @@
             "comment": "Attempt blocked. Cristian Roldan (Seattle Sounders FC) right footed shot from outside the box is blocked. Assisted by Thomas.",
             "extraTimeNum": 0,
             "id": 1770030399,
-            "last_modified": 1439766023,
+            "last_modified": 1439862316,
             "minuteNum": 89,
             "players": [
                 {
@@ -7433,7 +7287,7 @@
             "comment": "Attempt missed. Andy Rose (Seattle Sounders FC) header from the right side of the box is close, but misses to the right. Assisted by Darwin Jones with a cross.",
             "extraTimeNum": 0,
             "id": 1796579980,
-            "last_modified": 1439765522,
+            "last_modified": 1439861773,
             "minuteNum": 80,
             "players": [
                 {
@@ -7453,7 +7307,7 @@
                     "optaId": 172751
                 }
             ],
-            "secondNum": 43,
+            "secondNum": 42,
             "time": "80'",
             "type": "miss"
         },
@@ -7643,6 +7497,18 @@
         },
         {
             "_type": "COMMENT",
+            "comment": "Delay over. They are ready to continue.",
+            "extraTimeNum": 0,
+            "id": 2027707679,
+            "last_modified": 1439862600,
+            "minuteNum": 72,
+            "players": [],
+            "secondNum": 45,
+            "time": "72'",
+            "type": "end delay"
+        },
+        {
+            "_type": "COMMENT",
             "comment": "Corner,  Seattle Sounders FC. Conceded by Aur\u00e9lien Collin.",
             "extraTimeNum": 0,
             "id": 2058582406,
@@ -7667,7 +7533,7 @@
             "comment": "Attempt blocked. Lamar Neagle (Seattle Sounders FC) header from the centre of the box is blocked. Assisted by Erik Friberg.",
             "extraTimeNum": 0,
             "id": 2070259941,
-            "last_modified": 1439765154,
+            "last_modified": 1439861295,
             "minuteNum": 74,
             "players": [
                 {
@@ -7717,7 +7583,7 @@
             "comment": "Attempt saved. Brad Evans (Seattle Sounders FC) right footed shot from outside the box is saved in the bottom right corner. Assisted by Obafemi Martins.",
             "extraTimeNum": 0,
             "id": 2093739115,
-            "last_modified": 1439762313,
+            "last_modified": 1439858868,
             "minuteNum": 45,
             "players": [
                 {
@@ -7767,7 +7633,7 @@
             "comment": "Attempt blocked. Cyle Larin (Orlando City SC) right footed shot from outside the box is blocked. Assisted by Kak\u00e1.",
             "extraTimeNum": 0,
             "id": 2107198104,
-            "last_modified": 1439764067,
+            "last_modified": 1439860062,
             "minuteNum": 54,
             "players": [
                 {
@@ -7787,7 +7653,7 @@
                     "optaId": 13135
                 }
             ],
-            "secondNum": 35,
+            "secondNum": 32,
             "time": "54'",
             "type": "attempt blocked"
         },
@@ -7796,7 +7662,7 @@
             "comment": "Attempt saved. Obafemi Martins (Seattle Sounders FC) header from the centre of the box is saved in the centre of the goal. Assisted by Nelson Valdez.",
             "extraTimeNum": 0,
             "id": 2114578360,
-            "last_modified": 1439760179,
+            "last_modified": 1439854858,
             "minuteNum": 9,
             "players": [
                 {
@@ -7896,7 +7762,7 @@
             "comment": "Penalty saved! Obafemi Martins (Seattle Sounders FC) fails to capitalise on this great opportunity,  left footed shot saved  in the bottom right corner.",
             "extraTimeNum": 0,
             "id": 239911086,
-            "last_modified": 1439761541,
+            "last_modified": 1439857400,
             "minuteNum": 30,
             "players": [
                 {
@@ -7935,10 +7801,10 @@
         },
         {
             "_type": "COMMENT",
-            "comment": "Attempt blocked. Lamar Neagle (Seattle Sounders FC) right footed shot from the left side of the box is blocked. Assisted by Obafemi Martins.",
+            "comment": "Attempt blocked. Lamar Neagle (Seattle Sounders FC) right footed shot from the centre of the box is blocked. Assisted by Obafemi Martins.",
             "extraTimeNum": 0,
             "id": 265308631,
-            "last_modified": 1439761707,
+            "last_modified": 1439858191,
             "minuteNum": 34,
             "players": [
                 {
@@ -7952,8 +7818,8 @@
                 {
                     "clubOptaId": 3500,
                     "indices": [
-                        124,
-                        139
+                        121,
+                        136
                     ],
                     "optaId": 14934
                 }
@@ -8021,7 +7887,7 @@
             "comment": "Attempt missed. Erik Friberg (Seattle Sounders FC) right footed shot from long range on the left is too high from a direct free kick.",
             "extraTimeNum": 0,
             "id": 439455676,
-            "last_modified": 1439762076,
+            "last_modified": 1439858590,
             "minuteNum": 41,
             "players": [
                 {
@@ -8255,7 +8121,7 @@
             "comment": "Attempt saved. Lamar Neagle (Seattle Sounders FC) header from the centre of the box is saved in the centre of the goal. Assisted by Nelson Valdez with a cross.",
             "extraTimeNum": 0,
             "id": 577449885,
-            "last_modified": 1439760454,
+            "last_modified": 1439855161,
             "minuteNum": 13,
             "players": [
                 {
@@ -8305,7 +8171,7 @@
             "comment": "Attempt missed. Kak\u00e1 (Orlando City SC) right footed shot from outside the box is close, but misses to the right. Assisted by Adrian Winter following a fast break.",
             "extraTimeNum": 0,
             "id": 6216073,
-            "last_modified": 1439760165,
+            "last_modified": 1439854837,
             "minuteNum": 9,
             "players": [
                 {
@@ -8367,7 +8233,7 @@
             "comment": "Bryan Rochez (Orlando City SC) wins a free kick on the right wing.",
             "extraTimeNum": 0,
             "id": 634886480,
-            "last_modified": 1439765367,
+            "last_modified": 1439861055,
             "minuteNum": 71,
             "players": [
                 {
@@ -8388,7 +8254,7 @@
             "comment": "Attempt missed. Lamar Neagle (Seattle Sounders FC) left footed shot from the right side of the six yard box is close, but misses to the right. Assisted by Nelson Valdez.",
             "extraTimeNum": 0,
             "id": 636261476,
-            "last_modified": 1439760062,
+            "last_modified": 1439854526,
             "minuteNum": 6,
             "players": [
                 {
@@ -8501,7 +8367,7 @@
             "comment": "Attempt saved. Thomas (Seattle Sounders FC) right footed shot from outside the box is saved in the centre of the goal. Assisted by Oniel Fisher.",
             "extraTimeNum": 1,
             "id": 729862502,
-            "last_modified": 1439766160,
+            "last_modified": 1439862450,
             "minuteNum": 90,
             "players": [
                 {
@@ -8572,7 +8438,7 @@
             "comment": "Foul by Chad Marshall (Seattle Sounders FC).",
             "extraTimeNum": 0,
             "id": 792069971,
-            "last_modified": 1439765368,
+            "last_modified": 1439861058,
             "minuteNum": 71,
             "players": [
                 {
@@ -8635,7 +8501,7 @@
             "comment": "Attempt missed. Obafemi Martins (Seattle Sounders FC) left footed shot from outside the box is high and wide to the left. Assisted by Nelson Valdez.",
             "extraTimeNum": 0,
             "id": 831560030,
-            "last_modified": 1439763537,
+            "last_modified": 1439859516,
             "minuteNum": 47,
             "players": [
                 {
@@ -8664,7 +8530,7 @@
             "comment": "Attempt saved. Darwin Jones (Seattle Sounders FC) right footed shot from the left side of the box is saved in the bottom right corner.",
             "extraTimeNum": 0,
             "id": 853864746,
-            "last_modified": 1439765471,
+            "last_modified": 1439861711,
             "minuteNum": 79,
             "players": [
                 {
@@ -8706,7 +8572,7 @@
             "comment": "Attempt blocked. Servando Carrasco (Orlando City SC) right footed shot from outside the box is blocked.",
             "extraTimeNum": 0,
             "id": 901824100,
-            "last_modified": 1439761911,
+            "last_modified": 1439858349,
             "minuteNum": 37,
             "players": [
                 {
@@ -9462,7 +9328,7 @@
             "thumbnailUrl": "http://cf.c.ooyala.com/hhYTMydzo9_OQ8bHvtWHgHsf36xYIKIe/promo264029906",
             "title": "GOAL: Obafemi Martins is back and scoring goals for Seattle",
             "type": "video",
-            "updated": 1439768058902
+            "updated": 1440172104619
         },
         {
             "_type": "TWEET",
@@ -9676,7 +9542,7 @@
             "thumbnailUrl": "http://cf.c.ooyala.com/B2ZzQydzrIiNiFw717CduLftT6tEJS-y/promo264036455",
             "title": "HIGHLIGHTS: Seattle Sounders FC vs. Orlando City SC | August 16, 2015",
             "type": "video",
-            "updated": 1439767967121
+            "updated": 1439924923902
         },
         {
             "_type": "TWEET",
@@ -10100,7 +9966,7 @@
             "text": "Kaka is firmly in Brad Evan's back pocket, struggling to make an impact. <a target=\"_blank\" href=\"//twitter.com/search?q=%23SEAvORL\">#SEAvORL</a>",
             "toJSON": true,
             "user_id": "3184903577",
-            "user_image": "http://pbs.twimg.com/profile_images/591220814638362624/WaZ_LL_A_normal.jpg"
+            "user_image": "http://pbs.twimg.com/profile_images/634397779008352260/3h0abPDQ_normal.jpg"
         },
         {
             "_type": "TWEET",
@@ -11090,7 +10956,7 @@
             "text": "Beautiful day for 3 points! \ud83d\udc99\ud83d\udc9a\ud83d\udc4a\ud83c\udffb<a target=\"_blank\" href=\"//twitter.com/search?q=%23EBFG\">#EBFG</a> <a href=\"http://t.co/t9hKHoSsIF\" target=\"_blank\">http://t.co/t9hKHoSsIF</a>",
             "toJSON": true,
             "user_id": "224520925",
-            "user_image": "http://pbs.twimg.com/profile_images/631720904574111746/_j7yTjl8_normal.jpg"
+            "user_image": "http://pbs.twimg.com/profile_images/635290265792569344/AJx4Fy1d_normal.jpg"
         },
         {
             "_type": "TWEET",

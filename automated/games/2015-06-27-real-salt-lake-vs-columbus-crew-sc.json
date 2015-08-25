@@ -374,7 +374,7 @@
                 "accurate_final_third_pass_per": {
                     "statFH": 0,
                     "statSH": 0,
-                    "statValue": 72
+                    "statValue": 73
                 },
                 "accurate_fwd_zone_pass": {
                     "statFH": 80,
@@ -387,9 +387,9 @@
                     "statValue": 66
                 },
                 "accurate_pass": {
-                    "statFH": 160,
+                    "statFH": 162,
                     "statSH": 170,
-                    "statValue": 330
+                    "statValue": 332
                 },
                 "accurate_pass_per": {
                     "statFH": 0,
@@ -628,9 +628,9 @@
                     "statValue": 0
                 },
                 "duel_lost": {
-                    "statFH": 20,
-                    "statSH": 23,
-                    "statValue": 43
+                    "statFH": 21,
+                    "statSH": 24,
+                    "statValue": 45
                 },
                 "duel_won": {
                     "statFH": 23,
@@ -640,7 +640,7 @@
                 "duel_won_per": {
                     "statFH": 0,
                     "statSH": 0,
-                    "statValue": 50
+                    "statValue": 49
                 },
                 "fk_foul_lost": {
                     "statFH": 6,
@@ -678,17 +678,17 @@
                     "statValue": 3
                 },
                 "passes_left": {
-                    "statFH": 17,
+                    "statFH": 18,
                     "statSH": 12,
-                    "statValue": 29
+                    "statValue": 30
                 },
                 "passes_right": {
-                    "statFH": 27,
+                    "statFH": 26,
                     "statSH": 39,
-                    "statValue": 66
+                    "statValue": 65
                 },
                 "possession_percentage": {
-                    "statFH": 55.2,
+                    "statFH": 55.3,
                     "statSH": 54.6,
                     "statValue": 54.9
                 },
@@ -708,18 +708,18 @@
                     "statValue": 4
                 },
                 "successful_final_third_passes": {
-                    "statFH": 35,
+                    "statFH": 36,
                     "statSH": 51,
-                    "statValue": 86
+                    "statValue": 87
                 },
                 "total_back_zone_pass": {
-                    "statFH": 92,
+                    "statFH": 93,
                     "statSH": 100,
-                    "statValue": 192
+                    "statValue": 193
                 },
                 "total_clearance": {
-                    "statFH": 8,
-                    "statSH": 6,
+                    "statFH": 9,
+                    "statSH": 5,
                     "statValue": 14
                 },
                 "total_cross": {
@@ -733,9 +733,9 @@
                     "statValue": 29
                 },
                 "total_final_third_passes": {
-                    "statFH": 50,
+                    "statFH": 51,
                     "statSH": 69,
-                    "statValue": 119
+                    "statValue": 120
                 },
                 "total_fwd_zone_pass": {
                     "statFH": 116,
@@ -748,9 +748,9 @@
                     "statValue": 2
                 },
                 "total_pass": {
-                    "statFH": 197,
+                    "statFH": 198,
                     "statSH": 210,
-                    "statValue": 407
+                    "statValue": 408
                 },
                 "total_red_card": {
                     "statFH": 0,
@@ -1064,14 +1064,14 @@
                     "statValue": 43
                 },
                 "duel_won": {
-                    "statFH": 20,
-                    "statSH": 23,
-                    "statValue": 43
+                    "statFH": 21,
+                    "statSH": 24,
+                    "statValue": 45
                 },
                 "duel_won_per": {
                     "statFH": 0,
                     "statSH": 0,
-                    "statValue": 50
+                    "statValue": 51
                 },
                 "fk_foul_lost": {
                     "statFH": 6,
@@ -1119,7 +1119,7 @@
                     "statValue": 55
                 },
                 "possession_percentage": {
-                    "statFH": 44.8,
+                    "statFH": 44.7,
                     "statSH": 45.4,
                     "statValue": 45.1
                 },
@@ -1150,8 +1150,8 @@
                 },
                 "total_clearance": {
                     "statFH": 9,
-                    "statSH": 22,
-                    "statValue": 31
+                    "statSH": 21,
+                    "statValue": 30
                 },
                 "total_cross": {
                     "statFH": 10,
@@ -1237,8 +1237,8 @@
             "id": 258602759,
             "period_id": 1,
             "qualifiers": {
-                "146": "89.3",
-                "147": "44.9",
+                "146": "87.1",
+                "147": "47.5",
                 "82": true
             },
             "team_id": 1899,
@@ -2241,6 +2241,7 @@
             "name": "MLS",
             "optaId": 98
         },
+        "completed": true,
         "date": 1435456800000,
         "home": {
             "colors": [
@@ -2697,23 +2698,9 @@
                         {
                             "children": null,
                             "class": "column-orphan",
-                            "href": "http://www.mlssoccer.com/news/article/2015/06/10/mls-rivalry-week-starts-june-24-heres-what-you-need-know",
+                            "href": "http://www.mlssoccer.com/news/rivalry",
                             "id": null,
                             "title": "MLS Heineken Rivalry Week"
-                        },
-                        {
-                            "children": null,
-                            "class": "column-orphan",
-                            "href": "http://www.mlssoccer.com/all-star/2015",
-                            "id": null,
-                            "title": "AT&T MLS All-Star Game"
-                        },
-                        {
-                            "children": null,
-                            "class": "column-orphan",
-                            "href": "http://www.mlssoccer.com/news/fifa-womens-world-cup",
-                            "id": null,
-                            "title": "FIFA Women's World Cup"
                         },
                         {
                             "children": null,
@@ -2721,20 +2708,6 @@
                             "href": "http://www.mlssoccer.com/news/u.s.-open-cup",
                             "id": null,
                             "title": "U.S. Open Cup"
-                        },
-                        {
-                            "children": null,
-                            "class": "column-orphan",
-                            "href": "http://www.mlssoccer.com/goldcup/2015",
-                            "id": null,
-                            "title": "Gold Cup 2015 | CONCACAF"
-                        },
-                        {
-                            "children": null,
-                            "class": "column-orphan",
-                            "href": "http://www.mlssoccer.com/ccl",
-                            "id": null,
-                            "title": "Champions League | CONCACAF"
                         }
                     ],
                     "class": "the-orphans",
@@ -2785,13 +2758,6 @@
                             "href": "http://www.mlssoccer.com/news/power-rankings",
                             "id": null,
                             "title": "Power Rankings"
-                        },
-                        {
-                            "children": null,
-                            "class": null,
-                            "href": "http://www.mlssoccer.com/news/starting-xi",
-                            "id": null,
-                            "title": "Starting XI"
                         },
                         {
                             "children": null,
@@ -3003,120 +2969,40 @@
             "title": "Videos"
         },
         {
+            "children": [],
+            "href": "http://www.mlssoccer.com/schedule",
+            "id": "menu-schedule",
+            "title": "Schedule"
+        },
+        {
             "children": null,
             "href": "http://matchcenter.mlssoccer.com",
             "id": null,
             "title": "Scores"
         },
         {
-            "children": [
-                {
-                    "children": null,
-                    "class": null,
-                    "href": "http://www.mlssoccer.com/schedule",
-                    "id": null,
-                    "title": "Regular Season Schedule"
-                },
-                {
-                    "children": null,
-                    "class": null,
-                    "href": "http://www.mlssoccer.com/tv",
-                    "id": null,
-                    "title": "TV Schedule"
-                },
-                {
-                    "children": null,
-                    "class": null,
-                    "href": "http://www.mlssoccer.com/schedule-download",
-                    "id": null,
-                    "title": "Add Schedule to Calendar"
-                }
-            ],
-            "href": "http://www.mlssoccer.com/schedule",
-            "id": "menu-schedule",
-            "title": "Schedule"
-        },
-        {
-            "children": [
-                {
-                    "children": null,
-                    "class": null,
-                    "href": "http://www.mlssoccer.com/standings/supporters-shield",
-                    "id": null,
-                    "title": "Supporters' Shield"
-                },
-                {
-                    "children": null,
-                    "class": null,
-                    "href": "http://www.mlssoccer.com/results",
-                    "id": null,
-                    "title": "Results Map"
-                }
-            ],
+            "children": [],
             "href": "http://www.mlssoccer.com/standings",
             "id": null,
             "title": "Standings"
         },
         {
-            "children": [
-                {
-                    "children": null,
-                    "class": null,
-                    "href": "http://www.mlssoccer.com/stats",
-                    "id": null,
-                    "title": "League Leaders"
-                },
-                {
-                    "children": null,
-                    "class": null,
-                    "href": "http://www.mlssoccer.com/stats/season",
-                    "id": null,
-                    "title": "Season Stats"
-                },
-                {
-                    "children": null,
-                    "class": null,
-                    "href": "http://www.mlssoccer.com/stats/alltime",
-                    "id": null,
-                    "title": "All-Time Stats"
-                },
-                {
-                    "children": null,
-                    "class": null,
-                    "href": "http://www.mlssoccer.com/stats/team",
-                    "id": null,
-                    "title": "Team Stats"
-                },
-                {
-                    "children": null,
-                    "class": null,
-                    "href": "http://www.mlssoccer.com/players",
-                    "id": null,
-                    "title": "Player Stats"
-                },
-                {
-                    "children": null,
-                    "class": null,
-                    "href": "http://www.mlssoccer.com/news/central-winger",
-                    "id": null,
-                    "title": "Statistical Analysis"
-                }
-            ],
+            "children": [],
             "href": "http://www.mlssoccer.com/stats",
             "id": null,
             "title": "Stats"
         },
         {
-            "children": null,
-            "href": "http://fantasy.mlssoccer.com/?=Nav",
+            "children": [],
+            "href": "http://www.mlssoccer.com/fantasy-soccer",
             "id": null,
             "title": "Fantasy"
         },
         {
-            "children": null,
-            "href": "http://mls.univision.com/",
-            "id": "menu-espanol",
-            "title": "Espa\u00f1ol"
+            "children": [],
+            "href": "http://live.mlssoccer.com/mlsmdl/",
+            "id": "mls-live",
+            "title": "MLS LIVE"
         },
         {
             "children": [],
@@ -3125,118 +3011,10 @@
             "title": "Shop"
         },
         {
-            "children": [
-                {
-                    "children": [
-                        {
-                            "children": null,
-                            "class": null,
-                            "href": "http://twitter.com/mls",
-                            "id": null,
-                            "title": "Twitter"
-                        },
-                        {
-                            "children": null,
-                            "class": null,
-                            "href": "http://facebook.com/mls",
-                            "id": null,
-                            "title": "Facebook"
-                        },
-                        {
-                            "children": null,
-                            "class": null,
-                            "href": "http://instagram.com/mls",
-                            "id": null,
-                            "title": "Instagram"
-                        },
-                        {
-                            "children": null,
-                            "class": null,
-                            "href": "https://plus.google.com/+mls/",
-                            "id": null,
-                            "title": "Google+"
-                        },
-                        {
-                            "children": null,
-                            "class": null,
-                            "href": "http://mls.tumblr.com",
-                            "id": null,
-                            "title": "Tumblr"
-                        },
-                        {
-                            "children": null,
-                            "class": null,
-                            "href": "https://vine.co/MLS",
-                            "id": null,
-                            "title": "Vine"
-                        },
-                        {
-                            "children": null,
-                            "class": null,
-                            "href": "http://www.youtube.com/mls",
-                            "id": null,
-                            "title": "YouTube"
-                        },
-                        {
-                            "children": null,
-                            "class": null,
-                            "href": "http://foursquare.com/mls",
-                            "id": null,
-                            "title": "Foursquare"
-                        }
-                    ],
-                    "class": "column-parent",
-                    "href": "http://www.mlssoccer.com/fans/social-media",
-                    "id": null,
-                    "title": "Social Media"
-                },
-                {
-                    "children": [
-                        {
-                            "children": null,
-                            "class": "column-orphan",
-                            "href": "http://www.mlssoccer.com/mls-live",
-                            "id": null,
-                            "title": "MLS LIVE"
-                        },
-                        {
-                            "children": [],
-                            "class": "column-orphan",
-                            "href": "http://www.mlssoccer.com/mobile",
-                            "id": null,
-                            "title": "MLS app"
-                        },
-                        {
-                            "children": null,
-                            "class": "column-orphan",
-                            "href": "http://www.mlssoccer.com/form/signup",
-                            "id": null,
-                            "title": "Weekly Newsletter"
-                        },
-                        {
-                            "children": null,
-                            "class": "column-orphan",
-                            "href": "http://pressbox.mlssoccer.com/content/competition-rules-and-regulations",
-                            "id": null,
-                            "title": "Competition Rules and Regulations"
-                        },
-                        {
-                            "children": null,
-                            "class": "column-orphan",
-                            "href": "http://pressbox.mlssoccer.com/content/roster-rules-and-regulations",
-                            "id": null,
-                            "title": "Roster Rules"
-                        }
-                    ],
-                    "class": "the-orphans",
-                    "href": null,
-                    "id": null,
-                    "title": null
-                }
-            ],
-            "href": "http://www.mlssoccer.com/",
-            "id": "menu-more",
-            "title": "More"
+            "children": null,
+            "href": "http://mls.univision.com/",
+            "id": "menu-espanol",
+            "title": "Espa\u00f1ol"
         }
     ],
     "navStyle": "mp6",
@@ -4339,16 +4117,16 @@
                 "interval": {
                     "15": {
                         "0-15": {
-                            "1899": 42,
-                            "454": 58
+                            "1899": 41.7,
+                            "454": 58.3
                         },
                         "16-30": {
-                            "1899": 49.6,
-                            "454": 50.4
+                            "1899": 50,
+                            "454": 50
                         },
                         "31-45": {
-                            "1899": 45.3,
-                            "454": 54.7
+                            "1899": 45,
+                            "454": 55
                         },
                         "46-60": {
                             "1899": 45.1,
@@ -4365,8 +4143,8 @@
                     },
                     "45": {
                         "0-45": {
-                            "1899": 45.5,
-                            "454": 54.5
+                            "1899": 45.3,
+                            "454": 54.7
                         },
                         "46-90": {
                             "1899": 45.4,
@@ -4395,8 +4173,8 @@
                             "interval": "21-25"
                         },
                         "26-30": {
-                            "1899": 38.9,
-                            "454": 61.1,
+                            "1899": 40,
+                            "454": 60,
                             "interval": "26-30"
                         },
                         "31-35": {
@@ -4405,8 +4183,8 @@
                             "interval": "31-35"
                         },
                         "36-40": {
-                            "1899": 47.2,
-                            "454": 52.8,
+                            "1899": 45.9,
+                            "454": 54.1,
                             "interval": "36-40"
                         },
                         "41-45": {
@@ -4430,8 +4208,8 @@
                             "interval": "56-60"
                         },
                         "6-10": {
-                            "1899": 39.5,
-                            "454": 60.5,
+                            "1899": 38.6,
+                            "454": 61.4,
                             "interval": "6-10"
                         },
                         "61-65": {
@@ -4501,16 +4279,16 @@
                 "interval": {
                     "15": {
                         "0-15": {
-                            "1899": 57.3,
-                            "454": 42.7
+                            "1899": 56.8,
+                            "454": 43.2
                         },
                         "16-30": {
-                            "1899": 53.9,
-                            "454": 46.1
+                            "1899": 53.5,
+                            "454": 46.5
                         },
                         "31-45": {
-                            "1899": 42.2,
-                            "454": 57.8
+                            "1899": 43.4,
+                            "454": 56.6
                         },
                         "46-60": {
                             "1899": 61.8,
@@ -4527,8 +4305,8 @@
                     },
                     "45": {
                         "0-45": {
-                            "1899": 51.1,
-                            "454": 48.9
+                            "1899": 51.2,
+                            "454": 48.8
                         },
                         "46-90": {
                             "1899": 48.3,
@@ -4553,16 +4331,16 @@
                             "454": 35.3
                         },
                         "26-30": {
-                            "1899": 69.4,
-                            "454": 30.6
+                            "1899": 68.6,
+                            "454": 31.4
                         },
                         "31-35": {
                             "1899": 55.6,
                             "454": 44.4
                         },
                         "36-40": {
-                            "1899": 36.1,
-                            "454": 63.9
+                            "1899": 40.5,
+                            "454": 59.5
                         },
                         "41-45": {
                             "1899": 41.9,
@@ -4581,8 +4359,8 @@
                             "454": 61.5
                         },
                         "6-10": {
-                            "1899": 48.8,
-                            "454": 51.2
+                            "1899": 47.7,
+                            "454": 52.3
                         },
                         "61-65": {
                             "1899": 48.9,
@@ -4637,24 +4415,24 @@
                     }
                 },
                 "overall": {
-                    "1899": 49.6,
-                    "454": 50.4
+                    "1899": 49.7,
+                    "454": 50.3
                 }
             },
             "TerritorialThird": {
                 "interval": {
                     "15": {
                         "0-15": {
-                            "1899": 22.1,
-                            "454": 38.2
+                            "1899": 22.7,
+                            "454": 37.9
                         },
                         "16-30": {
-                            "1899": 27.8,
-                            "454": 33
+                            "1899": 28.1,
+                            "454": 32.5
                         },
                         "31-45": {
-                            "1899": 27.3,
-                            "454": 17.2
+                            "1899": 27.1,
+                            "454": 17.8
                         },
                         "46-60": {
                             "1899": 18.1,
@@ -4671,8 +4449,8 @@
                     },
                     "45": {
                         "0-45": {
-                            "1899": 25.7,
-                            "454": 29.4
+                            "1899": 25.9,
+                            "454": 29.3
                         },
                         "46-90": {
                             "1899": 29.4,
@@ -4697,16 +4475,16 @@
                             "454": 47.1
                         },
                         "26-30": {
-                            "1899": 19.4,
-                            "454": 41.7
+                            "1899": 20,
+                            "454": 40
                         },
                         "31-35": {
                             "1899": 5.6,
                             "454": 27.8
                         },
                         "36-40": {
-                            "1899": 30.6,
-                            "454": 19.4
+                            "1899": 29.7,
+                            "454": 21.6
                         },
                         "41-45": {
                             "1899": 31.1,
@@ -4725,8 +4503,8 @@
                             "454": 10.3
                         },
                         "6-10": {
-                            "1899": 25.6,
-                            "454": 20.9
+                            "1899": 27.3,
+                            "454": 20.5
                         },
                         "61-65": {
                             "1899": 29.8,
@@ -4756,7 +4534,7 @@
                 },
                 "lastX": {},
                 "overall": {
-                    "1899": 27.6,
+                    "1899": 27.7,
                     "454": 27.6
                 }
             }
@@ -6042,7 +5820,7 @@
                         {
                             "awayClub": 1207,
                             "awayScore": 2,
-                            "date": 1432335600,
+                            "date": 1432335600000,
                             "homeClub": 454,
                             "homeScore": 2,
                             "id": 791483,
@@ -6052,7 +5830,7 @@
                         {
                             "awayClub": 454,
                             "awayScore": 2,
-                            "date": 1433026800,
+                            "date": 1433026800000,
                             "homeClub": 6900,
                             "homeScore": 2,
                             "id": 791497,
@@ -6062,7 +5840,7 @@
                         {
                             "awayClub": 454,
                             "awayScore": 0,
-                            "date": 1433372400,
+                            "date": 1433372400000,
                             "homeClub": 5513,
                             "homeScore": 3,
                             "id": 791507,
@@ -6072,7 +5850,7 @@
                         {
                             "awayClub": 1616,
                             "awayScore": 2,
-                            "date": 1433631600,
+                            "date": 1433631600000,
                             "homeClub": 454,
                             "homeScore": 1,
                             "id": 791510,
@@ -6082,7 +5860,7 @@
                         {
                             "awayClub": 1230,
                             "awayScore": 1,
-                            "date": 1434236400,
+                            "date": 1434236400000,
                             "homeClub": 454,
                             "homeScore": 1,
                             "id": 791520,
@@ -6092,7 +5870,7 @@
                         {
                             "awayClub": 928,
                             "awayScore": 1,
-                            "date": 1435186800,
+                            "date": 1435186800000,
                             "homeClub": 454,
                             "homeScore": 2,
                             "id": 791536,
@@ -6371,7 +6149,7 @@
                         {
                             "awayClub": 9668,
                             "awayScore": 0,
-                            "date": 1432422000,
+                            "date": 1432422000000,
                             "homeClub": 1899,
                             "homeScore": 2,
                             "id": 791489,
@@ -6381,7 +6159,7 @@
                         {
                             "awayClub": 1899,
                             "awayScore": 0,
-                            "date": 1432767600,
+                            "date": 1432767600000,
                             "homeClub": 1230,
                             "homeScore": 1,
                             "id": 791495,
@@ -6391,7 +6169,7 @@
                         {
                             "awayClub": 1899,
                             "awayScore": 1,
-                            "date": 1432940400,
+                            "date": 1432940400000,
                             "homeClub": 1708,
                             "homeScore": 2,
                             "id": 791502,
@@ -6401,7 +6179,7 @@
                         {
                             "awayClub": 436,
                             "awayScore": 0,
-                            "date": 1433631600,
+                            "date": 1433631600000,
                             "homeClub": 1899,
                             "homeScore": 0,
                             "id": 791517,
@@ -6411,7 +6189,7 @@
                         {
                             "awayClub": 421,
                             "awayScore": 1,
-                            "date": 1434927600,
+                            "date": 1434927600000,
                             "homeClub": 1899,
                             "homeScore": 2,
                             "id": 791530,
@@ -6421,7 +6199,7 @@
                         {
                             "awayClub": 1899,
                             "awayScore": 0,
-                            "date": 1435186800,
+                            "date": 1435186800000,
                             "homeClub": 399,
                             "homeScore": 1,
                             "id": 791537,
@@ -6554,7 +6332,7 @@
             "title": "Real Salt Lake 2, Columbus Crew SC 2 | MLS Match Recap"
         }
     },
-    "sequence": 1185,
+    "sequence": 0,
     "shootout": [],
     "timelineItems": [
         {
@@ -6583,7 +6361,7 @@
             "comment": "Attempt missed. Kei Kamara (Columbus Crew SC) right footed shot from the centre of the box is just a bit too high. Assisted by Tyson Wahl with a cross.",
             "extraTimeNum": 1,
             "id": 1106197375,
-            "last_modified": 1435463754,
+            "last_modified": 1435684382,
             "minuteNum": 90,
             "players": [
                 {
@@ -6879,7 +6657,7 @@
             "comment": "Attempt missed. Kei Kamara (Columbus Crew SC) right footed shot from outside the box is too high. Assisted by Justin Meram.",
             "extraTimeNum": 0,
             "id": 1460307335,
-            "last_modified": 1435458614,
+            "last_modified": 1435673816,
             "minuteNum": 11,
             "players": [
                 {
@@ -6950,7 +6728,7 @@
             "comment": "Attempt missed. Mohammed Saeid (Columbus Crew SC) left footed shot from the left side of the box is too high following a corner.",
             "extraTimeNum": 0,
             "id": 152939428,
-            "last_modified": 1435463632,
+            "last_modified": 1435684107,
             "minuteNum": 88,
             "players": [
                 {
@@ -7013,7 +6791,7 @@
             "comment": "Attempt saved. Luis Gil (Real Salt Lake) right footed shot from outside the box is saved in the top left corner. Assisted by Tony Beltran.",
             "extraTimeNum": 0,
             "id": 1619028064,
-            "last_modified": 1435458064,
+            "last_modified": 1435674203,
             "minuteNum": 13,
             "players": [
                 {
@@ -7063,7 +6841,7 @@
             "comment": "Attempt saved. Olmes Garc\u00eda (Real Salt Lake) right footed shot from the left side of the box is saved in the bottom left corner. Assisted by Tony Beltran.",
             "extraTimeNum": 3,
             "id": 1655886781,
-            "last_modified": 1435463922,
+            "last_modified": 1435684678,
             "minuteNum": 90,
             "players": [
                 {
@@ -7113,7 +6891,7 @@
             "comment": "Attempt missed. Federico Higua\u00edn (Columbus Crew SC) right footed shot from the centre of the box is too high. Assisted by Waylon Francis with a cross.",
             "extraTimeNum": 0,
             "id": 1698571466,
-            "last_modified": 1435463048,
+            "last_modified": 1435682840,
             "minuteNum": 78,
             "players": [
                 {
@@ -7206,7 +6984,7 @@
             "comment": "Attempt missed. Luke Mulholland (Real Salt Lake) right footed shot from long range on the left is too high from a direct free kick.",
             "extraTimeNum": 0,
             "id": 179124992,
-            "last_modified": 1435462747,
+            "last_modified": 1435681940,
             "minuteNum": 74,
             "players": [
                 {
@@ -7324,7 +7102,7 @@
             "comment": "Attempt missed. Olmes Garc\u00eda (Real Salt Lake) right footed shot from the centre of the box is too high. Assisted by Phanuel Kavita with a headed pass following a corner.",
             "extraTimeNum": 0,
             "id": 1931640991,
-            "last_modified": 1435459258,
+            "last_modified": 1435675728,
             "minuteNum": 29,
             "players": [
                 {
@@ -7425,7 +7203,7 @@
             "comment": "Attempt blocked. Joao Plata (Real Salt Lake) right footed shot from the left side of the box is blocked. Assisted by Luis Gil.",
             "extraTimeNum": 0,
             "id": 2005197518,
-            "last_modified": 1435461313,
+            "last_modified": 1435678633,
             "minuteNum": 50,
             "players": [
                 {
@@ -7454,7 +7232,7 @@
             "comment": "Attempt saved. Joao Plata (Real Salt Lake) right footed shot from outside the box is saved in the bottom right corner. Assisted by Tony Beltran.",
             "extraTimeNum": 0,
             "id": 200825643,
-            "last_modified": 1435461206,
+            "last_modified": 1435678297,
             "minuteNum": 48,
             "players": [
                 {
@@ -7547,7 +7325,7 @@
             "comment": "Attempt missed. Phanuel Kavita (Real Salt Lake) left footed shot from very close range is too high. Assisted by Luke Mulholland with a cross following a set piece situation.",
             "extraTimeNum": 0,
             "id": 2044625237,
-            "last_modified": 1435457572,
+            "last_modified": 1435673061,
             "minuteNum": 5,
             "players": [
                 {
@@ -7630,7 +7408,7 @@
             "comment": "Attempt blocked. Sebasti\u00e1n Jaime (Real Salt Lake) right footed shot from outside the box is blocked. Assisted by Olmes Garc\u00eda.",
             "extraTimeNum": 0,
             "id": 258602759,
-            "last_modified": 1435458319,
+            "last_modified": 1435673132,
             "minuteNum": 5,
             "players": [
                 {
@@ -7720,19 +7498,19 @@
         },
         {
             "_type": "COMMENT",
-            "comment": "Delay in match Sebasti\u00e1n Jaime (Real Salt Lake) because of an injury.",
+            "comment": "Delay in match Abdoulie Mansally (Real Salt Lake) because of an injury.",
             "extraTimeNum": 0,
             "id": 352823291,
-            "last_modified": 1435459275,
+            "last_modified": 1435675943,
             "minuteNum": 33,
             "players": [
                 {
                     "clubOptaId": 1899,
                     "indices": [
                         15,
-                        30
+                        32
                     ],
-                    "optaId": 137460
+                    "optaId": 50132
                 }
             ],
             "secondNum": 25,
@@ -7819,7 +7597,7 @@
             "comment": "Attempt saved. Tony Beltran (Real Salt Lake) right footed shot from long range on the right is saved in the top centre of the goal. Assisted by Luke Mulholland.",
             "extraTimeNum": 0,
             "id": 457291864,
-            "last_modified": 1435462218,
+            "last_modified": 1435680279,
             "minuteNum": 65,
             "players": [
                 {
@@ -8089,7 +7867,7 @@
             "comment": "Attempt missed. Joao Plata (Real Salt Lake) right footed shot from the left side of the box is too high. Assisted by Tony Beltran.",
             "extraTimeNum": 0,
             "id": 673808467,
-            "last_modified": 1435463053,
+            "last_modified": 1435683010,
             "minuteNum": 79,
             "players": [
                 {
@@ -8119,7 +7897,7 @@
             "comment": "Attempt blocked. Luis Gil (Real Salt Lake) right footed shot from the centre of the box is blocked. Assisted by Joao Plata.",
             "extraTimeNum": 0,
             "id": 681701024,
-            "last_modified": 1435461643,
+            "last_modified": 1435679326,
             "minuteNum": 55,
             "players": [
                 {
@@ -8170,7 +7948,7 @@
             "comment": "Attempt blocked. Luis Gil (Real Salt Lake) right footed shot from outside the box is blocked.",
             "extraTimeNum": 0,
             "id": 743878986,
-            "last_modified": 1435461719,
+            "last_modified": 1435679443,
             "minuteNum": 56,
             "players": [
                 {
@@ -8287,7 +8065,7 @@
             "comment": "Attempt saved. Tony Tchani (Columbus Crew SC) right footed shot from outside the box is saved in the centre of the goal.",
             "extraTimeNum": 0,
             "id": 856822605,
-            "last_modified": 1435462454,
+            "last_modified": 1435680586,
             "minuteNum": 66,
             "players": [
                 {
@@ -8915,7 +8693,7 @@
                 "positionAbbr": "D",
                 "status": "Start"
             },
-            "reason": "Foul",
+            "reason": "Unsporting Behavior",
             "secondNum": 0,
             "teamId": 1899,
             "time": 76,
@@ -8969,7 +8747,7 @@
                 "positionAbbr": "F",
                 "status": "Start"
             },
-            "reason": "Foul",
+            "reason": "Unsporting Behavior",
             "secondNum": 0,
             "teamId": 454,
             "time": 82,
@@ -8996,7 +8774,7 @@
                 "positionAbbr": "D",
                 "status": "Start"
             },
-            "reason": "Foul",
+            "reason": "Unsporting Behavior",
             "secondNum": 0,
             "teamId": 1899,
             "time": 47,
@@ -9023,7 +8801,7 @@
                 "positionAbbr": "F",
                 "status": "Sub"
             },
-            "reason": "Foul",
+            "reason": "Unsporting Behavior",
             "secondNum": 0,
             "teamId": 1899,
             "time": 70
@@ -9049,7 +8827,7 @@
                 "positionAbbr": "M",
                 "status": "Start"
             },
-            "reason": "Foul",
+            "reason": "Unsporting Behavior",
             "secondNum": 0,
             "teamId": 1899,
             "time": 59,
@@ -9076,7 +8854,7 @@
                 "positionAbbr": "D",
                 "status": "Start"
             },
-            "reason": "Foul",
+            "reason": "Unsporting Behavior",
             "secondNum": 0,
             "teamId": 454,
             "time": 73,
@@ -9349,7 +9127,7 @@
             "text": "Does Higuain test Rimando here? Just a bit out of range, probably goes back post. <a target=\"_blank\" href=\"//twitter.com/search?q=%23RSLvCLB\">#RSLvCLB</a>",
             "toJSON": true,
             "user_id": "351020502",
-            "user_image": "http://pbs.twimg.com/profile_images/601853420434116608/lcppvasv_normal.jpg"
+            "user_image": "http://pbs.twimg.com/profile_images/620395886196068352/gJ8IsiC__normal.jpg"
         },
         {
             "_type": "TWEET",
@@ -9398,7 +9176,7 @@
             "text": "RSL doing really well in the final third, just can't quite find that final pass. They will though, if this keeps up. <a target=\"_blank\" href=\"//twitter.com/search?q=%23RSLvCLB\">#RSLvCLB</a>",
             "toJSON": true,
             "user_id": "351020502",
-            "user_image": "http://pbs.twimg.com/profile_images/601853420434116608/lcppvasv_normal.jpg"
+            "user_image": "http://pbs.twimg.com/profile_images/620395886196068352/gJ8IsiC__normal.jpg"
         },
         {
             "_type": "TWEET",
@@ -9451,7 +9229,7 @@
             "text": "The boys are warming up on a hot night in Sandy, Utah. We're at temperatures in the upper 90s here. <a target=\"_blank\" href=\"//twitter.com/search?q=%23CrewSC\">#CrewSC</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23RSLvCLB\">#RSLvCLB</a> <a href=\"http://t.co/Y7QcsDJpPs\" target=\"_blank\">http://t.co/Y7QcsDJpPs</a>",
             "toJSON": true,
             "user_id": "16960789",
-            "user_image": "http://pbs.twimg.com/profile_images/536696022257254400/W9JUnm9h_normal.jpeg"
+            "user_image": "http://pbs.twimg.com/profile_images/625784433065357312/exBKRR7B_normal.jpg"
         },
         {
             "_type": "TWEET",
@@ -9646,7 +9424,7 @@
             "text": "Let's go! <a target=\"_blank\" href=\"//twitter.com/search?q=%23CrewSC\">#CrewSC</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23RSLvCLB\">#RSLvCLB</a> <a href=\"http://t.co/bsBYUrsSlC\" target=\"_blank\">http://t.co/bsBYUrsSlC</a>",
             "toJSON": true,
             "user_id": "16960789",
-            "user_image": "http://pbs.twimg.com/profile_images/536696022257254400/W9JUnm9h_normal.jpeg"
+            "user_image": "http://pbs.twimg.com/profile_images/625784433065357312/exBKRR7B_normal.jpg"
         },
         {
             "_type": "TWEET",
@@ -9661,7 +9439,7 @@
             "text": "I don't know what it is, but Gil just plays markedly better as the primary creator. He's played so much better this match. <a target=\"_blank\" href=\"//twitter.com/search?q=%23RSLvCLB\">#RSLvCLB</a>",
             "toJSON": true,
             "user_id": "351020502",
-            "user_image": "http://pbs.twimg.com/profile_images/601853420434116608/lcppvasv_normal.jpg"
+            "user_image": "http://pbs.twimg.com/profile_images/620395886196068352/gJ8IsiC__normal.jpg"
         },
         {
             "_type": "TWEET",
@@ -9676,7 +9454,7 @@
             "text": "It's great seeing Kavita getting a start in front of his home crowd as well. Cassar has been very complimentary of his play. <a target=\"_blank\" href=\"//twitter.com/search?q=%23RSLvCLB\">#RSLvCLB</a>",
             "toJSON": true,
             "user_id": "351020502",
-            "user_image": "http://pbs.twimg.com/profile_images/601853420434116608/lcppvasv_normal.jpg"
+            "user_image": "http://pbs.twimg.com/profile_images/620395886196068352/gJ8IsiC__normal.jpg"
         },
         {
             "_type": "TWEET",
@@ -9800,7 +9578,7 @@
             "text": "What a set play by <a target=\"_blank\" href=\"//twitter.com/search?q=%23RSL\">#RSL</a>. Incredible",
             "toJSON": true,
             "user_id": "118920002",
-            "user_image": "http://pbs.twimg.com/profile_images/535598616531197952/e3t5UUIl_normal.jpeg"
+            "user_image": "http://pbs.twimg.com/profile_images/629331644466368512/ss4jbwo0_normal.jpg"
         },
         {
             "_type": "TWEET",
@@ -9815,7 +9593,7 @@
             "text": "That's some training ground stuff right there from <a target=\"_blank\" href=\"//twitter.com/search?q=%23RSL\">#RSL</a> on that goal",
             "toJSON": true,
             "user_id": "2860515122",
-            "user_image": "http://pbs.twimg.com/profile_images/591329195038363649/zDjNNW9G_normal.jpg"
+            "user_image": "http://pbs.twimg.com/profile_images/619273698038513664/ymjiv0e9_normal.jpg"
         },
         {
             "_type": "TWEET",
@@ -9845,7 +9623,7 @@
             "text": "Why more teams don't have designed set pieces other than \"kick it in a group for a header\" is beyond me. Great <a target=\"_blank\" href=\"//twitter.com/search?q=%23RSL\">#RSL</a> setup on goal.",
             "toJSON": true,
             "user_id": "96872501",
-            "user_image": "http://pbs.twimg.com/profile_images/1971564675/107331125W_normal.jpeg"
+            "user_image": "http://pbs.twimg.com/profile_images/623560815153541121/1wiFyHIa_normal.jpg"
         },
         {
             "_type": "TWEET",
@@ -9879,7 +9657,7 @@
             "text": "Strong distribution. <a target=\"_blank\" href=\"//twitter.com/search?q=%23RSLvCLB\">#RSLvCLB</a> <a href=\"http://t.co/EYClfoRcCL\" target=\"_blank\">http://t.co/EYClfoRcCL</a>",
             "toJSON": true,
             "user_id": "107146095",
-            "user_image": "http://pbs.twimg.com/profile_images/593636874301808640/2-2VpXxW_normal.jpg"
+            "user_image": "http://pbs.twimg.com/profile_images/618051008829132804/aZM1U8fz_normal.jpg"
         },
         {
             "_type": "VIDEO",
@@ -10102,7 +9880,7 @@
             "text": "Rimando says, \"Take that, Steve 'the cat' Clark!\" We know Rimando, you still got it. <a target=\"_blank\" href=\"//twitter.com/search?q=%23RSLvCLB\">#RSLvCLB</a>",
             "toJSON": true,
             "user_id": "351020502",
-            "user_image": "http://pbs.twimg.com/profile_images/601853420434116608/lcppvasv_normal.jpg"
+            "user_image": "http://pbs.twimg.com/profile_images/620395886196068352/gJ8IsiC__normal.jpg"
         },
         {
             "_type": "VIDEO",
@@ -10142,7 +9920,7 @@
             "text": "Not normally a fan of Higua\u00edn dropping deep, but doing so dragged the <a target=\"_blank\" href=\"//twitter.com/search?q=%23RSL\">#RSL</a> defense way out of shape to open up space for that <a target=\"_blank\" href=\"//twitter.com/search?q=%23CrewSC\">#CrewSC</a> goal.",
             "toJSON": true,
             "user_id": "82262416",
-            "user_image": "http://pbs.twimg.com/profile_images/614996602957070337/hpNW-dek_normal.png"
+            "user_image": "http://pbs.twimg.com/profile_images/620259936467955713/G42bP0qA_normal.png"
         },
         {
             "_type": "TWEET",
@@ -10191,7 +9969,7 @@
             "text": "HT 1-1. RSL with a remarkable set piece goal but CLB grabs one back before the break. RSL the better side but 2nd half will tell <a target=\"_blank\" href=\"//twitter.com/search?q=%23RSLvCLB\">#RSLvCLB</a>",
             "toJSON": true,
             "user_id": "351020502",
-            "user_image": "http://pbs.twimg.com/profile_images/601853420434116608/lcppvasv_normal.jpg"
+            "user_image": "http://pbs.twimg.com/profile_images/620395886196068352/gJ8IsiC__normal.jpg"
         },
         {
             "_type": "TWEET",
@@ -10210,7 +9988,7 @@
             "text": "HT: We're tied at the break thanks to the equalizer by <a target=\"_blank\" href=\"//twitter.com/@TonyTchani23\">@TonyTchani23</a>. Stay tuned for the 2nd half. <a target=\"_blank\" href=\"//twitter.com/search?q=%23CrewSC\">#CrewSC</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23RSLvCLB\">#RSLvCLB</a> <a href=\"http://t.co/YZYmFAXcVX\" target=\"_blank\">http://t.co/YZYmFAXcVX</a>",
             "toJSON": true,
             "user_id": "16960789",
-            "user_image": "http://pbs.twimg.com/profile_images/536696022257254400/W9JUnm9h_normal.jpeg"
+            "user_image": "http://pbs.twimg.com/profile_images/625784433065357312/exBKRR7B_normal.jpg"
         },
         {
             "_type": "TWEET",
@@ -10609,7 +10387,7 @@
             "text": "We deserve this one with how our offense has been playing. <a target=\"_blank\" href=\"//twitter.com/search?q=%23RSL\">#RSL</a>",
             "toJSON": true,
             "user_id": "36865259",
-            "user_image": "http://pbs.twimg.com/profile_images/614521651061850112/6Zi5aEWi_normal.jpg"
+            "user_image": "http://pbs.twimg.com/profile_images/626218832009408512/oNXIrPyF_normal.jpg"
         },
         {
             "_type": "TWEET",
@@ -10643,7 +10421,7 @@
             "text": "That is the very definition of \"against the run of play.\" RSL need to salvage these three pts or it would be a big disappointment. <a target=\"_blank\" href=\"//twitter.com/search?q=%23RSLvCLB\">#RSLvCLB</a>",
             "toJSON": true,
             "user_id": "351020502",
-            "user_image": "http://pbs.twimg.com/profile_images/601853420434116608/lcppvasv_normal.jpg"
+            "user_image": "http://pbs.twimg.com/profile_images/620395886196068352/gJ8IsiC__normal.jpg"
         },
         {
             "_type": "TWEET",
@@ -10662,7 +10440,7 @@
             "text": "62\u2019: GOOOOAL!!! <a target=\"_blank\" href=\"//twitter.com/@EthanFinlay13\">@EthanFinlay13</a> ties it up with a perfect pass from <a target=\"_blank\" href=\"//twitter.com/@FHiguain_33\">@FHiguain_33</a>! <a target=\"_blank\" href=\"//twitter.com/search?q=%23CrewSC\">#CrewSC</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23RSLvCLB\">#RSLvCLB</a> 2-2 <a href=\"http://t.co/cjlSXO8kVK\" target=\"_blank\">http://t.co/cjlSXO8kVK</a>",
             "toJSON": true,
             "user_id": "16960789",
-            "user_image": "http://pbs.twimg.com/profile_images/536696022257254400/W9JUnm9h_normal.jpeg"
+            "user_image": "http://pbs.twimg.com/profile_images/625784433065357312/exBKRR7B_normal.jpg"
         },
         {
             "_type": "VIDEO",
@@ -11125,7 +10903,7 @@
             "text": "It's time we stop blaming refs for the number of red cards we've got this season. This team has a tendency to make stupid tackles. <a target=\"_blank\" href=\"//twitter.com/search?q=%23RSLvCLB\">#RSLvCLB</a>",
             "toJSON": true,
             "user_id": "19579493",
-            "user_image": "http://pbs.twimg.com/profile_images/582299833492336640/jGl0s9lc_normal.jpg"
+            "user_image": "http://pbs.twimg.com/profile_images/630168761299943424/ws53H9m8_normal.jpg"
         },
         {
             "_type": "TWEET",
@@ -11174,7 +10952,7 @@
             "text": "Ethan having another one of those nights. Still one of the most underrated players in MLS. <a target=\"_blank\" href=\"//twitter.com/search?q=%23RSL\">#RSL</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23CrewSC\">#CrewSC</a>",
             "toJSON": true,
             "user_id": "82262416",
-            "user_image": "http://pbs.twimg.com/profile_images/614996602957070337/hpNW-dek_normal.png"
+            "user_image": "http://pbs.twimg.com/profile_images/620259936467955713/G42bP0qA_normal.png"
         },
         {
             "_type": "TWEET",
@@ -11229,7 +11007,7 @@
             "text": "This is like watching a hockey power play <a target=\"_blank\" href=\"//twitter.com/search?q=%23RSL\">#RSL</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%235minutemajor\">#5minutemajor</a>",
             "toJSON": true,
             "user_id": "73252408",
-            "user_image": "http://pbs.twimg.com/profile_images/603262320534364160/mqsv9a-7_normal.jpg"
+            "user_image": "http://pbs.twimg.com/profile_images/615020982835646464/4ASaNaU__normal.jpg"
         },
         {
             "_type": "TWEET",

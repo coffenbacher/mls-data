@@ -377,9 +377,9 @@
                     "statValue": 44
                 },
                 "accurate_fwd_zone_pass": {
-                    "statFH": 51,
-                    "statSH": 42,
-                    "statValue": 93
+                    "statFH": 53,
+                    "statSH": 41,
+                    "statValue": 94
                 },
                 "accurate_fwd_zone_pass_per": {
                     "statFH": 0,
@@ -387,9 +387,9 @@
                     "statValue": 55
                 },
                 "accurate_pass": {
-                    "statFH": 144,
-                    "statSH": 91,
-                    "statValue": 235
+                    "statFH": 148,
+                    "statSH": 93,
+                    "statValue": 241
                 },
                 "accurate_pass_per": {
                     "statFH": 0,
@@ -628,19 +628,19 @@
                     "statValue": 0
                 },
                 "duel_lost": {
-                    "statFH": 19,
-                    "statSH": 24,
-                    "statValue": 43
+                    "statFH": 20,
+                    "statSH": 25,
+                    "statValue": 45
                 },
                 "duel_won": {
-                    "statFH": 21,
-                    "statSH": 17,
-                    "statValue": 38
+                    "statFH": 23,
+                    "statSH": 18,
+                    "statValue": 41
                 },
                 "duel_won_per": {
                     "statFH": 0,
                     "statSH": 0,
-                    "statValue": 47
+                    "statValue": 48
                 },
                 "fk_foul_lost": {
                     "statFH": 4,
@@ -679,18 +679,18 @@
                 },
                 "passes_left": {
                     "statFH": 17,
-                    "statSH": 31,
-                    "statValue": 48
+                    "statSH": 32,
+                    "statValue": 49
                 },
                 "passes_right": {
-                    "statFH": 23,
+                    "statFH": 25,
                     "statSH": 11,
-                    "statValue": 34
+                    "statValue": 36
                 },
                 "possession_percentage": {
-                    "statFH": 40.1,
-                    "statSH": 35.6,
-                    "statValue": 38
+                    "statFH": 40.9,
+                    "statSH": 36,
+                    "statValue": 38.7
                 },
                 "saves": {
                     "statFH": 0,
@@ -708,19 +708,19 @@
                     "statValue": 3
                 },
                 "successful_final_third_passes": {
-                    "statFH": 15,
+                    "statFH": 16,
                     "statSH": 15,
-                    "statValue": 30
+                    "statValue": 31
                 },
                 "total_back_zone_pass": {
-                    "statFH": 104,
-                    "statSH": 65,
-                    "statValue": 169
+                    "statFH": 107,
+                    "statSH": 69,
+                    "statValue": 176
                 },
                 "total_clearance": {
-                    "statFH": 11,
-                    "statSH": 16,
-                    "statValue": 27
+                    "statFH": 9,
+                    "statSH": 14,
+                    "statValue": 23
                 },
                 "total_cross": {
                     "statFH": 5,
@@ -733,14 +733,14 @@
                     "statValue": 8
                 },
                 "total_final_third_passes": {
-                    "statFH": 33,
+                    "statFH": 35,
                     "statSH": 35,
-                    "statValue": 68
+                    "statValue": 70
                 },
                 "total_fwd_zone_pass": {
-                    "statFH": 90,
-                    "statSH": 79,
-                    "statValue": 169
+                    "statFH": 93,
+                    "statSH": 78,
+                    "statValue": 171
                 },
                 "total_offside": {
                     "statFH": 3,
@@ -748,9 +748,9 @@
                     "statValue": 8
                 },
                 "total_pass": {
-                    "statFH": 189,
-                    "statSH": 139,
-                    "statValue": 328
+                    "statFH": 195,
+                    "statSH": 142,
+                    "statValue": 337
                 },
                 "total_red_card": {
                     "statFH": 0,
@@ -764,8 +764,8 @@
                 },
                 "total_tackle": {
                     "statFH": 4,
-                    "statSH": 5,
-                    "statValue": 9
+                    "statSH": 6,
+                    "statValue": 10
                 },
                 "total_yel_card": {
                     "statFH": 0,
@@ -784,8 +784,8 @@
                 },
                 "won_tackle": {
                     "statFH": 4,
-                    "statSH": 5,
-                    "statValue": 9
+                    "statSH": 6,
+                    "statValue": 10
                 }
             }
         },
@@ -808,9 +808,9 @@
                     "statValue": 61
                 },
                 "accurate_fwd_zone_pass": {
-                    "statFH": 128,
-                    "statSH": 112,
-                    "statValue": 240
+                    "statFH": 126,
+                    "statSH": 113,
+                    "statValue": 239
                 },
                 "accurate_fwd_zone_pass_per": {
                     "statFH": 0,
@@ -818,9 +818,9 @@
                     "statValue": 71
                 },
                 "accurate_pass": {
-                    "statFH": 237,
-                    "statSH": 196,
-                    "statValue": 433
+                    "statFH": 236,
+                    "statSH": 198,
+                    "statValue": 434
                 },
                 "accurate_pass_per": {
                     "statFH": 0,
@@ -1059,19 +1059,19 @@
                     "statValue": 0
                 },
                 "duel_lost": {
-                    "statFH": 21,
-                    "statSH": 17,
-                    "statValue": 38
+                    "statFH": 23,
+                    "statSH": 18,
+                    "statValue": 41
                 },
                 "duel_won": {
-                    "statFH": 19,
-                    "statSH": 24,
-                    "statValue": 43
+                    "statFH": 20,
+                    "statSH": 25,
+                    "statValue": 45
                 },
                 "duel_won_per": {
                     "statFH": 0,
                     "statSH": 0,
-                    "statValue": 53
+                    "statValue": 52
                 },
                 "fk_foul_lost": {
                     "statFH": 12,
@@ -1114,14 +1114,14 @@
                     "statValue": 100
                 },
                 "passes_right": {
-                    "statFH": 24,
+                    "statFH": 25,
                     "statSH": 56,
-                    "statValue": 80
+                    "statValue": 81
                 },
                 "possession_percentage": {
-                    "statFH": 59.9,
-                    "statSH": 64.4,
-                    "statValue": 62
+                    "statFH": 59.1,
+                    "statSH": 64,
+                    "statValue": 61.3
                 },
                 "saves": {
                     "statFH": 2,
@@ -1139,19 +1139,19 @@
                     "statValue": 3
                 },
                 "successful_final_third_passes": {
-                    "statFH": 46,
+                    "statFH": 45,
                     "statSH": 47,
-                    "statValue": 93
+                    "statValue": 92
                 },
                 "total_back_zone_pass": {
-                    "statFH": 119,
+                    "statFH": 120,
                     "statSH": 96,
-                    "statValue": 215
+                    "statValue": 216
                 },
                 "total_clearance": {
-                    "statFH": 5,
+                    "statFH": 6,
                     "statSH": 6,
-                    "statValue": 11
+                    "statValue": 12
                 },
                 "total_cross": {
                     "statFH": 5,
@@ -1164,14 +1164,14 @@
                     "statValue": 21
                 },
                 "total_final_third_passes": {
-                    "statFH": 72,
+                    "statFH": 71,
                     "statSH": 81,
-                    "statValue": 153
+                    "statValue": 152
                 },
                 "total_fwd_zone_pass": {
-                    "statFH": 171,
-                    "statSH": 169,
-                    "statValue": 340
+                    "statFH": 169,
+                    "statSH": 170,
+                    "statValue": 339
                 },
                 "total_offside": {
                     "statFH": 3,
@@ -1179,8 +1179,8 @@
                     "statValue": 7
                 },
                 "total_pass": {
-                    "statFH": 285,
-                    "statSH": 248,
+                    "statFH": 284,
+                    "statSH": 249,
                     "statValue": 533
                 },
                 "total_red_card": {
@@ -1195,8 +1195,8 @@
                 },
                 "total_tackle": {
                     "statFH": 7,
-                    "statSH": 7,
-                    "statValue": 14
+                    "statSH": 8,
+                    "statValue": 15
                 },
                 "total_yel_card": {
                     "statFH": 1,
@@ -1215,8 +1215,8 @@
                 },
                 "won_tackle": {
                     "statFH": 5,
-                    "statSH": 7,
-                    "statValue": 12
+                    "statSH": 8,
+                    "statValue": 13
                 }
             }
         }
@@ -1237,7 +1237,7 @@
             "id": 2018487218,
             "period_id": 1,
             "qualifiers": {
-                "102": "48.4"
+                "102": "50"
             },
             "team_id": 1326,
             "type_id": 13,
@@ -1254,8 +1254,8 @@
             },
             "team_id": 1326,
             "type_id": 15,
-            "x": 79.5,
-            "y": 49.6
+            "x": 80.3,
+            "y": 50.1
         },
         {
             "id": 43592958,
@@ -1285,14 +1285,14 @@
             "id": 1551833642,
             "period_id": 1,
             "qualifiers": {
-                "146": "81.1",
-                "147": "42.6",
+                "146": "83.3",
+                "147": "45.7",
                 "82": true
             },
             "team_id": 1207,
             "type_id": 15,
-            "x": 72.9,
-            "y": 34.2
+            "x": 78.1,
+            "y": 40.4
         },
         {
             "id": 302320112,
@@ -1302,8 +1302,8 @@
             },
             "team_id": 1207,
             "type_id": 13,
-            "x": 96.9,
-            "y": 59
+            "x": 98.3,
+            "y": 59.8
         },
         {
             "id": 927884303,
@@ -1326,8 +1326,8 @@
             },
             "team_id": 1326,
             "type_id": 15,
-            "x": 92.3,
-            "y": 41
+            "x": 93.5,
+            "y": 46
         },
         {
             "id": 759215773,
@@ -1359,12 +1359,12 @@
             "id": 2002350291,
             "period_id": 2,
             "qualifiers": {
-                "102": "53.7"
+                "102": "53.2"
             },
             "team_id": 1326,
             "type_id": 16,
-            "x": 82.1,
-            "y": 60.6
+            "x": 76.9,
+            "y": 61
         },
         {
             "id": 459822591,
@@ -1376,15 +1376,15 @@
             },
             "team_id": 1207,
             "type_id": 15,
-            "x": 69.5,
-            "y": 52.4
+            "x": 74.5,
+            "y": 45.8
         },
         {
             "id": 1928808835,
             "period_id": 2,
             "qualifiers": {
-                "146": "75.6",
-                "147": "41.7",
+                "146": "71.4",
+                "147": "40.1",
                 "82": true
             },
             "team_id": 1207,
@@ -2185,6 +2185,7 @@
             "name": "MLS",
             "optaId": 98
         },
+        "completed": true,
         "date": 1435192200000,
         "home": {
             "colors": [
@@ -2486,7 +2487,7 @@
                     "headshot": "http://img.mlsdigital.net/www.mlssoccer.com/6/player/74588/{{width}}x{{height}}.jpg",
                     "height": 69,
                     "id": 60225,
-                    "jerseyNumber": 24,
+                    "jerseyNumber": 0,
                     "name": {
                         "first": "Quincy",
                         "last": "Amarikwa"
@@ -2662,16 +2663,9 @@
                         {
                             "children": null,
                             "class": "column-orphan",
-                            "href": "http://www.mlssoccer.com/all-star/2015",
+                            "href": "http://www.mlssoccer.com/news/rivalry",
                             "id": null,
-                            "title": "AT&T MLS All-Star Game"
-                        },
-                        {
-                            "children": null,
-                            "class": "column-orphan",
-                            "href": "http://www.mlssoccer.com/news/fifa-womens-world-cup",
-                            "id": null,
-                            "title": "FIFA Women's World Cup"
+                            "title": "MLS Heineken Rivalry Week"
                         },
                         {
                             "children": null,
@@ -2679,20 +2673,6 @@
                             "href": "http://www.mlssoccer.com/news/u.s.-open-cup",
                             "id": null,
                             "title": "U.S. Open Cup"
-                        },
-                        {
-                            "children": null,
-                            "class": "column-orphan",
-                            "href": "http://www.mlssoccer.com/goldcup/2015",
-                            "id": null,
-                            "title": "Gold Cup 2015 | CONCACAF"
-                        },
-                        {
-                            "children": null,
-                            "class": "column-orphan",
-                            "href": "http://www.mlssoccer.com/ccl",
-                            "id": null,
-                            "title": "Champions League | CONCACAF"
                         }
                     ],
                     "class": "the-orphans",
@@ -2743,13 +2723,6 @@
                             "href": "http://www.mlssoccer.com/news/power-rankings",
                             "id": null,
                             "title": "Power Rankings"
-                        },
-                        {
-                            "children": null,
-                            "class": null,
-                            "href": "http://www.mlssoccer.com/news/starting-xi",
-                            "id": null,
-                            "title": "Starting XI"
                         },
                         {
                             "children": null,
@@ -2947,11 +2920,24 @@
                     "href": "http://www.mlssoccer.com/video/channel/90-plus",
                     "id": null,
                     "title": "90 Plus"
+                },
+                {
+                    "children": null,
+                    "class": null,
+                    "href": "http://www.mlssoccer.com/video/channel/get-me-in-there",
+                    "id": null,
+                    "title": "Get Me In There"
                 }
             ],
             "href": "http://www.mlssoccer.com/video",
             "id": "menu-videos",
             "title": "Videos"
+        },
+        {
+            "children": [],
+            "href": "http://www.mlssoccer.com/schedule",
+            "id": "menu-schedule",
+            "title": "Schedule"
         },
         {
             "children": null,
@@ -2960,114 +2946,28 @@
             "title": "Scores"
         },
         {
-            "children": [
-                {
-                    "children": null,
-                    "class": null,
-                    "href": "http://www.mlssoccer.com/schedule",
-                    "id": null,
-                    "title": "Regular Season Schedule"
-                },
-                {
-                    "children": null,
-                    "class": null,
-                    "href": "http://www.mlssoccer.com/tv",
-                    "id": null,
-                    "title": "TV Schedule"
-                },
-                {
-                    "children": null,
-                    "class": null,
-                    "href": "http://www.mlssoccer.com/schedule-download",
-                    "id": null,
-                    "title": "Add Schedule to Calendar"
-                }
-            ],
-            "href": "http://www.mlssoccer.com/schedule",
-            "id": "menu-schedule",
-            "title": "Schedule"
-        },
-        {
-            "children": [
-                {
-                    "children": null,
-                    "class": null,
-                    "href": "http://www.mlssoccer.com/standings/supporters-shield",
-                    "id": null,
-                    "title": "Supporters' Shield"
-                },
-                {
-                    "children": null,
-                    "class": null,
-                    "href": "http://www.mlssoccer.com/results",
-                    "id": null,
-                    "title": "Results Map"
-                }
-            ],
+            "children": [],
             "href": "http://www.mlssoccer.com/standings",
             "id": null,
             "title": "Standings"
         },
         {
-            "children": [
-                {
-                    "children": null,
-                    "class": null,
-                    "href": "http://www.mlssoccer.com/stats",
-                    "id": null,
-                    "title": "League Leaders"
-                },
-                {
-                    "children": null,
-                    "class": null,
-                    "href": "http://www.mlssoccer.com/stats/season",
-                    "id": null,
-                    "title": "Season Stats"
-                },
-                {
-                    "children": null,
-                    "class": null,
-                    "href": "http://www.mlssoccer.com/stats/alltime",
-                    "id": null,
-                    "title": "All-Time Stats"
-                },
-                {
-                    "children": null,
-                    "class": null,
-                    "href": "http://www.mlssoccer.com/stats/team",
-                    "id": null,
-                    "title": "Team Stats"
-                },
-                {
-                    "children": null,
-                    "class": null,
-                    "href": "http://www.mlssoccer.com/players",
-                    "id": null,
-                    "title": "Player Stats"
-                },
-                {
-                    "children": null,
-                    "class": null,
-                    "href": "http://www.mlssoccer.com/news/central-winger",
-                    "id": null,
-                    "title": "Statistical Analysis"
-                }
-            ],
+            "children": [],
             "href": "http://www.mlssoccer.com/stats",
             "id": null,
             "title": "Stats"
         },
         {
-            "children": null,
-            "href": "http://fantasy.mlssoccer.com/?=Nav",
+            "children": [],
+            "href": "http://www.mlssoccer.com/fantasy-soccer",
             "id": null,
             "title": "Fantasy"
         },
         {
-            "children": null,
-            "href": "http://mls.univision.com/",
-            "id": "menu-espanol",
-            "title": "Espa\u00f1ol"
+            "children": [],
+            "href": "http://live.mlssoccer.com/mlsmdl/",
+            "id": "mls-live",
+            "title": "MLS LIVE"
         },
         {
             "children": [],
@@ -3076,118 +2976,10 @@
             "title": "Shop"
         },
         {
-            "children": [
-                {
-                    "children": [
-                        {
-                            "children": null,
-                            "class": null,
-                            "href": "http://twitter.com/mls",
-                            "id": null,
-                            "title": "Twitter"
-                        },
-                        {
-                            "children": null,
-                            "class": null,
-                            "href": "http://facebook.com/mls",
-                            "id": null,
-                            "title": "Facebook"
-                        },
-                        {
-                            "children": null,
-                            "class": null,
-                            "href": "http://instagram.com/mls",
-                            "id": null,
-                            "title": "Instagram"
-                        },
-                        {
-                            "children": null,
-                            "class": null,
-                            "href": "https://plus.google.com/+mls/",
-                            "id": null,
-                            "title": "Google+"
-                        },
-                        {
-                            "children": null,
-                            "class": null,
-                            "href": "http://mls.tumblr.com",
-                            "id": null,
-                            "title": "Tumblr"
-                        },
-                        {
-                            "children": null,
-                            "class": null,
-                            "href": "https://vine.co/MLS",
-                            "id": null,
-                            "title": "Vine"
-                        },
-                        {
-                            "children": null,
-                            "class": null,
-                            "href": "http://www.youtube.com/mls",
-                            "id": null,
-                            "title": "YouTube"
-                        },
-                        {
-                            "children": null,
-                            "class": null,
-                            "href": "http://foursquare.com/mls",
-                            "id": null,
-                            "title": "Foursquare"
-                        }
-                    ],
-                    "class": "column-parent",
-                    "href": "http://www.mlssoccer.com/fans/social-media",
-                    "id": null,
-                    "title": "Social Media"
-                },
-                {
-                    "children": [
-                        {
-                            "children": null,
-                            "class": "column-orphan",
-                            "href": "http://www.mlssoccer.com/mls-live",
-                            "id": null,
-                            "title": "MLS LIVE"
-                        },
-                        {
-                            "children": [],
-                            "class": "column-orphan",
-                            "href": "http://www.mlssoccer.com/mobile",
-                            "id": null,
-                            "title": "MLS app"
-                        },
-                        {
-                            "children": null,
-                            "class": "column-orphan",
-                            "href": "http://www.mlssoccer.com/form/signup",
-                            "id": null,
-                            "title": "Weekly Newsletter"
-                        },
-                        {
-                            "children": null,
-                            "class": "column-orphan",
-                            "href": "http://pressbox.mlssoccer.com/content/competition-rules-and-regulations",
-                            "id": null,
-                            "title": "Competition Rules and Regulations"
-                        },
-                        {
-                            "children": null,
-                            "class": "column-orphan",
-                            "href": "http://pressbox.mlssoccer.com/content/roster-rules-and-regulations",
-                            "id": null,
-                            "title": "Roster Rules"
-                        }
-                    ],
-                    "class": "the-orphans",
-                    "href": null,
-                    "id": null,
-                    "title": null
-                }
-            ],
-            "href": "http://www.mlssoccer.com/",
-            "id": "menu-more",
-            "title": "More"
+            "children": null,
+            "href": "http://mls.univision.com/",
+            "id": "menu-espanol",
+            "title": "Espa\u00f1ol"
         }
     ],
     "navStyle": "mp6",
@@ -3392,7 +3184,7 @@
                     },
                     "statistics": {
                         "corner_taken": 0,
-                        "fouls": 3,
+                        "fouls": 4,
                         "goal_assist": 0,
                         "goals": 0,
                         "goals_conceded": 1,
@@ -3452,7 +3244,7 @@
                     },
                     "statistics": {
                         "corner_taken": 0,
-                        "fouls": 2,
+                        "fouls": 1,
                         "goal_assist": 0,
                         "goals": 0,
                         "goals_conceded": 1,
@@ -3640,7 +3432,7 @@
                         "good_high_claim": 0,
                         "mins_played": 90,
                         "ontarget_scoring_att": 0,
-                        "punches": 2,
+                        "punches": 1,
                         "saves": 3,
                         "total_offside": 0,
                         "total_scoring_att": 0,
@@ -3818,7 +3610,7 @@
                     },
                     "statistics": {
                         "corner_taken": 0,
-                        "fouls": 4,
+                        "fouls": 3,
                         "goal_assist": 0,
                         "goals": 0,
                         "goals_conceded": 0,
@@ -4148,7 +3940,7 @@
                     },
                     "statistics": {
                         "corner_taken": 0,
-                        "fouls": 0,
+                        "fouls": 1,
                         "goal_assist": 0,
                         "goals": 0,
                         "goals_conceded": 0,
@@ -4291,38 +4083,38 @@
                 "interval": {
                     "15": {
                         "0-15": {
-                            "1207": 56.2,
-                            "1326": 43.8
+                            "1207": 55.7,
+                            "1326": 44.3
                         },
                         "16-30": {
-                            "1207": 55.2,
-                            "1326": 44.8
+                            "1207": 54.1,
+                            "1326": 45.9
                         },
                         "31-45": {
-                            "1207": 68.7,
-                            "1326": 31.3
+                            "1207": 68.1,
+                            "1326": 31.9
                         },
                         "46-60": {
-                            "1207": 60.4,
-                            "1326": 39.6
+                            "1207": 59.4,
+                            "1326": 40.6
                         },
                         "61-75": {
-                            "1207": 62.7,
-                            "1326": 37.3
+                            "1207": 62,
+                            "1326": 38
                         },
                         "76-90": {
-                            "1207": 75.7,
-                            "1326": 24.3
+                            "1207": 74,
+                            "1326": 26
                         }
                     },
                     "45": {
                         "0-45": {
-                            "1207": 60.2,
-                            "1326": 39.8
+                            "1207": 59.3,
+                            "1326": 40.7
                         },
                         "46-90": {
-                            "1207": 66.8,
-                            "1326": 33.2
+                            "1207": 65.8,
+                            "1326": 34.2
                         }
                     },
                     "5": {
@@ -4337,13 +4129,13 @@
                             "interval": "11-15"
                         },
                         "16-20": {
-                            "1207": 61.1,
-                            "1326": 38.9,
+                            "1207": 57.9,
+                            "1326": 42.1,
                             "interval": "16-20"
                         },
                         "21-25": {
-                            "1207": 63,
-                            "1326": 37,
+                            "1207": 62.5,
+                            "1326": 37.5,
                             "interval": "21-25"
                         },
                         "26-30": {
@@ -4357,8 +4149,8 @@
                             "interval": "31-35"
                         },
                         "36-40": {
-                            "1207": 78,
-                            "1326": 22,
+                            "1207": 76.3,
+                            "1326": 23.7,
                             "interval": "36-40"
                         },
                         "41-45": {
@@ -4367,13 +4159,13 @@
                             "interval": "41-45"
                         },
                         "46-50": {
-                            "1207": 46.5,
-                            "1326": 53.5,
+                            "1207": 47.7,
+                            "1326": 52.3,
                             "interval": "46-50"
                         },
                         "51-55": {
-                            "1207": 70.4,
-                            "1326": 29.6,
+                            "1207": 66.7,
+                            "1326": 33.3,
                             "interval": "51-55"
                         },
                         "56-60": {
@@ -4397,112 +4189,112 @@
                             "interval": "66-70"
                         },
                         "71-75": {
-                            "1207": 54.8,
-                            "1326": 45.2,
+                            "1207": 51.7,
+                            "1326": 48.3,
                             "interval": "71-75"
                         },
                         "76-80": {
-                            "1207": 76.4,
-                            "1326": 23.6,
+                            "1207": 78.2,
+                            "1326": 21.8,
                             "interval": "76-80"
                         },
                         "81-85": {
-                            "1207": 80,
-                            "1326": 20,
+                            "1207": 76.7,
+                            "1326": 23.3,
                             "interval": "81-85"
                         },
                         "86-90": {
-                            "1207": 71.7,
-                            "1326": 28.3,
+                            "1207": 67.9,
+                            "1326": 32.1,
                             "interval": "86-90"
                         }
                     }
                 },
                 "lastX": {
                     "10": {
-                        "1207": 72.4,
-                        "1326": 27.6
+                        "1207": 69.4,
+                        "1326": 30.6
                     },
                     "15": {
-                        "1207": 72.5,
-                        "1326": 27.5
+                        "1207": 70.4,
+                        "1326": 29.6
                     },
                     "20": {
-                        "1207": 74.8,
-                        "1326": 25.2
+                        "1207": 73.4,
+                        "1326": 26.6
                     },
                     "25": {
-                        "1207": 72.2,
-                        "1326": 27.8
+                        "1207": 70.7,
+                        "1326": 29.3
                     },
                     "30": {
-                        "1207": 70.1,
-                        "1326": 29.9
+                        "1207": 68.6,
+                        "1326": 31.4
                     },
                     "5": {
-                        "1207": 72,
-                        "1326": 28
+                        "1207": 64.3,
+                        "1326": 35.7
                     }
                 },
                 "overall": {
-                    "1207": 63.2,
-                    "1326": 36.8
+                    "1207": 62.2,
+                    "1326": 37.8
                 }
             },
             "Territorial": {
                 "interval": {
                     "15": {
                         "0-15": {
-                            "1207": 52.3,
-                            "1326": 47.7
+                            "1207": 51.9,
+                            "1326": 48.1
                         },
                         "16-30": {
-                            "1207": 65.6,
-                            "1326": 34.4
+                            "1207": 64.9,
+                            "1326": 35.1
                         },
                         "31-45": {
                             "1207": 52.4,
                             "1326": 47.6
                         },
                         "46-60": {
-                            "1207": 55.2,
-                            "1326": 44.8
+                            "1207": 55.1,
+                            "1326": 44.9
                         },
                         "61-75": {
-                            "1207": 50.9,
-                            "1326": 49.1
+                            "1207": 51.9,
+                            "1326": 48.1
                         },
                         "76-90": {
-                            "1207": 67.6,
-                            "1326": 32.4
+                            "1207": 67.5,
+                            "1326": 32.5
                         }
                     },
                     "45": {
                         "0-45": {
-                            "1207": 57.4,
-                            "1326": 42.6
+                            "1207": 57.1,
+                            "1326": 42.9
                         },
                         "46-90": {
-                            "1207": 58.7,
-                            "1326": 41.3
+                            "1207": 59,
+                            "1326": 41
                         }
                     },
                     "5": {
                         "0-5": {
-                            "1207": 55.6,
-                            "1326": 44.4
+                            "1207": 53.8,
+                            "1326": 46.2
                         },
                         "11-15": {
                             "1207": 41.8,
                             "1326": 58.2
                         },
                         "16-20": {
-                            "1207": 55.6,
-                            "1326": 44.4
+                            "1207": 57.9,
+                            "1326": 42.1
                         },
                         "21-25": {
-                            "1207": 71.2,
-                            "1326": 28.8
+                            "1207": 68.1,
+                            "1326": 31.9
                         },
                         "26-30": {
                             "1207": 67.9,
@@ -4521,12 +4313,12 @@
                             "1326": 52.3
                         },
                         "46-50": {
-                            "1207": 46.5,
-                            "1326": 53.5
+                            "1207": 45.5,
+                            "1326": 54.5
                         },
                         "51-55": {
-                            "1207": 51.9,
-                            "1326": 48.1
+                            "1207": 52.6,
+                            "1326": 47.4
                         },
                         "56-60": {
                             "1207": 70.3,
@@ -4545,108 +4337,108 @@
                             "1326": 39.5
                         },
                         "71-75": {
-                            "1207": 38.7,
-                            "1326": 61.3
+                            "1207": 41.4,
+                            "1326": 58.6
                         },
                         "76-80": {
                             "1207": 69.1,
                             "1326": 30.9
                         },
                         "81-85": {
-                            "1207": 72.5,
-                            "1326": 27.5
+                            "1207": 74.4,
+                            "1326": 25.6
                         },
                         "86-90": {
-                            "1207": 62.3,
-                            "1326": 37.7
+                            "1207": 60.7,
+                            "1326": 39.3
                         }
                     }
                 },
                 "lastX": {
                     "10": {
-                        "1207": 63.8,
-                        "1326": 36.2
+                        "1207": 62.9,
+                        "1326": 37.1
                     },
                     "15": {
-                        "1207": 64.7,
-                        "1326": 35.3
+                        "1207": 64.8,
+                        "1326": 35.2
                     },
                     "20": {
                         "1207": 66.3,
                         "1326": 33.7
                     },
                     "25": {
-                        "1207": 62.8,
-                        "1326": 37.2
+                        "1207": 63.6,
+                        "1326": 36.4
                     },
                     "30": {
-                        "1207": 61.9,
-                        "1326": 38.1
+                        "1207": 62.7,
+                        "1326": 37.3
                     },
                     "5": {
-                        "1207": 72,
-                        "1326": 28
+                        "1207": 67.9,
+                        "1326": 32.1
                     }
                 },
                 "overall": {
-                    "1207": 58,
-                    "1326": 42
+                    "1207": 57.9,
+                    "1326": 42.1
                 }
             },
             "TerritorialThird": {
                 "interval": {
                     "15": {
                         "0-15": {
-                            "1207": 17.2,
-                            "1326": 28.1
+                            "1207": 17.6,
+                            "1326": 27.5
                         },
                         "16-30": {
-                            "1207": 9.3,
-                            "1326": 29
+                            "1207": 9.7,
+                            "1326": 28.6
                         },
                         "31-45": {
                             "1207": 21.7,
-                            "1326": 22.9
+                            "1326": 22.3
                         },
                         "46-60": {
-                            "1207": 28.4,
-                            "1326": 35.8
+                            "1207": 26.8,
+                            "1326": 35.5
                         },
                         "61-75": {
-                            "1207": 22.7,
-                            "1326": 26.4
+                            "1207": 23.1,
+                            "1326": 26.9
                         },
                         "76-90": {
-                            "1207": 11.5,
-                            "1326": 35.1
+                            "1207": 12.3,
+                            "1326": 33.1
                         }
                     },
                     "45": {
                         "0-45": {
-                            "1207": 15.7,
-                            "1326": 26.6
+                            "1207": 16,
+                            "1326": 26.1
                         },
                         "46-90": {
-                            "1207": 20.4,
-                            "1326": 32.9
+                            "1207": 20.2,
+                            "1326": 32.2
                         }
                     },
                     "5": {
                         "0-5": {
-                            "1207": 16.7,
-                            "1326": 38.9
+                            "1207": 17.9,
+                            "1326": 35.9
                         },
                         "11-15": {
                             "1207": 20,
                             "1326": 18.2
                         },
                         "16-20": {
-                            "1207": 9.3,
-                            "1326": 38.9
+                            "1207": 10.5,
+                            "1326": 36.8
                         },
                         "21-25": {
-                            "1207": 5.5,
-                            "1326": 27.4
+                            "1207": 5.6,
+                            "1326": 27.8
                         },
                         "26-30": {
                             "1207": 14.3,
@@ -4658,19 +4450,19 @@
                         },
                         "36-40": {
                             "1207": 10.2,
-                            "1326": 33.9
+                            "1326": 32.2
                         },
                         "41-45": {
                             "1207": 27.3,
                             "1326": 20.5
                         },
                         "46-50": {
-                            "1207": 39.5,
-                            "1326": 44.2
+                            "1207": 36.4,
+                            "1326": 43.2
                         },
                         "51-55": {
-                            "1207": 31.5,
-                            "1326": 27.8
+                            "1207": 29.8,
+                            "1326": 28.1
                         },
                         "56-60": {
                             "1207": 10.8,
@@ -4689,27 +4481,27 @@
                             "1326": 34.2
                         },
                         "71-75": {
-                            "1207": 29,
-                            "1326": 12.9
+                            "1207": 31,
+                            "1326": 13.8
                         },
                         "76-80": {
                             "1207": 7.3,
-                            "1326": 23.6
+                            "1326": 21.8
                         },
                         "81-85": {
-                            "1207": 10,
-                            "1326": 50
+                            "1207": 9.3,
+                            "1326": 46.5
                         },
                         "86-90": {
-                            "1207": 17,
-                            "1326": 35.8
+                            "1207": 19.6,
+                            "1326": 33.9
                         }
                     }
                 },
                 "lastX": {},
                 "overall": {
-                    "1207": 17.8,
-                    "1326": 29.5
+                    "1207": 17.9,
+                    "1326": 28.9
                 }
             }
         }
@@ -6030,7 +5822,7 @@
                         {
                             "awayClub": 1326,
                             "awayScore": 0,
-                            "date": 1432767600,
+                            "date": 1432767600000,
                             "homeClub": 1581,
                             "homeScore": 1,
                             "id": 791494,
@@ -6040,7 +5832,7 @@
                         {
                             "awayClub": 5513,
                             "awayScore": 1,
-                            "date": 1433026800,
+                            "date": 1433026800000,
                             "homeClub": 1326,
                             "homeScore": 2,
                             "id": 791500,
@@ -6050,7 +5842,7 @@
                         {
                             "awayClub": 1207,
                             "awayScore": 1,
-                            "date": 1433372400,
+                            "date": 1433372400000,
                             "homeClub": 1326,
                             "homeScore": 3,
                             "id": 791506,
@@ -6060,7 +5852,7 @@
                         {
                             "awayClub": 2077,
                             "awayScore": 2,
-                            "date": 1433631600,
+                            "date": 1433631600000,
                             "homeClub": 1326,
                             "homeScore": 1,
                             "id": 791515,
@@ -6070,7 +5862,7 @@
                         {
                             "awayClub": 1326,
                             "awayScore": 0,
-                            "date": 1434322800,
+                            "date": 1434322800000,
                             "homeClub": 6900,
                             "homeScore": 1,
                             "id": 791522,
@@ -6080,7 +5872,7 @@
                         {
                             "awayClub": 928,
                             "awayScore": 1,
-                            "date": 1434841200,
+                            "date": 1434841200000,
                             "homeClub": 1326,
                             "homeScore": 2,
                             "id": 791531,
@@ -6359,7 +6151,7 @@
                         {
                             "awayClub": 1207,
                             "awayScore": 2,
-                            "date": 1431730800,
+                            "date": 1431730800000,
                             "homeClub": 9668,
                             "homeScore": 2,
                             "id": 791472,
@@ -6369,7 +6161,7 @@
                         {
                             "awayClub": 1207,
                             "awayScore": 2,
-                            "date": 1432335600,
+                            "date": 1432335600000,
                             "homeClub": 454,
                             "homeScore": 2,
                             "id": 791483,
@@ -6379,7 +6171,7 @@
                         {
                             "awayClub": 1616,
                             "awayScore": 0,
-                            "date": 1433026800,
+                            "date": 1433026800000,
                             "homeClub": 1207,
                             "homeScore": 3,
                             "id": 791499,
@@ -6389,7 +6181,7 @@
                         {
                             "awayClub": 1207,
                             "awayScore": 1,
-                            "date": 1433372400,
+                            "date": 1433372400000,
                             "homeClub": 1326,
                             "homeScore": 3,
                             "id": 791506,
@@ -6399,7 +6191,7 @@
                         {
                             "awayClub": 6900,
                             "awayScore": 3,
-                            "date": 1433631600,
+                            "date": 1433631600000,
                             "homeClub": 1207,
                             "homeScore": 2,
                             "id": 791513,
@@ -6409,7 +6201,7 @@
                         {
                             "awayClub": 1207,
                             "awayScore": 0,
-                            "date": 1434236400,
+                            "date": 1434236400000,
                             "homeClub": 928,
                             "homeScore": 2,
                             "id": 791429,
@@ -6542,7 +6334,7 @@
             "title": "Chicago Fire 0, DC United 1 | MLS Match Recap"
         }
     },
-    "sequence": 1154,
+    "sequence": 0,
     "shootout": [],
     "timelineItems": [
         {
@@ -6643,7 +6435,7 @@
             "comment": "Attempt missed. Guly (Chicago Fire) right footed shot from outside the box is too high. Assisted by Greg Cochrane.",
             "extraTimeNum": 0,
             "id": 1105959047,
-            "last_modified": 1435199115,
+            "last_modified": 1435801742,
             "minuteNum": 88,
             "players": [
                 {
@@ -6672,7 +6464,7 @@
             "comment": "Offside, D.C. United. Fabian Espindola tries a through ball, but Luis Silva is caught offside.",
             "extraTimeNum": 0,
             "id": 1116464470,
-            "last_modified": 1435200576,
+            "last_modified": 1435335403,
             "minuteNum": 83,
             "players": [
                 {
@@ -6701,7 +6493,7 @@
             "comment": "Foul by Fabian Espindola (D.C. United).",
             "extraTimeNum": 0,
             "id": 1126362415,
-            "last_modified": 1435198879,
+            "last_modified": 1435333342,
             "minuteNum": 71,
             "players": [
                 {
@@ -6743,7 +6535,7 @@
             "comment": "Foul by Kofi Opare (D.C. United).",
             "extraTimeNum": 0,
             "id": 1141852887,
-            "last_modified": 1435197203,
+            "last_modified": 1435332945,
             "minuteNum": 57,
             "players": [
                 {
@@ -6806,7 +6598,7 @@
             "comment": "Attempt saved. Bobby Boswell (D.C. United) header from the centre of the box is saved in the bottom left corner. Assisted by Luis Silva with a cross.",
             "extraTimeNum": 0,
             "id": 1275283258,
-            "last_modified": 1435196999,
+            "last_modified": 1435700901,
             "minuteNum": 50,
             "players": [
                 {
@@ -6857,7 +6649,7 @@
             "comment": "Attempt missed. Kennedy Igboananike (Chicago Fire) right footed shot from a difficult angle and long range on the right misses to the right. Assisted by Harry Shipp with a through ball.",
             "extraTimeNum": 0,
             "id": 1299236423,
-            "last_modified": 1435193365,
+            "last_modified": 1435694195,
             "minuteNum": 10,
             "players": [
                 {
@@ -6907,7 +6699,7 @@
             "comment": "Kennedy Igboananike (Chicago Fire) wins a free kick on the right wing.",
             "extraTimeNum": 0,
             "id": 1411671243,
-            "last_modified": 1435197203,
+            "last_modified": 1435332940,
             "minuteNum": 57,
             "players": [
                 {
@@ -6999,7 +6791,7 @@
             "comment": "Attempt saved. Facundo Coria (D.C. United) left footed shot from outside the box is saved in the top centre of the goal. Assisted by Luis Silva.",
             "extraTimeNum": 0,
             "id": 1502728361,
-            "last_modified": 1435193881,
+            "last_modified": 1435696308,
             "minuteNum": 19,
             "players": [
                 {
@@ -7067,10 +6859,10 @@
         },
         {
             "_type": "COMMENT",
-            "comment": "Attempt blocked. Harry Shipp (Chicago Fire) right footed shot from outside the box is blocked. Assisted by Greg Cochrane with a cross.",
+            "comment": "Attempt blocked. Harry Shipp (Chicago Fire) right footed shot from outside the box is blocked.",
             "extraTimeNum": 0,
             "id": 1551833642,
-            "last_modified": 1435194412,
+            "last_modified": 1435697273,
             "minuteNum": 27,
             "players": [
                 {
@@ -7080,14 +6872,6 @@
                         28
                     ],
                     "optaId": 177976
-                },
-                {
-                    "clubOptaId": 1207,
-                    "indices": [
-                        107,
-                        120
-                    ],
-                    "optaId": 151936
                 }
             ],
             "secondNum": 42,
@@ -7138,10 +6922,10 @@
         },
         {
             "_type": "COMMENT",
-            "comment": "Foul by Jairo Arrieta (D.C. United).",
+            "comment": "Foul by Facundo Coria (D.C. United).",
             "extraTimeNum": 0,
             "id": 1581065149,
-            "last_modified": 1435192790,
+            "last_modified": 1435692850,
             "minuteNum": 1,
             "players": [
                 {
@@ -7150,7 +6934,7 @@
                         8,
                         21
                     ],
-                    "optaId": 115752
+                    "optaId": 55777
                 }
             ],
             "secondNum": 29,
@@ -7371,7 +7155,7 @@
             "comment": "Attempt blocked. Jason Johnson (Chicago Fire) left footed shot from outside the box is blocked. Assisted by Razvan Cocis.",
             "extraTimeNum": 0,
             "id": 1928808835,
-            "last_modified": 1435198666,
+            "last_modified": 1435792364,
             "minuteNum": 78,
             "players": [
                 {
@@ -7397,10 +7181,22 @@
         },
         {
             "_type": "COMMENT",
+            "comment": "First Half ends, Chicago Fire 0, D.C. United 0.",
+            "extraTimeNum": 2,
+            "id": 1932110690,
+            "last_modified": 1435700349,
+            "minuteNum": 45,
+            "players": [],
+            "secondNum": 17,
+            "time": "45'+2'",
+            "type": "end 1"
+        },
+        {
+            "_type": "COMMENT",
             "comment": "Offside, D.C. United. Fabian Espindola tries a through ball, but Jairo Arrieta is caught offside.",
             "extraTimeNum": 3,
             "id": 1939941598,
-            "last_modified": 1435201031,
+            "last_modified": 1435336158,
             "minuteNum": 90,
             "players": [
                 {
@@ -7420,7 +7216,7 @@
                     "optaId": 115752
                 }
             ],
-            "secondNum": 15,
+            "secondNum": 13,
             "time": "90'+3'",
             "type": "offside"
         },
@@ -7447,10 +7243,10 @@
         },
         {
             "_type": "COMMENT",
-            "comment": "Attempt missed. Miguel Aguilar (D.C. United) right footed shot from more than 35 yards is too high.",
+            "comment": "Attempt missed. Miguel Aguilar (D.C. United) right footed shot from more than 35 yards is too high following a set piece situation.",
             "extraTimeNum": 0,
             "id": 2018487218,
-            "last_modified": 1435193560,
+            "last_modified": 1435694492,
             "minuteNum": 14,
             "players": [
                 {
@@ -7462,7 +7258,7 @@
                     "optaId": 202349
                 }
             ],
-            "secondNum": 6,
+            "secondNum": 3,
             "time": "14'",
             "type": "miss"
         },
@@ -7471,7 +7267,7 @@
             "comment": "Attempt blocked. Bobby Boswell (D.C. United) right footed shot from the centre of the box is blocked. Assisted by Kofi Opare.",
             "extraTimeNum": 0,
             "id": 2033021414,
-            "last_modified": 1435198565,
+            "last_modified": 1435791956,
             "minuteNum": 73,
             "players": [
                 {
@@ -7676,10 +7472,10 @@
         },
         {
             "_type": "COMMENT",
-            "comment": "Attempt missed. Kennedy Igboananike (Chicago Fire) left footed shot from the left side of the six yard box is close, but misses to the left.",
+            "comment": "Attempt missed. Kennedy Igboananike (Chicago Fire) left footed shot from the left side of the six yard box is close, but misses to the left. Assisted by Razvan Cocis.",
             "extraTimeNum": 0,
             "id": 302320112,
-            "last_modified": 1435194578,
+            "last_modified": 1435697571,
             "minuteNum": 29,
             "players": [
                 {
@@ -7689,6 +7485,14 @@
                         35
                     ],
                     "optaId": 81347
+                },
+                {
+                    "clubOptaId": 1207,
+                    "indices": [
+                        153,
+                        165
+                    ],
+                    "optaId": 32502
                 }
             ],
             "secondNum": 16,
@@ -7701,7 +7505,7 @@
             "comment": "Foul by Guly (Chicago Fire).",
             "extraTimeNum": 0,
             "id": 325292541,
-            "last_modified": 1435198550,
+            "last_modified": 1435335094,
             "minuteNum": 79,
             "players": [
                 {
@@ -7843,7 +7647,7 @@
             "comment": "Attempt missed. Kofi Opare (D.C. United) header from very close range is close, but misses to the right. Assisted by Luis Silva with a cross following a corner.",
             "extraTimeNum": 0,
             "id": 43592958,
-            "last_modified": 1435193921,
+            "last_modified": 1435696393,
             "minuteNum": 20,
             "players": [
                 {
@@ -7863,7 +7667,7 @@
                     "optaId": 110624
                 }
             ],
-            "secondNum": 10,
+            "secondNum": 6,
             "time": "20'",
             "type": "miss"
         },
@@ -7893,7 +7697,7 @@
             "comment": "Adailton (Chicago Fire) wins a free kick in the defensive half.",
             "extraTimeNum": 0,
             "id": 44618032,
-            "last_modified": 1435193712,
+            "last_modified": 1435329038,
             "minuteNum": 16,
             "players": [
                 {
@@ -7914,7 +7718,7 @@
             "comment": "Nick DeLeon (D.C. United) wins a free kick in the defensive half.",
             "extraTimeNum": 0,
             "id": 450435699,
-            "last_modified": 1435198550,
+            "last_modified": 1435335089,
             "minuteNum": 79,
             "players": [
                 {
@@ -7935,7 +7739,7 @@
             "comment": "Attempt saved. Guly (Chicago Fire) right footed shot from outside the box is saved in the centre of the goal. Assisted by Kennedy Igboananike.",
             "extraTimeNum": 0,
             "id": 459822591,
-            "last_modified": 1435198305,
+            "last_modified": 1435792126,
             "minuteNum": 75,
             "players": [
                 {
@@ -8123,7 +7927,7 @@
             "comment": "Foul by Jairo Arrieta (D.C. United).",
             "extraTimeNum": 0,
             "id": 64849242,
-            "last_modified": 1435193712,
+            "last_modified": 1435329025,
             "minuteNum": 16,
             "players": [
                 {
@@ -8269,7 +8073,7 @@
             "comment": "Attempt blocked. Guly (Chicago Fire) right footed shot from outside the box is blocked.",
             "extraTimeNum": 0,
             "id": 759215773,
-            "last_modified": 1435197061,
+            "last_modified": 1435332533,
             "minuteNum": 54,
             "players": [
                 {
@@ -8424,7 +8228,7 @@
             "comment": "Attempt blocked. Kennedy Igboananike (Chicago Fire) right footed shot from outside the box is blocked. Assisted by Mike Magee.",
             "extraTimeNum": 0,
             "id": 823743772,
-            "last_modified": 1435198865,
+            "last_modified": 1435792457,
             "minuteNum": 78,
             "players": [
                 {
@@ -8465,7 +8269,7 @@
             "comment": "Attempt saved. Jairo Arrieta (D.C. United) right footed shot from the left side of the box is saved in the top centre of the goal. Assisted by Conor Doyle.",
             "extraTimeNum": 0,
             "id": 849025740,
-            "last_modified": 1435195917,
+            "last_modified": 1435696935,
             "minuteNum": 24,
             "players": [
                 {
@@ -8626,10 +8430,10 @@
         },
         {
             "_type": "COMMENT",
-            "comment": "Foul by Razvan Cocis (Chicago Fire).",
+            "comment": "Foul by Chris Ritter (Chicago Fire).",
             "extraTimeNum": 0,
             "id": 922213405,
-            "last_modified": 1435193224,
+            "last_modified": 1435693936,
             "minuteNum": 8,
             "players": [
                 {
@@ -8638,7 +8442,7 @@
                         8,
                         20
                     ],
-                    "optaId": 32502
+                    "optaId": 177975
                 }
             ],
             "secondNum": 42,
@@ -8647,10 +8451,10 @@
         },
         {
             "_type": "COMMENT",
-            "comment": "Attempt missed. Facundo Coria (D.C. United) right footed shot from outside the box is high and wide to the left from a direct free kick.",
+            "comment": "Attempt missed. Facundo Coria (D.C. United) left footed shot from outside the box is high and wide to the left from a direct free kick.",
             "extraTimeNum": 2,
             "id": 927884303,
-            "last_modified": 1435195541,
+            "last_modified": 1435699630,
             "minuteNum": 45,
             "players": [
                 {
@@ -8749,18 +8553,6 @@
             "secondNum": 57,
             "time": "55'",
             "type": "free kick lost"
-        },
-        {
-            "_type": "COMMENT",
-            "comment": "First Half ends, Chicago Fire 0, D.C. United 0.",
-            "extraTimeNum": 2,
-            "id": 994954330,
-            "last_modified": 1435195543,
-            "minuteNum": 45,
-            "players": [],
-            "secondNum": 27,
-            "time": "45'+2'",
-            "type": "end 1"
         },
         {
             "_type": "GOAL",
@@ -8999,7 +8791,7 @@
                 "positionAbbr": "D",
                 "status": "Start"
             },
-            "reason": "Foul",
+            "reason": "Unsporting Behavior",
             "secondNum": 0,
             "teamId": 1326,
             "time": 90
@@ -9025,7 +8817,7 @@
                 "positionAbbr": "M",
                 "status": "Start"
             },
-            "reason": "Foul",
+            "reason": "Unsporting Behavior",
             "secondNum": 0,
             "teamId": 1207,
             "time": 45,
@@ -9053,7 +8845,7 @@
                 "positionAbbr": "F",
                 "status": "Start"
             },
-            "reason": "Foul",
+            "reason": "Persistent Infringement",
             "secondNum": 0,
             "teamId": 1207,
             "time": 79,
@@ -9443,7 +9235,7 @@
             "text": "Sean Johnson playing with motivation from not making the Gold Cup squad <a target=\"_blank\" href=\"//twitter.com/search?q=%23CHIvDC\">#CHIvDC</a> <a href=\"http://t.co/RhEdN8yJor\" target=\"_blank\">http://t.co/RhEdN8yJor</a>",
             "toJSON": true,
             "user_id": "1306330615",
-            "user_image": "http://pbs.twimg.com/profile_images/3436441522/af9ba6fce8fc2eb7c5573cda4366b0a8_normal.jpeg"
+            "user_image": "http://pbs.twimg.com/profile_images/613891337901903872/Zx7wS25F_normal.jpg"
         },
         {
             "_type": "TWEET",
@@ -9458,7 +9250,7 @@
             "text": "If there was ever a time this season where we doubted <a target=\"_blank\" href=\"//twitter.com/@sjohn25\">@sjohn25</a>, his saves tonight show why Toyota Park is his house. <a target=\"_blank\" href=\"//twitter.com/search?q=%23cf97\">#cf97</a>",
             "toJSON": true,
             "user_id": "81513296",
-            "user_image": "http://pbs.twimg.com/profile_images/593159160235167744/wncMNu0o_normal.jpg"
+            "user_image": "http://pbs.twimg.com/profile_images/632067712911560704/eFUA2owd_normal.jpg"
         },
         {
             "_type": "VIDEO",
@@ -9543,7 +9335,7 @@
             "text": "<a target=\"_blank\" href=\"//twitter.com/search?q=%23DCU\">#DCU</a> needs to go down a goal already so that we can win. Being down always galvanizes the team and leads to a result. <a target=\"_blank\" href=\"//twitter.com/search?q=%23dcutalk\">#dcutalk</a>",
             "toJSON": true,
             "user_id": "2966892731",
-            "user_image": "http://pbs.twimg.com/profile_images/553352402741387266/IExY5V-C_normal.png"
+            "user_image": "http://pbs.twimg.com/profile_images/615989076269920256/8R6o3bDE_normal.png"
         },
         {
             "_type": "TWEET",
@@ -9573,7 +9365,7 @@
             "text": "<a target=\"_blank\" href=\"//twitter.com/search?q=%23cf97\">#cf97</a> has looked most dangerous off of Greg Cochrane's crosses. Encouraging with Jones leaving for Gold Cup",
             "toJSON": true,
             "user_id": "1136119945",
-            "user_image": "http://pbs.twimg.com/profile_images/584509444228157440/pFx5AHcP_normal.jpg"
+            "user_image": "http://pbs.twimg.com/profile_images/618283761394802688/QSwaKFZy_normal.jpg"
         },
         {
             "_type": "TWEET",
@@ -9660,7 +9452,7 @@
             "text": "I now have Igboananike in the clipboard on my phone so I can ridicule by name <a target=\"_blank\" href=\"//twitter.com/search?q=%23dcu\">#dcu</a> Igboananike Igboananike Igboananike Igboananike",
             "toJSON": true,
             "user_id": "84167270",
-            "user_image": "http://pbs.twimg.com/profile_images/2621608467/e84cijhbrp7fpkltd3mn_normal.png"
+            "user_image": "http://pbs.twimg.com/profile_images/616408382308642816/n-aZBaXE_normal.png"
         },
         {
             "_type": "TWEET",
@@ -9675,7 +9467,7 @@
             "text": "<a target=\"_blank\" href=\"//twitter.com/@ChrisRolfe17\">@ChrisRolfe17</a> and <a target=\"_blank\" href=\"//twitter.com/@PerryKitchen23\">@PerryKitchen23</a> on as subs would make this Wednesday night a real thriller <a target=\"_blank\" href=\"//twitter.com/search?q=%23RivalryWeek\">#RivalryWeek</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23CHIvDC\">#CHIvDC</a>",
             "toJSON": true,
             "user_id": "1306330615",
-            "user_image": "http://pbs.twimg.com/profile_images/3436441522/af9ba6fce8fc2eb7c5573cda4366b0a8_normal.jpeg"
+            "user_image": "http://pbs.twimg.com/profile_images/613891337901903872/Zx7wS25F_normal.jpg"
         },
         {
             "_type": "TWEET",
@@ -9705,7 +9497,7 @@
             "text": "18 different starting lineups in 19 league games is a remarkable stat for first-place <a target=\"_blank\" href=\"//twitter.com/search?q=%23DCU\">#DCU</a>",
             "toJSON": true,
             "user_id": "1053948612",
-            "user_image": "http://pbs.twimg.com/profile_images/605883053114716160/RK5OyVFV_normal.jpg"
+            "user_image": "http://pbs.twimg.com/profile_images/623831410294554624/op-JdG4W_normal.jpg"
         },
         {
             "_type": "TWEET",
@@ -9758,7 +9550,7 @@
             "text": "Cocis sounds like an insult <a target=\"_blank\" href=\"//twitter.com/search?q=%23CHIvDC\">#CHIvDC</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23dcunited\">#dcunited</a> Benny Ballgame needs to make some subs to capture 3 points, attack is flat",
             "toJSON": true,
             "user_id": "1306330615",
-            "user_image": "http://pbs.twimg.com/profile_images/3436441522/af9ba6fce8fc2eb7c5573cda4366b0a8_normal.jpeg"
+            "user_image": "http://pbs.twimg.com/profile_images/613891337901903872/Zx7wS25F_normal.jpg"
         },
         {
             "_type": "TWEET",
@@ -9773,7 +9565,7 @@
             "text": "Fiery peptalk from Olsen at halftime should get <a target=\"_blank\" href=\"//twitter.com/search?q=%23DCU\">#DCU</a> into gear. <a target=\"_blank\" href=\"//twitter.com/search?q=%23dcutalk\">#dcutalk</a>",
             "toJSON": true,
             "user_id": "2966892731",
-            "user_image": "http://pbs.twimg.com/profile_images/553352402741387266/IExY5V-C_normal.png"
+            "user_image": "http://pbs.twimg.com/profile_images/615989076269920256/8R6o3bDE_normal.png"
         },
         {
             "_type": "VIDEO",
@@ -9817,7 +9609,7 @@
             "text": "Halftime 0-0 <a target=\"_blank\" href=\"//twitter.com/search?q=%23CHIvDC\">#CHIvDC</a> <a href=\"http://t.co/2wp74kYY1L\" target=\"_blank\">http://t.co/2wp74kYY1L</a>",
             "toJSON": true,
             "user_id": "15997022",
-            "user_image": "http://pbs.twimg.com/profile_images/1828185119/logo-128x128_normal.png"
+            "user_image": "http://pbs.twimg.com/profile_images/623964124935028737/n-FENTB__normal.jpg"
         },
         {
             "_type": "TWEET",
@@ -9832,7 +9624,7 @@
             "text": "Starting mostly a reserves lineup, decent half by <a target=\"_blank\" href=\"//twitter.com/search?q=%23DCU\">#DCU</a>. Had some good chances. Strength off the bench tonite in second half.",
             "toJSON": true,
             "user_id": "1053948612",
-            "user_image": "http://pbs.twimg.com/profile_images/605883053114716160/RK5OyVFV_normal.jpg"
+            "user_image": "http://pbs.twimg.com/profile_images/623831410294554624/op-JdG4W_normal.jpg"
         },
         {
             "_type": "TWEET",
@@ -10038,7 +9830,7 @@
             "text": "<a target=\"_blank\" href=\"//twitter.com/@Orrin_Schwarz\">@Orrin_Schwarz</a> 1...2...3... Let's see some Mike Magee <a target=\"_blank\" href=\"//twitter.com/search?q=%23CHIvDC\">#CHIvDC</a>",
             "toJSON": true,
             "user_id": "1306330615",
-            "user_image": "http://pbs.twimg.com/profile_images/3436441522/af9ba6fce8fc2eb7c5573cda4366b0a8_normal.jpeg"
+            "user_image": "http://pbs.twimg.com/profile_images/613891337901903872/Zx7wS25F_normal.jpg"
         },
         {
             "_type": "TWEET",
@@ -10053,7 +9845,7 @@
             "text": "That may be a save of the week for <a target=\"_blank\" href=\"//twitter.com/@sjohn25\">@sjohn25</a> or at least a nominee. <a target=\"_blank\" href=\"//twitter.com/search?q=%23CHIvDC\">#CHIvDC</a>",
             "toJSON": true,
             "user_id": "62803739",
-            "user_image": "http://pbs.twimg.com/profile_images/477495265792778240/dKRDUEPe_normal.jpeg"
+            "user_image": "http://pbs.twimg.com/profile_images/623471838753128448/pCkJk_yX_normal.jpg"
         },
         {
             "_type": "TWEET",
@@ -10113,7 +9905,7 @@
             "text": "I just hope that any defensive alteration in the game doesn't open up Shipp. <a target=\"_blank\" href=\"//twitter.com/search?q=%23CHIvDC\">#CHIvDC</a>",
             "toJSON": true,
             "user_id": "62803739",
-            "user_image": "http://pbs.twimg.com/profile_images/477495265792778240/dKRDUEPe_normal.jpeg"
+            "user_image": "http://pbs.twimg.com/profile_images/623471838753128448/pCkJk_yX_normal.jpg"
         },
         {
             "_type": "TWEET",
@@ -10173,7 +9965,7 @@
             "text": "Birdgate taking the headlines in the <a target=\"_blank\" href=\"//twitter.com/search?q=%23CHIvDC\">#CHIvDC</a> match <a target=\"_blank\" href=\"//twitter.com/search?q=%23RivalryWeek\">#RivalryWeek</a>",
             "toJSON": true,
             "user_id": "1306330615",
-            "user_image": "http://pbs.twimg.com/profile_images/3436441522/af9ba6fce8fc2eb7c5573cda4366b0a8_normal.jpeg"
+            "user_image": "http://pbs.twimg.com/profile_images/613891337901903872/Zx7wS25F_normal.jpg"
         },
         {
             "_type": "TWEET",
@@ -10188,7 +9980,7 @@
             "text": "Doesn't matter who is in our makeshift <a target=\"_blank\" href=\"//twitter.com/search?q=%23DCU\">#DCU</a> back line as long as we have <a target=\"_blank\" href=\"//twitter.com/@BillHamid28\">@BillHamid28</a> in goal.",
             "toJSON": true,
             "user_id": "2966892731",
-            "user_image": "http://pbs.twimg.com/profile_images/553352402741387266/IExY5V-C_normal.png"
+            "user_image": "http://pbs.twimg.com/profile_images/615989076269920256/8R6o3bDE_normal.png"
         },
         {
             "_type": "TWEET",
@@ -10207,7 +9999,7 @@
             "text": "This is <a target=\"_blank\" href=\"//twitter.com/@ChicagoFire\">@ChicagoFire</a> staff rushing to aid the struck bird to chants of \"Save the Bird\" and \"MVP\". <a target=\"_blank\" href=\"//twitter.com/search?q=%23CHIvDC\">#CHIvDC</a> <a href=\"http://t.co/Mopzmeme2e\" target=\"_blank\">http://t.co/Mopzmeme2e</a>",
             "toJSON": true,
             "user_id": "59221223",
-            "user_image": "http://pbs.twimg.com/profile_images/605897104020545536/-kdfDlWg_normal.jpg"
+            "user_image": "http://pbs.twimg.com/profile_images/620281452580732928/7OyVu_8-_normal.jpg"
         },
         {
             "_type": "TWEET",
@@ -10447,7 +10239,7 @@
             "text": "<a target=\"_blank\" href=\"//twitter.com/search?q=%23DCU\">#DCU</a> keeps finding ways to win games. I'm impressed. If they hang on they'll have a huge 10 point lead over <a target=\"_blank\" href=\"//twitter.com/search?q=%23NERevs\">#NERevs</a>",
             "toJSON": true,
             "user_id": "387691866",
-            "user_image": "http://pbs.twimg.com/profile_images/535791534688722944/nmcs7dNW_normal.jpeg"
+            "user_image": "http://pbs.twimg.com/profile_images/631178179202322432/IV49q7cv_normal.jpg"
         },
         {
             "_type": "TWEET",
@@ -10600,7 +10392,7 @@
             "text": "Conor Doyle, thank you very much! <a target=\"_blank\" href=\"//twitter.com/search?q=%23CHIvDC\">#CHIvDC</a> <a href=\"http://t.co/nkP3Pt3y6D\" target=\"_blank\">http://t.co/nkP3Pt3y6D</a>",
             "toJSON": true,
             "user_id": "15997022",
-            "user_image": "http://pbs.twimg.com/profile_images/1828185119/logo-128x128_normal.png"
+            "user_image": "http://pbs.twimg.com/profile_images/623964124935028737/n-FENTB__normal.jpg"
         },
         {
             "_type": "TWEET",
@@ -10702,7 +10494,7 @@
             "text": "\"Red and Blue\" vs. \"Black and Red\". All going down at Toyota Park. <a target=\"_blank\" href=\"//twitter.com/search?q=%23CHIvDC\">#CHIvDC</a>. <a href=\"http://t.co/WV9jpABUWf\" target=\"_blank\">http://t.co/WV9jpABUWf</a> <a href=\"http://t.co/nKxsXQqMd0\" target=\"_blank\">http://t.co/nKxsXQqMd0</a>",
             "toJSON": true,
             "user_id": "107146095",
-            "user_image": "http://pbs.twimg.com/profile_images/593636874301808640/2-2VpXxW_normal.jpg"
+            "user_image": "http://pbs.twimg.com/profile_images/618051008829132804/aZM1U8fz_normal.jpg"
         },
         {
             "_type": "TWEET",
@@ -10717,7 +10509,7 @@
             "text": "not sure what yallop sees in Do Prado <a target=\"_blank\" href=\"//twitter.com/search?q=%23confused\">#confused</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23cf97\">#cf97</a>",
             "toJSON": true,
             "user_id": "2737889389",
-            "user_image": "http://pbs.twimg.com/profile_images/602670037984354304/chOGQqyv_normal.jpg"
+            "user_image": "http://pbs.twimg.com/profile_images/627514215276904452/FG3EDUEA_normal.jpg"
         },
         {
             "_type": "TWEET",
@@ -10732,7 +10524,7 @@
             "text": "Game is pretty wild at this point. No team able to control the ball or string passes together. <a target=\"_blank\" href=\"//twitter.com/search?q=%23DCU\">#DCU</a> is a second half team though.",
             "toJSON": true,
             "user_id": "2966892731",
-            "user_image": "http://pbs.twimg.com/profile_images/553352402741387266/IExY5V-C_normal.png"
+            "user_image": "http://pbs.twimg.com/profile_images/615989076269920256/8R6o3bDE_normal.png"
         },
         {
             "_type": "TWEET",
@@ -10766,7 +10558,7 @@
             "text": "<a target=\"_blank\" href=\"//twitter.com/search?q=%23RivalryWeek\">#RivalryWeek</a> firing up, things are about to get chippy in Chicago, setting the stage for a late Perry <a target=\"_blank\" href=\"//twitter.com/@PerryKitchen23\">@PerryKitchen23</a> winner?<a target=\"_blank\" href=\"//twitter.com/search?q=%23DCU\">#DCU</a>",
             "toJSON": true,
             "user_id": "1306330615",
-            "user_image": "http://pbs.twimg.com/profile_images/3436441522/af9ba6fce8fc2eb7c5573cda4366b0a8_normal.jpeg"
+            "user_image": "http://pbs.twimg.com/profile_images/613891337901903872/Zx7wS25F_normal.jpg"
         },
         {
             "_type": "TWEET",

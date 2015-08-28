@@ -4069,70 +4069,29 @@
     },
     "nav": [
         {
-            "children": null,
-            "href": "http://matchcenter.mlssoccer.com",
-            "id": null,
-            "title": "Scores"
-        },
-        {
             "children": [
                 {
                     "children": [
                         {
                             "children": null,
                             "class": "column-orphan",
-                            "href": "http://www.mlssoccer.com/news",
+                            "href": "http://www.mlssoccer.com/news/rivalry",
                             "id": null,
-                            "title": "Latest News"
+                            "title": "MLS Heineken Rivalry Week"
                         },
                         {
                             "children": null,
                             "class": "column-orphan",
-                            "href": "http://mls.univision.com",
+                            "href": "http://www.mlssoccer.com/news/u.s.-open-cup",
                             "id": null,
-                            "title": "Noticias FutbolMLS"
+                            "title": "U.S. Open Cup"
                         },
                         {
                             "children": null,
                             "class": "column-orphan",
-                            "href": "http://www.mlssoccer.com/mls-disciplinary-summary",
+                            "href": "http://www.mlssoccer.com/news/ccl",
                             "id": null,
-                            "title": "Disciplinary Report"
-                        },
-                        {
-                            "children": null,
-                            "class": "column-orphan",
-                            "href": "http://www.mlssoccer.com/injuries",
-                            "id": null,
-                            "title": "Injury Report"
-                        },
-                        {
-                            "children": null,
-                            "class": "column-orphan",
-                            "href": "http://www.mlssoccer.com/transactions/2015",
-                            "id": null,
-                            "title": "Transactions"
-                        },
-                        {
-                            "children": null,
-                            "class": "column-orphan",
-                            "href": "http://www.mlssoccer.com/allocation",
-                            "id": null,
-                            "title": "Allocation Ranking"
-                        },
-                        {
-                            "children": null,
-                            "class": "column-orphan",
-                            "href": "http://www.mlssoccer.com/history",
-                            "id": null,
-                            "title": "History of MLS"
-                        },
-                        {
-                            "children": null,
-                            "class": "column-orphan",
-                            "href": "http://www.mlssoccer.com/mlsworks",
-                            "id": null,
-                            "title": "MLS WORKS"
+                            "title": "CONCACAF Champions League"
                         }
                     ],
                     "class": "the-orphans",
@@ -4145,20 +4104,6 @@
                         {
                             "children": null,
                             "class": null,
-                            "href": "http://www.mlssoccer.com/news/armchair-analyst",
-                            "id": null,
-                            "title": "Armchair Analyst"
-                        },
-                        {
-                            "children": null,
-                            "class": null,
-                            "href": "http://www.mlssoccer.com/news/central-winger",
-                            "id": null,
-                            "title": "Central Winger"
-                        },
-                        {
-                            "children": null,
-                            "class": null,
                             "href": "http://www.mlssoccer.com/news/the-kick-off",
                             "id": null,
                             "title": "The Kick-Off"
@@ -4166,9 +4111,23 @@
                         {
                             "children": null,
                             "class": null,
-                            "href": "http://www.mlssoccer.com/news/opta-spotlight",
+                            "href": "http://www.mlssoccer.com/news/american-exports",
                             "id": null,
-                            "title": "Opta Spotlight"
+                            "title": "American Exports"
+                        },
+                        {
+                            "children": null,
+                            "class": null,
+                            "href": "http://www.mlssoccer.com/news/armchair-analyst",
+                            "id": null,
+                            "title": "Armchair Analyst"
+                        },
+                        {
+                            "children": null,
+                            "class": null,
+                            "href": "http://www.mlssoccer.com/news/expansion",
+                            "id": null,
+                            "title": "Expansion"
                         },
                         {
                             "children": null,
@@ -4189,14 +4148,7 @@
                             "class": null,
                             "href": "http://www.mlssoccer.com/news/sideline",
                             "id": null,
-                            "title": "Sideline"
-                        },
-                        {
-                            "children": null,
-                            "class": null,
-                            "href": "http://www.mlssoccer.com/news/starting-xi",
-                            "id": null,
-                            "title": "Starting XI"
+                            "title": "The Sideline"
                         },
                         {
                             "children": null,
@@ -4208,49 +4160,6 @@
                         {
                             "children": null,
                             "class": null,
-                            "href": "http://www.mlssoccer.com/news/the-throw-in",
-                            "id": null,
-                            "title": "The Throw-In"
-                        },
-                        {
-                            "children": null,
-                            "class": null,
-                            "href": "http://www.mlssoccer.com/news/the-word",
-                            "id": null,
-                            "title": "The Word"
-                        }
-                    ],
-                    "class": "column-parent",
-                    "href": "http://www.mlssoccer.com/news",
-                    "id": null,
-                    "title": "Series"
-                },
-                {
-                    "children": [
-                        {
-                            "children": null,
-                            "class": null,
-                            "href": "http://www.mlssoccer.com/news/american-exports",
-                            "id": null,
-                            "title": "American Exports"
-                        },
-                        {
-                            "children": null,
-                            "class": null,
-                            "href": "http://www.mlssoccer.com/news/all-star",
-                            "id": null,
-                            "title": "AT&T MLS All-Star"
-                        },
-                        {
-                            "children": null,
-                            "class": null,
-                            "href": "http://www.mlssoccer.com/ccl",
-                            "id": null,
-                            "title": "CONCACAF Champions League"
-                        },
-                        {
-                            "children": null,
-                            "class": null,
                             "href": "http://www.mlssoccer.com/news/canadian-national-team",
                             "id": null,
                             "title": "Canadian National Team"
@@ -4258,165 +4167,67 @@
                         {
                             "children": null,
                             "class": null,
-                            "href": "http://www.mlssoccer.com/news/combine",
-                            "id": null,
-                            "title": "Combine"
-                        },
-                        {
-                            "children": null,
-                            "class": null,
-                            "href": "http://www.mlssoccer.com/news/expansion",
-                            "id": null,
-                            "title": "Expansion"
-                        },
-                        {
-                            "children": null,
-                            "class": null,
-                            "href": "http://www.mlssoccer.com/news/fantasy",
-                            "id": null,
-                            "title": "Fantasy"
-                        },
-                        {
-                            "children": null,
-                            "class": null,
-                            "href": "http://www.mlssoccer.com/goldcup/2013",
-                            "id": null,
-                            "title": "Gold Cup 2013"
-                        },
-                        {
-                            "children": null,
-                            "class": null,
-                            "href": "http://www.mlssoccer.com/mlscup/2014",
-                            "id": null,
-                            "title": "MLS Cup"
-                        },
-                        {
-                            "children": null,
-                            "class": null,
-                            "href": "http://www.mlssoccer.com/news/statistics",
-                            "id": null,
-                            "title": "Statistics"
-                        },
-                        {
-                            "children": null,
-                            "class": null,
-                            "href": "http://www.mlssoccer.com/news/superdraft",
-                            "id": null,
-                            "title": "SuperDraft"
-                        },
-                        {
-                            "children": null,
-                            "class": null,
                             "href": "http://www.mlssoccer.com/news/us-national-team",
                             "id": null,
                             "title": "US National Team"
-                        },
-                        {
-                            "children": null,
-                            "class": null,
-                            "href": "http://www.mlssoccer.com/news/open-cup",
-                            "id": null,
-                            "title": "US Open Cup"
-                        },
-                        {
-                            "children": null,
-                            "class": null,
-                            "href": "http://www.mlssoccer.com/worldcup/2014",
-                            "id": null,
-                            "title": "World Cup"
                         }
                     ],
                     "class": "column-parent",
                     "href": "http://www.mlssoccer.com/news",
                     "id": null,
-                    "title": "Topics"
+                    "title": "Latest News"
                 },
                 {
                     "children": [
                         {
                             "children": null,
                             "class": null,
-                            "href": "http://www.mlssoccer.com/author/simon-borg",
+                            "href": "http://www.mlssoccer.com/allocation",
                             "id": null,
-                            "title": "Simon Borg"
+                            "title": "Allocation Ranking"
                         },
                         {
                             "children": null,
                             "class": null,
-                            "href": "http://www.mlssoccer.com/author/matthew-doyle",
+                            "href": "http://www.mlssoccer.com/mls-disciplinary-summary",
                             "id": null,
-                            "title": "Matthew Doyle"
+                            "title": "Disciplinary Report"
                         },
                         {
                             "children": null,
                             "class": null,
-                            "href": "http://www.mlssoccer.com/author/greg-lalas",
+                            "href": "http://www.mlssoccer.com/injuries",
                             "id": null,
-                            "title": "Greg Lalas"
+                            "title": "Injury Report"
                         },
                         {
                             "children": null,
                             "class": null,
-                            "href": "http://www.mlssoccer.com/author/diego-pinz%C3%B3n",
+                            "href": "http://www.mlssoccer.com/transactions/2015",
                             "id": null,
-                            "title": "Diego Pinz\u00f3n"
+                            "title": "Transactions"
                         },
                         {
                             "children": null,
                             "class": null,
-                            "href": "http://www.mlssoccer.com/author/nicholas-rosano",
+                            "href": "http://www.mlssoccer.com/history",
                             "id": null,
-                            "title": "Nicholas Rosano"
-                        },
-                        {
-                            "children": null,
-                            "class": null,
-                            "href": "http://www.mlssoccer.com/author/greg-seltzer",
-                            "id": null,
-                            "title": "Greg Seltzer"
-                        },
-                        {
-                            "children": null,
-                            "class": null,
-                            "href": "http://www.mlssoccer.com/author/matthias-van-halst",
-                            "id": null,
-                            "title": "Matthias Van Halst"
-                        },
-                        {
-                            "children": null,
-                            "class": null,
-                            "href": "http://www.mlssoccer.com/author/kristel-valencia",
-                            "id": null,
-                            "title": "Kristel Valencia"
-                        },
-                        {
-                            "children": null,
-                            "class": null,
-                            "href": "http://www.mlssoccer.com/author/andrew-wiebe",
-                            "id": null,
-                            "title": "Andrew Wiebe"
+                            "title": "History of MLS"
                         }
                     ],
                     "class": "column-parent",
                     "href": "http://www.mlssoccer.com/news",
                     "id": null,
-                    "title": "Contributors"
+                    "title": "The League"
                 },
                 {
                     "children": [
                         {
                             "children": null,
                             "class": null,
-                            "href": "http://www.mlssoccer.com/extratime",
+                            "href": "http://www.mlssoccer.com/news/extratime-radio",
                             "id": null,
                             "title": "ExtraTime Radio"
-                        },
-                        {
-                            "children": null,
-                            "class": null,
-                            "href": "http://www.mlssoccer.com/marchtothematch",
-                            "id": null,
-                            "title": "March to the Match"
                         },
                         {
                             "children": null,
@@ -4430,11 +4241,11 @@
                             "class": null,
                             "href": "http://www.mlssoccer.com/coupfranc",
                             "id": null,
-                            "title": "Coup Franc - Le Magazine"
+                            "title": "Coup Franc"
                         }
                     ],
                     "class": "column-parent",
-                    "href": "http://www.mlssoccer.com/extratime",
+                    "href": "http://www.mlssoccer.com/news/extratime-radio",
                     "id": null,
                     "title": "Podcasts"
                 }
@@ -4446,140 +4257,95 @@
         {
             "children": [
                 {
-                    "children": [
-                        {
-                            "children": null,
-                            "class": null,
-                            "href": "http://www.mlssoccer.com/video/channel/world-cup",
-                            "id": null,
-                            "title": "World Cup"
-                        },
-                        {
-                            "children": null,
-                            "class": null,
-                            "href": "http://www.mlssoccer.com/gotw/2014",
-                            "id": null,
-                            "title": "AT&T Goal of the Week"
-                        },
-                        {
-                            "children": null,
-                            "class": null,
-                            "href": "http://www.mlssoccer.com/sotw/2014",
-                            "id": null,
-                            "title": "Save of the Week"
-                        },
-                        {
-                            "children": null,
-                            "class": null,
-                            "href": "http://www.mlssoccer.com/video/channel/mls-insider",
-                            "id": null,
-                            "title": "MLS Insider "
-                        },
-                        {
-                            "children": null,
-                            "class": null,
-                            "href": "http://www.mlssoccer.com/video/channel/starting-lineup",
-                            "id": null,
-                            "title": "Starting Lineup"
-                        },
-                        {
-                            "children": null,
-                            "class": null,
-                            "href": "http://www.mlssoccer.com/video/channel/instant-replay",
-                            "id": null,
-                            "title": "Instant Replay"
-                        },
-                        {
-                            "children": null,
-                            "class": null,
-                            "href": "http://www.mlssoccer.com/video/channel/anatomy-of-a-goal",
-                            "id": null,
-                            "title": "Anatomy of a Goal"
-                        },
-                        {
-                            "children": null,
-                            "class": null,
-                            "href": "http://www.mlssoccer.com/video/channel/between-the-lines",
-                            "id": null,
-                            "title": "Between the Lines"
-                        },
-                        {
-                            "children": null,
-                            "class": null,
-                            "href": "http://www.mlssoccer.com/video/channel/90-plus",
-                            "id": null,
-                            "title": "90 Plus"
-                        },
-                        {
-                            "children": null,
-                            "class": null,
-                            "href": "http://www.mlssoccer.com/video/channel/futbolmls",
-                            "id": null,
-                            "title": "Espa\u00f1ol"
-                        }
-                    ],
-                    "class": "column-parent",
-                    "href": "http://www.mlssoccer.com/video",
-                    "id": null,
-                    "title": "Channels"
-                },
-                {
-                    "children": [
-                        {
-                            "children": null,
-                            "class": null,
-                            "href": "http://www.mlssoccer.com/video/channel/full-highlights",
-                            "id": null,
-                            "title": "Full Game Highlights"
-                        },
-                        {
-                            "children": null,
-                            "class": null,
-                            "href": "http://www.mlssoccer.com/video/channel/goals",
-                            "id": null,
-                            "title": "Goals"
-                        },
-                        {
-                            "children": null,
-                            "class": null,
-                            "href": "http://www.mlssoccer.com/video/channel/match-highlights",
-                            "id": null,
-                            "title": "Key Moments"
-                        }
-                    ],
-                    "class": "column-parent",
+                    "children": null,
+                    "class": null,
                     "href": "http://www.mlssoccer.com/video",
                     "id": null,
                     "title": "Highlights"
                 },
                 {
-                    "children": [
-                        {
-                            "children": null,
-                            "class": "column-orphan",
-                            "href": "http://live.mlssoccer.com",
-                            "id": null,
-                            "title": "MLS LIVE"
-                        },
-                        {
-                            "children": null,
-                            "class": "column-orphan",
-                            "href": "http://www.youtube.com/kicktv",
-                            "id": null,
-                            "title": "Kick TV on YouTube"
-                        },
-                        {
-                            "children": null,
-                            "class": "column-orphan",
-                            "href": "http://www.youtube.com/MLS",
-                            "id": null,
-                            "title": "MLS on YouTube"
-                        }
-                    ],
-                    "class": "the-orphans",
-                    "href": null,
+                    "children": null,
+                    "class": null,
+                    "href": "http://www.mlssoccer.com/video/channel/goals",
                     "id": null,
-                    "title": null
+                    "title": "Goals"
+                },
+                {
+                    "children": null,
+                    "class": null,
+                    "href": "http://www.mlssoccer.com/video/channel/mls-now",
+                    "id": null,
+                    "title": "MLS Now"
+                },
+                {
+                    "children": null,
+                    "class": null,
+                    "href": "http://www.mlssoccer.com/gotw/2015",
+                    "id": null,
+                    "title": "AT&T Goal of the Week"
+                },
+                {
+                    "children": null,
+                    "class": null,
+                    "href": "http://www.mlssoccer.com/video/channel/instant-replay",
+                    "id": null,
+                    "title": "Instant Replay"
+                },
+                {
+                    "children": null,
+                    "class": null,
+                    "href": "http://www.mlssoccer.com/video/channel/mls-insider",
+                    "id": null,
+                    "title": "MLS Insider "
+                },
+                {
+                    "children": null,
+                    "class": null,
+                    "href": "http://www.mlssoccer.com/video/channel/off-topic-with-rachel-bonnetta",
+                    "id": null,
+                    "title": "Off Topic with Rachel Bonnetta"
+                },
+                {
+                    "children": null,
+                    "class": null,
+                    "href": "http://www.mlssoccer.com/video/channel/on-the-field",
+                    "id": null,
+                    "title": "On the Field"
+                },
+                {
+                    "children": null,
+                    "class": null,
+                    "href": "http://www.mlssoccer.com/video/channel/plays-of-the-night",
+                    "id": null,
+                    "title": "Plays of the Night"
+                },
+                {
+                    "children": null,
+                    "class": null,
+                    "href": "http://www.mlssoccer.com/sotw/2015",
+                    "id": null,
+                    "title": "Save of the Week"
+                },
+                {
+                    "children": null,
+                    "class": null,
+                    "href": "http://www.mlssoccer.com/video/channel/starting-lineup",
+                    "id": null,
+                    "title": "Starting Lineup"
+                },
+                {
+                    "children": null,
+                    "class": null,
+                    "href": "http://www.mlssoccer.com/video/channel/90-plus",
+                    "id": null,
+                    "title": "90 Plus"
+                },
+                {
+                    "children": null,
+                    "class": null,
+                    "href": "http://www.mlssoccer.com/video/channel/get-me-in-there",
+                    "id": null,
+                    "title": "Get Me In There"
                 }
             ],
             "href": "http://www.mlssoccer.com/video",
@@ -4587,178 +4353,44 @@
             "title": "Videos"
         },
         {
-            "children": [
-                {
-                    "children": [
-                        {
-                            "children": null,
-                            "class": null,
-                            "href": "http://www.mlssoccer.com/tickets",
-                            "id": null,
-                            "title": "Tickets"
-                        },
-                        {
-                            "children": null,
-                            "class": null,
-                            "href": "http://www.mlssoccer.com/news/article/2015/01/22/preseason-schedules-2015",
-                            "id": null,
-                            "title": "Preseason Schedule"
-                        },
-                        {
-                            "children": null,
-                            "class": null,
-                            "href": "http://www.mlssoccer.com/schedule-download",
-                            "id": null,
-                            "title": "Add Schedule to Calendar"
-                        },
-                        {
-                            "children": null,
-                            "class": null,
-                            "href": "http://www.mlssoccer.com/tv",
-                            "id": null,
-                            "title": "TV Schedule"
-                        },
-                        {
-                            "children": null,
-                            "class": null,
-                            "href": "http://www.mlssoccer.com/schedule/2014-reserve-league",
-                            "id": null,
-                            "title": "Reserve League"
-                        }
-                    ],
-                    "class": "column-parent",
-                    "href": "http://www.mlssoccer.com/schedule",
-                    "id": null,
-                    "title": "Schedule"
-                },
-                {
-                    "children": [
-                        {
-                            "children": null,
-                            "class": null,
-                            "href": "http://www.mlssoccer.com/standings",
-                            "id": null,
-                            "title": "Conference Standings"
-                        },
-                        {
-                            "children": null,
-                            "class": null,
-                            "href": "http://www.mlssoccer.com/results",
-                            "id": null,
-                            "title": "Results Map"
-                        },
-                        {
-                            "children": null,
-                            "class": null,
-                            "href": "http://www.mlssoccer.com/standings/supporters-shield",
-                            "id": null,
-                            "title": "Supporters' Shield Race"
-                        }
-                    ],
-                    "class": "column-parent",
-                    "href": "http://www.mlssoccer.com/standings",
-                    "id": null,
-                    "title": "Standings"
-                },
-                {
-                    "children": [
-                        {
-                            "children": null,
-                            "class": null,
-                            "href": "http://www.mlssoccer.com/players",
-                            "id": null,
-                            "title": "Players"
-                        },
-                        {
-                            "children": null,
-                            "class": null,
-                            "href": "http://www.mlssoccer.com/stats",
-                            "id": null,
-                            "title": "Stat Leaders"
-                        },
-                        {
-                            "children": null,
-                            "class": null,
-                            "href": "http://www.mlssoccer.com/stats/season",
-                            "id": null,
-                            "title": "Season Stats"
-                        },
-                        {
-                            "children": null,
-                            "class": null,
-                            "href": "http://www.mlssoccer.com/stats/alltime",
-                            "id": null,
-                            "title": "All-Time Stats"
-                        },
-                        {
-                            "children": null,
-                            "class": null,
-                            "href": "http://www.mlssoccer.com/stats/team",
-                            "id": null,
-                            "title": "Team Stats"
-                        }
-                    ],
-                    "class": "column-parent",
-                    "href": "http://www.mlssoccer.com/stats",
-                    "id": null,
-                    "title": "Stats"
-                }
-            ],
+            "children": [],
             "href": "http://www.mlssoccer.com/schedule",
             "id": "menu-schedule",
             "title": "Schedule"
         },
         {
             "children": null,
+            "href": "http://matchcenter.mlssoccer.com",
+            "id": null,
+            "title": "Scores"
+        },
+        {
+            "children": [],
             "href": "http://www.mlssoccer.com/standings",
             "id": null,
             "title": "Standings"
         },
         {
-            "children": null,
-            "href": "http://fantasy.mlssoccer.com/",
+            "children": [],
+            "href": "http://www.mlssoccer.com/stats",
+            "id": null,
+            "title": "Stats"
+        },
+        {
+            "children": [],
+            "href": "http://www.mlssoccer.com/fantasy-soccer",
             "id": null,
             "title": "Fantasy"
         },
         {
-            "children": [
-                {
-                    "children": null,
-                    "class": "column-parent",
-                    "href": "http://www.mlssoccer.com/tickets",
-                    "id": null,
-                    "title": "Tickets"
-                },
-                {
-                    "children": null,
-                    "class": "column-parent",
-                    "href": "http://www.mlscollectibles.com/",
-                    "id": null,
-                    "title": "MLS Collectibles"
-                },
-                {
-                    "children": null,
-                    "class": "column-parent",
-                    "href": "http://www.mlsstore.com/",
-                    "id": null,
-                    "title": "MLS Store"
-                },
-                {
-                    "children": null,
-                    "class": "column-parent",
-                    "href": "http://www.mlsgearcanada.ca/",
-                    "id": null,
-                    "title": "MLS Gear Canada"
-                },
-                {
-                    "children": null,
-                    "class": "column-parent",
-                    "href": "http://mls.fanphotos.com",
-                    "id": null,
-                    "title": "MLS Photo Store"
-                }
-            ],
-            "href": "http://www.mlsstore.com",
+            "children": [],
+            "href": "http://live.mlssoccer.com/mlsmdl/",
+            "id": "mls-live",
+            "title": "MLS LIVE"
+        },
+        {
+            "children": [],
+            "href": "http://mlsstore.com/source/BM-mlssoccercom-MLSSTORE-TopNav-051315",
             "id": null,
             "title": "Shop"
         },
@@ -4767,127 +4399,6 @@
             "href": "http://mls.univision.com/",
             "id": "menu-espanol",
             "title": "Espa\u00f1ol"
-        },
-        {
-            "children": [
-                {
-                    "children": [
-                        {
-                            "children": null,
-                            "class": null,
-                            "href": "https://play.google.com/store/apps/details?id=com.mlssoccer",
-                            "id": null,
-                            "title": "Android app"
-                        },
-                        {
-                            "children": null,
-                            "class": null,
-                            "href": "http://itunes.apple.com/us/app/mls-matchday-2011/id397303467",
-                            "id": null,
-                            "title": "iPhone & iPad app"
-                        },
-                        {
-                            "children": null,
-                            "class": null,
-                            "href": "http://apps.microsoft.com/windows/en-us/app/mls-matchday/9129dc50-43c4-4948-bd93-7e97c1c13609",
-                            "id": null,
-                            "title": "Windows 8 app"
-                        },
-                        {
-                            "children": null,
-                            "class": null,
-                            "href": "http://www.mlssoccer.com/news/article/2013/09/26/mls-apple-tv",
-                            "id": null,
-                            "title": "MLS on Apple TV"
-                        },
-                        {
-                            "children": null,
-                            "class": null,
-                            "href": "http://www.roku.com/channels/#!details/7348/mls-live",
-                            "id": null,
-                            "title": "MLS on Roku"
-                        }
-                    ],
-                    "class": "column-parent",
-                    "href": "http://www.mlssoccer.com/mobile",
-                    "id": null,
-                    "title": "Mobile"
-                },
-                {
-                    "children": [
-                        {
-                            "children": null,
-                            "class": null,
-                            "href": "http://twitter.com/mls",
-                            "id": null,
-                            "title": "Twitter"
-                        },
-                        {
-                            "children": null,
-                            "class": null,
-                            "href": "http://facebook.com/mls",
-                            "id": null,
-                            "title": "Facebook"
-                        },
-                        {
-                            "children": null,
-                            "class": null,
-                            "href": "http://instagram.com/mls",
-                            "id": null,
-                            "title": "Instagram"
-                        },
-                        {
-                            "children": null,
-                            "class": null,
-                            "href": "https://plus.google.com/+mls/",
-                            "id": null,
-                            "title": "Google+"
-                        },
-                        {
-                            "children": null,
-                            "class": null,
-                            "href": "http://mls.tumblr.com",
-                            "id": null,
-                            "title": "Tumblr"
-                        },
-                        {
-                            "children": null,
-                            "class": null,
-                            "href": "https://vine.co/MLS",
-                            "id": null,
-                            "title": "Vine"
-                        },
-                        {
-                            "children": null,
-                            "class": null,
-                            "href": "http://www.youtube.com/mls",
-                            "id": null,
-                            "title": "YouTube"
-                        },
-                        {
-                            "children": null,
-                            "class": null,
-                            "href": "http://foursquare.com/mls",
-                            "id": null,
-                            "title": "Foursquare"
-                        },
-                        {
-                            "children": null,
-                            "class": null,
-                            "href": "http://www.mlssoccer.com/form/signup",
-                            "id": null,
-                            "title": "Weekly Newsletter"
-                        }
-                    ],
-                    "class": "column-parent",
-                    "href": "http://www.mlssoccer.com/fans/social-media",
-                    "id": null,
-                    "title": "Social Media"
-                }
-            ],
-            "href": "http://www.mlssoccer.com/",
-            "id": "menu-more",
-            "title": "More"
         }
     ],
     "navStyle": "mp6",
@@ -6326,6 +5837,7 @@
     },
     "preview": {
         "awayMatchClubSeasonStatistics": {
+            "clubOptaId": 1207,
             "statistics": {
                 "form": {
                     "LastSixAway": "DLWDDD",
@@ -6873,6 +6385,7 @@
             }
         },
         "homeMatchClubSeasonStatistics": {
+            "clubOptaId": 421,
             "statistics": {
                 "form": {
                     "LastSixAway": "WWLLWL",
@@ -7721,7 +7234,7 @@
                         {
                             "awayClub": 421,
                             "awayScore": 1,
-                            "date": "2014-05-18",
+                            "date": null,
                             "homeClub": 1207,
                             "homeScore": 2,
                             "id": 741463,
@@ -7731,7 +7244,7 @@
                         {
                             "awayClub": 1207,
                             "awayScore": 0,
-                            "date": "2014-05-25",
+                            "date": null,
                             "homeClub": 454,
                             "homeScore": 2,
                             "id": 741470,
@@ -7741,7 +7254,7 @@
                         {
                             "awayClub": 1230,
                             "awayScore": 1,
-                            "date": "2014-06-01",
+                            "date": null,
                             "homeClub": 1207,
                             "homeScore": 1,
                             "id": 741484,
@@ -7751,7 +7264,7 @@
                         {
                             "awayClub": 1207,
                             "awayScore": 0,
-                            "date": "2014-06-05",
+                            "date": null,
                             "homeClub": 436,
                             "homeScore": 0,
                             "id": 741487,
@@ -7761,7 +7274,7 @@
                         {
                             "awayClub": 3500,
                             "awayScore": 3,
-                            "date": "2014-06-08",
+                            "date": null,
                             "homeClub": 1207,
                             "homeScore": 2,
                             "id": 741494,
@@ -7771,7 +7284,7 @@
                         {
                             "awayClub": 2077,
                             "awayScore": 1,
-                            "date": "2014-07-03",
+                            "date": null,
                             "homeClub": 1207,
                             "homeScore": 1,
                             "id": 741510,
@@ -8114,7 +7627,7 @@
                         {
                             "awayClub": 421,
                             "awayScore": 1,
-                            "date": "2014-05-18",
+                            "date": null,
                             "homeClub": 1207,
                             "homeScore": 2,
                             "id": 741463,
@@ -8124,7 +7637,7 @@
                         {
                             "awayClub": 2077,
                             "awayScore": 2,
-                            "date": "2014-05-24",
+                            "date": null,
                             "homeClub": 421,
                             "homeScore": 2,
                             "id": 741466,
@@ -8134,7 +7647,7 @@
                         {
                             "awayClub": 399,
                             "awayScore": 1,
-                            "date": "2014-05-28",
+                            "date": null,
                             "homeClub": 421,
                             "homeScore": 1,
                             "id": 741475,
@@ -8144,7 +7657,7 @@
                         {
                             "awayClub": 421,
                             "awayScore": 0,
-                            "date": "2014-06-01",
+                            "date": null,
                             "homeClub": 1326,
                             "homeScore": 1,
                             "id": 741478,
@@ -8154,7 +7667,7 @@
                         {
                             "awayClub": 421,
                             "awayScore": 2,
-                            "date": "2014-06-07",
+                            "date": null,
                             "homeClub": 1897,
                             "homeScore": 0,
                             "id": 741488,
@@ -8164,7 +7677,7 @@
                         {
                             "awayClub": 421,
                             "awayScore": 1,
-                            "date": "2014-06-28",
+                            "date": null,
                             "homeClub": 1581,
                             "homeScore": 0,
                             "id": 741502,
@@ -8330,7 +7843,7 @@
             "title": "Sporting Kansas City 1, Chicago Fire 1 | MLS Match Recap"
         }
     },
-    "sequence": 30,
+    "sequence": 0,
     "shootout": [],
     "timelineItems": [
         {
@@ -8550,7 +8063,8 @@
             "secondNum": 57,
             "text": "Benny Feilhaber is far and away the best player on the field the first 12 minutes of this game. Do with that info what you will. <a target=\"_blank\" href=\"//twitter.com/search?q=%23SKCvCHI\">#SKCvCHI</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/485804991941070850/0FKUyVYM_normal.jpeg"
+            "user_id": "16687624",
+            "user_image": "http://pbs.twimg.com/profile_images/543032131169955840/3ZHJRgUk_normal.jpeg"
         },
         {
             "_type": "TWEET",
@@ -8564,6 +8078,7 @@
             "secondNum": 7,
             "text": "12' Best chance so far for SKC. Feilhaber slides a through ball to Saad, whose one-time strike just outside the box is saved. <a target=\"_blank\" href=\"//twitter.com/search?q=%23SKCvCHI\">#SKCvCHI</a>",
             "toJSON": true,
+            "user_id": "257944255",
             "user_image": "http://pbs.twimg.com/profile_images/480781116488417281/TI2ay6aW_normal.jpeg"
         },
         {
@@ -8599,6 +8114,7 @@
             "secondNum": 4,
             "text": "Palmer out of position twice now. Keep an eye on that today. <a target=\"_blank\" href=\"//twitter.com/search?q=%23cf97\">#cf97</a>",
             "toJSON": true,
+            "user_id": "64885713",
             "user_image": "http://pbs.twimg.com/profile_images/534073458485768194/BLeJni1i_normal.jpeg"
         },
         {
@@ -8613,7 +8129,8 @@
             "secondNum": 3,
             "text": "I have to admit <a target=\"_blank\" href=\"//twitter.com/@SportingKC\">@SportingKC</a> jerseys are first class. Great design/colors &amp; sponsor logo is not in your face. Take note <a target=\"_blank\" href=\"//twitter.com/search?q=%23cf97\">#cf97</a>. Now, GO FIRE!",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/459789091739926528/dfR-O1GQ_normal.jpeg"
+            "user_id": "169674025",
+            "user_image": "http://pbs.twimg.com/profile_images/598217605917245440/m-SFfD-o_normal.jpg"
         },
         {
             "_type": "COMMENT",
@@ -8698,6 +8215,7 @@
             "secondNum": 16,
             "text": "<a target=\"_blank\" href=\"//twitter.com/search?q=%23cf97\">#cf97</a> having a hard time with <a target=\"_blank\" href=\"//twitter.com/search?q=%23SKC\">#SKC</a>'s high pressure so far. Think they would do better if alex were in central midfield",
             "toJSON": true,
+            "user_id": "59032403",
             "user_image": "http://pbs.twimg.com/profile_images/1793350624/matt_y_sara_normal.png"
         },
         {
@@ -8758,25 +8276,20 @@
             "secondNum": 24,
             "text": "Beautiful day for some soccer (via jthaas14 on Instagram). <a target=\"_blank\" href=\"//twitter.com/search?q=%23SKCvCHI\">#SKCvCHI</a> <a href=\"http://t.co/1POzxXkBy5\" target=\"_blank\">http://t.co/1POzxXkBy5</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/550589473767976961/OTnslq_m_normal.png"
+            "user_id": "107146095",
+            "user_image": "http://pbs.twimg.com/profile_images/618051008829132804/aZM1U8fz_normal.jpg"
         },
         {
-            "_type": "TWEET",
-            "created_at": "2014-07-06T19:25:54+00:00",
+            "_type": "INSTAGRAM",
+            "created_at": "2015-08-28T06:18:36+00:00",
             "extraTimeNum": 0,
-            "id": "485867252269330432",
+            "id": 485867252269330400,
             "minuteNum": 17,
-            "name": "Major League Soccer",
-            "photo": {
-                "url": "http://pbs.twimg.com/media/Br4lsMdCEAE3Epy.png",
-                "url_https": "https://pbs.twimg.com/media/Br4lsMdCEAE3Epy.png"
-            },
+            "name": "undefined",
             "published_at": 1404674754813,
-            "screen_name": "MLS",
-            "secondNum": 24,
-            "text": "Beautiful day for some soccer (via jthaas14 on Instagram). <a target=\"_blank\" href=\"//twitter.com/search?q=%23SKCvCHI\">#SKCvCHI</a> <a href=\"http://t.co/1POzxXkBy5\" target=\"_blank\">http://t.co/1POzxXkBy5</a>",
-            "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/550589473767976961/OTnslq_m_normal.png"
+            "secondsNum": 0,
+            "text": "",
+            "toJSON": true
         },
         {
             "_type": "TWEET",
@@ -8784,13 +8297,14 @@
             "extraTimeNum": 0,
             "id": "485867253494079488",
             "minuteNum": 17,
-            "name": "Braulio Antonio D\u00edaz",
+            "name": "Braulio Antonio D\u00c3\u00adaz",
             "published_at": 1404674767709,
             "screen_name": "braulioadiaz",
             "secondNum": 37,
             "text": "I don't know about you, but I can't wait until Fondy comes in and takes this game over. <a target=\"_blank\" href=\"//twitter.com/search?q=%23cf97\">#cf97</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23StrikeForce\">#StrikeForce</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/572954415520452608/fu5o_83Q_normal.jpeg"
+            "user_id": "151660489",
+            "user_image": "http://pbs.twimg.com/profile_images/576952025587429376/6Y_Vql___normal.jpeg"
         },
         {
             "_type": "INSTAGRAM",
@@ -8856,6 +8370,7 @@
             "secondNum": 35,
             "text": "There will be a red card today. <a target=\"_blank\" href=\"//twitter.com/search?q=%23SKCvCHI\">#SKCvCHI</a>",
             "toJSON": true,
+            "user_id": "64885713",
             "user_image": "http://pbs.twimg.com/profile_images/534073458485768194/BLeJni1i_normal.jpeg"
         },
         {
@@ -8955,6 +8470,7 @@
             "secondNum": 60,
             "text": "unbelievable <a target=\"_blank\" href=\"//twitter.com/search?q=%23SKC\">#SKC</a> giveaway to Magee but an awful finish by <a target=\"_blank\" href=\"//twitter.com/search?q=%23CF97\">#CF97</a> striker! Just a horrid <a target=\"_blank\" href=\"//twitter.com/search?q=%23MLS\">#MLS</a> sequence there",
             "toJSON": true,
+            "user_id": "144285207",
             "user_image": "http://pbs.twimg.com/profile_images/3551597693/d26c0f7190f3d9b1b319d6323b0c4241_normal.jpeg"
         },
         {
@@ -8969,6 +8485,7 @@
             "secondNum": 43,
             "text": "How does Aur\u00e9lien Collin not get a card every game for dissent? <a target=\"_blank\" href=\"//twitter.com/search?q=%23crackdown\">#crackdown</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23SKCvCHI\">#SKCvCHI</a>",
             "toJSON": true,
+            "user_id": "104482747",
             "user_image": "http://pbs.twimg.com/profile_images/3034469780/3c3d33a03da92e0fabe44e528a4a906c_normal.jpeg"
         },
         {
@@ -8995,7 +8512,8 @@
             "secondNum": 0,
             "text": "My first MLS game and looks like a tie. Tons of close shots. Oh well , it was fun. <a target=\"_blank\" href=\"//twitter.com/search?q=%23SKCvCHI\">#SKCvCHI</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/484103443460538368/JKvFalGV_normal.jpeg"
+            "user_id": "2167580017",
+            "user_image": "http://pbs.twimg.com/profile_images/578724033413263360/OkQss1l0_normal.jpeg"
         },
         {
             "_type": "TWEET",
@@ -9009,6 +8527,7 @@
             "secondNum": 0,
             "text": "Not a bad point ... pretty blah second-half performance, though. <a target=\"_blank\" href=\"//twitter.com/search?q=%23cf97\">#cf97</a> fortunate.",
             "toJSON": true,
+            "user_id": "72355201",
             "user_image": "http://pbs.twimg.com/profile_images/531867201402568704/YtxJJhiL_normal.jpeg"
         },
         {
@@ -9017,13 +8536,14 @@
             "extraTimeNum": 2,
             "id": "485891332310056961",
             "minuteNum": 200,
-            "name": "J\u00ebff Krause",
+            "name": "J\u00c3\u00abff Krause",
             "published_at": 1404680509809,
             "screen_name": "DFBJeff",
             "secondNum": 0,
             "text": "Draws on draws on draws. <a target=\"_blank\" href=\"//twitter.com/search?q=%23cf97\">#cf97</a> needs to do something phenomenal in the transfer window. This is shambolic and tired.",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/559196691279396865/bS3q_-ME_normal.jpeg"
+            "user_id": "19608458",
+            "user_image": "http://pbs.twimg.com/profile_images/631284280547786752/ZOX-yItG_normal.jpg"
         },
         {
             "_type": "TWEET",
@@ -9037,7 +8557,8 @@
             "secondNum": 0,
             "text": "A hard result to stomach, if you consider how superb Zusi was after coming on. His range of execution and service was unfathomable. <a target=\"_blank\" href=\"//twitter.com/search?q=%23SKCvCHI\">#SKCvCHI</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/567071644754006016/ihFh3jP-_normal.jpeg"
+            "user_id": "1247735198",
+            "user_image": "http://pbs.twimg.com/profile_images/605257530672037888/rBAJ2NeH_normal.jpg"
         },
         {
             "_type": "TWEET",
@@ -9055,25 +8576,20 @@
             "secondNum": 0,
             "text": "FT: Clinical equalizer from <a target=\"_blank\" href=\"//twitter.com/@magee9\">@magee9</a> sees <a target=\"_blank\" href=\"//twitter.com/@chicagofire\">@chicagofire</a> grab a point on the road. <a href=\"http://t.co/xWF8WLI4oE\" target=\"_blank\">http://t.co/xWF8WLI4oE</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23SKCvCHI\">#SKCvCHI</a> <a href=\"http://t.co/8ZO6poQo8i\" target=\"_blank\">http://t.co/8ZO6poQo8i</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/550589473767976961/OTnslq_m_normal.png"
+            "user_id": "107146095",
+            "user_image": "http://pbs.twimg.com/profile_images/618051008829132804/aZM1U8fz_normal.jpg"
         },
         {
-            "_type": "TWEET",
-            "created_at": "2014-07-06T21:02:40+00:00",
+            "_type": "INSTAGRAM",
+            "created_at": "2015-08-28T06:18:36+00:00",
             "extraTimeNum": 2,
-            "id": "485891603308240897",
+            "id": 485891603308240900,
             "minuteNum": 200,
-            "name": "Major League Soccer",
-            "photo": {
-                "url": "http://pbs.twimg.com/media/Br471qmIAAA2bEu.jpg",
-                "url_https": "https://pbs.twimg.com/media/Br471qmIAAA2bEu.jpg"
-            },
+            "name": "undefined",
             "published_at": 1404680560640,
-            "screen_name": "MLS",
-            "secondNum": 0,
-            "text": "FT: Clinical equalizer from <a target=\"_blank\" href=\"//twitter.com/@magee9\">@magee9</a> sees <a target=\"_blank\" href=\"//twitter.com/@chicagofire\">@chicagofire</a> grab a point on the road. <a href=\"http://t.co/xWF8WLI4oE\" target=\"_blank\">http://t.co/xWF8WLI4oE</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23SKCvCHI\">#SKCvCHI</a> <a href=\"http://t.co/8ZO6poQo8i\" target=\"_blank\">http://t.co/8ZO6poQo8i</a>",
-            "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/550589473767976961/OTnslq_m_normal.png"
+            "secondsNum": 0,
+            "text": "",
+            "toJSON": true
         },
         {
             "_type": "VIDEO",
@@ -9116,25 +8632,20 @@
             "secondNum": 0,
             "text": "HIGHLIGHTS: Zusi makes his return, but <a target=\"_blank\" href=\"//twitter.com/@SportingKC\">@SportingKC</a> settle for a draw at home. <a href=\"http://t.co/wNTm4hHE7w\" target=\"_blank\">http://t.co/wNTm4hHE7w</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23SKCvCHI\">#SKCvCHI</a> <a href=\"http://t.co/GTluqMrKKa\" target=\"_blank\">http://t.co/GTluqMrKKa</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/550589473767976961/OTnslq_m_normal.png"
+            "user_id": "107146095",
+            "user_image": "http://pbs.twimg.com/profile_images/618051008829132804/aZM1U8fz_normal.jpg"
         },
         {
-            "_type": "TWEET",
-            "created_at": "2014-07-06T22:00:39+00:00",
+            "_type": "INSTAGRAM",
+            "created_at": "2015-08-28T06:18:36+00:00",
             "extraTimeNum": 60,
-            "id": "485906197753888768",
+            "id": 485906197753888800,
             "minuteNum": 200,
-            "name": "Major League Soccer",
-            "photo": {
-                "url": "http://pbs.twimg.com/media/Br5JHK_IEAABYbg.jpg",
-                "url_https": "https://pbs.twimg.com/media/Br5JHK_IEAABYbg.jpg"
-            },
+            "name": "undefined",
             "published_at": 1404684040266,
-            "screen_name": "MLS",
-            "secondNum": 0,
-            "text": "HIGHLIGHTS: Zusi makes his return, but <a target=\"_blank\" href=\"//twitter.com/@SportingKC\">@SportingKC</a> settle for a draw at home. <a href=\"http://t.co/wNTm4hHE7w\" target=\"_blank\">http://t.co/wNTm4hHE7w</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23SKCvCHI\">#SKCvCHI</a> <a href=\"http://t.co/GTluqMrKKa\" target=\"_blank\">http://t.co/GTluqMrKKa</a>",
-            "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/550589473767976961/OTnslq_m_normal.png"
+            "secondsNum": 0,
+            "text": "",
+            "toJSON": true
         },
         {
             "_type": "TWEET",
@@ -9152,25 +8663,20 @@
             "secondNum": 0,
             "text": "ICYMI: <a target=\"_blank\" href=\"//twitter.com/@Ddwyer14\">@Ddwyer14</a> selfies with fans after scoring goal. <a href=\"http://t.co/ENpOv5TkO9\" target=\"_blank\">http://t.co/ENpOv5TkO9</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23SKCvCHI\">#SKCvCHI</a> <a href=\"http://t.co/rWqxzKKf3f\" target=\"_blank\">http://t.co/rWqxzKKf3f</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/550589473767976961/OTnslq_m_normal.png"
+            "user_id": "107146095",
+            "user_image": "http://pbs.twimg.com/profile_images/618051008829132804/aZM1U8fz_normal.jpg"
         },
         {
-            "_type": "TWEET",
-            "created_at": "2014-07-07T04:00:24+00:00",
+            "_type": "INSTAGRAM",
+            "created_at": "2015-08-28T06:18:36+00:00",
             "extraTimeNum": 420,
-            "id": "485996729691811840",
+            "id": 485996729691811840,
             "minuteNum": 200,
-            "name": "Major League Soccer",
-            "photo": {
-                "url": "http://pbs.twimg.com/media/Br6bc1AIQAAeNus.jpg",
-                "url_https": "https://pbs.twimg.com/media/Br6bc1AIQAAeNus.jpg"
-            },
+            "name": "undefined",
             "published_at": 1404705624772,
-            "screen_name": "MLS",
-            "secondNum": 0,
-            "text": "ICYMI: <a target=\"_blank\" href=\"//twitter.com/@Ddwyer14\">@Ddwyer14</a> selfies with fans after scoring goal. <a href=\"http://t.co/ENpOv5TkO9\" target=\"_blank\">http://t.co/ENpOv5TkO9</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23SKCvCHI\">#SKCvCHI</a> <a href=\"http://t.co/rWqxzKKf3f\" target=\"_blank\">http://t.co/rWqxzKKf3f</a>",
-            "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/550589473767976961/OTnslq_m_normal.png"
+            "secondsNum": 0,
+            "text": "",
+            "toJSON": true
         },
         {
             "_type": "TWEET",
@@ -9184,6 +8690,7 @@
             "secondNum": 10,
             "text": "1st chance at seeing Harry Shipp in this <a target=\"_blank\" href=\"//twitter.com/search?q=%23SKCvCHI\">#SKCvCHI</a> game right now. Even w/ no Zusi/Besler, this game has been fun. Wish I went down for it...",
             "toJSON": true,
+            "user_id": "255870943",
             "user_image": "http://pbs.twimg.com/profile_images/532255772252835840/qtx6bvm3_normal.jpeg"
         },
         {
@@ -9208,7 +8715,7 @@
             "published_at": 1404674971853,
             "screen_name": "munelle",
             "secondsNum": 0,
-            "text": "Soccer evening at the #sportingKCstadium \u26bd\ufe0f \u043c",
+            "text": "Soccer evening at the #sportingKCstadium \u00e2\u009a\u00bd\u00ef\u00b8\u008f \u00d0\u00bc",
             "toJSON": true,
             "user_image": "http://photos-g.ak.instagram.com/hphotos-ak-xfa1/10467916_890558217637870_540834225_a.jpg"
         },
@@ -9278,25 +8785,20 @@
             "secondNum": 20,
             "text": "South Stand with the family for <a target=\"_blank\" href=\"//twitter.com/search?q=%23SKCvCHI\">#SKCvCHI</a>. (@ Sporting Park) <a href=\"https://t.co/Masl4eKrQX\" target=\"_blank\">https://t.co/Masl4eKrQX</a> <a href=\"http://t.co/5Q5TEf8EfH\" target=\"_blank\">http://t.co/5Q5TEf8EfH</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/515694992824598528/jqZjw3mc_normal.jpeg"
+            "user_id": "39528842",
+            "user_image": "http://pbs.twimg.com/profile_images/540880118323769344/z8rnyItK_normal.jpeg"
         },
         {
-            "_type": "TWEET",
-            "created_at": "2014-07-06T18:52:37+00:00",
+            "_type": "INSTAGRAM",
+            "created_at": "2015-08-28T06:18:36+00:00",
             "extraTimeNum": 23411215,
-            "id": "485858877318381569",
+            "id": 485858877318381600,
             "minuteNum": -1,
-            "name": "Justin Meyer",
-            "photo": {
-                "url": "http://pbs.twimg.com/media/Br4eExWIAAA6iEq.jpg",
-                "url_https": "https://pbs.twimg.com/media/Br4eExWIAAA6iEq.jpg"
-            },
+            "name": "undefined",
             "published_at": 1404672859428,
-            "screen_name": "JustinMeyerKC",
-            "secondNum": 20,
-            "text": "South Stand with the family for <a target=\"_blank\" href=\"//twitter.com/search?q=%23SKCvCHI\">#SKCvCHI</a>. (@ Sporting Park) <a href=\"https://t.co/Masl4eKrQX\" target=\"_blank\">https://t.co/Masl4eKrQX</a> <a href=\"http://t.co/5Q5TEf8EfH\" target=\"_blank\">http://t.co/5Q5TEf8EfH</a>",
-            "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/515694992824598528/jqZjw3mc_normal.jpeg"
+            "secondsNum": 0,
+            "text": "",
+            "toJSON": true
         },
         {
             "_type": "INSTAGRAM",
@@ -9320,7 +8822,7 @@
             "published_at": 1404672862527,
             "screen_name": "sydney_hitchell",
             "secondsNum": 0,
-            "text": "Sporting Kansas City Soccer game! \u26bd\ufe0f #kcbsi #sportingkc #Chicagofire",
+            "text": "Sporting Kansas City Soccer game! \u00e2\u009a\u00bd\u00ef\u00b8\u008f #kcbsi #sportingkc #Chicagofire",
             "toJSON": true,
             "user_image": "http://photos-d.ak.instagram.com/hphotos-ak-xfp1/10471870_482603561883939_1455440158_a.jpg"
         },
@@ -9362,6 +8864,7 @@
             "secondNum": 31,
             "text": "Entering this weekend, <a target=\"_blank\" href=\"//twitter.com/search?q=%23SportingKC\">#SportingKC</a> ranks first with 37 chances created from set plays, six more than any other team. <a target=\"_blank\" href=\"//twitter.com/search?q=%23SKCvCHI\">#SKCvCHI</a>",
             "toJSON": true,
+            "user_id": "257944255",
             "user_image": "http://pbs.twimg.com/profile_images/480781116488417281/TI2ay6aW_normal.jpeg"
         },
         {
@@ -9380,25 +8883,20 @@
             "secondNum": 35,
             "text": "Here we go... <a target=\"_blank\" href=\"//twitter.com/@SportingKC\">@SportingKC</a> vs <a target=\"_blank\" href=\"//twitter.com/@ChicagoFire\">@ChicagoFire</a> on <a target=\"_blank\" href=\"//twitter.com/@espn\">@espn</a> alongside <a target=\"_blank\" href=\"//twitter.com/@GlennDavisSoc\">@GlennDavisSoc</a> &amp; <a target=\"_blank\" href=\"//twitter.com/@MonicaGonzo\">@MonicaGonzo</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23MLS\">#MLS</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23SKCvCHI\">#SKCvCHI</a> <a href=\"http://t.co/bCUdwOkBTm\" target=\"_blank\">http://t.co/bCUdwOkBTm</a>",
             "toJSON": true,
+            "user_id": "15567070",
             "user_image": "http://pbs.twimg.com/profile_images/477442076678688769/WAlrWV-z_normal.jpeg"
         },
         {
-            "_type": "TWEET",
-            "created_at": "2014-07-06T18:51:36+00:00",
+            "_type": "INSTAGRAM",
+            "created_at": "2015-08-28T06:18:36+00:00",
             "extraTimeNum": 23411215,
-            "id": "485858621188620288",
+            "id": 485858621188620300,
             "minuteNum": -1,
-            "name": "The Original Winger ",
-            "photo": {
-                "url": "http://pbs.twimg.com/media/Br4d1zKCIAErk0w.jpg",
-                "url_https": "https://pbs.twimg.com/media/Br4d1zKCIAErk0w.jpg"
-            },
+            "name": "undefined",
             "published_at": 1404672874984,
-            "screen_name": "OriginalWinger",
-            "secondNum": 35,
-            "text": "Here we go... <a target=\"_blank\" href=\"//twitter.com/@SportingKC\">@SportingKC</a> vs <a target=\"_blank\" href=\"//twitter.com/@ChicagoFire\">@ChicagoFire</a> on <a target=\"_blank\" href=\"//twitter.com/@espn\">@espn</a> alongside <a target=\"_blank\" href=\"//twitter.com/@GlennDavisSoc\">@GlennDavisSoc</a> &amp; <a target=\"_blank\" href=\"//twitter.com/@MonicaGonzo\">@MonicaGonzo</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23MLS\">#MLS</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23SKCvCHI\">#SKCvCHI</a> <a href=\"http://t.co/bCUdwOkBTm\" target=\"_blank\">http://t.co/bCUdwOkBTm</a>",
-            "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/477442076678688769/WAlrWV-z_normal.jpeg"
+            "secondsNum": 0,
+            "text": "",
+            "toJSON": true
         },
         {
             "_type": "INSTAGRAM",
@@ -9438,6 +8936,7 @@
             "secondNum": 11,
             "text": "<a target=\"_blank\" href=\"//twitter.com/search?q=%23USMNT\">#USMNT</a>'s Graham Zusi not starting for <a target=\"_blank\" href=\"//twitter.com/search?q=%23SKC\">#SKC</a> but is on the bench. Don't doubt that he'll make an appearance at some point. <a target=\"_blank\" href=\"//twitter.com/search?q=%23SKCvCHI\">#SKCvCHI</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23MLS2014\">#MLS2014</a>",
             "toJSON": true,
+            "user_id": "323288372",
             "user_image": "http://pbs.twimg.com/profile_images/564177070071111681/jTudLEd3_normal.jpeg"
         },
         {
@@ -9452,6 +8951,7 @@
             "secondNum": 18,
             "text": "Chicago forward Harry Shipp is a strong MLS Rookie of the Year candidate with a team-best six goals and four assists in MLS. <a target=\"_blank\" href=\"//twitter.com/search?q=%23SKCvCHI\">#SKCvCHI</a>",
             "toJSON": true,
+            "user_id": "257944255",
             "user_image": "http://pbs.twimg.com/profile_images/480781116488417281/TI2ay6aW_normal.jpeg"
         },
         {
@@ -9466,6 +8966,7 @@
             "secondNum": 24,
             "text": "Chicago is without Quincy Amarikwa (5 goals, 3 assists) as he serves a mandatory one-game suspension for yellow card accumulation. <a target=\"_blank\" href=\"//twitter.com/search?q=%23SKCvCHI\">#SKCvCHI</a>",
             "toJSON": true,
+            "user_id": "257944255",
             "user_image": "http://pbs.twimg.com/profile_images/480781116488417281/TI2ay6aW_normal.jpeg"
         },
         {
@@ -9480,6 +8981,7 @@
             "secondNum": 5,
             "text": "<a target=\"_blank\" href=\"//twitter.com/search?q=%23SportingKC\">#SportingKC</a> ranks second in <a target=\"_blank\" href=\"//twitter.com/@MLS\">@MLS</a> with seven clean sheets and 14 goals conceded. <a target=\"_blank\" href=\"//twitter.com/search?q=%23SKCvCHI\">#SKCvCHI</a>",
             "toJSON": true,
+            "user_id": "257944255",
             "user_image": "http://pbs.twimg.com/profile_images/480781116488417281/TI2ay6aW_normal.jpeg"
         },
         {
@@ -9498,25 +9000,20 @@
             "secondNum": 57,
             "text": "Welcome to the Blue Hell. Sporting is my religion. <a target=\"_blank\" href=\"//twitter.com/search?q=%23SKCvCHI\">#SKCvCHI</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23wizonthefire\">#wizonthefire</a> <a href=\"http://t.co/nohgjTu6Uv\" target=\"_blank\">http://t.co/nohgjTu6Uv</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/485957320107520000/v3_UCQ7s_normal.jpeg"
+            "user_id": "258616390",
+            "user_image": "http://pbs.twimg.com/profile_images/547625169431588864/P79I1X5R_normal.jpeg"
         },
         {
-            "_type": "TWEET",
-            "created_at": "2014-07-06T18:34:45+00:00",
+            "_type": "INSTAGRAM",
+            "created_at": "2015-08-28T06:18:36+00:00",
             "extraTimeNum": 23411216,
-            "id": "485854380600475648",
+            "id": 485854380600475650,
             "minuteNum": -1,
-            "name": "Matt Aksamit",
-            "photo": {
-                "url": "http://pbs.twimg.com/media/Br4Z-97CcAACOeI.jpg",
-                "url_https": "https://pbs.twimg.com/media/Br4Z-97CcAACOeI.jpg"
-            },
+            "name": "undefined",
             "published_at": 1404672956563,
-            "screen_name": "biocat89",
-            "secondNum": 57,
-            "text": "Welcome to the Blue Hell. Sporting is my religion. <a target=\"_blank\" href=\"//twitter.com/search?q=%23SKCvCHI\">#SKCvCHI</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23wizonthefire\">#wizonthefire</a> <a href=\"http://t.co/nohgjTu6Uv\" target=\"_blank\">http://t.co/nohgjTu6Uv</a>",
-            "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/485957320107520000/v3_UCQ7s_normal.jpeg"
+            "secondsNum": 0,
+            "text": "",
+            "toJSON": true
         },
         {
             "_type": "TWEET",
@@ -9534,25 +9031,20 @@
             "secondNum": 8,
             "text": "Greetings from <a target=\"_blank\" href=\"//twitter.com/search?q=%23TheCauldron\">#TheCauldron</a>. <a target=\"_blank\" href=\"//twitter.com/search?q=%23SKCvCHI\">#SKCvCHI</a> <a href=\"http://t.co/fVvoLMMaQe\" target=\"_blank\">http://t.co/fVvoLMMaQe</a>",
             "toJSON": true,
+            "user_id": "35116739",
             "user_image": "http://pbs.twimg.com/profile_images/515836040578617344/N6KukyNd_normal.jpeg"
         },
         {
-            "_type": "TWEET",
-            "created_at": "2014-07-06T18:54:49+00:00",
+            "_type": "INSTAGRAM",
+            "created_at": "2015-08-28T06:18:36+00:00",
             "extraTimeNum": 23411217,
-            "id": "485859429443567616",
+            "id": 485859429443567600,
             "minuteNum": -1,
-            "name": "Alecia",
-            "photo": {
-                "url": "http://pbs.twimg.com/media/Br4ejpjCYAAw9dd.jpg",
-                "url_https": "https://pbs.twimg.com/media/Br4ejpjCYAAw9dd.jpg"
-            },
+            "name": "undefined",
             "published_at": 1404672967434,
-            "screen_name": "skai_blu_ize",
-            "secondNum": 8,
-            "text": "Greetings from <a target=\"_blank\" href=\"//twitter.com/search?q=%23TheCauldron\">#TheCauldron</a>. <a target=\"_blank\" href=\"//twitter.com/search?q=%23SKCvCHI\">#SKCvCHI</a> <a href=\"http://t.co/fVvoLMMaQe\" target=\"_blank\">http://t.co/fVvoLMMaQe</a>",
-            "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/515836040578617344/N6KukyNd_normal.jpeg"
+            "secondsNum": 0,
+            "text": "",
+            "toJSON": true
         },
         {
             "_type": "TWEET",
@@ -9566,6 +9058,7 @@
             "secondNum": 7,
             "text": "With a win today, <a target=\"_blank\" href=\"//twitter.com/search?q=%23SKC\">#SKC</a> will draw level with D.C. United on top of the Eastern Conference standings. <a target=\"_blank\" href=\"//twitter.com/search?q=%23SKCvCHI\">#SKCvCHI</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23MLS2014\">#MLS2014</a>",
             "toJSON": true,
+            "user_id": "323288372",
             "user_image": "http://pbs.twimg.com/profile_images/564177070071111681/jTudLEd3_normal.jpeg"
         },
         {
@@ -9613,25 +9106,20 @@
             "secondNum": 24,
             "text": "We &lt;3 Sunday soccer. <a target=\"_blank\" href=\"//twitter.com/search?q=%23SKCvCHI\">#SKCvCHI</a>  \n\nLIVE now on <a target=\"_blank\" href=\"//twitter.com/@espn\">@espn</a>: <a href=\"http://t.co/rD6YdOBvLB\" target=\"_blank\">http://t.co/rD6YdOBvLB</a> <a href=\"http://t.co/x0ZHuya2DJ\" target=\"_blank\">http://t.co/x0ZHuya2DJ</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/550589473767976961/OTnslq_m_normal.png"
+            "user_id": "107146095",
+            "user_image": "http://pbs.twimg.com/profile_images/618051008829132804/aZM1U8fz_normal.jpg"
         },
         {
-            "_type": "TWEET",
-            "created_at": "2014-07-06T19:00:21+00:00",
+            "_type": "INSTAGRAM",
+            "created_at": "2015-08-28T06:18:36+00:00",
             "extraTimeNum": 23411221,
-            "id": "485860823471230976",
+            "id": 485860823471231000,
             "minuteNum": -1,
-            "name": "Major League Soccer",
-            "photo": {
-                "url": "http://pbs.twimg.com/media/Br4f2A4CcAAuko3.jpg",
-                "url_https": "https://pbs.twimg.com/media/Br4f2A4CcAAuko3.jpg"
-            },
+            "name": "undefined",
             "published_at": 1404673223245,
-            "screen_name": "MLS",
-            "secondNum": 24,
-            "text": "We &lt;3 Sunday soccer. <a target=\"_blank\" href=\"//twitter.com/search?q=%23SKCvCHI\">#SKCvCHI</a>  \n\nLIVE now on <a target=\"_blank\" href=\"//twitter.com/@espn\">@espn</a>: <a href=\"http://t.co/rD6YdOBvLB\" target=\"_blank\">http://t.co/rD6YdOBvLB</a> <a href=\"http://t.co/x0ZHuya2DJ\" target=\"_blank\">http://t.co/x0ZHuya2DJ</a>",
-            "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/550589473767976961/OTnslq_m_normal.png"
+            "secondsNum": 0,
+            "text": "",
+            "toJSON": true
         },
         {
             "_type": "INSTAGRAM",
@@ -9671,7 +9159,8 @@
             "secondNum": 56,
             "text": "So, unless my eyes are deceiving me, Dom Dwyer lied about buzzing Zusi's hair. I've never been so relieved. <a target=\"_blank\" href=\"//twitter.com/search?q=%23SKCvCHI\">#SKCvCHI</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23AllHailTheManPony\">#AllHailTheManPony</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/567071644754006016/ihFh3jP-_normal.jpeg"
+            "user_id": "1247735198",
+            "user_image": "http://pbs.twimg.com/profile_images/605257530672037888/rBAJ2NeH_normal.jpg"
         },
         {
             "_type": "TWEET",
@@ -9685,6 +9174,7 @@
             "secondNum": 27,
             "text": "<a target=\"_blank\" href=\"//twitter.com/search?q=%23cf97\">#cf97</a> Shipp starting up top and Logan Pause holding in midfield. Should be interesting. Come on you Men in Red! <a target=\"_blank\" href=\"//twitter.com/search?q=%23SKCvCHI\">#SKCvCHI</a>",
             "toJSON": true,
+            "user_id": "2189114264",
             "user_image": "http://pbs.twimg.com/profile_images/378800000727964655/1dbc5c64791041fdbe91dd900d4165e8_normal.jpeg"
         },
         {
@@ -9729,25 +9219,20 @@
             "secondNum": 40,
             "text": "<a target=\"_blank\" href=\"//twitter.com/search?q=%23SKCvCHI\">#SKCvCHI</a> <a href=\"http://t.co/MoCb2jeBQk\" target=\"_blank\">http://t.co/MoCb2jeBQk</a>",
             "toJSON": true,
+            "user_id": "61081720",
             "user_image": "http://pbs.twimg.com/profile_images/508166044792283136/kOob3boL_normal.jpeg"
         },
         {
-            "_type": "TWEET",
-            "created_at": "2014-07-06T19:06:51+00:00",
+            "_type": "INSTAGRAM",
+            "created_at": "2015-08-28T06:18:36+00:00",
             "extraTimeNum": 23411229,
-            "id": "485862455789101057",
+            "id": 485862455789101060,
             "minuteNum": -1,
-            "name": "Ali",
-            "photo": {
-                "url": "http://pbs.twimg.com/media/Br4hVBNCIAExO-R.jpg",
-                "url_https": "https://pbs.twimg.com/media/Br4hVBNCIAExO-R.jpg"
-            },
+            "name": "undefined",
             "published_at": 1404673719923,
-            "screen_name": "Alioop25",
-            "secondNum": 40,
-            "text": "<a target=\"_blank\" href=\"//twitter.com/search?q=%23SKCvCHI\">#SKCvCHI</a> <a href=\"http://t.co/MoCb2jeBQk\" target=\"_blank\">http://t.co/MoCb2jeBQk</a>",
-            "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/508166044792283136/kOob3boL_normal.jpeg"
+            "secondsNum": 0,
+            "text": "",
+            "toJSON": true
         },
         {
             "_type": "TWEET",
@@ -9761,7 +9246,8 @@
             "secondNum": 27,
             "text": "Lol that the Chicago player fell over the wall by The Cauldron. Worst possible place for an opponent. <a target=\"_blank\" href=\"//twitter.com/search?q=%23SKCvCHI\">#SKCvCHI</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/510655244808642560/yUzzZAA2_normal.jpeg"
+            "user_id": "842822190",
+            "user_image": "http://pbs.twimg.com/profile_images/549452246342062080/QMG-yye4_normal.jpeg"
         },
         {
             "_type": "TWEET",
@@ -9775,7 +9261,8 @@
             "secondNum": 35,
             "text": "Dom didn't score, but that was impressive. <a target=\"_blank\" href=\"//twitter.com/search?q=%23SKCvCHI\">#SKCvCHI</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/493383017486761984/zsVDWaA3_normal.jpeg"
+            "user_id": "242123717",
+            "user_image": "http://pbs.twimg.com/profile_images/586294224158531584/cTAPkguA_normal.jpg"
         },
         {
             "_type": "TWEET",
@@ -9789,7 +9276,8 @@
             "secondNum": 44,
             "text": "Hell of a scissor by Dwyer. But what the hell was that turnover? <a target=\"_blank\" href=\"//twitter.com/search?q=%23SKCvCHI\">#SKCvCHI</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/514113143648563200/sOpc6n6K_normal.jpeg"
+            "user_id": "1849538412",
+            "user_image": "http://pbs.twimg.com/profile_images/601746851008774144/zdLJNzOr_normal.png"
         },
         {
             "_type": "TWEET",
@@ -9803,7 +9291,8 @@
             "secondNum": 60,
             "text": "The fire have made a lot of defensive mistakes so far- it's very tough to watch!!! <a target=\"_blank\" href=\"//twitter.com/search?q=%23CF97\">#CF97</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/540167821586485248/CMD3xEzV_normal.jpeg"
+            "user_id": "112804315",
+            "user_image": "http://pbs.twimg.com/profile_images/607201209880059904/2UX41w9J_normal.jpg"
         },
         {
             "_type": "COMMENT",
@@ -9871,6 +9360,7 @@
             "secondNum": 58,
             "text": "25' - Right now, I'm seeing 11 men in <a target=\"_blank\" href=\"//twitter.com/search?q=%23cf97\">#cf97</a> shirts and not necessarily a team. SKC 0-0 CHI <a target=\"_blank\" href=\"//twitter.com/search?q=%23SKCvCHI\">#SKCvCHI</a>",
             "toJSON": true,
+            "user_id": "52570613",
             "user_image": "http://pbs.twimg.com/profile_images/764329363/WCSLogo_normal.jpeg"
         },
         {
@@ -9885,7 +9375,8 @@
             "secondNum": 33,
             "text": "Wish Alex would hit those crosses with his right foot <a target=\"_blank\" href=\"//twitter.com/search?q=%23cf97\">#cf97</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/529386060002775040/0bCfJvRG_normal.jpeg"
+            "user_id": "128542408",
+            "user_image": "http://pbs.twimg.com/profile_images/586664691813888001/2--VdvyP_normal.jpg"
         },
         {
             "_type": "TWEET",
@@ -9899,6 +9390,7 @@
             "secondNum": 39,
             "text": "Can we stop passing it to Johnson. It is really going to come back and bite us <a target=\"_blank\" href=\"//twitter.com/search?q=%23cf97\">#cf97</a>",
             "toJSON": true,
+            "user_id": "113853134",
             "user_image": "http://pbs.twimg.com/profile_images/484503424239955968/6nl2chuu_normal.jpeg"
         },
         {
@@ -9913,6 +9405,7 @@
             "secondNum": 23,
             "text": "<a target=\"_blank\" href=\"//twitter.com/search?q=%23cf97\">#cf97</a>'s left side is a dream come true for a defender. Just force Alex and Segares onto their right foots because they're not gonna use them",
             "toJSON": true,
+            "user_id": "129911598",
             "user_image": "http://pbs.twimg.com/profile_images/378800000253278920/7055e56cbd1fa2b1cb330ac8e696a77b_normal.jpeg"
         },
         {
@@ -9998,6 +9491,7 @@
             "secondNum": 11,
             "text": "Magee with a huge opportunity but cleared off the line! <a target=\"_blank\" href=\"//twitter.com/search?q=%23cf97\">#cf97</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23SKCvCHI\">#SKCvCHI</a>",
             "toJSON": true,
+            "user_id": "2361482052",
             "user_image": "http://pbs.twimg.com/profile_images/455745495856447488/4haD5ph1_normal.jpeg"
         },
         {
@@ -10012,7 +9506,8 @@
             "secondNum": 17,
             "text": "Mike Magee might kick himself for that one. <a target=\"_blank\" href=\"//twitter.com/search?q=%23cf97\">#cf97</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/513128875271139328/Gv-cEmwG_normal.jpeg"
+            "user_id": "63633016",
+            "user_image": "http://pbs.twimg.com/profile_images/591030520340963330/kM4Mz-1G_normal.jpg"
         },
         {
             "_type": "COMMENT",
@@ -10068,7 +9563,8 @@
             "secondNum": 31,
             "text": "45 straight sellouts in KC. That's damn impressive. <a target=\"_blank\" href=\"//twitter.com/search?q=%23SKCvCHI\">#SKCvCHI</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/502514238535905280/zfv3kBl4_normal.jpeg"
+            "user_id": "229300556",
+            "user_image": "http://pbs.twimg.com/profile_images/563857992672894976/FAenBWQN_normal.jpeg"
         },
         {
             "_type": "VIDEO",
@@ -10137,6 +9633,7 @@
             "secondNum": 34,
             "text": "Magee with another missed opportunity. Guess we know why Fondy is here. <a target=\"_blank\" href=\"//twitter.com/search?q=%23cf97\">#cf97</a>",
             "toJSON": true,
+            "user_id": "21825627",
             "user_image": "http://pbs.twimg.com/profile_images/2533354389/y6t102o64umc875xizyf_normal.jpeg"
         },
         {
@@ -10151,6 +9648,7 @@
             "secondNum": 38,
             "text": "looked like Magee waited a bit too long, angle closed on him, rings shot off post, 2 superb chances for <a target=\"_blank\" href=\"//twitter.com/search?q=%23CF97\">#CF97</a> striker wasted; <a target=\"_blank\" href=\"//twitter.com/search?q=%23SKCvsCHI\">#SKCvsCHI</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23MLS\">#MLS</a>",
             "toJSON": true,
+            "user_id": "144285207",
             "user_image": "http://pbs.twimg.com/profile_images/3551597693/d26c0f7190f3d9b1b319d6323b0c4241_normal.jpeg"
         },
         {
@@ -10165,7 +9663,8 @@
             "secondNum": 44,
             "text": "That about sums up the <a target=\"_blank\" href=\"//twitter.com/search?q=%23ChicagoFire\">#ChicagoFire</a>\u2019s season so far. <a target=\"_blank\" href=\"//twitter.com/search?q=%23SportingKC\">#SportingKC</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/527606015177814016/yZN9W6SM_normal.jpeg"
+            "user_id": "242522505",
+            "user_image": "http://pbs.twimg.com/profile_images/626558997277995008/yjCXx2U5_normal.jpg"
         },
         {
             "_type": "TWEET",
@@ -10179,6 +9678,7 @@
             "secondNum": 45,
             "text": "What is wrong with Mike Magee? <a target=\"_blank\" href=\"//twitter.com/search?q=%23cf97\">#cf97</a>",
             "toJSON": true,
+            "user_id": "197813596",
             "user_image": "http://pbs.twimg.com/profile_images/573687316708896768/HVjJM9VK_normal.jpeg"
         },
         {
@@ -10251,6 +9751,7 @@
             "secondNum": 54,
             "text": "<a target=\"_blank\" href=\"//twitter.com/search?q=%23SportingKC\">#SportingKC</a> looking rusty all over. Maybe second half will bring more sharpness. <a target=\"_blank\" href=\"//twitter.com/search?q=%23Fire96\">#Fire96</a> unlucky to still be deadlocked. <a target=\"_blank\" href=\"//twitter.com/search?q=%23SKCvCHI\">#SKCvCHI</a>",
             "toJSON": true,
+            "user_id": "247866817",
             "user_image": "http://pbs.twimg.com/profile_images/500891403707510784/cwmFjBHT_normal.jpeg"
         },
         {
@@ -10291,7 +9792,8 @@
             "secondNum": 40,
             "text": "GOAL!! DWYER!! <a target=\"_blank\" href=\"//twitter.com/search?q=%23SKCvCHI\">#SKCvCHI</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/518210301783588864/pW6pjxId_normal.png"
+            "user_id": "21442335",
+            "user_image": "http://pbs.twimg.com/profile_images/600285364994121728/DuU2yOBu_normal.jpg"
         },
         {
             "_type": "TWEET",
@@ -10305,6 +9807,7 @@
             "secondNum": 55,
             "text": "THAT was a goal. <a target=\"_blank\" href=\"//twitter.com/search?q=%23SKCvCHI\">#SKCvCHI</a>",
             "toJSON": true,
+            "user_id": "278847352",
             "user_image": "http://pbs.twimg.com/profile_images/481179273324032001/IFzM7zkx_normal.jpeg"
         },
         {
@@ -10319,7 +9822,8 @@
             "secondNum": 16,
             "text": "That selfie, <a target=\"_blank\" href=\"//twitter.com/search?q=%23SKCvCHI\">#SKCvCHI</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/549350637129830400/JxQs06RG_normal.jpeg"
+            "user_id": "16225982",
+            "user_image": "http://pbs.twimg.com/profile_images/622584063392677888/1PR9maNd_normal.jpg"
         },
         {
             "_type": "TWEET",
@@ -10333,7 +9837,8 @@
             "secondNum": 24,
             "text": "That goal celebration selfie was amazing lol <a target=\"_blank\" href=\"//twitter.com/search?q=%23SKCvCHI\">#SKCvCHI</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/378800000772263422/ed424b639a2486bc85dc5ca6fe9f7049_normal.jpeg"
+            "user_id": "190075422",
+            "user_image": "http://pbs.twimg.com/profile_images/589589469830905857/2FAWyIRT_normal.jpg"
         },
         {
             "_type": "TWEET",
@@ -10347,6 +9852,7 @@
             "secondNum": 59,
             "text": "Yellow card for excessive celebration. I hate American sports. <a target=\"_blank\" href=\"//twitter.com/search?q=%23SKCvCHI\">#SKCvCHI</a>",
             "toJSON": true,
+            "user_id": "278847352",
             "user_image": "http://pbs.twimg.com/profile_images/481179273324032001/IFzM7zkx_normal.jpeg"
         },
         {
@@ -10361,6 +9867,7 @@
             "secondNum": 19,
             "text": "Near post. Can't happen. Still a beautiful finish. And a Selfie celebration is worth a Yellow <a target=\"_blank\" href=\"//twitter.com/search?q=%23SKCvCHI\">#SKCvCHI</a>",
             "toJSON": true,
+            "user_id": "255870943",
             "user_image": "http://pbs.twimg.com/profile_images/532255772252835840/qtx6bvm3_normal.jpeg"
         },
         {
@@ -10417,6 +9924,7 @@
             "secondNum": 56,
             "text": "That goal epitomizes everything that <a target=\"_blank\" href=\"//twitter.com/@Ddwyer14\">@Ddwyer14</a> is very for SKC. He looks fit for another.. but the back lines getting torn apart <a target=\"_blank\" href=\"//twitter.com/search?q=%23SKCvCHI\">#SKCvCHI</a>",
             "toJSON": true,
+            "user_id": "1003023312",
             "user_image": "http://pbs.twimg.com/profile_images/496891891724455937/nbAEvZRu_normal.png"
         },
         {
@@ -10431,6 +9939,7 @@
             "secondNum": 57,
             "text": "Hey <a target=\"_blank\" href=\"//twitter.com/@MLS\">@MLS</a> you want to grow in popularity? Don't give a guy a yellow card for a great celebration. <a target=\"_blank\" href=\"//twitter.com/search?q=%23SportingKC\">#SportingKC</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23ChicagoFire\">#ChicagoFire</a>",
             "toJSON": true,
+            "user_id": "52568791",
             "user_image": "http://pbs.twimg.com/profile_images/463700890742837248/4Efsw7K2_normal.png"
         },
         {
@@ -10445,7 +9954,8 @@
             "secondNum": 28,
             "text": "Selfie celebration: <a target=\"_blank\" href=\"//twitter.com/search?q=%23SKCvCHI\">#SKCvCHI</a> <a href=\"http://t.co/TPaCam7syC\" target=\"_blank\">http://t.co/TPaCam7syC</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/550589473767976961/OTnslq_m_normal.png"
+            "user_id": "107146095",
+            "user_image": "http://pbs.twimg.com/profile_images/618051008829132804/aZM1U8fz_normal.jpg"
         },
         {
             "_type": "VIDEO",
@@ -10528,6 +10038,7 @@
             "secondNum": 11,
             "text": "2' Big clearance on the goal line from Collin! Ellis's pass was intercepted by Magee, who had rounded Kronberg and unleashed a shot <a target=\"_blank\" href=\"//twitter.com/search?q=%23SKCvCHI\">#SKCvCHI</a>",
             "toJSON": true,
+            "user_id": "257944255",
             "user_image": "http://pbs.twimg.com/profile_images/480781116488417281/TI2ay6aW_normal.jpeg"
         },
         {
@@ -10588,6 +10099,7 @@
             "secondNum": 48,
             "text": "Team colors (both <a target=\"_blank\" href=\"//twitter.com/@adidasUS\">@adidasUS</a>): \n<a target=\"_blank\" href=\"//twitter.com/@ChicagoFire\">@ChicagoFire</a>: Poppy Red/Night Blue/White); \n<a target=\"_blank\" href=\"//twitter.com/@SportingKC\">@SportingKC</a>: Smoke Blue/Dark Indigo \n<a target=\"_blank\" href=\"//twitter.com/search?q=%23SKCvCHI\">#SKCvCHI</a>",
             "toJSON": true,
+            "user_id": "19243536",
             "user_image": "http://pbs.twimg.com/profile_images/1740306521/942fc115-07a9-481e-ba6e-6fc47f7c0f93_normal.png"
         },
         {
@@ -10651,25 +10163,20 @@
             "secondNum": 10,
             "text": "<a target=\"_blank\" href=\"//twitter.com/search?q=%23cf97\">#cf97</a> <a href=\"http://t.co/qyySBhU8I7\" target=\"_blank\">http://t.co/qyySBhU8I7</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/574068317268262913/wMHj-RwH_normal.jpeg"
+            "user_id": "69214814",
+            "user_image": "http://pbs.twimg.com/profile_images/594716213441339392/a9s8saNZ_normal.jpg"
         },
         {
-            "_type": "TWEET",
-            "created_at": "2014-07-06T19:48:31+00:00",
+            "_type": "INSTAGRAM",
+            "created_at": "2015-08-28T06:18:36+00:00",
             "extraTimeNum": 0,
-            "id": "485872943809839104",
+            "id": 485872943809839100,
             "minuteNum": 40,
-            "name": "Kirsten Tautfest",
-            "photo": {
-                "url": "http://pbs.twimg.com/media/Br4q2mECMAACSQi.jpg",
-                "url_https": "https://pbs.twimg.com/media/Br4q2mECMAACSQi.jpg"
-            },
+            "name": "undefined",
             "published_at": 1404676120521,
-            "screen_name": "quarterUltra",
-            "secondNum": 10,
-            "text": "<a target=\"_blank\" href=\"//twitter.com/search?q=%23cf97\">#cf97</a> <a href=\"http://t.co/qyySBhU8I7\" target=\"_blank\">http://t.co/qyySBhU8I7</a>",
-            "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/574068317268262913/wMHj-RwH_normal.jpeg"
+            "secondsNum": 0,
+            "text": "",
+            "toJSON": true
         },
         {
             "_type": "TWEET",
@@ -10683,6 +10190,7 @@
             "secondNum": 33,
             "text": "The last 2 goals allowed by <a target=\"_blank\" href=\"//twitter.com/@ChicagoFire\">@ChicagoFire</a>, today and v. TFC were just criminal. Zero awareness v. TFC among two vets and then today. <a target=\"_blank\" href=\"//twitter.com/search?q=%23cf97\">#cf97</a>",
             "toJSON": true,
+            "user_id": "432210277",
             "user_image": "http://pbs.twimg.com/profile_images/3125054663/15a860d11b97d624aa350e6e89483173_normal.jpeg"
         },
         {
@@ -10697,6 +10205,7 @@
             "secondNum": 59,
             "text": "A bad as <a target=\"_blank\" href=\"//twitter.com/search?q=%23cf97\">#cf97</a> has been this year it would be nice to see Yallop a little more animated. Maybe not his style but I hate seeing him sit there",
             "toJSON": true,
+            "user_id": "113853134",
             "user_image": "http://pbs.twimg.com/profile_images/484503424239955968/6nl2chuu_normal.jpeg"
         },
         {
@@ -10711,7 +10220,8 @@
             "secondNum": 30,
             "text": "MAGEE DID A THING! <a target=\"_blank\" href=\"//twitter.com/search?q=%23SKCvCHI\">#SKCvCHI</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/514113143648563200/sOpc6n6K_normal.jpeg"
+            "user_id": "1849538412",
+            "user_image": "http://pbs.twimg.com/profile_images/601746851008774144/zdLJNzOr_normal.png"
         },
         {
             "_type": "TWEET",
@@ -10725,7 +10235,8 @@
             "secondNum": 37,
             "text": "Mike Magee strikes back. 1-1: <a href=\"http://t.co/egb7R6nmWu\" target=\"_blank\">http://t.co/egb7R6nmWu</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23SKCvCHI\">#SKCvCHI</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/550589473767976961/OTnslq_m_normal.png"
+            "user_id": "107146095",
+            "user_image": "http://pbs.twimg.com/profile_images/618051008829132804/aZM1U8fz_normal.jpg"
         },
         {
             "_type": "TWEET",
@@ -10739,7 +10250,8 @@
             "secondNum": 21,
             "text": "Magee's movement has been good so far. Rewarded for that after a nice play by Alex. Defense on both goals shaky. <a target=\"_blank\" href=\"//twitter.com/search?q=%23SKCvCHI\">#SKCvCHI</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/971740948/wstrophy_normal.jpg"
+            "user_id": "32220157",
+            "user_image": "http://pbs.twimg.com/profile_images/597587002154881024/PofiNL99_normal.jpg"
         },
         {
             "_type": "TWEET",
@@ -10753,6 +10265,7 @@
             "secondNum": 50,
             "text": "Chicago's leveler ends Eric Kronberg's 281-minute shutout streak dating back to May 31. 1-1 <a target=\"_blank\" href=\"//twitter.com/search?q=%23SKCvCHI\">#SKCvCHI</a>",
             "toJSON": true,
+            "user_id": "257944255",
             "user_image": "http://pbs.twimg.com/profile_images/480781116488417281/TI2ay6aW_normal.jpeg"
         },
         {
@@ -10796,6 +10309,7 @@
             "secondNum": 6,
             "text": "A lot of things about that Magee goal go into my \"Igor Juliao still needs a ton of work\" file. <a target=\"_blank\" href=\"//twitter.com/search?q=%23SKCvCHI\">#SKCvCHI</a>",
             "toJSON": true,
+            "user_id": "195100261",
             "user_image": "http://pbs.twimg.com/profile_images/1360308112/armchair_analyst_logo_normal.jpg"
         },
         {
@@ -10844,7 +10358,7 @@
                 "positionAbbr": "M",
                 "status": "Start"
             },
-            "reason": "Foul",
+            "reason": "Unsporting Behavior",
             "secondNum": 0,
             "teamId": 1207,
             "time": "45",
@@ -10904,6 +10418,7 @@
             "secondNum": 0,
             "text": "Using props equals a card. Geiger would've given the same. <a target=\"_blank\" href=\"//twitter.com/search?q=%23SKCvCHI\">#SKCvCHI</a>",
             "toJSON": true,
+            "user_id": "44750667",
             "user_image": "http://pbs.twimg.com/profile_images/652711351/Burberry2_normal.jpg"
         },
         {
@@ -10918,6 +10433,7 @@
             "secondNum": 0,
             "text": "Very soft yellow for Ritter. Expect him to get subbed off with this card happy ref. <a target=\"_blank\" href=\"//twitter.com/search?q=%23cf97\">#cf97</a>",
             "toJSON": true,
+            "user_id": "64885713",
             "user_image": "http://pbs.twimg.com/profile_images/534073458485768194/BLeJni1i_normal.jpeg"
         },
         {
@@ -10932,6 +10448,7 @@
             "secondNum": 0,
             "text": "You have to put that in the net. 2 on 1 with the goalie and nothing comes from it c'mon BLUE <a target=\"_blank\" href=\"//twitter.com/search?q=%23SportingKC\">#SportingKC</a>  <a target=\"_blank\" href=\"//twitter.com/search?q=%23SKCvCHI\">#SKCvCHI</a>",
             "toJSON": true,
+            "user_id": "217612876",
             "user_image": "http://pbs.twimg.com/profile_images/519653463945277443/ZH8P6IpL_normal.jpeg"
         },
         {
@@ -10946,7 +10463,8 @@
             "secondNum": 0,
             "text": "I like Chris Ritter better with a giant white bandage wrapped around his head and a nameless, numberless kit. <a target=\"_blank\" href=\"//twitter.com/search?q=%23cf97\">#cf97</a> Hobo style.",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/574077023066456064/T6I9dSds_normal.jpeg"
+            "user_id": "717175848",
+            "user_image": "http://pbs.twimg.com/profile_images/576931518754525184/X7G7j02d_normal.jpeg"
         },
         {
             "_type": "COMMENT",
@@ -11001,6 +10519,7 @@
             "secondNum": 0,
             "text": "Pause in Kansas!\n<a target=\"_blank\" href=\"//twitter.com/@SportingKC\">@SportingKC</a> 1-1 <a target=\"_blank\" href=\"//twitter.com/@ChicagoFire\">@ChicagoFire</a> \n<a target=\"_blank\" href=\"//twitter.com/search?q=%23MLS\">#MLS</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23USSoccer\">#USSoccer</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23SKCvCHI\">#SKCvCHI</a>",
             "toJSON": true,
+            "user_id": "2465981185",
             "user_image": "http://pbs.twimg.com/profile_images/514101361235857408/ktgyx8RR_normal.jpeg"
         },
         {
@@ -11015,6 +10534,7 @@
             "secondNum": 0,
             "text": "A nice last 90 min. for Alex. Hopefully he continues to get consistent playing time. A creative force alongside Magee &amp; Shipp. <a target=\"_blank\" href=\"//twitter.com/search?q=%23cf97\">#cf97</a>",
             "toJSON": true,
+            "user_id": "143453721",
             "user_image": "http://pbs.twimg.com/profile_images/3736947133/0be2bd8e2a4c5ad02fca3982622d97f4_normal.jpeg"
         },
         {
@@ -11029,7 +10549,8 @@
             "secondNum": 0,
             "text": "Cool finish from <a target=\"_blank\" href=\"//twitter.com/@Ddwyer14\">@Ddwyer14</a> for his 12th of the season: <a href=\"http://t.co/mMLuNgQPGC\" target=\"_blank\">http://t.co/mMLuNgQPGC</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23SKCvCHI\">#SKCvCHI</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23SportingKC\">#SportingKC</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/550589473767976961/OTnslq_m_normal.png"
+            "user_id": "107146095",
+            "user_image": "http://pbs.twimg.com/profile_images/618051008829132804/aZM1U8fz_normal.jpg"
         },
         {
             "_type": "TWEET",
@@ -11047,25 +10568,20 @@
             "secondNum": 0,
             "text": "<a target=\"_blank\" href=\"//twitter.com/@SportingKC\">@SportingKC</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23SportingKC\">#SportingKC</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23SKCvCHI\">#SKCvCHI</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23IBelieveThatWeWillWin\">#IBelieveThatWeWillWin</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23PutOutTheFire\">#PutOutTheFire</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23SKC\">#SKC</a> <a href=\"http://t.co/h3WsyrL2yQ\" target=\"_blank\">http://t.co/h3WsyrL2yQ</a>",
             "toJSON": true,
+            "user_id": "308377675",
             "user_image": "http://pbs.twimg.com/profile_images/485872222553124864/A56beDsS_normal.jpeg"
         },
         {
-            "_type": "TWEET",
-            "created_at": "2014-07-06T20:03:10+00:00",
+            "_type": "INSTAGRAM",
+            "created_at": "2015-08-28T06:18:36+00:00",
             "extraTimeNum": 9,
-            "id": "485876631643238401",
+            "id": 485876631643238400,
             "minuteNum": 45,
-            "name": "Dustin Holland",
-            "photo": {
-                "url": "http://pbs.twimg.com/media/Br4uOIdCEAA644y.jpg",
-                "url_https": "https://pbs.twimg.com/media/Br4uOIdCEAA644y.jpg"
-            },
+            "name": "undefined",
             "published_at": 1404677003190,
-            "screen_name": "FOACAD",
-            "secondNum": 0,
-            "text": "<a target=\"_blank\" href=\"//twitter.com/@SportingKC\">@SportingKC</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23SportingKC\">#SportingKC</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23SKCvCHI\">#SKCvCHI</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23IBelieveThatWeWillWin\">#IBelieveThatWeWillWin</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23PutOutTheFire\">#PutOutTheFire</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23SKC\">#SKC</a> <a href=\"http://t.co/h3WsyrL2yQ\" target=\"_blank\">http://t.co/h3WsyrL2yQ</a>",
-            "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/485872222553124864/A56beDsS_normal.jpeg"
+            "secondsNum": 0,
+            "text": "",
+            "toJSON": true
         },
         {
             "_type": "INSTAGRAM",
@@ -11089,7 +10605,7 @@
             "published_at": 1404677219304,
             "screen_name": "mdr1395",
             "secondsNum": 0,
-            "text": "Best goal celebration yet, Dom taking a selfie w/ Soony \ufffd\ufffd\n#sportingkc #kansascity #goal celebration #SportingPark #SKCvCHI #WizOnTheFire",
+            "text": "Best goal celebration yet, Dom taking a selfie w/ Soony \u00ef\u00bf\u00bd\u00ef\u00bf\u00bd\n#sportingkc #kansascity #goal celebration #SportingPark #SKCvCHI #WizOnTheFire",
             "toJSON": true,
             "user_image": "http://scontent-a.cdninstagram.com/hphotos-xfa1/t51.2885-19/10483570_810880245597850_244136455_a.jpg"
         },
@@ -11105,6 +10621,7 @@
             "secondNum": 0,
             "text": "<a target=\"_blank\" href=\"//twitter.com/search?q=%23cf97\">#cf97</a> struggling mightily to play out of SKC's high pressure, but finding tons of space in behind on balls over the top.",
             "toJSON": true,
+            "user_id": "72355201",
             "user_image": "http://pbs.twimg.com/profile_images/531867201402568704/YtxJJhiL_normal.jpeg"
         },
         {
@@ -11119,7 +10636,8 @@
             "secondNum": 0,
             "text": ".<a target=\"_blank\" href=\"//twitter.com/@MLS\">@MLS</a> and <a target=\"_blank\" href=\"//twitter.com/@PROreferees\">@PROreferees</a> either need to squash all goal celebrations or allow all of them. This cherry-picking is insane. <a target=\"_blank\" href=\"//twitter.com/search?q=%23SKCvCHI\">#SKCvCHI</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23MLS\">#MLS</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/572945907230834688/tq8BISw1_normal.jpeg"
+            "user_id": "5754642",
+            "user_image": "http://pbs.twimg.com/profile_images/623176797450997760/07O05eR9_normal.jpg"
         },
         {
             "_type": "TWEET",
@@ -11133,7 +10651,8 @@
             "secondNum": 0,
             "text": "Now, when Dom Dwyer slides studs up through a Fire midfielder, he better receive another yellow card. <a target=\"_blank\" href=\"//twitter.com/search?q=%23MLS\">#MLS</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23cf97\">#cf97</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23SKCvCHI\">#SKCvCHI</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/559430015788408832/uYGWqFRE_normal.jpeg"
+            "user_id": "158698304",
+            "user_image": "http://pbs.twimg.com/profile_images/594212391828721665/KP7ohk-Z_normal.jpg"
         },
         {
             "_type": "TWEET",
@@ -11151,25 +10670,20 @@
             "secondNum": 0,
             "text": "<a target=\"_blank\" href=\"//twitter.com/search?q=%23SKCvCHI\">#SKCvCHI</a> <a href=\"http://t.co/6jljKHTFCF\" target=\"_blank\">http://t.co/6jljKHTFCF</a>",
             "toJSON": true,
+            "user_id": "413456783",
             "user_image": "http://pbs.twimg.com/profile_images/518989666733678592/Vpot7WiT_normal.jpeg"
         },
         {
-            "_type": "TWEET",
-            "created_at": "2014-07-06T20:11:31+00:00",
+            "_type": "INSTAGRAM",
+            "created_at": "2015-08-28T06:18:36+00:00",
             "extraTimeNum": 18,
-            "id": "485878731911614464",
+            "id": 485878731911614460,
             "minuteNum": 45,
-            "name": "Megan Hobson",
-            "photo": {
-                "url": "http://pbs.twimg.com/media/Br4wIZiCEAAY7tQ.jpg",
-                "url_https": "https://pbs.twimg.com/media/Br4wIZiCEAAY7tQ.jpg"
-            },
+            "name": "undefined",
             "published_at": 1404677498928,
-            "screen_name": "megan_hobson5",
-            "secondNum": 0,
-            "text": "<a target=\"_blank\" href=\"//twitter.com/search?q=%23SKCvCHI\">#SKCvCHI</a> <a href=\"http://t.co/6jljKHTFCF\" target=\"_blank\">http://t.co/6jljKHTFCF</a>",
-            "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/518989666733678592/Vpot7WiT_normal.jpeg"
+            "secondsNum": 0,
+            "text": "",
+            "toJSON": true
         },
         {
             "_type": "SUBSTITUTION",
@@ -11235,7 +10749,8 @@
             "secondNum": 15,
             "text": "Duka on for Alex at halftime... <a target=\"_blank\" href=\"//twitter.com/search?q=%23cf97\">#cf97</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/559430015788408832/uYGWqFRE_normal.jpeg"
+            "user_id": "158698304",
+            "user_image": "http://pbs.twimg.com/profile_images/594212391828721665/KP7ohk-Z_normal.jpg"
         },
         {
             "_type": "COMMENT",
@@ -11320,7 +10835,8 @@
             "secondNum": 59,
             "text": "Don't know that Alex is injured though he hasn't played a ton lately... Maybe fitness. <a target=\"_blank\" href=\"//twitter.com/search?q=%23cf97\">#cf97</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/559430015788408832/uYGWqFRE_normal.jpeg"
+            "user_id": "158698304",
+            "user_image": "http://pbs.twimg.com/profile_images/594212391828721665/KP7ohk-Z_normal.jpg"
         },
         {
             "_type": "TWEET",
@@ -11334,6 +10850,7 @@
             "secondNum": 60,
             "text": "Peterson's shot was just a bit outside. <a target=\"_blank\" href=\"//twitter.com/search?q=%23SKCvCHI\">#SKCvCHI</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23SKC\">#SKC</a>",
             "toJSON": true,
+            "user_id": "1565856510",
             "user_image": "http://pbs.twimg.com/profile_images/542784310785220608/zlv5st_R_normal.jpeg"
         },
         {
@@ -11348,7 +10865,8 @@
             "secondNum": 60,
             "text": "Dom Dwyer got a yellow card for that goal selfiebration. (Yes I am embracing that term.) Based on what rule, I'm not sure. <a target=\"_blank\" href=\"//twitter.com/search?q=%23MLS\">#MLS</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23SKCvCHI\">#SKCvCHI</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/531316949767028737/0yelSe2a_normal.jpeg"
+            "user_id": "185390750",
+            "user_image": "http://pbs.twimg.com/profile_images/616808796271153153/L6B4A1iZ_normal.jpg"
         },
         {
             "_type": "COMMENT",
@@ -11413,7 +10931,8 @@
             "secondNum": 43,
             "text": "It is a pleasure to watch Shipp play <a target=\"_blank\" href=\"//twitter.com/search?q=%23cf97\">#cf97</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/1800566799/268284_797982115663_38206438_38949941_2829132_n_normal.jpg"
+            "user_id": "282707286",
+            "user_image": "http://pbs.twimg.com/profile_images/619207931444240384/cjtxTAHA_normal.jpg"
         },
         {
             "_type": "TWEET",
@@ -11427,6 +10946,7 @@
             "secondNum": 60,
             "text": "5' Now Ianni directs a header bound for goal, but Dwyer is covering the near post and heads clear! SKC surviving early on. <a target=\"_blank\" href=\"//twitter.com/search?q=%23SKCvCHI\">#SKCvCHI</a>",
             "toJSON": true,
+            "user_id": "257944255",
             "user_image": "http://pbs.twimg.com/profile_images/480781116488417281/TI2ay6aW_normal.jpeg"
         },
         {
@@ -11441,7 +10961,8 @@
             "secondNum": 8,
             "text": "Easing my World Cup withdrawal watching <a target=\"_blank\" href=\"//twitter.com/search?q=%23SKCvCHI\">#SKCvCHI</a> (featuring team <a target=\"_blank\" href=\"//twitter.com/search?q=%23USA\">#USA</a> heroes Graham Zusi &amp; Matt Besler). There's always more soccer! <a target=\"_blank\" href=\"//twitter.com/@MLS\">@MLS</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/531316949767028737/0yelSe2a_normal.jpeg"
+            "user_id": "185390750",
+            "user_image": "http://pbs.twimg.com/profile_images/616808796271153153/L6B4A1iZ_normal.jpg"
         },
         {
             "_type": "COMMENT",
@@ -11556,25 +11077,20 @@
             "secondNum": 27,
             "text": "HIGHLIGHT: <a target=\"_blank\" href=\"//twitter.com/@magee9\">@magee9</a> buries his chance right before halftime. <a href=\"http://t.co/PwlgIxsF39\" target=\"_blank\">http://t.co/PwlgIxsF39</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23SKCvCHI\">#SKCvCHI</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23cf97\">#cf97</a> <a href=\"http://t.co/wx3EBbubcG\" target=\"_blank\">http://t.co/wx3EBbubcG</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/550589473767976961/OTnslq_m_normal.png"
+            "user_id": "107146095",
+            "user_image": "http://pbs.twimg.com/profile_images/618051008829132804/aZM1U8fz_normal.jpg"
         },
         {
-            "_type": "TWEET",
-            "created_at": "2014-07-06T20:18:50+00:00",
+            "_type": "INSTAGRAM",
+            "created_at": "2015-08-28T06:18:36+00:00",
             "extraTimeNum": 0,
-            "id": "485880571516559367",
+            "id": 485880571516559360,
             "minuteNum": 52,
-            "name": "Major League Soccer",
-            "photo": {
-                "url": "http://pbs.twimg.com/media/Br4xzhlCIAAr8iv.jpg",
-                "url_https": "https://pbs.twimg.com/media/Br4xzhlCIAAr8iv.jpg"
-            },
+            "name": "undefined",
             "published_at": 1404677930406,
-            "screen_name": "MLS",
-            "secondNum": 27,
-            "text": "HIGHLIGHT: <a target=\"_blank\" href=\"//twitter.com/@magee9\">@magee9</a> buries his chance right before halftime. <a href=\"http://t.co/PwlgIxsF39\" target=\"_blank\">http://t.co/PwlgIxsF39</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23SKCvCHI\">#SKCvCHI</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23cf97\">#cf97</a> <a href=\"http://t.co/wx3EBbubcG\" target=\"_blank\">http://t.co/wx3EBbubcG</a>",
-            "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/550589473767976961/OTnslq_m_normal.png"
+            "secondsNum": 0,
+            "text": "",
+            "toJSON": true
         },
         {
             "_type": "VIDEO",
@@ -11621,7 +11137,7 @@
                 "position": "Substitute",
                 "status": "Sub"
             },
-            "reason": "Foul",
+            "reason": "Unsporting Behavior",
             "secondNum": 0,
             "teamId": 1207,
             "time": "54",
@@ -11639,6 +11155,7 @@
             "secondNum": 11,
             "text": "Saad just misses with a shot outside the box. Attack is strong <a target=\"_blank\" href=\"//twitter.com/search?q=%23SKCvCHI\">#SKCvCHI</a>",
             "toJSON": true,
+            "user_id": "217612876",
             "user_image": "http://pbs.twimg.com/profile_images/519653463945277443/ZH8P6IpL_normal.jpeg"
         },
         {
@@ -11815,13 +11332,14 @@
             "extraTimeNum": 0,
             "id": "485881967440060416",
             "minuteNum": 58,
-            "name": "J\u00ebff Krause",
+            "name": "J\u00c3\u00abff Krause",
             "published_at": 1404678275466,
             "screen_name": "DFBJeff",
             "secondNum": 12,
             "text": "That was your left foot, Duka. Did you forget how to soccer? <a target=\"_blank\" href=\"//twitter.com/search?q=%23cf97\">#cf97</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/559196691279396865/bS3q_-ME_normal.jpeg"
+            "user_id": "19608458",
+            "user_image": "http://pbs.twimg.com/profile_images/631284280547786752/ZOX-yItG_normal.jpg"
         },
         {
             "_type": "TWEET",
@@ -11835,7 +11353,8 @@
             "secondNum": 24,
             "text": "WASTED. CHANCES. <a target=\"_blank\" href=\"//twitter.com/search?q=%23cf97\">#cf97</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/442074201663356928/dZlMDKo9_normal.jpeg"
+            "user_id": "338302687",
+            "user_image": "http://pbs.twimg.com/profile_images/609966475764494337/nr9wFrg3_normal.jpg"
         },
         {
             "_type": "TWEET",
@@ -11849,6 +11368,7 @@
             "secondNum": 24,
             "text": "57' - Should've been a foul on Magee, but Duka should've put that chance away. Replay confirms foul. SKC 1-1 CHI <a target=\"_blank\" href=\"//twitter.com/search?q=%23SKCvCHI\">#SKCvCHI</a>",
             "toJSON": true,
+            "user_id": "52570613",
             "user_image": "http://pbs.twimg.com/profile_images/764329363/WCSLogo_normal.jpeg"
         },
         {
@@ -11892,7 +11412,8 @@
             "secondNum": 56,
             "text": "magee looks like a guy who is just so over playing soccer <a target=\"_blank\" href=\"//twitter.com/search?q=%23cf97\">#cf97</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/556307750222045185/pnBhkWly_normal.jpeg"
+            "user_id": "1694065164",
+            "user_image": "http://pbs.twimg.com/profile_images/633421617914249216/dAOd_cyS_normal.jpg"
         },
         {
             "_type": "COMMENT",
@@ -11968,7 +11489,8 @@
             "secondNum": 50,
             "text": "Here comes Zusi. Fitting welcome by <a target=\"_blank\" href=\"//twitter.com/search?q=%23SKC\">#SKC</a> crowd <a target=\"_blank\" href=\"//twitter.com/search?q=%23SKCvCHI\">#SKCvCHI</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23MLS\">#MLS</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23USMNT\">#USMNT</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/574358940869222400/32QIdGjP_normal.jpeg"
+            "user_id": "21546288",
+            "user_image": "http://pbs.twimg.com/profile_images/629870671645048832/n4W3_daf_normal.jpg"
         },
         {
             "_type": "SUBSTITUTION",
@@ -12099,25 +11621,20 @@
             "secondNum": 5,
             "text": "Welcome back, <a target=\"_blank\" href=\"//twitter.com/@gzusi\">@gzusi</a>. <a target=\"_blank\" href=\"//twitter.com/search?q=%23SKCvCHI\">#SKCvCHI</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23SportingKC\">#SportingKC</a> <a href=\"http://t.co/kazjsoYtCx\" target=\"_blank\">http://t.co/kazjsoYtCx</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/550589473767976961/OTnslq_m_normal.png"
+            "user_id": "107146095",
+            "user_image": "http://pbs.twimg.com/profile_images/618051008829132804/aZM1U8fz_normal.jpg"
         },
         {
-            "_type": "TWEET",
-            "created_at": "2014-07-06T20:29:28+00:00",
+            "_type": "INSTAGRAM",
+            "created_at": "2015-08-28T06:18:36+00:00",
             "extraTimeNum": 0,
-            "id": "485883249994911744",
+            "id": 485883249994911740,
             "minuteNum": 63,
-            "name": "Major League Soccer",
-            "photo": {
-                "url": "http://pbs.twimg.com/media/Br40PZJCMAA0HUG.jpg",
-                "url_https": "https://pbs.twimg.com/media/Br40PZJCMAA0HUG.jpg"
-            },
+            "name": "undefined",
             "published_at": 1404678568967,
-            "screen_name": "MLS",
-            "secondNum": 5,
-            "text": "Welcome back, <a target=\"_blank\" href=\"//twitter.com/@gzusi\">@gzusi</a>. <a target=\"_blank\" href=\"//twitter.com/search?q=%23SKCvCHI\">#SKCvCHI</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23SportingKC\">#SportingKC</a> <a href=\"http://t.co/kazjsoYtCx\" target=\"_blank\">http://t.co/kazjsoYtCx</a>",
-            "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/550589473767976961/OTnslq_m_normal.png"
+            "secondsNum": 0,
+            "text": "",
+            "toJSON": true
         },
         {
             "_type": "COMMENT",
@@ -12152,6 +11669,7 @@
             "secondNum": 10,
             "text": "63': Zusi's first action comes on a corner delivery that's well placed, but headed right at the keeper. 1-1. <a target=\"_blank\" href=\"//twitter.com/search?q=%23SKCvCHI\">#SKCvCHI</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23MLS2014\">#MLS2014</a>",
             "toJSON": true,
+            "user_id": "323288372",
             "user_image": "http://pbs.twimg.com/profile_images/564177070071111681/jTudLEd3_normal.jpeg"
         },
         {
@@ -12255,7 +11773,8 @@
             "secondNum": 25,
             "text": "Dwyer is fun to watch <a target=\"_blank\" href=\"//twitter.com/search?q=%23SKCvCHI\">#SKCvCHI</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23MLS\">#MLS</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/574358940869222400/32QIdGjP_normal.jpeg"
+            "user_id": "21546288",
+            "user_image": "http://pbs.twimg.com/profile_images/629870671645048832/n4W3_daf_normal.jpg"
         },
         {
             "_type": "TWEET",
@@ -12269,6 +11788,7 @@
             "secondNum": 27,
             "text": "Zusi coming on already creating chances.  <a target=\"_blank\" href=\"//twitter.com/search?q=%23SKCvCHI\">#SKCvCHI</a>",
             "toJSON": true,
+            "user_id": "217612876",
             "user_image": "http://pbs.twimg.com/profile_images/519653463945277443/ZH8P6IpL_normal.jpeg"
         },
         {
@@ -12295,7 +11815,8 @@
             "secondNum": 22,
             "text": "In 30 seconds, Zusi's altered the face of <a target=\"_blank\" href=\"//twitter.com/search?q=%23SKC\">#SKC</a> entirely: excellent service, spot-on execution, good placement, and smart decisions. <a target=\"_blank\" href=\"//twitter.com/search?q=%23SKCvCHI\">#SKCvCHI</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/567071644754006016/ihFh3jP-_normal.jpeg"
+            "user_id": "1247735198",
+            "user_image": "http://pbs.twimg.com/profile_images/605257530672037888/rBAJ2NeH_normal.jpg"
         },
         {
             "_type": "TWEET",
@@ -12309,7 +11830,8 @@
             "secondNum": 15,
             "text": "As much as it sucks to lose Amarikwa, I think yellows should be given for bicycles more. Feet near the face is almost always dangerous <a target=\"_blank\" href=\"//twitter.com/search?q=%23cf97\">#cf97</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/497415097581842432/1_aP4QTC_normal.jpeg"
+            "user_id": "110588951",
+            "user_image": "http://pbs.twimg.com/profile_images/612622929541603328/hfNMQg5P_normal.jpg"
         },
         {
             "_type": "COMMENT",
@@ -12365,6 +11887,7 @@
             "secondNum": 4,
             "text": "Today's <a target=\"_blank\" href=\"//twitter.com/@SportingPark\">@SportingPark</a> attendance: 20,858. That's 45 straight sellouts... <a target=\"_blank\" href=\"//twitter.com/search?q=%23SKCNation\">#SKCNation</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23SKCvCHI\">#SKCvCHI</a>",
             "toJSON": true,
+            "user_id": "257944255",
             "user_image": "http://pbs.twimg.com/profile_images/480781116488417281/TI2ay6aW_normal.jpeg"
         },
         {
@@ -12450,7 +11973,8 @@
             "secondNum": 55,
             "text": "Dwyer is the type of player you hate as an opposing fan, but would love on your club <a target=\"_blank\" href=\"//twitter.com/search?q=%23cf97\">#cf97</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/529386060002775040/0bCfJvRG_normal.jpeg"
+            "user_id": "128542408",
+            "user_image": "http://pbs.twimg.com/profile_images/586664691813888001/2--VdvyP_normal.jpg"
         },
         {
             "_type": "TWEET",
@@ -12464,6 +11988,7 @@
             "secondNum": 5,
             "text": "Graham Zusi and Matt Besler gettin some love from the US. Playin their 1st MLS game since the World Cup. <a target=\"_blank\" href=\"//twitter.com/search?q=%23SKCvCHI\">#SKCvCHI</a>",
             "toJSON": true,
+            "user_id": "2562368372",
             "user_image": "http://pbs.twimg.com/profile_images/514912057914056704/372L_9Jl_normal.jpeg"
         },
         {
@@ -12478,6 +12003,7 @@
             "secondNum": 42,
             "text": "One thing is apparent from this sub: if SKC sells Zusi/Besler, their season is done (barring a significant transfer spree) <a target=\"_blank\" href=\"//twitter.com/search?q=%23SKCvCHI\">#SKCvCHI</a>",
             "toJSON": true,
+            "user_id": "320399799",
             "user_image": "http://pbs.twimg.com/profile_images/3314679937/c5ff09cbfe07c745f1aa101e590ba42d_normal.png"
         },
         {
@@ -12534,7 +12060,8 @@
             "secondNum": 10,
             "text": "70': The \"we'll take the road point\" apologists are clearing their throats... <a target=\"_blank\" href=\"//twitter.com/search?q=%23cf97\">#cf97</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/574077023066456064/T6I9dSds_normal.jpeg"
+            "user_id": "717175848",
+            "user_image": "http://pbs.twimg.com/profile_images/576931518754525184/X7G7j02d_normal.jpeg"
         },
         {
             "_type": "COMMENT",
@@ -12657,6 +12184,7 @@
             "secondNum": 39,
             "text": "71' Zusi's low strike is blocked. Nagamura catches the rebound cleanly, but its fired straight at Johnson. Still 1-1 <a target=\"_blank\" href=\"//twitter.com/search?q=%23SKCvCHI\">#SKCvCHI</a>",
             "toJSON": true,
+            "user_id": "257944255",
             "user_image": "http://pbs.twimg.com/profile_images/480781116488417281/TI2ay6aW_normal.jpeg"
         },
         {
@@ -12769,6 +12297,7 @@
             "secondNum": 7,
             "text": "Wait, did the commentator really just stop mid-thought to deliver that Freddy Adu update? <a target=\"_blank\" href=\"//twitter.com/search?q=%23SKC\">#SKC</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23cf97\">#cf97</a>",
             "toJSON": true,
+            "user_id": "42533012",
             "user_image": "http://pbs.twimg.com/profile_images/3619167839/331a8807a02bc5d37546c63952200bea_normal.jpeg"
         },
         {
@@ -12783,6 +12312,7 @@
             "secondNum": 22,
             "text": "Strong strike from Peterson saved by Johnson. 1-1  <a target=\"_blank\" href=\"//twitter.com/search?q=%23SKCvCHI\">#SKCvCHI</a>",
             "toJSON": true,
+            "user_id": "217612876",
             "user_image": "http://pbs.twimg.com/profile_images/519653463945277443/ZH8P6IpL_normal.jpeg"
         },
         {
@@ -12910,6 +12440,7 @@
             "secondNum": 54,
             "text": "<a target=\"_blank\" href=\"//twitter.com/search?q=%23SKCvCHI\">#SKCvCHI</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23SportingKC\">#SportingKC</a> Does someone HAVE to fall down with any contact at all? so much embellishment all game long.",
             "toJSON": true,
+            "user_id": "547308539",
             "user_image": "http://pbs.twimg.com/profile_images/378800000643618283/ca2863c2ee05e63b6fdf84897b710d79_normal.jpeg"
         },
         {
@@ -12924,7 +12455,8 @@
             "secondNum": 49,
             "text": "Tell ya what, <a target=\"_blank\" href=\"//twitter.com/search?q=%23SKC\">#SKC</a> are hitting the ground like they are all Brazilian <a target=\"_blank\" href=\"//twitter.com/search?q=%23cf97\">#cf97</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/529386060002775040/0bCfJvRG_normal.jpeg"
+            "user_id": "128542408",
+            "user_image": "http://pbs.twimg.com/profile_images/586664691813888001/2--VdvyP_normal.jpg"
         },
         {
             "_type": "COMMENT",
@@ -12967,6 +12499,7 @@
             "secondNum": 24,
             "text": "7' - A lot of dirt kicked up there. Is Sporting Park in need of a groundskeeper as well? SKC 0-0 CHI <a target=\"_blank\" href=\"//twitter.com/search?q=%23SKCvCHI\">#SKCvCHI</a>",
             "toJSON": true,
+            "user_id": "52570613",
             "user_image": "http://pbs.twimg.com/profile_images/764329363/WCSLogo_normal.jpeg"
         },
         {
@@ -13098,7 +12631,8 @@
             "secondNum": 13,
             "text": "Fancy feet. <a target=\"_blank\" href=\"//twitter.com/search?q=%23SKCvCHI\">#SKCvCHI</a> <a href=\"http://t.co/1vll4Wn48J\" target=\"_blank\">http://t.co/1vll4Wn48J</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/550589473767976961/OTnslq_m_normal.png"
+            "user_id": "107146095",
+            "user_image": "http://pbs.twimg.com/profile_images/618051008829132804/aZM1U8fz_normal.jpg"
         },
         {
             "_type": "TWEET",
@@ -13112,6 +12646,7 @@
             "secondNum": 60,
             "text": "Watson for Ward is a good indicator <a target=\"_blank\" href=\"//twitter.com/search?q=%23cf97\">#cf97</a> looking to grab a point on the road here.",
             "toJSON": true,
+            "user_id": "129911598",
             "user_image": "http://pbs.twimg.com/profile_images/378800000253278920/7055e56cbd1fa2b1cb330ac8e696a77b_normal.jpeg"
         },
         {
@@ -13126,7 +12661,8 @@
             "secondNum": 25,
             "text": "<a target=\"_blank\" href=\"//twitter.com/search?q=%23Zusa\">#Zusa</a> and backwards jerseys. Way to go <a target=\"_blank\" href=\"//twitter.com/@SportingKC\">@SportingKC</a>. <a target=\"_blank\" href=\"//twitter.com/search?q=%23cf97\">#cf97</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23LandoftheDEEFD\">#LandoftheDEEFD</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/1281732365/Photo_19_normal.jpg"
+            "user_id": "269903226",
+            "user_image": "http://pbs.twimg.com/profile_images/622062076933054464/SKH8g90Z_normal.jpg"
         },
         {
             "_type": "TWEET",
@@ -13140,6 +12676,7 @@
             "secondNum": 34,
             "text": "Bet this is the first team Zizzo has been on where he wasn\u2019t last on an alphabetical roster <a target=\"_blank\" href=\"//twitter.com/search?q=%23SKCvCHI\">#SKCvCHI</a>",
             "toJSON": true,
+            "user_id": "13113022",
             "user_image": "http://pbs.twimg.com/profile_images/2040126687/image_normal.jpg"
         },
         {
@@ -13154,6 +12691,7 @@
             "secondNum": 15,
             "text": "<a target=\"_blank\" href=\"//twitter.com/search?q=%23cf97\">#cf97</a> need to invest in more defensive mids so we can continue our gameplan of sitting back and letting other teams attack. <a target=\"_blank\" href=\"//twitter.com/search?q=%23fb\">#fb</a>",
             "toJSON": true,
+            "user_id": "21825627",
             "user_image": "http://pbs.twimg.com/profile_images/2533354389/y6t102o64umc875xizyf_normal.jpeg"
         },
         {
@@ -13239,25 +12777,20 @@
             "secondNum": 52,
             "text": ".<a target=\"_blank\" href=\"//twitter.com/@SportingKC\">@SportingKC</a> firing on all cylinders with 5 minutes to go: <a href=\"http://t.co/2229LGaXCi\" target=\"_blank\">http://t.co/2229LGaXCi</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23SKCvCHI\">#SKCvCHI</a> <a href=\"http://t.co/5qHrJmuf4S\" target=\"_blank\">http://t.co/5qHrJmuf4S</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/550589473767976961/OTnslq_m_normal.png"
+            "user_id": "107146095",
+            "user_image": "http://pbs.twimg.com/profile_images/618051008829132804/aZM1U8fz_normal.jpg"
         },
         {
-            "_type": "TWEET",
-            "created_at": "2014-07-06T20:52:15+00:00",
+            "_type": "INSTAGRAM",
+            "created_at": "2015-08-28T06:18:36+00:00",
             "extraTimeNum": 0,
-            "id": "485888980781899776",
+            "id": 485888980781899800,
             "minuteNum": 85,
-            "name": "Major League Soccer",
-            "photo": {
-                "url": "http://pbs.twimg.com/media/Br45dBoIYAA-1pS.png",
-                "url_https": "https://pbs.twimg.com/media/Br45dBoIYAA-1pS.png"
-            },
+            "name": "undefined",
             "published_at": 1404679935353,
-            "screen_name": "MLS",
-            "secondNum": 52,
-            "text": ".<a target=\"_blank\" href=\"//twitter.com/@SportingKC\">@SportingKC</a> firing on all cylinders with 5 minutes to go: <a href=\"http://t.co/2229LGaXCi\" target=\"_blank\">http://t.co/2229LGaXCi</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23SKCvCHI\">#SKCvCHI</a> <a href=\"http://t.co/5qHrJmuf4S\" target=\"_blank\">http://t.co/5qHrJmuf4S</a>",
-            "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/550589473767976961/OTnslq_m_normal.png"
+            "secondsNum": 0,
+            "text": "",
+            "toJSON": true
         },
         {
             "_type": "COMMENT",
@@ -13322,7 +12855,7 @@
                 "positionAbbr": "M",
                 "status": "Start"
             },
-            "reason": "Foul",
+            "reason": "Unsporting Behavior",
             "secondNum": 0,
             "teamId": 421,
             "time": "86",
@@ -13340,6 +12873,7 @@
             "secondNum": 25,
             "text": "I. Believe. That. We. Will. TIE. <a target=\"_blank\" href=\"//twitter.com/search?q=%23cf97\">#cf97</a>",
             "toJSON": true,
+            "user_id": "21825627",
             "user_image": "http://pbs.twimg.com/profile_images/2533354389/y6t102o64umc875xizyf_normal.jpeg"
         },
         {
@@ -13354,7 +12888,8 @@
             "secondNum": 3,
             "text": "Jermaine Jones on either of these 2 teams would be insane!!! \ufffd\ufffd <a target=\"_blank\" href=\"//twitter.com/search?q=%23MLS\">#MLS</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23SKCvCHI\">#SKCvCHI</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23jermainejones\">#jermainejones</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23SignHim\">#SignHim</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23USMNT\">#USMNT</a> <a target=\"_blank\" href=\"//twitter.com/@ChicagoFire\">@ChicagoFire</a> <a target=\"_blank\" href=\"//twitter.com/@SportingKC\">@SportingKC</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/557029505261248512/1C3G9vC7_normal.jpeg"
+            "user_id": "1429546632",
+            "user_image": "http://pbs.twimg.com/profile_images/608098536190668800/RfE6j5ni_normal.jpg"
         },
         {
             "_type": "TWEET",
@@ -13368,6 +12903,7 @@
             "secondNum": 36,
             "text": "All of Shipp's free kicks and crosses today have been terrible. <a target=\"_blank\" href=\"//twitter.com/search?q=%23cf97\">#cf97</a>",
             "toJSON": true,
+            "user_id": "21825627",
             "user_image": "http://pbs.twimg.com/profile_images/2533354389/y6t102o64umc875xizyf_normal.jpeg"
         },
         {
@@ -13432,6 +12968,7 @@
             "secondNum": 10,
             "text": "Lovel Palmer not getting enough love. He's become much more of a factor since his first games with the Fire. <a target=\"_blank\" href=\"//twitter.com/search?q=%23SKCvCHI\">#SKCvCHI</a>",
             "toJSON": true,
+            "user_id": "2189114264",
             "user_image": "http://pbs.twimg.com/profile_images/378800000727964655/1dbc5c64791041fdbe91dd900d4165e8_normal.jpeg"
         },
         {
@@ -13446,7 +12983,8 @@
             "secondNum": 2,
             "text": "Need better finishing, but at least we're getting good chances.... come on Chicago Fire!! <a target=\"_blank\" href=\"//twitter.com/search?q=%23CF97\">#CF97</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/534046452998483968/w1e5qPBZ_normal.png"
+            "user_id": "19382563",
+            "user_image": "http://pbs.twimg.com/profile_images/579463624705507328/ZzNDprp6_normal.png"
         },
         {
             "_type": "COMMENT",
@@ -13502,7 +13040,8 @@
             "secondNum": 37,
             "text": "Most <a target=\"_blank\" href=\"//twitter.com/search?q=%23cf97\">#cf97</a> fans would rather see us lose while we are relentlessly attacking than take a draw at this point of the season",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/529386060002775040/0bCfJvRG_normal.jpeg"
+            "user_id": "128542408",
+            "user_image": "http://pbs.twimg.com/profile_images/586664691813888001/2--VdvyP_normal.jpg"
         },
         {
             "_type": "VIDEO",
@@ -13541,7 +13080,8 @@
             "secondNum": 0,
             "text": "SO CLOSE <a target=\"_blank\" href=\"//twitter.com/search?q=%23SKCvCHI\">#SKCvCHI</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/431623956542398464/L41XOhcf_normal.jpeg"
+            "user_id": "313039238",
+            "user_image": "http://pbs.twimg.com/profile_images/607338432377913344/2qecqIb__normal.jpg"
         },
         {
             "_type": "TWEET",
@@ -13555,6 +13095,7 @@
             "secondNum": 0,
             "text": "Did Sean have an anchor on him or what? <a target=\"_blank\" href=\"//twitter.com/search?q=%23cf97\">#cf97</a>",
             "toJSON": true,
+            "user_id": "21825627",
             "user_image": "http://pbs.twimg.com/profile_images/2533354389/y6t102o64umc875xizyf_normal.jpeg"
         },
         {
@@ -13612,6 +13153,7 @@
             "secondNum": 0,
             "text": "<a target=\"_blank\" href=\"//twitter.com/search?q=%23CF97\">#CF97</a>'s Sean Johnson a future Tim Howard with <a target=\"_blank\" href=\"//twitter.com/search?q=%23USMNT\">#USMNT</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23Fearless\">#Fearless</a>",
             "toJSON": true,
+            "user_id": "144285207",
             "user_image": "http://pbs.twimg.com/profile_images/3551597693/d26c0f7190f3d9b1b319d6323b0c4241_normal.jpeg"
         },
         {
@@ -13710,7 +13252,8 @@
             "secondNum": 0,
             "text": "FT: <a target=\"_blank\" href=\"//twitter.com/@SportingKC\">@SportingKC</a> 1-1 <a target=\"_blank\" href=\"//twitter.com/@ChicagoFire\">@ChicagoFire</a> Chicago hold off SKC to earn point on the road. <a target=\"_blank\" href=\"//twitter.com/search?q=%23SKCvCHI\">#SKCvCHI</a>",
             "toJSON": true,
-            "user_image": "http://pbs.twimg.com/profile_images/499755259774775298/V4RhQPDi_normal.png"
+            "user_id": "61943791",
+            "user_image": "http://pbs.twimg.com/profile_images/603414074521583616/1Di2o2qa_normal.jpg"
         },
         {
             "_type": "COMMENT",

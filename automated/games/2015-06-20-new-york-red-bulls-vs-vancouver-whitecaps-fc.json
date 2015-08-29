@@ -375,27 +375,27 @@
                 "accurate_final_third_pass_per": {
                     "statFH": 0,
                     "statSH": 0,
-                    "statValue": 54
+                    "statValue": 53
                 },
                 "accurate_fwd_zone_pass": {
-                    "statFH": 85,
-                    "statSH": 57,
-                    "statValue": 142
+                    "statFH": 83,
+                    "statSH": 56,
+                    "statValue": 139
                 },
                 "accurate_fwd_zone_pass_per": {
                     "statFH": 0,
                     "statSH": 0,
-                    "statValue": 67
+                    "statValue": 66
                 },
                 "accurate_pass": {
                     "statFH": 209,
-                    "statSH": 166,
-                    "statValue": 375
+                    "statSH": 168,
+                    "statValue": 377
                 },
                 "accurate_pass_per": {
                     "statFH": 0,
                     "statSH": 0,
-                    "statValue": 81
+                    "statValue": 82
                 },
                 "att_bx_centre": {
                     "statFH": 0,
@@ -629,19 +629,19 @@
                     "statValue": 0
                 },
                 "duel_lost": {
-                    "statFH": 31,
-                    "statSH": 29,
-                    "statValue": 60
+                    "statFH": 32,
+                    "statSH": 30,
+                    "statValue": 62
                 },
                 "duel_won": {
-                    "statFH": 32,
+                    "statFH": 36,
                     "statSH": 24,
-                    "statValue": 56
+                    "statValue": 60
                 },
                 "duel_won_per": {
                     "statFH": 0,
                     "statSH": 0,
-                    "statValue": 48
+                    "statValue": 49
                 },
                 "fk_foul_lost": {
                     "statFH": 11,
@@ -689,8 +689,8 @@
                     "statValue": 35
                 },
                 "possession_percentage": {
-                    "statFH": 58.8,
-                    "statSH": 46.7,
+                    "statFH": 58.9,
+                    "statSH": 46.6,
                     "statValue": 52.6
                 },
                 "saves": {
@@ -714,14 +714,14 @@
                     "statValue": 39
                 },
                 "total_back_zone_pass": {
-                    "statFH": 133,
+                    "statFH": 134,
                     "statSH": 123,
-                    "statValue": 256
+                    "statValue": 257
                 },
                 "total_clearance": {
                     "statFH": 5,
-                    "statSH": 12,
-                    "statValue": 17
+                    "statSH": 15,
+                    "statValue": 20
                 },
                 "total_cross": {
                     "statFH": 6,
@@ -735,13 +735,13 @@
                 },
                 "total_final_third_passes": {
                     "statFH": 42,
-                    "statSH": 30,
-                    "statValue": 72
+                    "statSH": 31,
+                    "statValue": 73
                 },
                 "total_fwd_zone_pass": {
-                    "statFH": 124,
-                    "statSH": 89,
-                    "statValue": 213
+                    "statFH": 123,
+                    "statSH": 88,
+                    "statValue": 211
                 },
                 "total_offside": {
                     "statFH": 1,
@@ -750,8 +750,8 @@
                 },
                 "total_pass": {
                     "statFH": 251,
-                    "statSH": 210,
-                    "statValue": 461
+                    "statSH": 209,
+                    "statValue": 460
                 },
                 "total_red_card": {
                     "statFH": 0,
@@ -764,9 +764,9 @@
                     "statValue": 9
                 },
                 "total_tackle": {
-                    "statFH": 11,
+                    "statFH": 12,
                     "statSH": 7,
-                    "statValue": 18
+                    "statValue": 19
                 },
                 "total_yel_card": {
                     "statFH": 0,
@@ -784,9 +784,9 @@
                     "statValue": 4
                 },
                 "won_tackle": {
-                    "statFH": 11,
+                    "statFH": 12,
                     "statSH": 6,
-                    "statValue": 17
+                    "statValue": 18
                 }
             }
         },
@@ -809,9 +809,9 @@
                     "statValue": 59
                 },
                 "accurate_fwd_zone_pass": {
-                    "statFH": 64,
-                    "statSH": 112,
-                    "statValue": 176
+                    "statFH": 63,
+                    "statSH": 111,
+                    "statValue": 174
                 },
                 "accurate_fwd_zone_pass_per": {
                     "statFH": 0,
@@ -820,13 +820,13 @@
                 },
                 "accurate_pass": {
                     "statFH": 119,
-                    "statSH": 170,
-                    "statValue": 289
+                    "statSH": 171,
+                    "statValue": 290
                 },
                 "accurate_pass_per": {
                     "statFH": 0,
                     "statSH": 0,
-                    "statValue": 74
+                    "statValue": 75
                 },
                 "att_bx_centre": {
                     "statFH": 1,
@@ -1060,19 +1060,19 @@
                     "statValue": 0
                 },
                 "duel_lost": {
-                    "statFH": 32,
+                    "statFH": 36,
                     "statSH": 24,
-                    "statValue": 56
+                    "statValue": 60
                 },
                 "duel_won": {
-                    "statFH": 31,
-                    "statSH": 29,
-                    "statValue": 60
+                    "statFH": 32,
+                    "statSH": 30,
+                    "statValue": 62
                 },
                 "duel_won_per": {
                     "statFH": 0,
                     "statSH": 0,
-                    "statValue": 52
+                    "statValue": 51
                 },
                 "fk_foul_lost": {
                     "statFH": 5,
@@ -1111,17 +1111,17 @@
                 },
                 "passes_left": {
                     "statFH": 32,
-                    "statSH": 35,
-                    "statValue": 67
+                    "statSH": 34,
+                    "statValue": 66
                 },
                 "passes_right": {
                     "statFH": 20,
-                    "statSH": 35,
-                    "statValue": 55
+                    "statSH": 36,
+                    "statValue": 56
                 },
                 "possession_percentage": {
-                    "statFH": 41.2,
-                    "statSH": 53.3,
+                    "statFH": 41.1,
+                    "statSH": 53.4,
                     "statValue": 47.4
                 },
                 "saves": {
@@ -1146,13 +1146,13 @@
                 },
                 "total_back_zone_pass": {
                     "statFH": 68,
-                    "statSH": 69,
-                    "statValue": 137
+                    "statSH": 70,
+                    "statValue": 138
                 },
                 "total_clearance": {
-                    "statFH": 9,
-                    "statSH": 6,
-                    "statValue": 15
+                    "statFH": 10,
+                    "statSH": 7,
+                    "statValue": 17
                 },
                 "total_cross": {
                     "statFH": 10,
@@ -1170,9 +1170,9 @@
                     "statValue": 114
                 },
                 "total_fwd_zone_pass": {
-                    "statFH": 108,
-                    "statSH": 170,
-                    "statValue": 278
+                    "statFH": 107,
+                    "statSH": 169,
+                    "statValue": 276
                 },
                 "total_offside": {
                     "statFH": 2,
@@ -1180,9 +1180,9 @@
                     "statValue": 4
                 },
                 "total_pass": {
-                    "statFH": 166,
+                    "statFH": 165,
                     "statSH": 222,
-                    "statValue": 388
+                    "statValue": 387
                 },
                 "total_red_card": {
                     "statFH": 1,
@@ -1268,8 +1268,8 @@
             },
             "team_id": 1708,
             "type_id": 16,
-            "x": 95.1,
-            "y": 51.9
+            "x": 93.3,
+            "y": 51.1
         },
         {
             "id": 1510175970,
@@ -1373,7 +1373,7 @@
             "id": 475144408,
             "period_id": 2,
             "qualifiers": {
-                "102": "51.9"
+                "102": "52.7"
             },
             "team_id": 1708,
             "type_id": 16,
@@ -2645,16 +2645,9 @@
                         {
                             "children": null,
                             "class": "column-orphan",
-                            "href": "http://www.mlssoccer.com/all-star/2015",
+                            "href": "http://www.mlssoccer.com/news/rivalry",
                             "id": null,
-                            "title": "AT&T MLS All-Star Game"
-                        },
-                        {
-                            "children": null,
-                            "class": "column-orphan",
-                            "href": "http://www.mlssoccer.com/news/fifa-womens-world-cup",
-                            "id": null,
-                            "title": "FIFA Women's World Cup"
+                            "title": "MLS Heineken Rivalry Week"
                         },
                         {
                             "children": null,
@@ -2666,16 +2659,9 @@
                         {
                             "children": null,
                             "class": "column-orphan",
-                            "href": "http://www.mlssoccer.com/goldcup/2015",
+                            "href": "http://www.mlssoccer.com/news/ccl",
                             "id": null,
-                            "title": "Gold Cup 2015 | CONCACAF"
-                        },
-                        {
-                            "children": null,
-                            "class": "column-orphan",
-                            "href": "http://www.mlssoccer.com/ccl",
-                            "id": null,
-                            "title": "Champions League | CONCACAF"
+                            "title": "CONCACAF Champions League"
                         }
                     ],
                     "class": "the-orphans",
@@ -2726,13 +2712,6 @@
                             "href": "http://www.mlssoccer.com/news/power-rankings",
                             "id": null,
                             "title": "Power Rankings"
-                        },
-                        {
-                            "children": null,
-                            "class": null,
-                            "href": "http://www.mlssoccer.com/news/starting-xi",
-                            "id": null,
-                            "title": "Starting XI"
                         },
                         {
                             "children": null,
@@ -2930,11 +2909,24 @@
                     "href": "http://www.mlssoccer.com/video/channel/90-plus",
                     "id": null,
                     "title": "90 Plus"
+                },
+                {
+                    "children": null,
+                    "class": null,
+                    "href": "http://www.mlssoccer.com/video/channel/get-me-in-there",
+                    "id": null,
+                    "title": "Get Me In There"
                 }
             ],
             "href": "http://www.mlssoccer.com/video",
             "id": "menu-videos",
             "title": "Videos"
+        },
+        {
+            "children": [],
+            "href": "http://www.mlssoccer.com/schedule",
+            "id": "menu-schedule",
+            "title": "Schedule"
         },
         {
             "children": null,
@@ -2943,114 +2935,28 @@
             "title": "Scores"
         },
         {
-            "children": [
-                {
-                    "children": null,
-                    "class": null,
-                    "href": "http://www.mlssoccer.com/schedule",
-                    "id": null,
-                    "title": "Regular Season Schedule"
-                },
-                {
-                    "children": null,
-                    "class": null,
-                    "href": "http://www.mlssoccer.com/tv",
-                    "id": null,
-                    "title": "TV Schedule"
-                },
-                {
-                    "children": null,
-                    "class": null,
-                    "href": "http://www.mlssoccer.com/schedule-download",
-                    "id": null,
-                    "title": "Add Schedule to Calendar"
-                }
-            ],
-            "href": "http://www.mlssoccer.com/schedule",
-            "id": "menu-schedule",
-            "title": "Schedule"
-        },
-        {
-            "children": [
-                {
-                    "children": null,
-                    "class": null,
-                    "href": "http://www.mlssoccer.com/standings/supporters-shield",
-                    "id": null,
-                    "title": "Supporters' Shield"
-                },
-                {
-                    "children": null,
-                    "class": null,
-                    "href": "http://www.mlssoccer.com/results",
-                    "id": null,
-                    "title": "Results Map"
-                }
-            ],
+            "children": [],
             "href": "http://www.mlssoccer.com/standings",
             "id": null,
             "title": "Standings"
         },
         {
-            "children": [
-                {
-                    "children": null,
-                    "class": null,
-                    "href": "http://www.mlssoccer.com/stats",
-                    "id": null,
-                    "title": "League Leaders"
-                },
-                {
-                    "children": null,
-                    "class": null,
-                    "href": "http://www.mlssoccer.com/stats/season",
-                    "id": null,
-                    "title": "Season Stats"
-                },
-                {
-                    "children": null,
-                    "class": null,
-                    "href": "http://www.mlssoccer.com/stats/alltime",
-                    "id": null,
-                    "title": "All-Time Stats"
-                },
-                {
-                    "children": null,
-                    "class": null,
-                    "href": "http://www.mlssoccer.com/stats/team",
-                    "id": null,
-                    "title": "Team Stats"
-                },
-                {
-                    "children": null,
-                    "class": null,
-                    "href": "http://www.mlssoccer.com/players",
-                    "id": null,
-                    "title": "Player Stats"
-                },
-                {
-                    "children": null,
-                    "class": null,
-                    "href": "http://www.mlssoccer.com/news/central-winger",
-                    "id": null,
-                    "title": "Statistical Analysis"
-                }
-            ],
+            "children": [],
             "href": "http://www.mlssoccer.com/stats",
             "id": null,
             "title": "Stats"
         },
         {
-            "children": null,
-            "href": "http://fantasy.mlssoccer.com/?=Nav",
+            "children": [],
+            "href": "http://www.mlssoccer.com/fantasy-soccer",
             "id": null,
             "title": "Fantasy"
         },
         {
-            "children": null,
-            "href": "http://mls.univision.com/",
-            "id": "menu-espanol",
-            "title": "Espa\u00f1ol"
+            "children": [],
+            "href": "http://live.mlssoccer.com/mlsmdl/",
+            "id": "mls-live",
+            "title": "MLS LIVE"
         },
         {
             "children": [],
@@ -3059,118 +2965,10 @@
             "title": "Shop"
         },
         {
-            "children": [
-                {
-                    "children": [
-                        {
-                            "children": null,
-                            "class": null,
-                            "href": "http://twitter.com/mls",
-                            "id": null,
-                            "title": "Twitter"
-                        },
-                        {
-                            "children": null,
-                            "class": null,
-                            "href": "http://facebook.com/mls",
-                            "id": null,
-                            "title": "Facebook"
-                        },
-                        {
-                            "children": null,
-                            "class": null,
-                            "href": "http://instagram.com/mls",
-                            "id": null,
-                            "title": "Instagram"
-                        },
-                        {
-                            "children": null,
-                            "class": null,
-                            "href": "https://plus.google.com/+mls/",
-                            "id": null,
-                            "title": "Google+"
-                        },
-                        {
-                            "children": null,
-                            "class": null,
-                            "href": "http://mls.tumblr.com",
-                            "id": null,
-                            "title": "Tumblr"
-                        },
-                        {
-                            "children": null,
-                            "class": null,
-                            "href": "https://vine.co/MLS",
-                            "id": null,
-                            "title": "Vine"
-                        },
-                        {
-                            "children": null,
-                            "class": null,
-                            "href": "http://www.youtube.com/mls",
-                            "id": null,
-                            "title": "YouTube"
-                        },
-                        {
-                            "children": null,
-                            "class": null,
-                            "href": "http://foursquare.com/mls",
-                            "id": null,
-                            "title": "Foursquare"
-                        }
-                    ],
-                    "class": "column-parent",
-                    "href": "http://www.mlssoccer.com/fans/social-media",
-                    "id": null,
-                    "title": "Social Media"
-                },
-                {
-                    "children": [
-                        {
-                            "children": null,
-                            "class": "column-orphan",
-                            "href": "http://www.mlssoccer.com/mls-live",
-                            "id": null,
-                            "title": "MLS LIVE"
-                        },
-                        {
-                            "children": [],
-                            "class": "column-orphan",
-                            "href": "http://www.mlssoccer.com/mobile",
-                            "id": null,
-                            "title": "MLS app"
-                        },
-                        {
-                            "children": null,
-                            "class": "column-orphan",
-                            "href": "http://www.mlssoccer.com/form/signup",
-                            "id": null,
-                            "title": "Weekly Newsletter"
-                        },
-                        {
-                            "children": null,
-                            "class": "column-orphan",
-                            "href": "http://pressbox.mlssoccer.com/content/competition-rules-and-regulations",
-                            "id": null,
-                            "title": "Competition Rules and Regulations"
-                        },
-                        {
-                            "children": null,
-                            "class": "column-orphan",
-                            "href": "http://pressbox.mlssoccer.com/content/roster-rules-and-regulations",
-                            "id": null,
-                            "title": "Roster Rules"
-                        }
-                    ],
-                    "class": "the-orphans",
-                    "href": null,
-                    "id": null,
-                    "title": null
-                }
-            ],
-            "href": "http://www.mlssoccer.com/",
-            "id": "menu-more",
-            "title": "More"
+            "children": null,
+            "href": "http://mls.univision.com/",
+            "id": "menu-espanol",
+            "title": "Espa\u00f1ol"
         }
     ],
     "navStyle": "mp6",
@@ -4283,30 +4081,30 @@
                             "399": 53.5
                         },
                         "31-45": {
-                            "1708": 67.7,
-                            "399": 32.3
+                            "1708": 68.1,
+                            "399": 31.9
                         },
                         "46-60": {
-                            "1708": 29.2,
-                            "399": 70.8
+                            "1708": 28.6,
+                            "399": 71.4
                         },
                         "61-75": {
-                            "1708": 54.9,
-                            "399": 45.1
+                            "1708": 56.4,
+                            "399": 43.6
                         },
                         "76-90": {
-                            "1708": 58,
-                            "399": 42
+                            "1708": 57.4,
+                            "399": 42.6
                         }
                     },
                     "45": {
                         "0-45": {
-                            "1708": 59.6,
-                            "399": 40.4
+                            "1708": 59.7,
+                            "399": 40.3
                         },
                         "46-90": {
-                            "1708": 46.9,
-                            "399": 53.1
+                            "1708": 46.8,
+                            "399": 53.2
                         }
                     },
                     "5": {
@@ -4336,8 +4134,8 @@
                             "interval": "26-30"
                         },
                         "31-35": {
-                            "1708": 61.4,
-                            "399": 38.6,
+                            "1708": 62.8,
+                            "399": 37.2,
                             "interval": "31-35"
                         },
                         "36-40": {
@@ -4351,8 +4149,8 @@
                             "interval": "41-45"
                         },
                         "46-50": {
-                            "1708": 29,
-                            "399": 71,
+                            "1708": 27.5,
+                            "399": 72.5,
                             "interval": "46-50"
                         },
                         "51-55": {
@@ -4371,8 +4169,8 @@
                             "interval": "6-10"
                         },
                         "61-65": {
-                            "1708": 48.6,
-                            "399": 51.4,
+                            "1708": 47.2,
+                            "399": 52.8,
                             "interval": "61-65"
                         },
                         "66-70": {
@@ -4381,51 +4179,51 @@
                             "interval": "66-70"
                         },
                         "71-75": {
-                            "1708": 69,
-                            "399": 31,
+                            "1708": 72.3,
+                            "399": 27.7,
                             "interval": "71-75"
                         },
                         "76-80": {
-                            "1708": 78.3,
-                            "399": 21.7,
+                            "1708": 78,
+                            "399": 22,
                             "interval": "76-80"
                         },
                         "81-85": {
-                            "1708": 27,
-                            "399": 73,
+                            "1708": 23.5,
+                            "399": 76.5,
                             "interval": "81-85"
                         },
                         "86-90": {
-                            "1708": 48.1,
-                            "399": 51.9,
+                            "1708": 47.2,
+                            "399": 52.8,
                             "interval": "86-90"
                         }
                     }
                 },
                 "lastX": {
                     "10": {
-                        "1708": 47.3,
-                        "399": 52.7
+                        "1708": 46.3,
+                        "399": 53.7
                     },
                     "15": {
-                        "1708": 46.7,
-                        "399": 53.3
+                        "1708": 44.6,
+                        "399": 55.4
                     },
                     "20": {
-                        "1708": 58.1,
-                        "399": 41.9
-                    },
-                    "25": {
-                        "1708": 59.8,
-                        "399": 40.2
-                    },
-                    "30": {
                         "1708": 58,
                         "399": 42
                     },
+                    "25": {
+                        "1708": 60.3,
+                        "399": 39.7
+                    },
+                    "30": {
+                        "1708": 58.4,
+                        "399": 41.6
+                    },
                     "5": {
-                        "1708": 60.7,
-                        "399": 39.3
+                        "1708": 61.5,
+                        "399": 38.5
                     }
                 },
                 "overall": {
@@ -4437,38 +4235,38 @@
                 "interval": {
                     "15": {
                         "0-15": {
-                            "1708": 43.9,
-                            "399": 56.1
+                            "1708": 43.2,
+                            "399": 56.8
                         },
                         "16-30": {
                             "1708": 44.1,
                             "399": 55.9
                         },
                         "31-45": {
-                            "1708": 44.5,
-                            "399": 55.5
+                            "1708": 44.8,
+                            "399": 55.2
                         },
                         "46-60": {
-                            "1708": 36.6,
-                            "399": 63.4
+                            "1708": 37.3,
+                            "399": 62.7
                         },
                         "61-75": {
-                            "1708": 32.7,
-                            "399": 67.3
+                            "1708": 31.6,
+                            "399": 68.4
                         },
                         "76-90": {
-                            "1708": 34.5,
-                            "399": 65.5
+                            "1708": 34.9,
+                            "399": 65.1
                         }
                     },
                     "45": {
                         "0-45": {
-                            "1708": 44.2,
-                            "399": 55.8
+                            "1708": 44.1,
+                            "399": 55.9
                         },
                         "46-90": {
-                            "1708": 34.8,
-                            "399": 65.2
+                            "1708": 34.9,
+                            "399": 65.1
                         }
                     },
                     "5": {
@@ -4477,8 +4275,8 @@
                             "399": 47.2
                         },
                         "11-15": {
-                            "1708": 42.3,
-                            "399": 57.7
+                            "1708": 40.4,
+                            "399": 59.6
                         },
                         "16-20": {
                             "1708": 46.9,
@@ -4493,24 +4291,24 @@
                             "399": 61.5
                         },
                         "31-35": {
-                            "1708": 56.8,
-                            "399": 43.2
+                            "1708": 58.1,
+                            "399": 41.9
                         },
                         "36-40": {
-                            "1708": 44.2,
-                            "399": 55.8
+                            "1708": 46.2,
+                            "399": 53.8
                         },
                         "41-45": {
-                            "1708": 36.8,
-                            "399": 63.2
+                            "1708": 35.3,
+                            "399": 64.7
                         },
                         "46-50": {
-                            "1708": 36.2,
-                            "399": 63.8
+                            "1708": 39.1,
+                            "399": 60.9
                         },
                         "51-55": {
-                            "1708": 53.1,
-                            "399": 46.9
+                            "1708": 51,
+                            "399": 49
                         },
                         "56-60": {
                             "1708": 18.6,
@@ -4521,55 +4319,55 @@
                             "399": 61.4
                         },
                         "61-65": {
-                            "1708": 21.6,
-                            "399": 78.4
+                            "1708": 22.2,
+                            "399": 77.8
                         },
                         "66-70": {
                             "1708": 44.1,
                             "399": 55.9
                         },
                         "71-75": {
-                            "1708": 33.3,
-                            "399": 66.7
+                            "1708": 29.8,
+                            "399": 70.2
                         },
                         "76-80": {
-                            "1708": 33.7,
-                            "399": 66.3
+                            "1708": 34.1,
+                            "399": 65.9
                         },
                         "81-85": {
-                            "1708": 43.2,
-                            "399": 56.8
+                            "1708": 44.1,
+                            "399": 55.9
                         },
                         "86-90": {
-                            "1708": 29.6,
-                            "399": 70.4
+                            "1708": 30.2,
+                            "399": 69.8
                         }
                     }
                 },
                 "lastX": {
                     "10": {
-                        "1708": 29.1,
-                        "399": 70.9
+                        "1708": 29.6,
+                        "399": 70.4
                     },
                     "15": {
-                        "1708": 37.1,
-                        "399": 62.9
+                        "1708": 37.6,
+                        "399": 62.4
                     },
                     "20": {
                         "1708": 35.2,
                         "399": 64.8
                     },
                     "25": {
-                        "1708": 33.8,
-                        "399": 66.2
+                        "1708": 33.3,
+                        "399": 66.7
                     },
                     "30": {
-                        "1708": 35.6,
-                        "399": 64.4
+                        "1708": 35.2,
+                        "399": 64.8
                     },
                     "5": {
-                        "1708": 25,
-                        "399": 75
+                        "1708": 26.9,
+                        "399": 73.1
                     }
                 },
                 "overall": {
@@ -4585,34 +4383,34 @@
                             "399": 20.5
                         },
                         "16-30": {
-                            "1708": 25.2,
+                            "1708": 26,
                             "399": 14.2
                         },
                         "31-45": {
-                            "1708": 25.6,
-                            "399": 14.6
+                            "1708": 25.8,
+                            "399": 14.1
                         },
                         "46-60": {
                             "1708": 32.9,
-                            "399": 13.7
+                            "399": 14.3
                         },
                         "61-75": {
-                            "1708": 29.2,
-                            "399": 14.2
+                            "1708": 32.5,
+                            "399": 13.7
                         },
                         "76-90": {
-                            "1708": 22.4,
-                            "399": 14.4
+                            "1708": 20.7,
+                            "399": 14.8
                         }
                     },
                     "45": {
                         "0-45": {
-                            "1708": 26,
-                            "399": 16.3
+                            "1708": 26.3,
+                            "399": 16.1
                         },
                         "46-90": {
-                            "1708": 27.9,
-                            "399": 14.1
+                            "1708": 28.2,
+                            "399": 14.3
                         }
                     },
                     "5": {
@@ -4629,7 +4427,7 @@
                             "399": 18.4
                         },
                         "21-25": {
-                            "1708": 25.6,
+                            "1708": 28.2,
                             "399": 15.4
                         },
                         "26-30": {
@@ -4637,8 +4435,8 @@
                             "399": 7.7
                         },
                         "31-35": {
-                            "1708": 11.4,
-                            "399": 18.2
+                            "1708": 11.6,
+                            "399": 16.3
                         },
                         "36-40": {
                             "1708": 32.7,
@@ -4650,7 +4448,7 @@
                         },
                         "46-50": {
                             "1708": 31.9,
-                            "399": 10.1
+                            "399": 11.6
                         },
                         "51-55": {
                             "1708": 16.3,
@@ -4665,34 +4463,34 @@
                             "399": 22.7
                         },
                         "61-65": {
-                            "1708": 48.6,
-                            "399": 8.1
+                            "1708": 50,
+                            "399": 8.3
                         },
                         "66-70": {
-                            "1708": 14.7,
+                            "1708": 17.6,
                             "399": 20.6
                         },
                         "71-75": {
-                            "1708": 23.8,
-                            "399": 14.3
+                            "1708": 29.8,
+                            "399": 12.8
                         },
                         "76-80": {
-                            "1708": 20.5,
-                            "399": 9.6
+                            "1708": 18.3,
+                            "399": 9.8
                         },
                         "81-85": {
-                            "1708": 16.2,
-                            "399": 18.9
+                            "1708": 14.7,
+                            "399": 20.6
                         },
                         "86-90": {
-                            "1708": 29.6,
-                            "399": 18.5
+                            "1708": 28.3,
+                            "399": 18.9
                         }
                     }
                 },
                 "lastX": {},
                 "overall": {
-                    "1708": 27,
+                    "1708": 27.3,
                     "399": 15.2
                 }
             }
@@ -5991,7 +5789,7 @@
                         {
                             "awayClub": 5513,
                             "awayScore": 0,
-                            "date": 1431212400,
+                            "date": 1431212400000,
                             "homeClub": 1708,
                             "homeScore": 3,
                             "id": 791466,
@@ -6001,7 +5799,7 @@
                         {
                             "awayClub": 3500,
                             "awayScore": 2,
-                            "date": 1431817200,
+                            "date": 1431817200000,
                             "homeClub": 1708,
                             "homeScore": 0,
                             "id": 791478,
@@ -6011,7 +5809,7 @@
                         {
                             "awayClub": 1708,
                             "awayScore": 0,
-                            "date": 1432422000,
+                            "date": 1432422000000,
                             "homeClub": 436,
                             "homeScore": 1,
                             "id": 791485,
@@ -6021,7 +5819,7 @@
                         {
                             "awayClub": 1899,
                             "awayScore": 1,
-                            "date": 1432940400,
+                            "date": 1432940400000,
                             "homeClub": 1708,
                             "homeScore": 2,
                             "id": 791502,
@@ -6031,7 +5829,7 @@
                         {
                             "awayClub": 1708,
                             "awayScore": 1,
-                            "date": 1433372400,
+                            "date": 1433372400000,
                             "homeClub": 1616,
                             "homeScore": 2,
                             "id": 791508,
@@ -6041,7 +5839,7 @@
                         {
                             "awayClub": 1708,
                             "awayScore": 1,
-                            "date": 1433631600,
+                            "date": 1433631600000,
                             "homeClub": 1230,
                             "homeScore": 0,
                             "id": 791516,
@@ -6320,7 +6118,7 @@
                         {
                             "awayClub": 399,
                             "awayScore": 1,
-                            "date": 1430607600,
+                            "date": 1430607600000,
                             "homeClub": 928,
                             "homeScore": 2,
                             "id": 791455,
@@ -6330,7 +6128,7 @@
                         {
                             "awayClub": 9668,
                             "awayScore": 1,
-                            "date": 1431298800,
+                            "date": 1431298800000,
                             "homeClub": 399,
                             "homeScore": 2,
                             "id": 791470,
@@ -6340,7 +6138,7 @@
                         {
                             "awayClub": 399,
                             "awayScore": 0,
-                            "date": 1431730800,
+                            "date": 1431730800000,
                             "homeClub": 1903,
                             "homeScore": 0,
                             "id": 791473,
@@ -6350,7 +6148,7 @@
                         {
                             "awayClub": 5513,
                             "awayScore": 2,
-                            "date": 1432422000,
+                            "date": 1432422000000,
                             "homeClub": 399,
                             "homeScore": 0,
                             "id": 791492,
@@ -6360,7 +6158,7 @@
                         {
                             "awayClub": 399,
                             "awayScore": 1,
-                            "date": 1433026800,
+                            "date": 1433026800000,
                             "homeClub": 3500,
                             "homeScore": 2,
                             "id": 791505,
@@ -6370,7 +6168,7 @@
                         {
                             "awayClub": 399,
                             "awayScore": 2,
-                            "date": 1433545200,
+                            "date": 1433545200000,
                             "homeClub": 1897,
                             "homeScore": 4,
                             "id": 791509,
@@ -6503,7 +6301,7 @@
             "title": "New York Red Bulls 1, Vancouver Whitecaps 2 | MLS Match Recap"
         }
     },
-    "sequence": 1259,
+    "sequence": 0,
     "shootout": [],
     "timelineItems": [
         {
@@ -6561,10 +6359,10 @@
             "comment": "Delay in match  (Vancouver Whitecaps FC).",
             "extraTimeNum": 0,
             "id": 1067558720,
-            "last_modified": 1434845844,
+            "last_modified": 1435002243,
             "minuteNum": 51,
             "players": [],
-            "secondNum": 30,
+            "secondNum": 27,
             "time": "51'",
             "type": "start delay"
         },
@@ -6594,7 +6392,7 @@
             "comment": "Foul by Mat\u00edas Laba (Vancouver Whitecaps FC).",
             "extraTimeNum": 0,
             "id": 1079250217,
-            "last_modified": 1434845559,
+            "last_modified": 1435002246,
             "minuteNum": 48,
             "players": [
                 {
@@ -6606,7 +6404,7 @@
                     "optaId": 86035
                 }
             ],
-            "secondNum": 56,
+            "secondNum": 53,
             "time": "48'",
             "type": "free kick lost"
         },
@@ -6658,7 +6456,7 @@
             "comment": "Dax McCarty (New York Red Bulls) wins a free kick in the defensive half.",
             "extraTimeNum": 0,
             "id": 1146509628,
-            "last_modified": 1434847710,
+            "last_modified": 1435003030,
             "minuteNum": 84,
             "players": [
                 {
@@ -6670,7 +6468,7 @@
                     "optaId": 41626
                 }
             ],
-            "secondNum": 45,
+            "secondNum": 42,
             "time": "84'",
             "type": "free kick won"
         },
@@ -6679,7 +6477,7 @@
             "comment": "Attempt blocked. Nicol\u00e1s Mezquida (Vancouver Whitecaps FC) right footed shot from outside the box is blocked. Assisted by Kekuta Manneh.",
             "extraTimeNum": 0,
             "id": 1152336150,
-            "last_modified": 1434842133,
+            "last_modified": 1434992435,
             "minuteNum": 7,
             "players": [
                 {
@@ -6729,7 +6527,7 @@
             "comment": "Kianz Froese (Vancouver Whitecaps FC) wins a free kick in the attacking half.",
             "extraTimeNum": 0,
             "id": 1210248882,
-            "last_modified": 1434847051,
+            "last_modified": 1435002217,
             "minuteNum": 73,
             "players": [
                 {
@@ -6741,7 +6539,7 @@
                     "optaId": 173264
                 }
             ],
-            "secondNum": 49,
+            "secondNum": 46,
             "time": "73'",
             "type": "free kick won"
         },
@@ -6750,8 +6548,8 @@
             "comment": "Corner,  New York Red Bulls. Conceded by David Ousted.",
             "extraTimeNum": 0,
             "id": 1211914796,
-            "last_modified": 1434847951,
-            "minuteNum": 84,
+            "last_modified": 1435002198,
+            "minuteNum": 83,
             "players": [
                 {
                     "clubOptaId": 1708,
@@ -6762,8 +6560,8 @@
                     "optaId": 52629
                 }
             ],
-            "secondNum": 1,
-            "time": "84'",
+            "secondNum": 58,
+            "time": "83'",
             "type": "corner"
         },
         {
@@ -6771,7 +6569,7 @@
             "comment": "Attempt blocked. Octavio Rivero (Vancouver Whitecaps FC) right footed shot from the right side of the box is blocked. Assisted by Cristian Techera.",
             "extraTimeNum": 1,
             "id": 1215769834,
-            "last_modified": 1434844437,
+            "last_modified": 1434998734,
             "minuteNum": 45,
             "players": [
                 {
@@ -6801,7 +6599,7 @@
             "comment": "Penalty conceded by Steven Beitashour (Vancouver Whitecaps FC) after a foul in the penalty area.",
             "extraTimeNum": 0,
             "id": 1243704089,
-            "last_modified": 1434846544,
+            "last_modified": 1435002227,
             "minuteNum": 64,
             "players": [
                 {
@@ -6813,7 +6611,7 @@
                     "optaId": 82845
                 }
             ],
-            "secondNum": 51,
+            "secondNum": 48,
             "time": "64'",
             "type": "penalty lost",
             "videoId": 41644
@@ -6823,7 +6621,7 @@
             "comment": "Jordan Harvey (Vancouver Whitecaps FC) wins a free kick in the defensive half.",
             "extraTimeNum": 2,
             "id": 1246410151,
-            "last_modified": 1434848353,
+            "last_modified": 1435002189,
             "minuteNum": 90,
             "players": [
                 {
@@ -6835,7 +6633,7 @@
                     "optaId": 41599
                 }
             ],
-            "secondNum": 58,
+            "secondNum": 55,
             "time": "90'+2'",
             "type": "free kick won"
         },
@@ -6844,7 +6642,7 @@
             "comment": "Dax McCarty (New York Red Bulls) wins a free kick on the right wing.",
             "extraTimeNum": 0,
             "id": 1246743097,
-            "last_modified": 1434845716,
+            "last_modified": 1435003075,
             "minuteNum": 50,
             "players": [
                 {
@@ -6856,7 +6654,7 @@
                     "optaId": 41626
                 }
             ],
-            "secondNum": 48,
+            "secondNum": 45,
             "time": "50'",
             "type": "free kick won"
         },
@@ -6915,7 +6713,7 @@
             "comment": "Mike Grella (New York Red Bulls) wins a free kick on the right wing.",
             "extraTimeNum": 0,
             "id": 1308187171,
-            "last_modified": 1434846280,
+            "last_modified": 1435003058,
             "minuteNum": 60,
             "players": [
                 {
@@ -6927,7 +6725,7 @@
                     "optaId": 59848
                 }
             ],
-            "secondNum": 53,
+            "secondNum": 50,
             "time": "60'",
             "type": "free kick won"
         },
@@ -6936,7 +6734,7 @@
             "comment": "Mike Grella (New York Red Bulls) wins a free kick on the right wing.",
             "extraTimeNum": 0,
             "id": 1317897297,
-            "last_modified": 1434845559,
+            "last_modified": 1435002700,
             "minuteNum": 48,
             "players": [
                 {
@@ -6948,7 +6746,7 @@
                     "optaId": 59848
                 }
             ],
-            "secondNum": 56,
+            "secondNum": 53,
             "time": "48'",
             "type": "free kick won"
         },
@@ -6978,7 +6776,7 @@
             "comment": "Penalty New York Red Bulls. Anatole Bertrand Abang draws a foul in the penalty area.",
             "extraTimeNum": 0,
             "id": 1393819089,
-            "last_modified": 1434846539,
+            "last_modified": 1435003052,
             "minuteNum": 64,
             "players": [
                 {
@@ -6990,7 +6788,7 @@
                     "optaId": 203478
                 }
             ],
-            "secondNum": 51,
+            "secondNum": 48,
             "time": "64'",
             "type": "penalty won"
         },
@@ -6999,7 +6797,7 @@
             "comment": "Offside, New York Red Bulls. Roy Miller tries a through ball, but Anatole Bertrand Abang is caught offside.",
             "extraTimeNum": 0,
             "id": 1395345257,
-            "last_modified": 1434846409,
+            "last_modified": 1435003054,
             "minuteNum": 62,
             "players": [
                 {
@@ -7019,7 +6817,7 @@
                     "optaId": 203478
                 }
             ],
-            "secondNum": 0,
+            "secondNum": 57,
             "time": "62'",
             "type": "offside"
         },
@@ -7070,7 +6868,7 @@
             "comment": "Attempt missed. Cristian Techera (Vancouver Whitecaps FC) left footed shot from outside the box is close, but misses to the left. Assisted by Nicol\u00e1s Mezquida.",
             "extraTimeNum": 0,
             "id": 1455257958,
-            "last_modified": 1434843588,
+            "last_modified": 1434995481,
             "minuteNum": 30,
             "players": [
                 {
@@ -7120,7 +6918,7 @@
             "comment": "Offside, Vancouver Whitecaps FC. Gershon Koffie tries a through ball, but Cristian Techera is caught offside.",
             "extraTimeNum": 0,
             "id": 1500369814,
-            "last_modified": 1434847827,
+            "last_modified": 1435002195,
             "minuteNum": 86,
             "players": [
                 {
@@ -7140,7 +6938,7 @@
                     "optaId": 152577
                 }
             ],
-            "secondNum": 43,
+            "secondNum": 40,
             "time": "86'",
             "type": "offside"
         },
@@ -7170,7 +6968,7 @@
             "comment": "Octavio Rivero (Vancouver Whitecaps FC) hits the right post with a right footed shot from outside the box. Assisted by Pa Modou Kah.",
             "extraTimeNum": 0,
             "id": 1510175970,
-            "last_modified": 1434842923,
+            "last_modified": 1434994649,
             "minuteNum": 19,
             "players": [
                 {
@@ -7199,7 +6997,7 @@
             "comment": "Attempt blocked. Chris Duvall (New York Red Bulls) right footed shot from outside the box is blocked. Assisted by Mike Grella.",
             "extraTimeNum": 0,
             "id": 1550656936,
-            "last_modified": 1434846179,
+            "last_modified": 1435005453,
             "minuteNum": 58,
             "players": [
                 {
@@ -7219,7 +7017,7 @@
                     "optaId": 59848
                 }
             ],
-            "secondNum": 29,
+            "secondNum": 26,
             "time": "58'",
             "type": "attempt blocked"
         },
@@ -7228,7 +7026,7 @@
             "comment": "Corner,  New York Red Bulls. Conceded by Octavio Rivero.",
             "extraTimeNum": 2,
             "id": 1570363214,
-            "last_modified": 1434848352,
+            "last_modified": 1435002189,
             "minuteNum": 90,
             "players": [
                 {
@@ -7240,7 +7038,7 @@
                     "optaId": 153061
                 }
             ],
-            "secondNum": 37,
+            "secondNum": 34,
             "time": "90'+2'",
             "type": "corner"
         },
@@ -7249,7 +7047,7 @@
             "comment": "Corner,  Vancouver Whitecaps FC. Conceded by Luis Robles.",
             "extraTimeNum": 0,
             "id": 1614919909,
-            "last_modified": 1434847125,
+            "last_modified": 1435003042,
             "minuteNum": 74,
             "players": [
                 {
@@ -7261,7 +7059,7 @@
                     "optaId": 41210
                 }
             ],
-            "secondNum": 23,
+            "secondNum": 20,
             "time": "74'",
             "type": "corner"
         },
@@ -7270,7 +7068,7 @@
             "comment": "Foul by Matt Miazga (New York Red Bulls).",
             "extraTimeNum": 2,
             "id": 1618628061,
-            "last_modified": 1434848204,
+            "last_modified": 1435003020,
             "minuteNum": 90,
             "players": [
                 {
@@ -7282,7 +7080,7 @@
                     "optaId": 163793
                 }
             ],
-            "secondNum": 58,
+            "secondNum": 55,
             "time": "90'+2'",
             "type": "free kick lost"
         },
@@ -7291,7 +7089,7 @@
             "comment": "Corner,  New York Red Bulls. Conceded by Deybi Flores.",
             "extraTimeNum": 0,
             "id": 164295137,
-            "last_modified": 1434847951,
+            "last_modified": 1435002197,
             "minuteNum": 85,
             "players": [
                 {
@@ -7303,7 +7101,7 @@
                     "optaId": 205404
                 }
             ],
-            "secondNum": 51,
+            "secondNum": 48,
             "time": "85'",
             "type": "corner"
         },
@@ -7312,7 +7110,7 @@
             "comment": "Foul by Kekuta Manneh (Vancouver Whitecaps FC).",
             "extraTimeNum": 0,
             "id": 1694362551,
-            "last_modified": 1434845717,
+            "last_modified": 1435002243,
             "minuteNum": 50,
             "players": [
                 {
@@ -7324,7 +7122,7 @@
                     "optaId": 151952
                 }
             ],
-            "secondNum": 48,
+            "secondNum": 45,
             "time": "50'",
             "type": "free kick lost"
         },
@@ -7354,7 +7152,7 @@
             "comment": "Foul by Anatole Bertrand Abang (New York Red Bulls).",
             "extraTimeNum": 0,
             "id": 1713599933,
-            "last_modified": 1434846881,
+            "last_modified": 1435003046,
             "minuteNum": 70,
             "players": [
                 {
@@ -7366,7 +7164,7 @@
                     "optaId": 203478
                 }
             ],
-            "secondNum": 56,
+            "secondNum": 53,
             "time": "70'",
             "type": "free kick lost"
         },
@@ -7375,7 +7173,7 @@
             "comment": "Foul by Anatole Bertrand Abang (New York Red Bulls).",
             "extraTimeNum": 0,
             "id": 1728477293,
-            "last_modified": 1434846686,
+            "last_modified": 1435003050,
             "minuteNum": 67,
             "players": [
                 {
@@ -7387,7 +7185,7 @@
                     "optaId": 203478
                 }
             ],
-            "secondNum": 42,
+            "secondNum": 39,
             "time": "67'",
             "type": "free kick lost"
         },
@@ -7450,7 +7248,7 @@
             "comment": "Attempt saved. Nicol\u00e1s Mezquida (Vancouver Whitecaps FC) right footed shot from outside the box is saved in the bottom right corner. Assisted by Cristian Techera.",
             "extraTimeNum": 0,
             "id": 1837811371,
-            "last_modified": 1434847131,
+            "last_modified": 1435007913,
             "minuteNum": 74,
             "players": [
                 {
@@ -7470,7 +7268,7 @@
                     "optaId": 152577
                 }
             ],
-            "secondNum": 21,
+            "secondNum": 18,
             "time": "74'",
             "type": "attempt saved"
         },
@@ -7521,7 +7319,7 @@
             "comment": "Jordan Harvey (Vancouver Whitecaps FC) wins a free kick in the defensive half.",
             "extraTimeNum": 0,
             "id": 1872255266,
-            "last_modified": 1434846881,
+            "last_modified": 1435002222,
             "minuteNum": 70,
             "players": [
                 {
@@ -7533,7 +7331,7 @@
                     "optaId": 41599
                 }
             ],
-            "secondNum": 56,
+            "secondNum": 53,
             "time": "70'",
             "type": "free kick won"
         },
@@ -7542,7 +7340,7 @@
             "comment": "Foul by Roy Miller (New York Red Bulls).",
             "extraTimeNum": 0,
             "id": 1909396324,
-            "last_modified": 1434846828,
+            "last_modified": 1435003047,
             "minuteNum": 70,
             "players": [
                 {
@@ -7554,7 +7352,7 @@
                     "optaId": 34361
                 }
             ],
-            "secondNum": 4,
+            "secondNum": 1,
             "time": "70'",
             "type": "free kick lost"
         },
@@ -7575,7 +7373,7 @@
             "comment": "Attempt missed. Kekuta Manneh (Vancouver Whitecaps FC) right footed shot from outside the box is close, but misses to the right. Assisted by Octavio Rivero.",
             "extraTimeNum": 0,
             "id": 1951796056,
-            "last_modified": 1434842246,
+            "last_modified": 1434992552,
             "minuteNum": 8,
             "players": [
                 {
@@ -7595,7 +7393,7 @@
                     "optaId": 153061
                 }
             ],
-            "secondNum": 59,
+            "secondNum": 58,
             "time": "8'",
             "type": "miss",
             "videoId": 41596
@@ -7605,7 +7403,7 @@
             "comment": "Anatole Bertrand Abang (New York Red Bulls) wins a free kick in the attacking half.",
             "extraTimeNum": 0,
             "id": 1957507148,
-            "last_modified": 1434846002,
+            "last_modified": 1435003066,
             "minuteNum": 56,
             "players": [
                 {
@@ -7617,7 +7415,7 @@
                     "optaId": 203478
                 }
             ],
-            "secondNum": 13,
+            "secondNum": 10,
             "time": "56'",
             "type": "free kick won"
         },
@@ -7626,7 +7424,7 @@
             "comment": "Steven Beitashour (Vancouver Whitecaps FC) wins a free kick in the defensive half.",
             "extraTimeNum": 3,
             "id": 1967619113,
-            "last_modified": 1434848245,
+            "last_modified": 1435002188,
             "minuteNum": 90,
             "players": [
                 {
@@ -7638,7 +7436,7 @@
                     "optaId": 82845
                 }
             ],
-            "secondNum": 40,
+            "secondNum": 37,
             "time": "90'+3'",
             "type": "free kick won"
         },
@@ -7647,7 +7445,7 @@
             "comment": "Attempt blocked. Damien Perrinelle (New York Red Bulls) right footed shot from the right side of the box is blocked. Assisted by Felipe with a cross.",
             "extraTimeNum": 0,
             "id": 1979522064,
-            "last_modified": 1434844189,
+            "last_modified": 1434997794,
             "minuteNum": 38,
             "players": [
                 {
@@ -7676,7 +7474,7 @@
             "comment": "Dangerous play by Anatole Bertrand Abang (New York Red Bulls).",
             "extraTimeNum": 3,
             "id": 2005514062,
-            "last_modified": 1434848245,
+            "last_modified": 1435003020,
             "minuteNum": 90,
             "players": [
                 {
@@ -7688,7 +7486,7 @@
                     "optaId": 203478
                 }
             ],
-            "secondNum": 40,
+            "secondNum": 37,
             "time": "90'+3'",
             "type": "free kick lost"
         },
@@ -7697,7 +7495,7 @@
             "comment": "Foul by Roy Miller (New York Red Bulls).",
             "extraTimeNum": 0,
             "id": 2012682196,
-            "last_modified": 1434847051,
+            "last_modified": 1435003043,
             "minuteNum": 73,
             "players": [
                 {
@@ -7709,7 +7507,7 @@
                     "optaId": 34361
                 }
             ],
-            "secondNum": 49,
+            "secondNum": 46,
             "time": "73'",
             "type": "free kick lost"
         },
@@ -7718,7 +7516,7 @@
             "comment": "Offside, New York Red Bulls. Bradley Wright-Phillips tries a through ball, but Anatole Bertrand Abang is caught offside.",
             "extraTimeNum": 0,
             "id": 2036652008,
-            "last_modified": 1434845760,
+            "last_modified": 1435003074,
             "minuteNum": 52,
             "players": [
                 {
@@ -7738,7 +7536,7 @@
                     "optaId": 203478
                 }
             ],
-            "secondNum": 16,
+            "secondNum": 13,
             "time": "52'",
             "type": "offside"
         },
@@ -7747,7 +7545,7 @@
             "comment": "Foul by Matt Miazga (New York Red Bulls).",
             "extraTimeNum": 0,
             "id": 2042864880,
-            "last_modified": 1434847986,
+            "last_modified": 1435003025,
             "minuteNum": 89,
             "players": [
                 {
@@ -7759,7 +7557,7 @@
                     "optaId": 163793
                 }
             ],
-            "secondNum": 19,
+            "secondNum": 16,
             "time": "89'",
             "type": "free kick lost"
         },
@@ -7768,7 +7566,7 @@
             "comment": "Foul by Mat\u00edas Laba (Vancouver Whitecaps FC).",
             "extraTimeNum": 0,
             "id": 2057711096,
-            "last_modified": 1434846496,
+            "last_modified": 1435002228,
             "minuteNum": 63,
             "players": [
                 {
@@ -7780,7 +7578,7 @@
                     "optaId": 86035
                 }
             ],
-            "secondNum": 52,
+            "secondNum": 49,
             "time": "63'",
             "type": "free kick lost"
         },
@@ -7789,7 +7587,7 @@
             "comment": "Penalty saved! Bradley Wright-Phillips (New York Red Bulls) fails to capitalise on this great opportunity,  right footed shot saved  in the bottom left corner.",
             "extraTimeNum": 0,
             "id": 2064543305,
-            "last_modified": 1434842025,
+            "last_modified": 1434992328,
             "minuteNum": 5,
             "players": [
                 {
@@ -7853,7 +7651,7 @@
             "comment": "Anatole Bertrand Abang (New York Red Bulls) wins a free kick in the attacking half.",
             "extraTimeNum": 1,
             "id": 2089538601,
-            "last_modified": 1434848129,
+            "last_modified": 1435003021,
             "minuteNum": 90,
             "players": [
                 {
@@ -7865,7 +7663,7 @@
                     "optaId": 203478
                 }
             ],
-            "secondNum": 44,
+            "secondNum": 41,
             "time": "90'+1'",
             "type": "free kick won"
         },
@@ -7895,7 +7693,7 @@
             "comment": "Bradley Wright-Phillips (New York Red Bulls) wins a free kick in the attacking half.",
             "extraTimeNum": 0,
             "id": 264327894,
-            "last_modified": 1434846467,
+            "last_modified": 1435003054,
             "minuteNum": 63,
             "players": [
                 {
@@ -7907,7 +7705,7 @@
                     "optaId": 18770
                 }
             ],
-            "secondNum": 52,
+            "secondNum": 49,
             "time": "63'",
             "type": "free kick won"
         },
@@ -7937,7 +7735,7 @@
             "comment": "Cristian Techera (Vancouver Whitecaps FC) wins a free kick in the defensive half.",
             "extraTimeNum": 0,
             "id": 287989047,
-            "last_modified": 1434846686,
+            "last_modified": 1435002225,
             "minuteNum": 67,
             "players": [
                 {
@@ -7949,7 +7747,7 @@
                     "optaId": 152577
                 }
             ],
-            "secondNum": 42,
+            "secondNum": 39,
             "time": "67'",
             "type": "free kick won"
         },
@@ -7958,7 +7756,7 @@
             "comment": "Anatole Bertrand Abang (New York Red Bulls) wins a free kick in the attacking half.",
             "extraTimeNum": 0,
             "id": 293530223,
-            "last_modified": 1434846067,
+            "last_modified": 1435003070,
             "minuteNum": 54,
             "players": [
                 {
@@ -7970,7 +7768,7 @@
                     "optaId": 203478
                 }
             ],
-            "secondNum": 43,
+            "secondNum": 40,
             "time": "54'",
             "type": "free kick won"
         },
@@ -7979,7 +7777,7 @@
             "comment": "Foul by Gershon Koffie (Vancouver Whitecaps FC).",
             "extraTimeNum": 4,
             "id": 298905634,
-            "last_modified": 1434848313,
+            "last_modified": 1435002187,
             "minuteNum": 90,
             "players": [
                 {
@@ -7991,7 +7789,7 @@
                     "optaId": 92438
                 }
             ],
-            "secondNum": 49,
+            "secondNum": 46,
             "time": "90'+4'",
             "type": "free kick lost"
         },
@@ -8042,7 +7840,7 @@
             "comment": "Attempt saved. Manolo Sanchez (New York Red Bulls) right footed shot from outside the box is saved in the bottom left corner.",
             "extraTimeNum": 0,
             "id": 356436819,
-            "last_modified": 1434847680,
+            "last_modified": 1435009943,
             "minuteNum": 83,
             "players": [
                 {
@@ -8054,7 +7852,7 @@
                     "optaId": 131817
                 }
             ],
-            "secondNum": 59,
+            "secondNum": 56,
             "time": "83'",
             "type": "attempt saved",
             "videoId": 41657
@@ -8076,7 +7874,7 @@
             "comment": "Foul by Kendall Waston (Vancouver Whitecaps FC).",
             "extraTimeNum": 0,
             "id": 430844551,
-            "last_modified": 1434846002,
+            "last_modified": 1435002237,
             "minuteNum": 56,
             "players": [
                 {
@@ -8088,7 +7886,7 @@
                     "optaId": 193906
                 }
             ],
-            "secondNum": 13,
+            "secondNum": 10,
             "time": "56'",
             "type": "free kick lost"
         },
@@ -8097,7 +7895,7 @@
             "comment": "Octavio Rivero (Vancouver Whitecaps FC) wins a free kick in the attacking half.",
             "extraTimeNum": 0,
             "id": 439029185,
-            "last_modified": 1434847986,
+            "last_modified": 1435002194,
             "minuteNum": 89,
             "players": [
                 {
@@ -8109,7 +7907,7 @@
                     "optaId": 153061
                 }
             ],
-            "secondNum": 19,
+            "secondNum": 16,
             "time": "89'",
             "type": "free kick won"
         },
@@ -8157,19 +7955,19 @@
         },
         {
             "_type": "COMMENT",
-            "comment": "Corner,  New York Red Bulls. Conceded by Jordan Harvey.",
+            "comment": "Corner,  New York Red Bulls. Conceded by Pa Modou Kah.",
             "extraTimeNum": 0,
             "id": 491226936,
-            "last_modified": 1434842672,
+            "last_modified": 1434992734,
             "minuteNum": 10,
             "players": [
                 {
                     "clubOptaId": 1708,
                     "indices": [
                         41,
-                        54
+                        53
                     ],
-                    "optaId": 41599
+                    "optaId": 39228
                 }
             ],
             "secondNum": 46,
@@ -8223,10 +8021,10 @@
             "comment": "Delay over. They are ready to continue.",
             "extraTimeNum": 0,
             "id": 546796132,
-            "last_modified": 1434845844,
+            "last_modified": 1435002243,
             "minuteNum": 52,
             "players": [],
-            "secondNum": 5,
+            "secondNum": 2,
             "time": "52'",
             "type": "end delay"
         },
@@ -8277,8 +8075,8 @@
             "comment": "Corner,  New York Red Bulls. Conceded by Mat\u00edas Laba.",
             "extraTimeNum": 0,
             "id": 578749250,
-            "last_modified": 1434846167,
-            "minuteNum": 59,
+            "last_modified": 1435002234,
+            "minuteNum": 58,
             "players": [
                 {
                     "clubOptaId": 1708,
@@ -8289,8 +8087,8 @@
                     "optaId": 86035
                 }
             ],
-            "secondNum": 3,
-            "time": "59'",
+            "secondNum": 0,
+            "time": "58'",
             "type": "corner"
         },
         {
@@ -8319,7 +8117,7 @@
             "comment": "Foul by Kendall Waston (Vancouver Whitecaps FC).",
             "extraTimeNum": 1,
             "id": 614094300,
-            "last_modified": 1434848129,
+            "last_modified": 1435002189,
             "minuteNum": 90,
             "players": [
                 {
@@ -8331,16 +8129,16 @@
                     "optaId": 193906
                 }
             ],
-            "secondNum": 44,
+            "secondNum": 41,
             "time": "90'+1'",
             "type": "free kick lost"
         },
         {
             "_type": "COMMENT",
-            "comment": "Corner,  Vancouver Whitecaps FC. Conceded by Ronald Zubar.",
+            "comment": "Corner,  Vancouver Whitecaps FC. Conceded by Chris Duvall.",
             "extraTimeNum": 0,
             "id": 648935413,
-            "last_modified": 1434841845,
+            "last_modified": 1434992008,
             "minuteNum": 2,
             "players": [
                 {
@@ -8349,7 +8147,7 @@
                         45,
                         57
                     ],
-                    "optaId": 37847
+                    "optaId": 131840
                 }
             ],
             "secondNum": 50,
@@ -8423,7 +8221,7 @@
             "comment": "Attempt saved. Dax McCarty (New York Red Bulls) header from the left side of the box is saved in the centre of the goal. Assisted by Felipe with a cross.",
             "extraTimeNum": 0,
             "id": 7140568,
-            "last_modified": 1434847751,
+            "last_modified": 1435009990,
             "minuteNum": 84,
             "players": [
                 {
@@ -8443,7 +8241,7 @@
                     "optaId": 56812
                 }
             ],
-            "secondNum": 29,
+            "secondNum": 26,
             "time": "84'",
             "type": "attempt saved"
         },
@@ -8452,7 +8250,7 @@
             "comment": "Attempt missed. Nicol\u00e1s Mezquida (Vancouver Whitecaps FC) right footed shot from the left side of the box misses to the right. Assisted by Octavio Rivero.",
             "extraTimeNum": 0,
             "id": 714444901,
-            "last_modified": 1434847243,
+            "last_modified": 1435007947,
             "minuteNum": 75,
             "players": [
                 {
@@ -8472,7 +8270,7 @@
                     "optaId": 153061
                 }
             ],
-            "secondNum": 25,
+            "secondNum": 22,
             "time": "75'",
             "type": "miss"
         },
@@ -8481,7 +8279,7 @@
             "comment": "Hand ball by Octavio Rivero (Vancouver Whitecaps FC).",
             "extraTimeNum": 0,
             "id": 714474706,
-            "last_modified": 1434847624,
+            "last_modified": 1435002199,
             "minuteNum": 83,
             "players": [
                 {
@@ -8493,7 +8291,7 @@
                     "optaId": 153061
                 }
             ],
-            "secondNum": 18,
+            "secondNum": 15,
             "time": "83'",
             "type": "free kick lost"
         },
@@ -8535,7 +8333,7 @@
             "comment": "Foul by Kendall Waston (Vancouver Whitecaps FC).",
             "extraTimeNum": 0,
             "id": 743935864,
-            "last_modified": 1434846067,
+            "last_modified": 1435002239,
             "minuteNum": 54,
             "players": [
                 {
@@ -8547,7 +8345,7 @@
                     "optaId": 193906
                 }
             ],
-            "secondNum": 43,
+            "secondNum": 40,
             "time": "54'",
             "type": "free kick lost"
         },
@@ -8598,7 +8396,7 @@
             "comment": "Foul by Gershon Koffie (Vancouver Whitecaps FC).",
             "extraTimeNum": 0,
             "id": 766364805,
-            "last_modified": 1434846280,
+            "last_modified": 1435002233,
             "minuteNum": 60,
             "players": [
                 {
@@ -8610,7 +8408,7 @@
                     "optaId": 92438
                 }
             ],
-            "secondNum": 53,
+            "secondNum": 50,
             "time": "60'",
             "type": "free kick lost"
         },
@@ -8619,7 +8417,7 @@
             "comment": "Nicol\u00e1s Mezquida (Vancouver Whitecaps FC) wins a free kick in the defensive half.",
             "extraTimeNum": 0,
             "id": 795130586,
-            "last_modified": 1434846828,
+            "last_modified": 1435002223,
             "minuteNum": 70,
             "players": [
                 {
@@ -8631,7 +8429,7 @@
                     "optaId": 87984
                 }
             ],
-            "secondNum": 4,
+            "secondNum": 1,
             "time": "70'",
             "type": "free kick won"
         },
@@ -8640,7 +8438,7 @@
             "comment": "Dax McCarty (New York Red Bulls) wins a free kick in the defensive half.",
             "extraTimeNum": 4,
             "id": 805996922,
-            "last_modified": 1434848313,
+            "last_modified": 1435003019,
             "minuteNum": 90,
             "players": [
                 {
@@ -8652,7 +8450,7 @@
                     "optaId": 41626
                 }
             ],
-            "secondNum": 49,
+            "secondNum": 46,
             "time": "90'+4'",
             "type": "free kick won"
         },
@@ -8661,7 +8459,7 @@
             "comment": "Penalty saved! Bradley Wright-Phillips (New York Red Bulls) fails to capitalise on this great opportunity,  right footed shot saved  in the centre of the goal.",
             "extraTimeNum": 0,
             "id": 851429921,
-            "last_modified": 1434846639,
+            "last_modified": 1435007067,
             "minuteNum": 65,
             "players": [
                 {
@@ -8673,7 +8471,7 @@
                     "optaId": 18770
                 }
             ],
-            "secondNum": 58,
+            "secondNum": 55,
             "time": "65'",
             "type": "penalty saved",
             "videoId": 41646
@@ -8683,7 +8481,7 @@
             "comment": "Foul by Cristian Techera (Vancouver Whitecaps FC).",
             "extraTimeNum": 0,
             "id": 889728024,
-            "last_modified": 1434847710,
+            "last_modified": 1435002198,
             "minuteNum": 84,
             "players": [
                 {
@@ -8695,7 +8493,7 @@
                     "optaId": 152577
                 }
             ],
-            "secondNum": 45,
+            "secondNum": 42,
             "time": "84'",
             "type": "free kick lost"
         },
@@ -8725,7 +8523,7 @@
             "comment": "Corner,  New York Red Bulls. Conceded by Jordan Harvey.",
             "extraTimeNum": 0,
             "id": 939573176,
-            "last_modified": 1434845496,
+            "last_modified": 1435002247,
             "minuteNum": 47,
             "players": [
                 {
@@ -8737,7 +8535,7 @@
                     "optaId": 41599
                 }
             ],
-            "secondNum": 46,
+            "secondNum": 43,
             "time": "47'",
             "type": "corner"
         },
@@ -9239,7 +9037,7 @@
                 "positionAbbr": "D",
                 "status": "Start"
             },
-            "reason": "Foul",
+            "reason": "Persistent Infringement",
             "secondNum": 0,
             "teamId": 1708,
             "time": 91,
@@ -9266,7 +9064,7 @@
                 "positionAbbr": "M",
                 "status": "Start"
             },
-            "reason": "Foul",
+            "reason": "Unsporting Behavior",
             "secondNum": 0,
             "teamId": 1708,
             "time": 63,
@@ -9374,7 +9172,7 @@
             "text": "Red card to <a target=\"_blank\" href=\"//twitter.com/search?q=%23NYRB\">#NYRB</a>!",
             "toJSON": true,
             "user_id": "17744542",
-            "user_image": "http://pbs.twimg.com/profile_images/606851785462906880/-N7PQ3UD_normal.png"
+            "user_image": "http://pbs.twimg.com/profile_images/629149404490891265/19ntX8S5_normal.png"
         },
         {
             "_type": "TWEET",
@@ -9389,7 +9187,7 @@
             "text": "Red card to Sacha Kljestan in the 10th minute. <a target=\"_blank\" href=\"//twitter.com/search?q=%23NYvVAN\">#NYvVAN</a>",
             "toJSON": true,
             "user_id": "131941193",
-            "user_image": "http://pbs.twimg.com/profile_images/597854895740424192/DspCJsdr_normal.jpg"
+            "user_image": "http://pbs.twimg.com/profile_images/631665978657644545/pSon2XWW_normal.jpg"
         },
         {
             "_type": "TWEET",
@@ -9404,7 +9202,7 @@
             "text": "Waston down, and New York is now reduced to ten men. <a target=\"_blank\" href=\"//twitter.com/search?q=%23VWFC\">#VWFC</a>",
             "toJSON": true,
             "user_id": "331404288",
-            "user_image": "http://pbs.twimg.com/profile_images/607382737268277248/G-Wq8Nl1_normal.jpg"
+            "user_image": "http://pbs.twimg.com/profile_images/620767851406725120/GmgW79gf_normal.jpg"
         },
         {
             "_type": "TWEET",
@@ -9442,7 +9240,7 @@
             "text": "Kickoff just 10 minutes away. News and notes on <a target=\"_blank\" href=\"//twitter.com/search?q=%23VWFC\">#VWFC</a>'s starting lineup: <a href=\"http://t.co/67GmvcqBBO\" target=\"_blank\">http://t.co/67GmvcqBBO</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23NYvVAN\">#NYvVAN</a> <a href=\"http://t.co/bGKkBwxcQR\" target=\"_blank\">http://t.co/bGKkBwxcQR</a>",
             "toJSON": true,
             "user_id": "17744542",
-            "user_image": "http://pbs.twimg.com/profile_images/606851785462906880/-N7PQ3UD_normal.png"
+            "user_image": "http://pbs.twimg.com/profile_images/629149404490891265/19ntX8S5_normal.png"
         },
         {
             "_type": "TWEET",
@@ -9657,7 +9455,7 @@
             "text": "Great pass by Beitashour to Manneh and now I know why Manneh is called Scooter. <a target=\"_blank\" href=\"//twitter.com/search?q=%23VWFC\">#VWFC</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23BeepBeep\">#BeepBeep</a> CC: <a target=\"_blank\" href=\"//twitter.com/@kekuta16\">@kekuta16</a>, <a target=\"_blank\" href=\"//twitter.com/@WhitecapsFC\">@WhitecapsFC</a>",
             "toJSON": true,
             "user_id": "331404288",
-            "user_image": "http://pbs.twimg.com/profile_images/607382737268277248/G-Wq8Nl1_normal.jpg"
+            "user_image": "http://pbs.twimg.com/profile_images/620767851406725120/GmgW79gf_normal.jpg"
         },
         {
             "_type": "TWEET",
@@ -9751,7 +9549,7 @@
             "text": "20: Felipe nicely chips a FK into the top corner, but David Ousted is there for the stop. \n\n0-1 <a target=\"_blank\" href=\"//twitter.com/search?q=%23NYvVAN\">#NYvVAN</a>",
             "toJSON": true,
             "user_id": "27092557",
-            "user_image": "http://pbs.twimg.com/profile_images/598156578542514176/sRPONd4W_normal.jpg"
+            "user_image": "http://pbs.twimg.com/profile_images/615645664941203456/vwgLaRvl_normal.jpg"
         },
         {
             "_type": "TWEET",
@@ -9871,7 +9669,7 @@
             "text": "25: Sal Zizzo chases down the ball for a cross, but falls out of bounds as he gets off the shot. \n\n0-1 <a target=\"_blank\" href=\"//twitter.com/search?q=%23NYvVAN\">#NYvVAN</a>",
             "toJSON": true,
             "user_id": "27092557",
-            "user_image": "http://pbs.twimg.com/profile_images/598156578542514176/sRPONd4W_normal.jpg"
+            "user_image": "http://pbs.twimg.com/profile_images/615645664941203456/vwgLaRvl_normal.jpg"
         },
         {
             "_type": "TWEET",
@@ -9886,7 +9684,7 @@
             "text": "The half so far: Ousted saved a PK, New York reduced to 10 men, and Manneh scores. <a target=\"_blank\" href=\"//twitter.com/search?q=%23VWFC\">#VWFC</a>",
             "toJSON": true,
             "user_id": "331404288",
-            "user_image": "http://pbs.twimg.com/profile_images/607382737268277248/G-Wq8Nl1_normal.jpg"
+            "user_image": "http://pbs.twimg.com/profile_images/620767851406725120/GmgW79gf_normal.jpg"
         },
         {
             "_type": "TWEET",
@@ -9916,7 +9714,7 @@
             "text": "27: Mike Grella earns a corner for the Red Bulls. \n\n0-1 <a target=\"_blank\" href=\"//twitter.com/search?q=%23NYvVAN\">#NYvVAN</a>",
             "toJSON": true,
             "user_id": "27092557",
-            "user_image": "http://pbs.twimg.com/profile_images/598156578542514176/sRPONd4W_normal.jpg"
+            "user_image": "http://pbs.twimg.com/profile_images/615645664941203456/vwgLaRvl_normal.jpg"
         },
         {
             "_type": "TWEET",
@@ -9935,7 +9733,7 @@
             "text": "Ready? Ready! <a target=\"_blank\" href=\"//twitter.com/search?q=%23NYvVAN\">#NYvVAN</a>! <a target=\"_blank\" href=\"//twitter.com/search?q=%23RBNY\">#RBNY</a> <a href=\"http://t.co/DI8X2s7KOU\" target=\"_blank\">http://t.co/DI8X2s7KOU</a>",
             "toJSON": true,
             "user_id": "27092557",
-            "user_image": "http://pbs.twimg.com/profile_images/598156578542514176/sRPONd4W_normal.jpg"
+            "user_image": "http://pbs.twimg.com/profile_images/615645664941203456/vwgLaRvl_normal.jpg"
         },
         {
             "_type": "VIDEO",
@@ -9975,7 +9773,7 @@
             "text": "<a target=\"_blank\" href=\"//twitter.com/@NewYorkRedBulls\">@NewYorkRedBulls</a> BWP starting to look like a frustrated Henry last 4 or 5 games. And THAT'S not a good thing. <a target=\"_blank\" href=\"//twitter.com/search?q=%23RBNY\">#RBNY</a> <a target=\"_blank\" href=\"//twitter.com/@EmpireOfSoccer\">@EmpireOfSoccer</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23NYvVAN\">#NYvVAN</a>",
             "toJSON": true,
             "user_id": "34743442",
-            "user_image": "http://pbs.twimg.com/profile_images/609526314760941568/F3Sa_pVk_normal.jpg"
+            "user_image": "http://pbs.twimg.com/profile_images/619092055671861252/PDddENdW_normal.jpg"
         },
         {
             "_type": "TWEET",
@@ -9990,7 +9788,7 @@
             "text": "29' 1-0 The game has settled down after that crazy start. 'Caps are enjoying all the extra space out there. <a target=\"_blank\" href=\"//twitter.com/search?q=%23VWFC\">#VWFC</a>",
             "toJSON": true,
             "user_id": "17744542",
-            "user_image": "http://pbs.twimg.com/profile_images/606851785462906880/-N7PQ3UD_normal.png"
+            "user_image": "http://pbs.twimg.com/profile_images/629149404490891265/19ntX8S5_normal.png"
         },
         {
             "_type": "TWEET",
@@ -10005,7 +9803,7 @@
             "text": "Beitashour to Manneh to the back of the net. Watch the great goal to make it 1-0 <a target=\"_blank\" href=\"//twitter.com/search?q=%23VWFC\">#VWFC</a> <a href=\"https://t.co/cDsLYWvmlT\" target=\"_blank\">https://t.co/cDsLYWvmlT</a>",
             "toJSON": true,
             "user_id": "17744542",
-            "user_image": "http://pbs.twimg.com/profile_images/606851785462906880/-N7PQ3UD_normal.png"
+            "user_image": "http://pbs.twimg.com/profile_images/629149404490891265/19ntX8S5_normal.png"
         },
         {
             "_type": "TWEET",
@@ -10020,7 +9818,7 @@
             "text": "Really, TSN? You put <a target=\"_blank\" href=\"//twitter.com/search?q=%23TFC\">#TFC</a> on the main channel, but the <a target=\"_blank\" href=\"//twitter.com/search?q=%23NYvVAN\">#NYvVAN</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23WhitecapsFC\">#WhitecapsFC</a> match gets knocked to TSN2 by fricking golf? Dinks.",
             "toJSON": true,
             "user_id": "161191947",
-            "user_image": "http://pbs.twimg.com/profile_images/378800000098263129/ad9f06defc17cbaa30877c08265fbca2_normal.jpeg"
+            "user_image": "http://pbs.twimg.com/profile_images/636678815717027841/eQpHPW6n_normal.jpg"
         },
         {
             "_type": "TWEET",
@@ -10035,7 +9833,7 @@
             "text": "36: Chris Duvall sends in a good cross, it's cleared by Vancouver, but picks up a corner for the Red Bulls. \n\n0-1 <a target=\"_blank\" href=\"//twitter.com/search?q=%23NYvVAN\">#NYvVAN</a>",
             "toJSON": true,
             "user_id": "27092557",
-            "user_image": "http://pbs.twimg.com/profile_images/598156578542514176/sRPONd4W_normal.jpg"
+            "user_image": "http://pbs.twimg.com/profile_images/615645664941203456/vwgLaRvl_normal.jpg"
         },
         {
             "_type": "VIDEO",
@@ -10075,7 +9873,7 @@
             "text": "Being a <a target=\"_blank\" href=\"//twitter.com/search?q=%23RBNY\">#RBNY</a> supporter is a form of punishment. Got offered free <a target=\"_blank\" href=\"//twitter.com/search?q=%23NYvVAN\">#NYvVAN</a> tickets &amp; passed because of the weather but truthfully they stink.",
             "toJSON": true,
             "user_id": "37935883",
-            "user_image": "http://pbs.twimg.com/profile_images/527656044894232576/4GwgPd6D_normal.jpeg"
+            "user_image": "http://pbs.twimg.com/profile_images/634136230024732673/TDlSvIZH_normal.jpg"
         },
         {
             "_type": "TWEET",
@@ -10090,7 +9888,7 @@
             "text": "Credit to <a target=\"_blank\" href=\"//twitter.com/search?q=%23RBNY\">#RBNY</a> for remaining compact &amp; organized in defense w/ 10 men. Most of <a target=\"_blank\" href=\"//twitter.com/search?q=%23VWFC\">#VWFC</a>'s chances have come from individual efforts. <a target=\"_blank\" href=\"//twitter.com/search?q=%23NYvVAN\">#NYvVAN</a>",
             "toJSON": true,
             "user_id": "143614189",
-            "user_image": "http://pbs.twimg.com/profile_images/578211787268472832/tfaD6wRE_normal.png"
+            "user_image": "http://pbs.twimg.com/profile_images/614635115918946304/b_I2okhF_normal.png"
         },
         {
             "_type": "TWEET",
@@ -10105,7 +9903,7 @@
             "text": "I come home and so much had happened this half? Ousted PK save and NYRB down to 10 men? <a target=\"_blank\" href=\"//twitter.com/search?q=%23noice\">#noice</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23VWFC\">#VWFC</a>",
             "toJSON": true,
             "user_id": "163935547",
-            "user_image": "http://pbs.twimg.com/profile_images/611757988328534016/ezAviACt_normal.jpg"
+            "user_image": "http://pbs.twimg.com/profile_images/636961834902253568/-MmPdAzx_normal.jpg"
         },
         {
             "_type": "TWEET",
@@ -10135,7 +9933,7 @@
             "text": "Sacha Kljestan sent off via red card. Terrible signing by the <a target=\"_blank\" href=\"//twitter.com/search?q=%23RBNY\">#RBNY</a>. Firing <a target=\"_blank\" href=\"//twitter.com/@petkemike\">@petkemike</a> looks worse &amp; worse. Embarrassing. <a target=\"_blank\" href=\"//twitter.com/search?q=%23NYvVAN\">#NYvVAN</a>",
             "toJSON": true,
             "user_id": "37935883",
-            "user_image": "http://pbs.twimg.com/profile_images/527656044894232576/4GwgPd6D_normal.jpeg"
+            "user_image": "http://pbs.twimg.com/profile_images/634136230024732673/TDlSvIZH_normal.jpg"
         },
         {
             "_type": "TWEET",
@@ -10150,7 +9948,7 @@
             "text": "Shep's chastising the South Ward for not \"lifting\" the team. The relationship goes two ways, Shep. The team's gotta earn it. <a target=\"_blank\" href=\"//twitter.com/search?q=%23NYvVAN\">#NYvVAN</a>",
             "toJSON": true,
             "user_id": "306992297",
-            "user_image": "http://pbs.twimg.com/profile_images/608096662997893120/0rR8ZNXI_normal.jpg"
+            "user_image": "http://pbs.twimg.com/profile_images/618439400221970433/hpkfN8Je_normal.jpg"
         },
         {
             "_type": "VIDEO",
@@ -10220,7 +10018,7 @@
             "text": "45: 45 more to play, here we go. \n\n0-1 <a target=\"_blank\" href=\"//twitter.com/search?q=%23NYvVAN\">#NYvVAN</a>",
             "toJSON": true,
             "user_id": "27092557",
-            "user_image": "http://pbs.twimg.com/profile_images/598156578542514176/sRPONd4W_normal.jpg"
+            "user_image": "http://pbs.twimg.com/profile_images/615645664941203456/vwgLaRvl_normal.jpg"
         },
         {
             "_type": "TWEET",
@@ -10250,7 +10048,7 @@
             "text": "45: Anatole Abang checks into the match for Sal Zizzo. \n\n0-1 <a target=\"_blank\" href=\"//twitter.com/search?q=%23NYvVAN\">#NYvVAN</a>",
             "toJSON": true,
             "user_id": "27092557",
-            "user_image": "http://pbs.twimg.com/profile_images/598156578542514176/sRPONd4W_normal.jpg"
+            "user_image": "http://pbs.twimg.com/profile_images/615645664941203456/vwgLaRvl_normal.jpg"
         },
         {
             "_type": "TWEET",
@@ -10295,7 +10093,7 @@
             "text": "<a target=\"_blank\" href=\"//twitter.com/search?q=%23NYRB\">#NYRB</a> substitution at the half. In: Anatole Bertrand Abang Out: Sal Zizzo",
             "toJSON": true,
             "user_id": "17744542",
-            "user_image": "http://pbs.twimg.com/profile_images/606851785462906880/-N7PQ3UD_normal.png"
+            "user_image": "http://pbs.twimg.com/profile_images/629149404490891265/19ntX8S5_normal.png"
         },
         {
             "_type": "TWEET",
@@ -10359,7 +10157,7 @@
             "text": "52' 1-0 <a target=\"_blank\" href=\"//twitter.com/search?q=%23NYRB\">#NYRB</a> have come out strong in the second half but are leaving a lot of space for the 'Caps to exploit.",
             "toJSON": true,
             "user_id": "17744542",
-            "user_image": "http://pbs.twimg.com/profile_images/606851785462906880/-N7PQ3UD_normal.png"
+            "user_image": "http://pbs.twimg.com/profile_images/629149404490891265/19ntX8S5_normal.png"
         },
         {
             "_type": "TWEET",
@@ -10389,7 +10187,7 @@
             "text": "53: Nice save from Luis Robles on the near post off a shot from Vancouver. \n\n0-1 <a target=\"_blank\" href=\"//twitter.com/search?q=%23NYvVAN\">#NYvVAN</a>",
             "toJSON": true,
             "user_id": "27092557",
-            "user_image": "http://pbs.twimg.com/profile_images/598156578542514176/sRPONd4W_normal.jpg"
+            "user_image": "http://pbs.twimg.com/profile_images/615645664941203456/vwgLaRvl_normal.jpg"
         },
         {
             "_type": "VIDEO",
@@ -10428,7 +10226,7 @@
             "text": "56: BWP keeps the ball alive and sends it to Mike Grella, Grella fights for it, but can't get off a clean shot. \n\n0-1 <a target=\"_blank\" href=\"//twitter.com/search?q=%23NYvVAN\">#NYvVAN</a>",
             "toJSON": true,
             "user_id": "27092557",
-            "user_image": "http://pbs.twimg.com/profile_images/598156578542514176/sRPONd4W_normal.jpg"
+            "user_image": "http://pbs.twimg.com/profile_images/615645664941203456/vwgLaRvl_normal.jpg"
         },
         {
             "_type": "TWEET",
@@ -10528,7 +10326,7 @@
             "text": "5: David Ousted blocks the shot for Vancouver. \n\n0-0 <a target=\"_blank\" href=\"//twitter.com/search?q=%23NYvVAN\">#NYvVAN</a>",
             "toJSON": true,
             "user_id": "27092557",
-            "user_image": "http://pbs.twimg.com/profile_images/598156578542514176/sRPONd4W_normal.jpg"
+            "user_image": "http://pbs.twimg.com/profile_images/615645664941203456/vwgLaRvl_normal.jpg"
         },
         {
             "_type": "TWEET",
@@ -10573,7 +10371,7 @@
             "text": "I\u2019m sure Robbo said to not play like we\u2019re up a man. Well, RBNY definitely doesn\u2019t look like they\u2019re down a man. <a target=\"_blank\" href=\"//twitter.com/search?q=%23VWFC\">#VWFC</a>",
             "toJSON": true,
             "user_id": "15056488",
-            "user_image": "http://pbs.twimg.com/profile_images/607092953949954048/h5KR0_gp_normal.jpg"
+            "user_image": "http://pbs.twimg.com/profile_images/616771500947849216/SzvxE3md_normal.jpg"
         },
         {
             "_type": "TWEET",
@@ -10588,7 +10386,7 @@
             "text": "60: Yellow card shown to Gershon Koffie. <a target=\"_blank\" href=\"//twitter.com/search?q=%23NYvVAN\">#NYvVAN</a>",
             "toJSON": true,
             "user_id": "27092557",
-            "user_image": "http://pbs.twimg.com/profile_images/598156578542514176/sRPONd4W_normal.jpg"
+            "user_image": "http://pbs.twimg.com/profile_images/615645664941203456/vwgLaRvl_normal.jpg"
         },
         {
             "_type": "TWEET",
@@ -10732,7 +10530,7 @@
             "text": "PENALTY FOR <a target=\"_blank\" href=\"//twitter.com/search?q=%23RBNY\">#RBNY</a>: Abang got his shirt pulled going up for a header. <a target=\"_blank\" href=\"//twitter.com/search?q=%23NYvVAN\">#NYvVAN</a>",
             "toJSON": true,
             "user_id": "143614189",
-            "user_image": "http://pbs.twimg.com/profile_images/578211787268472832/tfaD6wRE_normal.png"
+            "user_image": "http://pbs.twimg.com/profile_images/614635115918946304/b_I2okhF_normal.png"
         },
         {
             "_type": "TWEET",
@@ -10747,7 +10545,7 @@
             "text": "63' 1-0 Penalty to <a target=\"_blank\" href=\"//twitter.com/search?q=%23NYRB\">#NYRB</a>.",
             "toJSON": true,
             "user_id": "17744542",
-            "user_image": "http://pbs.twimg.com/profile_images/606851785462906880/-N7PQ3UD_normal.png"
+            "user_image": "http://pbs.twimg.com/profile_images/629149404490891265/19ntX8S5_normal.png"
         },
         {
             "_type": "TWEET",
@@ -10762,7 +10560,7 @@
             "text": "64: Another PK for the Red Bulls. BWP steps up to take it. <a target=\"_blank\" href=\"//twitter.com/search?q=%23NYvVAN\">#NYvVAN</a>",
             "toJSON": true,
             "user_id": "27092557",
-            "user_image": "http://pbs.twimg.com/profile_images/598156578542514176/sRPONd4W_normal.jpg"
+            "user_image": "http://pbs.twimg.com/profile_images/615645664941203456/vwgLaRvl_normal.jpg"
         },
         {
             "_type": "TWEET",
@@ -10845,7 +10643,7 @@
             "text": "Warming up. <a target=\"_blank\" href=\"//twitter.com/search?q=%23RBNY\">#RBNY</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23NYvVAN\">#NYvVAN</a> <a href=\"http://t.co/3nISba0jea\" target=\"_blank\">http://t.co/3nISba0jea</a>",
             "toJSON": true,
             "user_id": "27092557",
-            "user_image": "http://pbs.twimg.com/profile_images/598156578542514176/sRPONd4W_normal.jpg"
+            "user_image": "http://pbs.twimg.com/profile_images/615645664941203456/vwgLaRvl_normal.jpg"
         },
         {
             "_type": "TWEET",
@@ -10900,7 +10698,7 @@
             "text": "67: As he leaves the field, <a target=\"_blank\" href=\"//twitter.com/@zubarronald\">@zubarronald</a> gives an impassioned encouraging yell to his team. \n\n<a target=\"_blank\" href=\"//twitter.com/search?q=%23NYvVAN\">#NYvVAN</a>",
             "toJSON": true,
             "user_id": "27092557",
-            "user_image": "http://pbs.twimg.com/profile_images/598156578542514176/sRPONd4W_normal.jpg"
+            "user_image": "http://pbs.twimg.com/profile_images/615645664941203456/vwgLaRvl_normal.jpg"
         },
         {
             "_type": "TWEET",
@@ -10915,7 +10713,7 @@
             "text": "20,537 attendance at RBA. <a target=\"_blank\" href=\"//twitter.com/search?q=%23NYvVAN\">#NYvVAN</a>",
             "toJSON": true,
             "user_id": "143614189",
-            "user_image": "http://pbs.twimg.com/profile_images/578211787268472832/tfaD6wRE_normal.png"
+            "user_image": "http://pbs.twimg.com/profile_images/614635115918946304/b_I2okhF_normal.png"
         },
         {
             "_type": "VIDEO",
@@ -11040,7 +10838,7 @@
             "text": "76: Vancouver adds to their tally. \n\n2-0 <a target=\"_blank\" href=\"//twitter.com/search?q=%23NYvVAN\">#NYvVAN</a>",
             "toJSON": true,
             "user_id": "27092557",
-            "user_image": "http://pbs.twimg.com/profile_images/598156578542514176/sRPONd4W_normal.jpg"
+            "user_image": "http://pbs.twimg.com/profile_images/615645664941203456/vwgLaRvl_normal.jpg"
         },
         {
             "_type": "TWEET",
@@ -11070,7 +10868,7 @@
             "text": "If you're good enough, you're old enough. <a target=\"_blank\" href=\"//twitter.com/@KianzFroese\">@KianzFroese</a> doubles <a target=\"_blank\" href=\"//twitter.com/search?q=%23VWFC\">#VWFC</a>'s lead with his first MLS goal. <a target=\"_blank\" href=\"//twitter.com/search?q=%23NYvVAN\">#NYvVAN</a>",
             "toJSON": true,
             "user_id": "107146095",
-            "user_image": "http://pbs.twimg.com/profile_images/593636874301808640/2-2VpXxW_normal.jpg"
+            "user_image": "http://pbs.twimg.com/profile_images/618051008829132804/aZM1U8fz_normal.jpg"
         },
         {
             "_type": "TWEET",
@@ -11155,7 +10953,7 @@
             "text": "GOAL: Anatole Abang pulls one back for the Red Bulls in the 81st minute! \n\n1-2 <a target=\"_blank\" href=\"//twitter.com/search?q=%23NYvVAN\">#NYvVAN</a> <a href=\"http://t.co/vvAU9MoPtY\" target=\"_blank\">http://t.co/vvAU9MoPtY</a>",
             "toJSON": true,
             "user_id": "27092557",
-            "user_image": "http://pbs.twimg.com/profile_images/598156578542514176/sRPONd4W_normal.jpg"
+            "user_image": "http://pbs.twimg.com/profile_images/615645664941203456/vwgLaRvl_normal.jpg"
         },
         {
             "_type": "TWEET",
@@ -11170,7 +10968,7 @@
             "text": "Youth is being served tonight, I see. <a target=\"_blank\" href=\"//twitter.com/search?q=%23NYvVAN\">#NYvVAN</a>",
             "toJSON": true,
             "user_id": "15056488",
-            "user_image": "http://pbs.twimg.com/profile_images/607092953949954048/h5KR0_gp_normal.jpg"
+            "user_image": "http://pbs.twimg.com/profile_images/616771500947849216/SzvxE3md_normal.jpg"
         },
         {
             "_type": "TWEET",
@@ -11270,7 +11068,7 @@
             "text": "90: Abang is fouled just outside the box, and the Red Bulls have a free kick. Watson receives a yellow.\n\n1-2 <a target=\"_blank\" href=\"//twitter.com/search?q=%23NYvVAN\">#NYvVAN</a>",
             "toJSON": true,
             "user_id": "27092557",
-            "user_image": "http://pbs.twimg.com/profile_images/598156578542514176/sRPONd4W_normal.jpg"
+            "user_image": "http://pbs.twimg.com/profile_images/615645664941203456/vwgLaRvl_normal.jpg"
         },
         {
             "_type": "TWEET",
@@ -11285,7 +11083,7 @@
             "text": "90: Felipe's effort is deflected out of play and the Red Bulls have a corner.\n\n1-2 <a target=\"_blank\" href=\"//twitter.com/search?q=%23NYvVAN\">#NYvVAN</a>",
             "toJSON": true,
             "user_id": "27092557",
-            "user_image": "http://pbs.twimg.com/profile_images/598156578542514176/sRPONd4W_normal.jpg"
+            "user_image": "http://pbs.twimg.com/profile_images/615645664941203456/vwgLaRvl_normal.jpg"
         },
         {
             "_type": "TWEET",
@@ -11369,7 +11167,7 @@
             "text": "<a target=\"_blank\" href=\"//twitter.com/@SalZizzo\">@SalZizzo</a> !! Oh man good to have you back on the field we need you! <a target=\"_blank\" href=\"//twitter.com/@NewYorkRedBulls\">@NewYorkRedBulls</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23RBNY\">#RBNY</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23NYvVAN\">#NYvVAN</a>",
             "toJSON": true,
             "user_id": "17978595",
-            "user_image": "http://pbs.twimg.com/profile_images/555132065692147714/dkxobLH3_normal.jpeg"
+            "user_image": "http://pbs.twimg.com/profile_images/615098779239321600/Ft9EidxS_normal.jpg"
         },
         {
             "_type": "TWEET",
@@ -11403,7 +11201,7 @@
             "text": "TUNE IN: Match coverage starts on <a target=\"_blank\" href=\"//twitter.com/@MSGNetworks\">@MSGNetworks</a> + MSG GO at 6:30 PM. Kickoff is at 7 PM. \n\n<a target=\"_blank\" href=\"//twitter.com/search?q=%23NYvVAN\">#NYvVAN</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23RBNY\">#RBNY</a> <a href=\"http://t.co/RSfb97D4Os\" target=\"_blank\">http://t.co/RSfb97D4Os</a>",
             "toJSON": true,
             "user_id": "27092557",
-            "user_image": "http://pbs.twimg.com/profile_images/598156578542514176/sRPONd4W_normal.jpg"
+            "user_image": "http://pbs.twimg.com/profile_images/615645664941203456/vwgLaRvl_normal.jpg"
         },
         {
             "_type": "TWEET",
@@ -11422,7 +11220,7 @@
             "text": "All in. Every day. <a target=\"_blank\" href=\"//twitter.com/search?q=%23RBNY\">#RBNY</a> <a target=\"_blank\" href=\"//twitter.com/search?q=%23NYvVAN\">#NYvVAN</a> <a href=\"http://t.co/wLUKAct4BT\" target=\"_blank\">http://t.co/wLUKAct4BT</a>",
             "toJSON": true,
             "user_id": "27092557",
-            "user_image": "http://pbs.twimg.com/profile_images/598156578542514176/sRPONd4W_normal.jpg"
+            "user_image": "http://pbs.twimg.com/profile_images/615645664941203456/vwgLaRvl_normal.jpg"
         },
         {
             "_type": "TWEET",
@@ -11441,7 +11239,7 @@
             "text": "LISTEN IN: Tonight's match against <a target=\"_blank\" href=\"//twitter.com/@WhitecapsFC\">@WhitecapsFC</a> is on <a target=\"_blank\" href=\"//twitter.com/@SiriusXMFC\">@SiriusXMFC</a> at 7 PM! \n\n<a target=\"_blank\" href=\"//twitter.com/search?q=%23NYvVAN\">#NYvVAN</a> <a href=\"http://t.co/Ie88KYDzip\" target=\"_blank\">http://t.co/Ie88KYDzip</a>",
             "toJSON": true,
             "user_id": "27092557",
-            "user_image": "http://pbs.twimg.com/profile_images/598156578542514176/sRPONd4W_normal.jpg"
+            "user_image": "http://pbs.twimg.com/profile_images/615645664941203456/vwgLaRvl_normal.jpg"
         },
         {
             "_type": "TWEET",

@@ -42,7 +42,7 @@
         "points": 0,
         "position": 0,
         "short_name": "CLB",
-        "strength": 2,
+        "strength": 3,
         "team_division": 1,
         "unavailable": false,
         "win": 0
@@ -58,7 +58,7 @@
         "points": 0,
         "position": 0,
         "short_name": "DC",
-        "strength": 5,
+        "strength": 4,
         "team_division": 1,
         "unavailable": false,
         "win": 0
@@ -74,7 +74,7 @@
         "points": 0,
         "position": 0,
         "short_name": "DAL",
-        "strength": 3,
+        "strength": 5,
         "team_division": 2,
         "unavailable": false,
         "win": 0
@@ -106,7 +106,7 @@
         "points": 0,
         "position": 0,
         "short_name": "MTL",
-        "strength": 4,
+        "strength": 2,
         "team_division": 1,
         "unavailable": false,
         "win": 0
@@ -122,7 +122,7 @@
         "points": 0,
         "position": 0,
         "short_name": "LA",
-        "strength": 4,
+        "strength": 5,
         "team_division": 2,
         "unavailable": false,
         "win": 0
@@ -138,7 +138,7 @@
         "points": 0,
         "position": 0,
         "short_name": "NE",
-        "strength": 3,
+        "strength": 4,
         "team_division": 1,
         "unavailable": false,
         "win": 0
@@ -170,7 +170,7 @@
         "points": 0,
         "position": 0,
         "short_name": "NYR",
-        "strength": 2,
+        "strength": 5,
         "team_division": 1,
         "unavailable": false,
         "win": 0
@@ -186,7 +186,7 @@
         "points": 0,
         "position": 0,
         "short_name": "ORL",
-        "strength": 3,
+        "strength": 1,
         "team_division": 1,
         "unavailable": false,
         "win": 0
@@ -202,7 +202,7 @@
         "points": 0,
         "position": 0,
         "short_name": "PHI",
-        "strength": 1,
+        "strength": 2,
         "team_division": 1,
         "unavailable": false,
         "win": 0
@@ -218,7 +218,7 @@
         "points": 0,
         "position": 0,
         "short_name": "POR",
-        "strength": 4,
+        "strength": 3,
         "team_division": 2,
         "unavailable": false,
         "win": 0
@@ -266,7 +266,7 @@
         "points": 0,
         "position": 0,
         "short_name": "SEA",
-        "strength": 5,
+        "strength": 3,
         "team_division": 2,
         "unavailable": false,
         "win": 0
@@ -282,7 +282,7 @@
         "points": 0,
         "position": 0,
         "short_name": "SKC",
-        "strength": 5,
+        "strength": 4,
         "team_division": 2,
         "unavailable": false,
         "win": 0
